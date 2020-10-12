@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://danielrueckert.github.io/publication-type/0/</loc>
+    <lastmod>2020-10-12T06:59:15+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://danielrueckert.github.io/</loc>
+    <lastmod>2020-10-12T06:59:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/publication/nat-mach-int-2020a/</loc>
+    <lastmod>2020-10-12T06:59:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/publication_types/</loc>
+    <lastmod>2020-10-12T06:59:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/publication/</loc>
+    <lastmod>2020-10-12T06:59:15+02:00</lastmod>
   </url>
   
   <url>
@@ -24,14 +45,6 @@
   
   <url>
     <loc>https://danielrueckert.github.io/news/</loc>
-  </url>
-  
-  <url>
-    <loc>https://danielrueckert.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://danielrueckert.github.io/publication/</loc>
   </url>
   
   <url>
