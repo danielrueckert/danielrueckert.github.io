@@ -72,8 +72,6 @@
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
-    
 
     
 
@@ -228,8 +226,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hua6db4f849f4558888b5f789ec1dccf0d_11215_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hua6db4f849f4558888b5f789ec1dccf0d_11215_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1">
 
@@ -300,7 +298,7 @@
     "name": "AI in Healthcare",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://danielrueckert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://danielrueckert.github.io/images/icon_hua6db4f849f4558888b5f789ec1dccf0d_11215_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "The broad application of artificial intelligence techniques in medicine is currently hindered by limited dataset availability for algorithm training and validation, due to the absence of standardized electronic medical records, and strict legal and ethical requirements to protect patient privacy. In medical imaging, harmonized data exchange formats such as Digital Imaging and Communication in Medicine and electronic data storage are the standard, partially addressing the first issue, but the requirements for privacy preservation are equally strict. To prevent patient privacy compromise while promoting scientific research on large datasets that aims to improve patient care, the implementation of technical solutions to simultaneously address the demands for data protection and utilization is mandatory. Here we present an overview of current and next-generation methods for federated, secure and privacy-preserving artificial intelligence with a focus on medical imaging applications, alongside potential attack vectors and future prospects in medical imaging and beyond."
@@ -1005,7 +1003,10 @@
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+      <script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
+      
     
 
     
