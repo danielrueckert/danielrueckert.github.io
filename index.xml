@@ -5,7 +5,7 @@
     <link>https://danielrueckert.github.io/</link>
       <atom:link href="https://danielrueckert.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI in Medicine</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 12 Oct 2020 07:57:01 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 12 Oct 2020 06:59:15 +0200</lastBuildDate>
     <image>
       <url>https://danielrueckert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>AI in Medicine</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Nat Med 2020a</title>
-      <link>https://danielrueckert.github.io/publication/nat-med-2020a/</link>
-      <pubDate>Mon, 12 Oct 2020 07:57:01 +0200</pubDate>
-      <guid>https://danielrueckert.github.io/publication/nat-med-2020a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Secure, privacy-preserving and federated machine learning in medical imaging</title>
       <link>https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1</link>
       <pubDate>Mon, 12 Oct 2020 06:59:15 +0200</pubDate>
       <guid>https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A population-based phenome-wide association study of cardiac and aortic structure and function</title>
+      <link>https://danielrueckert.github.io/publication/nat-med-2020a/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
+      <guid>https://danielrueckert.github.io/publication/nat-med-2020a/</guid>
       <description></description>
     </item>
     
