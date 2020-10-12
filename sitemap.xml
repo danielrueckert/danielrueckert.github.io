@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://danielrueckert.github.io/publication-type/2/</loc>
-    <lastmod>2020-10-12T06:59:15+02:00</lastmod>
+    <loc>https://danielrueckert.github.io/publication-type/0/</loc>
+    <lastmod>2020-10-12T07:57:01+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://danielrueckert.github.io/</loc>
+    <lastmod>2020-10-12T07:57:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/publication/nat-med-2020a/</loc>
+    <lastmod>2020-10-12T07:57:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/publication_types/</loc>
+    <lastmod>2020-10-12T07:57:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/publication/</loc>
+    <lastmod>2020-10-12T07:57:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/publication-type/2/</loc>
     <lastmod>2020-10-12T06:59:15+02:00</lastmod>
   </url>
   
@@ -33,18 +53,103 @@
   </url>
   
   <url>
-    <loc>https://danielrueckert.github.io/publication_types/</loc>
-    <lastmod>2020-10-12T06:59:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://danielrueckert.github.io/publication/</loc>
-    <lastmod>2020-10-12T06:59:15+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1</loc>
     <lastmod>2020-10-12T06:59:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/a.-de-marvao/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/a.-henry/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/d.-rueckert/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/publication/nat-2020a/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/h.-v.-meyer/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/j.-cai/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/j.-gierten/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/j.-s.-ware/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/j.-wittbrodt/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/m.-l.-costantino/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/m.-serrani/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/p.-tokarczuk/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/paul-m.-matthews/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/r.-thomas-lumbers/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/s.-a.-cook/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/s.-k.-prasad/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/t.-j.-w.-dawes/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/t.-thumberger/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/w.-bai/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
   </url>
   
   <url>
@@ -53,6 +158,10 @@
   
   <url>
     <loc>https://danielrueckert.github.io/author/daniel-ruckert/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/e.-birney-and-d.-p.-oregan./</loc>
   </url>
   
   <url>
