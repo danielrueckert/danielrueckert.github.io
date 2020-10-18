@@ -15,8 +15,8 @@ role: Professor of Artificial Intelligence in Healthcare and Medicine
 # Organizations/Affiliations
 organizations:
 - name: Technical University of Munich
-  url: ""
-- name: Imperial College Londdon
+  url: "https://www.professoren.tum.de/rueckert-daniel"
+- name: Imperial College London
   url: "https://biomedia.doc.ic.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
