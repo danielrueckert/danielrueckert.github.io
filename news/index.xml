@@ -5,20 +5,12 @@
     <link>https://danielrueckert.github.io/news/</link>
       <atom:link href="https://danielrueckert.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 18 Oct 2020 21:42:24 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright>
     <image>
       <url>https://danielrueckert.github.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://danielrueckert.github.io/news/</link>
     </image>
-    
-    <item>
-      <title>ERC Advanced Grant Deep4MI</title>
-      <link>https://danielrueckert.github.io/news/erc-adv/</link>
-      <pubDate>Sun, 18 Oct 2020 21:42:24 +0200</pubDate>
-      <guid>https://danielrueckert.github.io/news/erc-adv/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

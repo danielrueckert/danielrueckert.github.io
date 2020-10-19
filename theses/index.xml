@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI in Medicine</title>
-    <link>https://danielrueckert.github.io/</link>
-      <atom:link href="https://danielrueckert.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>AI in Medicine</description>
+    <title>Current Vacancies | AI in Medicine</title>
+    <link>https://danielrueckert.github.io/theses/</link>
+      <atom:link href="https://danielrueckert.github.io/theses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current Vacancies</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://danielrueckert.github.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
-      <title>AI in Medicine</title>
-      <link>https://danielrueckert.github.io/</link>
+      <title>Current Vacancies</title>
+      <link>https://danielrueckert.github.io/theses/</link>
     </image>
     
     <item>
@@ -35,38 +35,6 @@ We are offering an engaging work environment, a large, diverse team, close perso
 We are offering an engaging work environment, a large, diverse team, close personal supervision and collaboration with AI, medical and privacy-preserving ML experts.&lt;/p&gt;
 &lt;p&gt;We can accommodate a wide range of interests from your side! Please get in touch with us to find an appropriate topic.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Model-Based and Data-Driven Strategies in Medical Image Computing</title>
-      <link>https://danielrueckert.github.io/publication/proc-ieee-2020a/</link>
-      <pubDate>Mon, 12 Oct 2020 12:39:15 +0200</pubDate>
-      <guid>https://danielrueckert.github.io/publication/proc-ieee-2020a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Secure, privacy-preserving and federated machine learning in medical imaging</title>
-      <link>https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1</link>
-      <pubDate>Mon, 12 Oct 2020 06:59:15 +0200</pubDate>
-      <guid>https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A population-based phenome-wide association study of cardiac and aortic structure and function</title>
-      <link>https://danielrueckert.github.io/publication/nat-med-2020a/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
-      <guid>https://danielrueckert.github.io/publication/nat-med-2020a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic and functional insights into the fractal structure of the heart</title>
-      <link>https://danielrueckert.github.io/publication/nat-2020a/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
-      <guid>https://danielrueckert.github.io/publication/nat-2020a/</guid>
-      <description></description>
     </item>
     
   </channel>
