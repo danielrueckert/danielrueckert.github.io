@@ -20,7 +20,7 @@ organizations:
   url: "https://biomedia.doc.ic.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: Professor of Artificial Intelligence in Healthcare and Medicine
 
 interests:
 - Medical Image Computing 

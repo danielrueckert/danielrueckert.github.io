@@ -11,12 +11,6 @@ weight = 30
 +++
 ---
 
-We are recruiting team members who would like to join us for a PhD, MSc, BSc or guided research/interdisciplinary project on an ongoing basis!
+We are recruiting team members who would like to join us for a PhD, MSc, BSc or guided research/interdisciplinary project on an ongoing basis! If you'd like to join us, please get in touch using the form below or via e-mail and attach a motivation letter, transcript of academic records and CV.
 
-Our current vacancies are:
-
-### MSc theses
-1. Applied federated learning in medical imaging
-2. Differentially private deep learning on medical images
-
-Please contact us for details!
+Please find our current vacancies [here]({{< ref "theses/_index.md" >}})
