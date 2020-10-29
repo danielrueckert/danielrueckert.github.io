@@ -18,10 +18,10 @@
   url = "#openpositions"
   weight = 30  
 
-[[main]]
-  name = "News"
-  url = "#news"
-  weight = 35
+# [[main]]
+#  name = "News"
+#  url = "#news"
+#  weight = 35
 
 [[main]]
   name = "Projects"
