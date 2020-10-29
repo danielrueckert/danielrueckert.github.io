@@ -70,4 +70,4 @@ user_groups:
 ---
 
 Leonhard Feiner is a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). 
-His research interests lies in the field of machine learning in medical imaging with focus on pulmonary diseases. In 2020 he graduated with a Master of Science in Robotics, Cognition and Intelligence at TUM with the focus on Machine and Deep Learning. His Master's thesis deals with Sparse Convolutions for Semantic 3D Instance Segmentation and was conducted at the Visual Computing Lab at TUM.
+His research interest lies in the field of machine learning in medical imaging with focus on pulmonary diseases. In 2020 he graduated with a Master of Science in Robotics, Cognition and Intelligence at TUM with the focus on Machine and Deep Learning. His Master's thesis deals with Sparse Convolutions for Semantic 3D Instance Segmentation and was conducted at the Visual Computing Lab at TUM.
