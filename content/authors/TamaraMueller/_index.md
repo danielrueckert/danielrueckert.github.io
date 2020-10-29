@@ -57,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Researcher"
+- "Researchers"
 ---
 
 Tamara Müller is a PhD student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at TUM. She received her Bachelor's degree in Informatics at the Ludwig-Maximilians University in Munich and graduated with a Master's degree in Advanced Computer Science from the University of Cambridge in 2018. In her Master's thesis, Tamara developed a clinical decision support system for neurological diseases, which is focusing on interpretability and user-friendliness. From 2019 to 2020, Tamara was a research assistant in Computational Neuroscience at the Technical University of Munich, researching concept cells in single cell recordings of human epilepsy patients. Currently, she is researching applications of geometric deep learning in radiology with a focus on pancreatic ductal adenocarcinoma.
