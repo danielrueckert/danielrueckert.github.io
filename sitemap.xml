@@ -268,6 +268,14 @@
   </url>
   
   <url>
+    <loc>https://danielrueckert.github.io/author/alexander-ziller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/alina-dima/</loc>
+  </url>
+  
+  <url>
     <loc>https://danielrueckert.github.io/categories/</loc>
   </url>
   
@@ -280,6 +288,14 @@
   </url>
   
   <url>
+    <loc>https://danielrueckert.github.io/author/leonhard-feiner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/moritz-knolle/</loc>
+  </url>
+  
+  <url>
     <loc>https://danielrueckert.github.io/news/</loc>
   </url>
   
@@ -289,6 +305,10 @@
   
   <url>
     <loc>https://danielrueckert.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://danielrueckert.github.io/author/tamara-muller/</loc>
   </url>
   
 </urlset>
