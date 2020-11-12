@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | AI in Medicine</title>
-    <link>https://danielrueckert.github.io/authors/</link>
-      <atom:link href="https://danielrueckert.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aim-lab.io/authors/</link>
+      <atom:link href="https://aim-lab.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://danielrueckert.github.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://danielrueckert.github.io/authors/</link>
+      <link>https://aim-lab.io/authors/</link>
     </image>
     
   </channel>

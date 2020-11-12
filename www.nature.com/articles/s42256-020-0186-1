@@ -37,7 +37,7 @@
   <meta name="description" content="The broad application of artificial intelligence techniques in medicine is currently hindered by limited dataset availability for algorithm training and validation, due to the absence of standardized electronic medical records, and strict legal and ethical requirements to protect patient privacy. In medical imaging, harmonized data exchange formats such as Digital Imaging and Communication in Medicine and electronic data storage are the standard, partially addressing the first issue, but the requirements for privacy preservation are equally strict. To prevent patient privacy compromise while promoting scientific research on large datasets that aims to improve patient care, the implementation of technical solutions to simultaneously address the demands for data protection and utilization is mandatory. Here we present an overview of current and next-generation methods for federated, secure and privacy-preserving artificial intelligence with a focus on medical imaging applications, alongside potential attack vectors and future prospects in medical imaging and beyond.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1">
+  <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1">
 
   
 
@@ -255,7 +255,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1">
+  <link rel="canonical" href="https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1">
 
   
   
@@ -273,10 +273,10 @@
   <meta property="twitter:creator" content="@DanielRueckert">
   
   <meta property="og:site_name" content="AI in Medicine">
-  <meta property="og:url" content="https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1">
+  <meta property="og:url" content="https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1">
   <meta property="og:title" content="Secure, privacy-preserving and federated machine learning in medical imaging | AI in Medicine">
-  <meta property="og:description" content="The broad application of artificial intelligence techniques in medicine is currently hindered by limited dataset availability for algorithm training and validation, due to the absence of standardized electronic medical records, and strict legal and ethical requirements to protect patient privacy. In medical imaging, harmonized data exchange formats such as Digital Imaging and Communication in Medicine and electronic data storage are the standard, partially addressing the first issue, but the requirements for privacy preservation are equally strict. To prevent patient privacy compromise while promoting scientific research on large datasets that aims to improve patient care, the implementation of technical solutions to simultaneously address the demands for data protection and utilization is mandatory. Here we present an overview of current and next-generation methods for federated, secure and privacy-preserving artificial intelligence with a focus on medical imaging applications, alongside potential attack vectors and future prospects in medical imaging and beyond."><meta property="og:image" content="https://danielrueckert.github.io/www.nature.com/articles/featured.png">
-  <meta property="twitter:image" content="https://danielrueckert.github.io/www.nature.com/articles/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="The broad application of artificial intelligence techniques in medicine is currently hindered by limited dataset availability for algorithm training and validation, due to the absence of standardized electronic medical records, and strict legal and ethical requirements to protect patient privacy. In medical imaging, harmonized data exchange formats such as Digital Imaging and Communication in Medicine and electronic data storage are the standard, partially addressing the first issue, but the requirements for privacy preservation are equally strict. To prevent patient privacy compromise while promoting scientific research on large datasets that aims to improve patient care, the implementation of technical solutions to simultaneously address the demands for data protection and utilization is mandatory. Here we present an overview of current and next-generation methods for federated, secure and privacy-preserving artificial intelligence with a focus on medical imaging applications, alongside potential attack vectors and future prospects in medical imaging and beyond."><meta property="og:image" content="https://aim-lab.io/www.nature.com/articles/featured.png">
+  <meta property="twitter:image" content="https://aim-lab.io/www.nature.com/articles/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-10-12T06:59:15&#43;02:00">
@@ -303,12 +303,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1"
+    "@id": "https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1"
   },
   "headline": "Secure, privacy-preserving and federated machine learning in medical imaging",
   
   "image": [
-    "https://danielrueckert.github.io/www.nature.com/articles/featured.png"
+    "https://aim-lab.io/www.nature.com/articles/featured.png"
   ],
   
   "datePublished": "2020-10-12T06:59:15+02:00",
@@ -324,7 +324,7 @@
     "name": "AI in Healthcare",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://danielrueckert.github.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_2.png"
+      "url": "https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "The broad application of artificial intelligence techniques in medicine is currently hindered by limited dataset availability for algorithm training and validation, due to the absence of standardized electronic medical records, and strict legal and ethical requirements to protect patient privacy. In medical imaging, harmonized data exchange formats such as Digital Imaging and Communication in Medicine and electronic data storage are the standard, partially addressing the first issue, but the requirements for privacy preservation are equally strict. To prevent patient privacy compromise while promoting scientific research on large datasets that aims to improve patient care, the implementation of technical solutions to simultaneously address the demands for data protection and utilization is mandatory. Here we present an overview of current and next-generation methods for federated, secure and privacy-preserving artificial intelligence with a focus on medical imaging applications, alongside potential attack vectors and future prospects in medical imaging and beyond."
@@ -911,7 +911,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1&amp;text=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1&amp;text=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -924,7 +924,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1&amp;t=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1&amp;t=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -937,7 +937,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging&amp;body=https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging&amp;body=https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -950,7 +950,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1&amp;title=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1&amp;title=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -963,7 +963,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging%20https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging%20https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -976,7 +976,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1&amp;title=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1&amp;title=Secure,%20privacy-preserving%20and%20federated%20machine%20learning%20in%20medical%20imaging" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

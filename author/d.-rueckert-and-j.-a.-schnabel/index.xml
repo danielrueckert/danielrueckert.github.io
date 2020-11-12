@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D. Rueckert and J. A. Schnabel | AI in Medicine</title>
-    <link>https://danielrueckert.github.io/author/d.-rueckert-and-j.-a.-schnabel/</link>
-      <atom:link href="https://danielrueckert.github.io/author/d.-rueckert-and-j.-a.-schnabel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aim-lab.io/author/d.-rueckert-and-j.-a.-schnabel/</link>
+      <atom:link href="https://aim-lab.io/author/d.-rueckert-and-j.-a.-schnabel/index.xml" rel="self" type="application/rss+xml" />
     <description>D. Rueckert and J. A. Schnabel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 12 Oct 2020 12:39:15 +0200</lastBuildDate>
     <image>
-      <url>https://danielrueckert.github.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>D. Rueckert and J. A. Schnabel</title>
-      <link>https://danielrueckert.github.io/author/d.-rueckert-and-j.-a.-schnabel/</link>
+      <link>https://aim-lab.io/author/d.-rueckert-and-j.-a.-schnabel/</link>
     </image>
     
     <item>
       <title>Model-Based and Data-Driven Strategies in Medical Image Computing</title>
-      <link>https://danielrueckert.github.io/publication/proc-ieee-2020a/</link>
+      <link>https://aim-lab.io/publication/proc-ieee-2020a/</link>
       <pubDate>Mon, 12 Oct 2020 12:39:15 +0200</pubDate>
-      <guid>https://danielrueckert.github.io/publication/proc-ieee-2020a/</guid>
+      <guid>https://aim-lab.io/publication/proc-ieee-2020a/</guid>
       <description></description>
     </item>
     
