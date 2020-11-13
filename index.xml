@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI in Medicine</title>
-    <link>https://danielrueckert.github.io/</link>
-      <atom:link href="https://danielrueckert.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://aim-lab.io/</link>
+      <atom:link href="https://aim-lab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI in Medicine</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://danielrueckert.github.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>AI in Medicine</title>
-      <link>https://danielrueckert.github.io/</link>
+      <link>https://aim-lab.io/</link>
     </image>
     
     <item>
       <title>MSc Thesis: Applied Federated Deep Learning in Medical Imaging</title>
-      <link>https://danielrueckert.github.io/theses/applied_fedl/</link>
+      <link>https://aim-lab.io/theses/applied_fedl/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://danielrueckert.github.io/theses/applied_fedl/</guid>
+      <guid>https://aim-lab.io/theses/applied_fedl/</guid>
       <description>&lt;p&gt;Distributed deep learning systems can help ascertain data governance and sovereignty while allowing the training of algorithms on larger an more diverse datasets. This is particularly beneficial in the medical domain, in which the collection and curation of large datasets is especially difficult.
 Among the challenges of federated learning are issues related to data quality and representativeness, data curation, model fairness, computational performance as well as unsolved questions of data security and privacy protection.&lt;/p&gt;
 &lt;p&gt;We are seeking an MSc candidate with a strong background in machine learning, preferrably with previous exposure to medical imaging topics to complete their thesis at our institute. Experience with distributed systems, privacy and security issues or cryptology is desirable.
@@ -27,9 +27,9 @@ We are offering an engaging work environment, a large, diverse team, close perso
     
     <item>
       <title>MSc Thesis: Privacy-preserving Deep Learning in Medical Imaging</title>
-      <link>https://danielrueckert.github.io/theses/ppml/</link>
+      <link>https://aim-lab.io/theses/ppml/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://danielrueckert.github.io/theses/ppml/</guid>
+      <guid>https://aim-lab.io/theses/ppml/</guid>
       <description>&lt;p&gt;Privacy-preserving artificial intelligence techniques such as differential privacy, encryption and multi-party computation can reconcile the needs for data utilisation and data protection in the medical domain, as mandated by legal and ethical requirements. Their widespread utilisation requires innovations in the fields of distributed machine learning (federated learning) as well as answering open questions in privacy research and cryptography.&lt;/p&gt;
 &lt;p&gt;We are seeking an MSc candidate with a strong background in machine learning, preferrably with previous exposure to medical imaging topics to complete their thesis at our institute. Experience with distributed systems, privacy and security issues or cryptology is desirable.
 We are offering an engaging work environment, a large, diverse team, close personal supervision and collaboration with AI, medical and privacy-preserving ML experts.&lt;/p&gt;
@@ -39,33 +39,33 @@ We are offering an engaging work environment, a large, diverse team, close perso
     
     <item>
       <title>Model-Based and Data-Driven Strategies in Medical Image Computing</title>
-      <link>https://danielrueckert.github.io/publication/proc-ieee-2020a/</link>
+      <link>https://aim-lab.io/publication/proc-ieee-2020a/</link>
       <pubDate>Mon, 12 Oct 2020 12:39:15 +0200</pubDate>
-      <guid>https://danielrueckert.github.io/publication/proc-ieee-2020a/</guid>
+      <guid>https://aim-lab.io/publication/proc-ieee-2020a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secure, privacy-preserving and federated machine learning in medical imaging</title>
-      <link>https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1</link>
+      <link>https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1</link>
       <pubDate>Mon, 12 Oct 2020 06:59:15 +0200</pubDate>
-      <guid>https://danielrueckert.github.io/www.nature.com/articles/s42256-020-0186-1</guid>
+      <guid>https://aim-lab.io/www.nature.com/articles/s42256-020-0186-1</guid>
       <description></description>
     </item>
     
     <item>
       <title>A population-based phenome-wide association study of cardiac and aortic structure and function</title>
-      <link>https://danielrueckert.github.io/publication/nat-med-2020a/</link>
+      <link>https://aim-lab.io/publication/nat-med-2020a/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
-      <guid>https://danielrueckert.github.io/publication/nat-med-2020a/</guid>
+      <guid>https://aim-lab.io/publication/nat-med-2020a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetic and functional insights into the fractal structure of the heart</title>
-      <link>https://danielrueckert.github.io/publication/nat-2020a/</link>
+      <link>https://aim-lab.io/publication/nat-2020a/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
-      <guid>https://danielrueckert.github.io/publication/nat-2020a/</guid>
+      <guid>https://aim-lab.io/publication/nat-2020a/</guid>
       <description></description>
     </item>
     
