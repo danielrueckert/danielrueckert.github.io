@@ -26,7 +26,7 @@ In this project, we will explore distributionally robust optimization (DRO) [1,2
 &lt;/ol&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;J. Duchi and H. amkoong: Learning models with uniform performance via distri- butionally robust optimization. arXiv preprint arXiv:1810.08750 (2018)&lt;/li&gt;
+&lt;li&gt;J. Duchi and H. Namkoong: Learning models with uniform performance via distributionally robust optimization. arXiv preprint arXiv:1810.08750 (2018)&lt;/li&gt;
 &lt;li&gt;S. Sagawa et al.: Distributionally Robust Neural Networks, In Proc. ICLR (2020)&lt;/li&gt;
 &lt;/ol&gt;
 </description>
