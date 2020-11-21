@@ -164,7 +164,27 @@
   
   <url>
     <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/kerstin-hammernik/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/fetal/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/motionmri/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/physicsmri/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -439,10 +459,6 @@
   
   <url>
     <loc>https://aim-lab.io/author/felix-meissen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/kerstin-hammernik/</loc>
   </url>
   
   <url>
