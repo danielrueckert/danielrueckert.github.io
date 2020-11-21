@@ -9,31 +9,36 @@
   weight = 10
 
 [[main]]
-  name = "People"
-  url = "#people"
+  name = "Research"
+  url = "#research"
   weight = 20
 
 [[main]]
-  name = "Open Positions"
-  url = "#openpositions"
-  weight = 30  
-
-# [[main]]
-#  name = "News"
-#  url = "#news"
-#  weight = 35
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 40
+  name = "People"
+  url = "#people"
+  weight = 30
 
 [[main]]
   name = "Publications"
   url = "#publications"
+  weight = 40
+
+[[main]]
+  name = "Talks"
+  url = "#taks"
   weight = 50
+
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 60
+
+[[main]]
+  name = "Vacancies"
+  url = "#vacancies"
+  weight = 70  
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 80
