@@ -3,13 +3,163 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aim-lab.io/publication-type/2/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/a.-d.-edwards/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/a.-makropoulos/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/a.-n.-price/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/a.-schuh/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/c.-okeeffe/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/d.-rueckert/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/e.-c.-robinson/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/e.-duff-and-j.-andersson/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/e.-hughes/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/j.-bozek/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/j.-brandon/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/j.-ciarrusta/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/j.-gao/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/j.-omuircheartaigh/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/j.-passerat-palmbach/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/j.-v.-hajnal/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/l.-baxter/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/l.-cordero-grande/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/m.-bastiani/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/m.-jenkinson/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/publication_types/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/publication/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/s.-j.-harrison/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/s.-m.-smith/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/s.-p.-fitzgibbon/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/s.-r.-farahibozorg/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/t.-arichi/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/publication/neuroimage2020a/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/v.-karolis/</loc>
+    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
   </url>
   
   <url>
@@ -48,27 +198,12 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/publication-type/2/</loc>
-    <lastmod>2020-10-12T12:39:15+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/author/d.-rueckert-and-j.-a.-schnabel/</loc>
     <lastmod>2020-10-12T12:39:15+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/publication/proc-ieee-2020a/</loc>
-    <lastmod>2020-10-12T12:39:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/publication_types/</loc>
-    <lastmod>2020-10-12T12:39:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/publication/</loc>
     <lastmod>2020-10-12T12:39:15+02:00</lastmod>
   </url>
   
@@ -124,11 +259,6 @@
   
   <url>
     <loc>https://aim-lab.io/author/d.-p.-oregan/</loc>
-    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/d.-rueckert/</loc>
     <lastmod>1970-01-01T01:33:40+01:00</lastmod>
   </url>
   
