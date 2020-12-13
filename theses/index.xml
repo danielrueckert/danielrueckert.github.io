@@ -1,149 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Current Vacancies | AI in Medicine</title>
+    <title>Current Vacancies on AI in Medicine</title>
     <link>https://aim-lab.io/theses/</link>
-      <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
-    <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2020</copyright><lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
-      <title>Current Vacancies</title>
-      <link>https://aim-lab.io/theses/</link>
-    </image>
-    
+    <description>Recent content in Current Vacancies on AI in Medicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Technical University of Munich {year}</copyright>
+    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MSc Thesis: Machine Learning in Fetal MRI Reconstruction</title>
       <link>https://aim-lab.io/theses/fetal/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://aim-lab.io/theses/fetal/</guid>
-      <description>&lt;p&gt;Fetal Magnetic Resonance Imaging (MRI) has become increasingly important to assess the development of the fetal brain. However, the acquisition is challenging due to the uncontrollable fetal motion. This requires both improved MR acquisition and reconstruction procedures. The objective of this thesis is to develop a learning-based reconstruction pipeline to reconstruct and monitor the fetal heartbeat and to investigate how we can transfer knowledge from adult cardiac MRI reconstruction to fetal cardiac MRI.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Computer Science, Biomedical Engineering or similar background&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;li&gt;Proficient  in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras (optional)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;a close, personal supervision&lt;/li&gt;
-&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
-&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Fetal Magnetic Resonance Imaging (MRI) has become increasingly important to assess the development of the fetal brain. However, the acquisition is challenging due to the uncontrollable fetal motion. This requires both improved MR acquisition and reconstruction procedures.</description>
     </item>
     
     <item>
       <title>MSc Thesis: Motion-Compensated MRI Reconstruction</title>
       <link>https://aim-lab.io/theses/motionmri/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://aim-lab.io/theses/motionmri/</guid>
-      <description>&lt;p&gt;Long acquisition times in Magnetic Resonance Imaging (MRI) bear the risk of patient motion, which substantially degrades the image quality. Further sources of image degradation are physiological motion, such as periodic respiratory and cardiac motion. Accelerated acquisitions can compensate for the motion. The motion information can also be derived from the acquired MRI data retrospectively and used as a correction step in image reconstruction. The objective of this thesis is to include the motion model directly in MRI reconstruction using both knowledge of the acquisition physics and machine learning. Motion-Compensated MRI reconstruction offers a wide range of opportunities for projects, where we can set the emphasis based on your interests. Please get in touch with us to find an individual topic!&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Computer Science, Biomedical Engineering or similar background&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;li&gt;Proficient  in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras (optional)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;a close, personal supervision&lt;/li&gt;
-&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
-&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Long acquisition times in Magnetic Resonance Imaging (MRI) bear the risk of patient motion, which substantially degrades the image quality. Further sources of image degradation are physiological motion, such as periodic respiratory and cardiac motion.</description>
     </item>
     
     <item>
       <title>MSc Thesis: Physics-Driven Self-Supervised Learning in MRI Reconstruction</title>
       <link>https://aim-lab.io/theses/physicsmri/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://aim-lab.io/theses/physicsmri/</guid>
-      <description>&lt;p&gt;Machine learning has evolved tremendously to accelerate the inherently low acquisition process of Magnetic Resonance (MR) images. However, it is challenging to obtain ground truth data for learning MRI reconstruction. The objective of this MSc thesis is to explore self-supervised learning for MRI reconstruction, where only the measurement (k-space) data and knowledge about the acquisition physics are available. The tasks are to get an overview of the field (literature review), to test existing methods, and to develop novel methods on MRI data.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Computer Science, Biomedical Engineering or similar background&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;li&gt;Proficient  in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras (optional)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;a close, personal supervision&lt;/li&gt;
-&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
-&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Machine learning has evolved tremendously to accelerate the inherently low acquisition process of Magnetic Resonance (MR) images. However, it is challenging to obtain ground truth data for learning MRI reconstruction. The objective of this MSc thesis is to explore self-supervised learning for MRI reconstruction, where only the measurement (k-space) data and knowledge about the acquisition physics are available.</description>
     </item>
     
     <item>
       <title>MSc Thesis: Distributionally robust neural networks in medical imaging</title>
       <link>https://aim-lab.io/theses/robust/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://aim-lab.io/theses/robust/</guid>
-      <description>&lt;p&gt;Deep learning has revolutionized the field of medical imaging. However, the performance of a model drops when the distribution of the test data is different from the distribution of the training data. This is especially critical in a medical setting, where the amount of labelled training data is often limited, and in particular for the application in clinical routine, where the distribution of the test data cannot be controlled. Typical problems are here domain shift, bias in the training data and out-of-distribution samples (e.g., pathologies, image artefacts).
-In this project, we will explore distributionally robust optimization (DRO) [1,2] for deep learning in medical imaging. Instead of minimizing the average loss of a training set, DRO minimizes the worst-case risk and with this optimizes the performances on ”hard” examples. The student will adapt and develop novel methods using DRO for medical imaging applications (classification, segmentation and/or registration.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Prior experience and good understanding in machine learning and statistics.&lt;/li&gt;
-&lt;li&gt;Very good programming skills in python (and pytorch).&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;J. Duchi and H. Namkoong: Learning models with uniform performance via distributionally robust optimization. arXiv preprint arXiv:1810.08750 (2018)&lt;/li&gt;
-&lt;li&gt;S. Sagawa et al.: Distributionally Robust Neural Networks, In Proc. ICLR (2020)&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Deep learning has revolutionized the field of medical imaging. However, the performance of a model drops when the distribution of the test data is different from the distribution of the training data.</description>
     </item>
     
     <item>
       <title>MSc Thesis: Out-of-distribution detection using contrastive training for medical imaging</title>
       <link>https://aim-lab.io/theses/oodd/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://aim-lab.io/theses/oodd/</guid>
-      <description>&lt;p&gt;Deep learning has revolutionized the field of medical imaging. However, the performance of a model drops when the distribution of the test data is different from the distribution of the training data. This is especially critical in a medical setting, where the amount of labelled training data is often limited, and in particular for the application in clinical routine, where the distribution of the test data cannot be controlled. The automatic detection of such Out-of-Distribution (OoD) samples at inference is important for the design of reliable models, but also to identify poor quality images and pathologies not seen during training.&lt;/p&gt;
-&lt;p&gt;Recently, contrastive learning has shown to provide state-of-the-art results for OoD in image classification benchmarks [1]. Contrastive learning is an approach to formulate the task of finding similar and dissimilar samples during training. One advantage of the proposed method is that no OoD data is required during training.
-The aim of this project is to explore OoD detection in deep learning in general, and in particular the use of contrastive training. The student will develop and implement (novel) methods for image classification, segmentation, and/or registration in a medical application.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Prior experience and good understanding in machine learning and statistics.&lt;/li&gt;
-&lt;li&gt;Very good programming skills in python (and pytorch).&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;J. Winkens et al.: Contrastive Training for Improved Out-of-Distribution Detection. arXiv preprint arXiv:2007.05566 (2020)&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Deep learning has revolutionized the field of medical imaging. However, the performance of a model drops when the distribution of the test data is different from the distribution of the training data.</description>
     </item>
     
     <item>
       <title>MSc Thesis: Applied Federated Deep Learning in Medical Imaging</title>
       <link>https://aim-lab.io/theses/applied_fedl/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://aim-lab.io/theses/applied_fedl/</guid>
-      <description>&lt;p&gt;Distributed deep learning systems can help ascertain data governance and sovereignty while allowing the training of algorithms on larger an more diverse datasets. This is particularly beneficial in the medical domain, in which the collection and curation of large datasets is especially difficult.
-Among the challenges of federated learning are issues related to data quality and representativeness, data curation, model fairness, computational performance as well as unsolved questions of data security and privacy protection.&lt;/p&gt;
-&lt;p&gt;We are seeking an MSc candidate with a strong background in machine learning, preferrably with previous exposure to medical imaging topics to complete their thesis at our institute. Experience with distributed systems, privacy and security issues or cryptology is desirable.
-We are offering an engaging work environment, a large, diverse team, close personal supervision and collaboration with AI, medical and privacy-preserving ML experts.&lt;/p&gt;
-&lt;p&gt;We can accommodate a wide range of interests from your side! Please get in touch with us to find an appropriate topic.&lt;/p&gt;
-</description>
+      <description>Distributed deep learning systems can help ascertain data governance and sovereignty while allowing the training of algorithms on larger an more diverse datasets. This is particularly beneficial in the medical domain, in which the collection and curation of large datasets is especially difficult.</description>
     </item>
     
     <item>
       <title>MSc Thesis: Privacy-preserving Deep Learning in Medical Imaging</title>
       <link>https://aim-lab.io/theses/ppml/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://aim-lab.io/theses/ppml/</guid>
-      <description>&lt;p&gt;Privacy-preserving artificial intelligence techniques such as differential privacy, encryption and multi-party computation can reconcile the needs for data utilisation and data protection in the medical domain, as mandated by legal and ethical requirements. Their widespread utilisation requires innovations in the fields of distributed machine learning (federated learning) as well as answering open questions in privacy research and cryptography.&lt;/p&gt;
-&lt;p&gt;We are seeking an MSc candidate with a strong background in machine learning, preferrably with previous exposure to medical imaging topics to complete their thesis at our institute. Experience with distributed systems, privacy and security issues or cryptology is desirable.
-We are offering an engaging work environment, a large, diverse team, close personal supervision and collaboration with AI, medical and privacy-preserving ML experts.&lt;/p&gt;
-&lt;p&gt;We can accommodate a wide range of interests from your side! Please get in touch with us to find an appropriate topic.&lt;/p&gt;
-</description>
+      <description>Privacy-preserving artificial intelligence techniques such as differential privacy, encryption and multi-party computation can reconcile the needs for data utilisation and data protection in the medical domain, as mandated by legal and ethical requirements.</description>
     </item>
     
   </channel>

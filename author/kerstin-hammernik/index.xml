@@ -1,84 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kerstin Hammernik | AI in Medicine</title>
+    <title>Kerstin Hammernik on AI in Medicine</title>
     <link>https://aim-lab.io/author/kerstin-hammernik/</link>
-      <atom:link href="https://aim-lab.io/author/kerstin-hammernik/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kerstin Hammernik</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2020</copyright><lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
-      <title>Kerstin Hammernik</title>
-      <link>https://aim-lab.io/author/kerstin-hammernik/</link>
-    </image>
-    
+    <description>Recent content in Kerstin Hammernik on AI in Medicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Technical University of Munich {year}</copyright>
+    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aim-lab.io/author/kerstin-hammernik/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MSc Thesis: Machine Learning in Fetal MRI Reconstruction</title>
       <link>https://aim-lab.io/theses/fetal/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://aim-lab.io/theses/fetal/</guid>
-      <description>&lt;p&gt;Fetal Magnetic Resonance Imaging (MRI) has become increasingly important to assess the development of the fetal brain. However, the acquisition is challenging due to the uncontrollable fetal motion. This requires both improved MR acquisition and reconstruction procedures. The objective of this thesis is to develop a learning-based reconstruction pipeline to reconstruct and monitor the fetal heartbeat and to investigate how we can transfer knowledge from adult cardiac MRI reconstruction to fetal cardiac MRI.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Computer Science, Biomedical Engineering or similar background&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;li&gt;Proficient  in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras (optional)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;a close, personal supervision&lt;/li&gt;
-&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
-&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Fetal Magnetic Resonance Imaging (MRI) has become increasingly important to assess the development of the fetal brain. However, the acquisition is challenging due to the uncontrollable fetal motion. This requires both improved MR acquisition and reconstruction procedures.</description>
     </item>
     
     <item>
       <title>MSc Thesis: Motion-Compensated MRI Reconstruction</title>
       <link>https://aim-lab.io/theses/motionmri/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://aim-lab.io/theses/motionmri/</guid>
-      <description>&lt;p&gt;Long acquisition times in Magnetic Resonance Imaging (MRI) bear the risk of patient motion, which substantially degrades the image quality. Further sources of image degradation are physiological motion, such as periodic respiratory and cardiac motion. Accelerated acquisitions can compensate for the motion. The motion information can also be derived from the acquired MRI data retrospectively and used as a correction step in image reconstruction. The objective of this thesis is to include the motion model directly in MRI reconstruction using both knowledge of the acquisition physics and machine learning. Motion-Compensated MRI reconstruction offers a wide range of opportunities for projects, where we can set the emphasis based on your interests. Please get in touch with us to find an individual topic!&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Computer Science, Biomedical Engineering or similar background&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;li&gt;Proficient  in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras (optional)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;a close, personal supervision&lt;/li&gt;
-&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
-&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Long acquisition times in Magnetic Resonance Imaging (MRI) bear the risk of patient motion, which substantially degrades the image quality. Further sources of image degradation are physiological motion, such as periodic respiratory and cardiac motion.</description>
     </item>
     
     <item>
       <title>MSc Thesis: Physics-Driven Self-Supervised Learning in MRI Reconstruction</title>
       <link>https://aim-lab.io/theses/physicsmri/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://aim-lab.io/theses/physicsmri/</guid>
-      <description>&lt;p&gt;Machine learning has evolved tremendously to accelerate the inherently low acquisition process of Magnetic Resonance (MR) images. However, it is challenging to obtain ground truth data for learning MRI reconstruction. The objective of this MSc thesis is to explore self-supervised learning for MRI reconstruction, where only the measurement (k-space) data and knowledge about the acquisition physics are available. The tasks are to get an overview of the field (literature review), to test existing methods, and to develop novel methods on MRI data.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Computer Science, Biomedical Engineering or similar background&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;li&gt;Proficient  in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras (optional)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;a close, personal supervision&lt;/li&gt;
-&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
-&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Machine learning has evolved tremendously to accelerate the inherently low acquisition process of Magnetic Resonance (MR) images. However, it is challenging to obtain ground truth data for learning MRI reconstruction. The objective of this MSc thesis is to explore self-supervised learning for MRI reconstruction, where only the measurement (k-space) data and knowledge about the acquisition physics are available.</description>
     </item>
     
   </channel>
