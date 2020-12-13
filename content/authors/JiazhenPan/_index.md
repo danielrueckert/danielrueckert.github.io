@@ -21,14 +21,14 @@ organizations:
 bio: My main research interests lie in medical imaging computing, semantic segmentation and flow estimation
 
 interests:
-- Medical imaging computing
-- Semantic segmentation
-- Flow estimation
+- Medical Imaging Computing
+- Semantic Segmentation
+- Flow Estimation
 
 
 education:
   courses:
-  - course: Electrical Engineering and Information Technology 
+  - course: Electrical Engineering and Information Technology (M.Sc.)
     institution: University of Stuttgart
     year: 2020
   - course: Mechanical Engineering (Diploma)
