@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Philip Müller
+title: Philip Muller
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Technical University of Munich
-  url: ""
+- name: Institute of AI in Healthcare and Medicine, Technical University of Munich
+  url: "https://www.translatum.tum.de/en/research-groups/ai-in-healthcare-and-medicine/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include applications of multi-modal learning in radiology with focus on image and text modalities.
@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: Informatics (M.Sc.)
+  - course: M.Sc. Informatics
     institution: Technical University of Munich
     year: 2020
-  - course: Informatics (B.Eng.)
+  - course: B.Eng. Informatics
     institution: Baden-Württemberg Cooperative State University, Ravensburg
     year: 2016
  
