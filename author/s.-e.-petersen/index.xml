@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S. E. Petersen on AI in Medicine</title>
+    <title>S. E. Petersen | AI in Medicine</title>
     <link>https://aim-lab.io/author/s.-e.-petersen/</link>
-    <description>Recent content in S. E. Petersen on AI in Medicine</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Technical University of Munich {year}</copyright>
-    <lastBuildDate>Thu, 01 Jan 1970 01:33:40 +0100</lastBuildDate><atom:link href="https://aim-lab.io/author/s.-e.-petersen/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://aim-lab.io/author/s.-e.-petersen/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. E. Petersen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2020</copyright><lastBuildDate>Thu, 01 Jan 1970 01:33:40 +0100</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <title>S. E. Petersen</title>
+      <link>https://aim-lab.io/author/s.-e.-petersen/</link>
+    </image>
+    
     <item>
       <title>A population-based phenome-wide association study of cardiac and aortic structure and function</title>
       <link>https://aim-lab.io/publication/nat-med-2020a/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
-      
       <guid>https://aim-lab.io/publication/nat-med-2020a/</guid>
       <description></description>
     </item>
