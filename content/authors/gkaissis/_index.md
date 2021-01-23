@@ -23,9 +23,9 @@ organizations:
 bio: My research interests include image analysis, secure and private artificial intelligence and probabilistic modelling.
 
 interests:
-- Computer vision
-- Privacy preserving artificial intelligence
-- Probabilistic modelling
+- Medical image computing
+- Privacy-preserving artificial intelligence
+- Probabilistic methods
 
 
 education:
