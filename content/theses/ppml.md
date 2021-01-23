@@ -9,4 +9,4 @@ Privacy-preserving artificial intelligence techniques such as differential priva
 We are seeking an MSc candidate with a strong background in machine learning, preferrably with previous exposure to medical imaging topics to complete their thesis at our institute. Experience with distributed systems, privacy and security issues or cryptology is desirable.
 We are offering an engaging work environment, a large, diverse team, close personal supervision and collaboration with AI, medical and privacy-preserving ML experts. 
 
-We can accommodate a wide range of interests from your side! Please get in touch with us to find an appropriate topic.
+We can accommodate a wide range of interests from your side! Please get in touch with us to find an appropriate topic. We are also able to supervise guided research projects, smaller in scope than full MSc theses.

@@ -23,8 +23,8 @@ organizations:
 bio: My research interests include image analysis, secure and private artificial intelligence and probabilistic modelling.
 
 interests:
-- Medical image computing
 - Privacy-preserving artificial intelligence
+- Medical image computing
 - Probabilistic methods
 
 
@@ -74,6 +74,6 @@ user_groups:
 - Senior Researchers
 ---
 
-Georgios Kaissis is a senior research scientist at the Institute of Artificial Intelligence and Informatics in Medicine and specialist diagnostic radiologist at the Institute for Radiology at TUM, a postdoctoral researcher at the Department of Computing at Imperial College London and a research scientist at OpenMined. His research concentrates on biomedical image analysis with a focus on probabilistic methods and on the design and deployment of robust, secure, fair and transparent machine learning algorithms to medical imaging workflows using next-generation privacy-preserving machine learning methods. 
+Georgios Kaissis is a senior research scientist at the Institute of Artificial Intelligence and Informatics in Medicine and specialist diagnostic radiologist at the Institute for Radiology at TUM, a postdoctoral researcher at the Department of Computing at Imperial College London and leads the Healthcare Unit at OpenMined. His research concentrates on biomedical image analysis with a focus on next-generation privacy-preserving machine learning methods as well as probabilistic methods for the design and deployment of robust, secure, fair and transparent machine learning algorithms to medical imaging workflows. 
 
 
