@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aim-lab.io/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/authors/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/federated/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/shadi-albarqouni/</loc>
+    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/publication-type/2/</loc>
     <lastmod>2020-11-21T21:26:19+01:00</lastmod>
   </url>
@@ -24,16 +49,6 @@
   
   <url>
     <loc>https://aim-lab.io/author/a.-schuh/</loc>
-    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/</loc>
-    <lastmod>2020-11-21T21:26:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/authors/</loc>
     <lastmod>2020-11-21T21:26:19+01:00</lastmod>
   </url>
   
@@ -160,11 +175,6 @@
   <url>
     <loc>https://aim-lab.io/author/v.-karolis/</loc>
     <lastmod>2020-11-21T21:26:19+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -486,6 +496,10 @@
   
   <url>
     <loc>https://aim-lab.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/shadi-albarqouni/</loc>
   </url>
   
   <url>

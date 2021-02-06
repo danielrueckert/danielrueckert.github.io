@@ -5,12 +5,28 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright><lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright><lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>Seminar on Federated Learning (SoSe2021)</title>
+      <link>https://aim-lab.io/theses/federated/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/federated/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1248712&amp;amp;pOrgNr=14189&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master Seminar (IN2107, IN4410)&lt;/a&gt; (2 SWS, 5 ECTS) offered for BioMedical Computing (BMC) program at the Chair for Computer Aided Medical Procedures and Augmented Reality, TU Munich&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; Dr. Shadi Albarqouni, Helmholtz AI and TU Munich, Prof. Nassir Navab, Chair for Computer Aided Medical Procedures, and Prof. Daniel Rueckert, Chair for AI in Medicine, TU Munich&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tutors&lt;/strong&gt;: Cosmin Bercea&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: Fridays, 10:00 - 12:00&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Following the great success of our on-going seminar on Deep Learning for Medical Applications, we would like to discuss advanced topics that are quite relevant to Federated Learning which becomes an interesting and hot research direction in the community. In simple words, Federated Learning enables training models at the client-side while preserving their privacy, and aggregates the knowledge from the nodes to learn a global model. The interesting part here that the data are kept private and not transmitted to any other nodes. Instead, the characteristics (e.g. parameters) of the global model are shared with the clients, and once the training is done locally, the characteristics are sent back to the global one for aggregation. This learning paradigm has been received quite nicely in the community, in particular, for sensitive domains, e.g. Healthcare. To push this momentum, we proposed, together with our academia and industry partners, a workshop on Federated, Collaborative, and Distributed Learning in the International Conference on Medical Image Computing and Computer-Aided Intervention (MICCAI) to attract significant contributions attacking the challenges in Medical Imaging and Healthcare. In this seminar, we will be discussing the relevant papers on Federated Learning with an emphasis on the papers tackling the common challenges in Medical Imaging, e.g. data heterogeneity, domain shift, and non-iid distributed data.&lt;/p&gt;
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+&lt;p&gt;For full details on the course please follow &lt;a href=&#34;https://albarqouni.github.io/courses/flhsose2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Machine Learning in Fetal MRI Reconstruction</title>
