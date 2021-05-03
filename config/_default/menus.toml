@@ -8,10 +8,10 @@
   url = "#page_header"
   weight = 10
 
-[[main]]
-  name = "Research"
-  url = "#research"
-  weight = 20
+#[[main]]
+#  name = "Research"
+#  url = "#research"
+#  weight = 20
 
 [[main]]
   name = "People"

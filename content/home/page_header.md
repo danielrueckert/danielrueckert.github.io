@@ -23,5 +23,3 @@ Our aim is to develop artificial intelligence (AI) and machine learning (ML) tec
 - Privacy-preserving AI approaches
 
 We have particularly strong interest in the application of imaging and computing technology to improve the understanding brain development (in-utero and ex-utero), to improve the diagnosis and stratification of patients with dementia, stroke and traumatic brain injury as well as for the comprehensive diagnosis and management of patients with cardiovascular disease and cancer.
-
-**We are actively recruiting new members!**

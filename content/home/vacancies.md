@@ -11,4 +11,4 @@ weight = 70
 +++
 ---
 
-We are recruiting team members who would like to join us for a PhD, MSc, BSc or guided research/interdisciplinary project on an ongoing basis! If you'd like to join us, please get in touch using the form below or via e-mail and attach a motivation letter, transcript of academic records and CV.
+We are recruiting team members who would like to join us for a MSc, BSc or guided research/interdisciplinary project on an ongoing basis! If you'd like to join us, please get in touch using the form below or via e-mail and attach a motivation letter, transcript of academic records and CV.
