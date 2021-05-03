@@ -4,17 +4,27 @@
   
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/jiazhen-pan/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/transformer/</loc>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/author/philip-muller/</loc>
+    <loc>https://aim-lab.io/author/philip-mueller/</loc>
     <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,7 +233,7 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/author/georgios-kaissis/</loc>
+    <loc>https://aim-lab.io/author/gkaissis/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -469,6 +479,10 @@
   </url>
   
   <url>
+    <loc>https://aim-lab.io/author/deborah-carraro/</loc>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/author/dmitrii-usynin/</loc>
   </url>
   
@@ -478,6 +492,10 @@
   
   <url>
     <loc>https://aim-lab.io/author/felix-meissen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/georgios-kaissis/</loc>
   </url>
   
   <url>
@@ -509,7 +527,19 @@
   </url>
   
   <url>
+    <loc>https://aim-lab.io/author/reihaneh-torkzadehmahani/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/reza-nasirigerdeh/</loc>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/author/shadi-albarqouni/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/sophie-starck/</loc>
   </url>
   
   <url>
