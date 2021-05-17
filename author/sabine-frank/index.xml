@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shadi Albarqouni | AI in Medicine</title>
-    <link>https://aim-lab.io/author/shadi-albarqouni/</link>
-      <atom:link href="https://aim-lab.io/author/shadi-albarqouni/index.xml" rel="self" type="application/rss+xml" />
-    <description>Shadi Albarqouni</description>
+    <title>Sabine Frank | AI in Medicine</title>
+    <link>https://aim-lab.io/author/sabine-frank/</link>
+      <atom:link href="https://aim-lab.io/author/sabine-frank/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sabine Frank</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
-      <title>Shadi Albarqouni</title>
-      <link>https://aim-lab.io/author/shadi-albarqouni/</link>
+      <title>Sabine Frank</title>
+      <link>https://aim-lab.io/author/sabine-frank/</link>
     </image>
     
   </channel>
