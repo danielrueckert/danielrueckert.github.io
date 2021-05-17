@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Deborah Carraro
+title: Sabine Frank
 
 # Username (this should match the folder name)
 authors:
-- DeborahCarraro
+- SabineFrank
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Executive Assistant
+role: Adminstrative Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.translatum.tum.de/forschungsgruppen/ki-in-der-medizin/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Extensive experience as executive assistant
+bio: Extensive experience as translator and interpreter for German, English and Spanish
 
 interests:
 - Project Management and Administration
@@ -27,10 +27,11 @@ interests:
 
 education:
   courses:
-  - course: Betriebswirtschaftslehre
-    institution: Fachhochschule Hof
-    year: 2005
- 
+  - course: Conference Interpreter (MA)
+    institution: University of Graz, Austria
+    year: 2014
+
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -38,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:deborah.carraro@tum.de
+  link: mailto:sabine.frank@tum.de
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/a1302z
@@ -58,11 +59,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "deborah.carraro@tum.de"
+email: "sabine.frank@tum.de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - "Team Support"
 ---
-
+Sabine Franke supports the Lab for AI in Medicine as a member of the administrative staff at the TU campus in Garching. She graduated in 2014 from the University of Graz, Austria, with a degree in conference interpreting for German, English and Spanish. Before joining the team at the TU Munich, she spent several years working as a translator and interpreter in Germany as well as in the Netherlands, adding Dutch to her working languages.
