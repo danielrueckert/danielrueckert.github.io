@@ -5,12 +5,32 @@
     <link>https://aim-lab.io/author/veronika-zimmer/</link>
       <atom:link href="https://aim-lab.io/author/veronika-zimmer/index.xml" rel="self" type="application/rss+xml" />
     <description>Veronika Zimmer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright><lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright><lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Veronika Zimmer</title>
       <link>https://aim-lab.io/author/veronika-zimmer/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Prediction of long-term cognitive outcome in Stroke patients using machine learning</title>
+      <link>https://aim-lab.io/theses/stroke/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/stroke/</guid>
+      <description>&lt;p&gt;Machine learning, in particular deep learning, has reformed the research in the field of medical imaging, and the focus of this project will be on its use for the prediction of disease progression/ neurological outcome in stroke patients. Stroke patients have a high risk of developing dementia (incidence around 20%) within a few months after the event, but so far the reasons and mechanisms are poorly understood [1]. Clinical parameters, such as age, smoking habit and previous health conditions have an influence, but are not sufficient to reliably predict the cognitive outcome. Imaging, for example magnetic resonance imaging (MRI), becomes increasingly important.
+The objective of this thesis is to develop a learning-based pipeline, and investigate and identify imaging biomarkers from structural and diffusion MRI to predict poststroke dementia.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Prior experience and good understanding in machine learning and statistics.&lt;/li&gt;
+&lt;li&gt;Very good programming skills in python (and pytorch).&lt;/li&gt;
+&lt;li&gt;Interest in medical imaging&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;F. A. Wollenweber et al.: The Determinants of Dementia After Stroke (DEDEMAS) Study: protocol and pilot data. International Journal of Stroke 9(3) (2014): 387-392.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Distributionally robust neural networks in medical imaging</title>
