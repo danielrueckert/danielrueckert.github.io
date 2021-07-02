@@ -1,49 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Philip Mueller | AI in Medicine</title>
+    <title>Philip Mueller on AI in Medicine</title>
     <link>https://aim-lab.io/author/philip-mueller/</link>
-      <atom:link href="https://aim-lab.io/author/philip-mueller/index.xml" rel="self" type="application/rss+xml" />
-    <description>Philip Mueller</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright><lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
-      <title>Philip Mueller</title>
-      <link>https://aim-lab.io/author/philip-mueller/</link>
-    </image>
-    
+    <description>Recent content in Philip Mueller on AI in Medicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Technical University of Munich {year}</copyright>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://aim-lab.io/author/philip-mueller/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MSc Thesis: Deep Natural Language Processing for Radiology Reports</title>
       <link>https://aim-lab.io/theses/nlp/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://aim-lab.io/theses/nlp/</guid>
-      <description>&lt;p&gt;In recent years deep learning has proven quite successful in the field of natural language processing (NLP). However, many of today’s NLP models require very large datasets for training, thus self-supervised pre-training (like BERT [1]) on large unlabeled datasets has become quite important.&lt;/p&gt;
-&lt;p&gt;We want to apply deep NLP models (like transformers) to radiology reports and do predictions on them. While there is a large variety of pre-trained models available which we could utilize for this task (like [2,3]), these models suffer from a language domain-shift when directly applied to German radiology reports as available models are typically not pre-trained on German medical language.
-Thus, our goal is to pre-train a NLP model for the domain of German radiology reports such that the resulting model can be easily fine-tuned for prediction tasks.&lt;/p&gt;
-&lt;p&gt;We offer flexibility regarding the objectives of this MSc thesis.
-Possible tasks may include but are not limited to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Domain adaptation of pre-trained models&lt;/li&gt;
-&lt;li&gt;Adaption or development of a pre-training strategy for radiology reports&lt;/li&gt;
-&lt;li&gt;Development of a model architecture for radiology reports&lt;/li&gt;
-&lt;li&gt;Development of a data augmentation strategy&lt;/li&gt;
-&lt;li&gt;Utilization of additional data sources for pre-training (e.g. Wikipedia or books)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We can define the topic of your thesis, such that it matches your interests as good as possible.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong background in deep learning&lt;/li&gt;
-&lt;li&gt;Proficient in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, preferable PyTorch&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Prior experience or knowledge (e.g. lectures) in NLP is beneficial but not required.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;J. Devlin et al. &amp;ldquo;Bert: Pre-training of deep bidirectional transformers for language understanding.&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/1810.04805&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1810.04805&lt;/a&gt; (2018).&lt;/li&gt;
-&lt;li&gt;E. Alsentzer et al. “Publicly Available Clinical BERT Embeddings.” arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/1904.03323&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1904.03323&lt;/a&gt; (2019)&lt;/li&gt;
-&lt;li&gt;B. Chan et al. “German’s Next Language Model.” arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2010.10906&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2010.10906&lt;/a&gt; (2020)&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>In recent years deep learning has proven quite successful in the field of natural language processing (NLP). However, many of today’s NLP models require very large datasets for training, thus self-supervised pre-training (like BERT [1]) on large unlabeled datasets has become quite important.</description>
     </item>
     
   </channel>
