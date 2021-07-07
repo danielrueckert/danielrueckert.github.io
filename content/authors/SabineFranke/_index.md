@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Sabine Frank
+title: Sabine Franke
 
 # Username (this should match the folder name)
 authors:
-- SabineFrank
+- SabineFranke
 
 # Is this the primary user of the site?
 superuser: false
@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:sabine.frank@tum.de
+  link: mailto:sabine.franke@tum.de
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/a1302z
@@ -59,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sabine.frank@tum.de"
+email: "sabine.franke@tum.de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
