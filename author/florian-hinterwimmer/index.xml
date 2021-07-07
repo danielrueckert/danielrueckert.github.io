@@ -1,20 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Florian Hinterwimmer on AI in Medicine</title>
+    <title>Florian Hinterwimmer | AI in Medicine</title>
     <link>https://aim-lab.io/author/florian-hinterwimmer/</link>
-    <description>Recent content in Florian Hinterwimmer on AI in Medicine</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Technical University of Munich {year}</copyright>
-    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://aim-lab.io/author/florian-hinterwimmer/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://aim-lab.io/author/florian-hinterwimmer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Florian Hinterwimmer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright><lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <title>Florian Hinterwimmer</title>
+      <link>https://aim-lab.io/author/florian-hinterwimmer/</link>
+    </image>
+    
     <item>
       <title>MSc Thesis: Machine Learning for Analysis of Sarcoma</title>
       <link>https://aim-lab.io/theses/sarcoma/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://aim-lab.io/theses/sarcoma/</guid>
-      <description>Description Early diagnosis of musculoskeletal tumours is crucial for successful therapy and treatment. The sooner a potential malignant growth is detected, the more effective the next steps in therapy and the better a prognosis usually becomes.</description>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Early diagnosis of musculoskeletal tumours is crucial for successful therapy and treatment. The sooner a potential malignant growth is detected, the more effective the next steps in therapy and the better a prognosis usually becomes. The rarity of musculoskeletal tumours, potentially inexperienced clinicians with this certain entity, as well as unspecific anamnesis and clinical manifestations may delay the final diagnosis. Whereas currently available imaging modalities yield considerable insights into tumour staging and grading, biopsy remains the gold standard for final diagnosis. Yet, the planning of a successful biopsy yielding sufficient material might require time aside from a high level of experience and may delay the final diagnosis even further.&lt;/p&gt;
+&lt;p&gt;The complexity in conjunction with multimodal approaches in fully grasping this disease provide a very suitable foundation for modern artificial intelligence algorithms. Not only for diagnostic purposes, but also for treatment planning or prognosis prediction, machine learning and deep learning algorithms are popular techniques in many disciplines at this time.&lt;/p&gt;
+&lt;h2 id=&#34;tasks&#34;&gt;Tasks&lt;/h2&gt;
+&lt;p&gt;Various topics in the domain of musculoskeletal tumor analysis are available for a master thesis in computer science and can be discussed during an interview.&lt;/p&gt;
+&lt;p&gt;The main tasks will involve:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analysis of sarcoma with machine/deep learning&lt;/li&gt;
+&lt;li&gt;Coping with very limited and unbalanced datasets&lt;/li&gt;
+&lt;li&gt;Adaption to medicine specific issues with AI&lt;/li&gt;
+&lt;li&gt;Presenting and discussing results&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Access to very rare medical data&lt;/li&gt;
+&lt;li&gt;Highly educated &amp;amp; interdisciplinary environment&lt;/li&gt;
+&lt;li&gt;Top level hardware for scientific computing&lt;/li&gt;
+&lt;li&gt;Constant feedback from medical and computer science experts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced knowledge of deep learning with imaging data&lt;/li&gt;
+&lt;li&gt;Beneficial but not necessary: experience in medicine / oncology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Rechl H, Kirchhoff C, Wörtler K, Lenze U, Töpfer A, von Eisenhart-Rothe R. Diagnostik von malignen Knochen- und Weichteiltumoren [Diagnosis of malignant bone and soft tissue tumors]. Orthopade. 2011 Oct;40(10):931-41; quiz 942-3. German. doi: 10.1007/s00132-011-1821-7. PMID: 21874363&lt;/p&gt;
+&lt;p&gt;[2] He, Y. et al. Deep learning-based classification of primary bone tumors on radiographs: A preliminary study. EBioMedicine 62, 103121 (2020)&lt;/p&gt;
+&lt;p&gt;[3] Hussain Z, Gimenez F, Yi D, Rubin D. Differential Data Augmentation Techniques for Medical Imaging Classification Tasks. AMIA Annu Symp Proc. 2018;2017:979-984. Published 2018 Apr 16.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
