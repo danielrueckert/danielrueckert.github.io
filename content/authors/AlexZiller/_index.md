@@ -18,11 +18,11 @@ organizations:
   url: "https://www.translatum.tum.de/forschungsgruppen/ki-in-der-medizin/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning in medical imaging as well as prisecure and private AI.
+bio: My research interests include deep learning in medical imaging as well as Privacy-preserving Machine Learning.
 
 interests:
 - Artifical Intelligence in Medicine
-- Secure and Private Artificial Intelligence
+- Privacy-preserving Machine Learning
 
 
 education:
@@ -33,6 +33,15 @@ education:
   - course: Informatics - Games Engineering (B. Sc.)
     institution: Technical University of Munich
     year: 2017
+    
+  publications:
+  - publication: End-to-end privacy preserving deep learning on multi-institutional medical imaging
+    venue: Nature Machine Intelligence
+    year: 2021
+  - publication: Medical imaging deep learning with differential privacy
+    venue: Scientific Reports
+    year: 2021
+
  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +78,6 @@ user_groups:
 - "Researchers"
 ---
 
-Alexander Ziller is a PhD student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). His research interest lies in the field of machine learning in medical imaging. He investigates the usage of deep learning methods for diagnostics of pancreatic ductal adenocarcinoma, aiming at improved outcomes for tumour patients. He recognises the importance of privacy in medical imaging and is the lead developer of the PriMIA framework for secure and private deep learning in medical imaging, jointly developed by TUM, Imperial College London and OpenMined. He received his Master of Science in 2019 from TUM and was awarded the Intercultural Certificate for his efforts in connecting with other cultures.
+Alexander Ziller is a PhD student at the Institute of Radiology and Artificial Intelligence and at the Chair for Artificial Intelligence in Medicine at the Technical University of Munich (TUM). His main research focus is located in the field of privacy preserving machine learning. His work led to publications in major venues such as Nature Machine Intelligence. Furthermore, he investigates the usage of deep learning methods for diagnostics of pancreatic ductal adenocarcinoma, aiming at improved outcomes for tumour patients. He received his Master of Science in 2019 from TUM and was awarded the Intercultural Certificate for his efforts in connecting with other cultures.
+
+Topics for BSc and MSc Thesis, Semester Projects, IDPs, Guided Research or any other student project can always be discussed on inquiry.
