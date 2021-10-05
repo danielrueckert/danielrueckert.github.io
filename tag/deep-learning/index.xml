@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | AI in Medicine</title>
+    <link>https://aim-lab.io/tag/deep-learning/</link>
+      <atom:link href="https://aim-lab.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright><lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <title>Deep Learning</title>
+      <link>https://aim-lab.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>MSc Thesis: End-to-end survival prediction on CT images of PDAC patients</title>
+      <link>https://aim-lab.io/theses/pancreas/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/pancreas/</guid>
+      <description>&lt;p&gt;Pancreatic ductal adenocarcinoma (PDAC) is considered the fourteenth most common cancer globally, the seventh on the list of causes of cancer death in 2020, and the fourth in 2021. To further investigate the causes and therapy for affected patients we aim to extend our previous work. This project is perfect for students who like to work on applied deep learning. Tasks vary from simple hyperparameter optimisation to dedicated auxillary networks and multi-task learning. If you are interested kindly send us a message including your CV, transcript of records, and very briefly what you are looking for, expecting in your thesis, your talents and interests in regard to this thesis are and if applicable a short description of a project that you did. We are looking forward to your message.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enthusiasm for deep learning.&lt;/li&gt;
+&lt;li&gt;Advanced knowledge of machine learning and computer vision.&lt;/li&gt;
+&lt;li&gt;Excellent programming skills in Python and PyTorch.&lt;/li&gt;
+&lt;li&gt;Prior knowledge on survival analysis and statistics is helpful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Exciting research projects with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Working in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
+&lt;li&gt;Enough freedom to pursue your own project while providing the guidance you need&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Kaissis, Georgios, et al. &amp;ldquo;A machine learning model for the prediction of survival and tumor subtype in pancreatic ductal adenocarcinoma from preoperative diffusion-weighted imaging.&amp;rdquo; European radiology experimental 3.1 (2019): 1-9.&lt;/br&gt;
+[2] Christ, Patrick Ferdinand, et al. &amp;ldquo;SurvivalNet: Predicting patient survival from diffusion weighted magnetic resonance images using cascaded fully convolutional and 3D convolutional neural networks.&amp;rdquo; 2017 IEEE 14th International Symposium on Biomedical Imaging (ISBI 2017). IEEE, 2017.&lt;/br&gt;
+[3] Kaissis, Georgios A., et al. &amp;ldquo;Multiparametric Modelling of Survival in Pancreatic Ductal Adenocarcinoma Using Clinical, Histomorphological, Genetic and Image-Derived Parameters.&amp;rdquo; Journal of clinical medicine 9.5 (2020): 1250.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving Deep Learning in the context of medical imaging (MSc Thesis/Guided Research/IDP/etc)</title>
+      <link>https://aim-lab.io/theses/privacy/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/privacy/</guid>
+      <description>&lt;p&gt;Privacy-Preserving Machine Learning is a very recent topic of ongoing research. Especially in the medical field large amounts of data are locked due to privacy regulations. PPML allows the training on data of patients while asserting they face no repercussions by participating. Lots of applications need to be researched in depth. Exact project definitions would be specified depending on your interests and talents, but range from rather theoretical work to heavily applied projects. If you are interested kindly send us a message including your CV, transcript of records, and very briefly what you are looking for, expecting in your thesis, your talents and interests are and if applicable a short description of a project that you did. We are looking forward to your message.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enthusiasm for deep learning.&lt;/li&gt;
+&lt;li&gt;Advanced knowledge of machine learning and computer vision.&lt;/li&gt;
+&lt;li&gt;Excellent programming skills in Python and PyTorch.&lt;/li&gt;
+&lt;li&gt;Prior knowledge on PPML is helpful&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Exciting research projects with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Working in a team of experts in PPML, image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
+&lt;li&gt;Enough freedom to pursue your own project while providing the guidance you need&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s42256-020-0186-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Secure, privacy-preserving and federated machine learning in medical imaging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s42256-021-00337-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;End-to-end privacy preserving deep learning on multi-institutional medical imaging&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
