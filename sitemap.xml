@@ -23,16 +23,6 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/tag/medical-imaging/</loc>
-    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/pancreas/</loc>
-    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/tag/privacy/</loc>
     <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url>
@@ -55,6 +45,16 @@
   <url>
     <loc>https://aim-lab.io/theses/anomaly_study/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/tag/medical-imaging/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/pancreas/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
