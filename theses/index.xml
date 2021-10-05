@@ -5,12 +5,40 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright><lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright><lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Evaluation of Medical Anomaly Detection Methods on Multiple Modalities</title>
+      <link>https://aim-lab.io/theses/anomaly_study/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/anomaly_study/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;The medical domain is characterized by large amounts of available data, but obtaining labels usually requires expert radiologists. The recent surge of unsupervised learning spawned valuable techniques to handle data without the necessity of these labels.
+Anomaly Detection tries to find data points that deviate from a statistical norm. This is especially useful in the medical domain as anomalies here are often indicators for diseases.
+Recently, multiple anomaly detection and segmentation methods have been compared in a comparative study by Baur et al. [1]. However, these methods have only been evaluated on FLAIR brain MR images. This modality is not well suited to evaluate anomaly detection, because, as we recently demonstrated, all methods in this study cn be outperformed via simple thresholding [2].&lt;/p&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cutting edge research in an active field of medical imaging&lt;/li&gt;
+&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
+&lt;li&gt;The opportunity to publish your work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-expect&#34;&gt;What we expect&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced skills in Python and deep learning frameworks such as PyTorch, Tensorflow or JAX&lt;/li&gt;
+&lt;li&gt;Strong background in deep learning, especially in the image domain&lt;/li&gt;
+&lt;li&gt;A research mindset for asking and answering the right questions (the most important thing)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are interested in this work and ready for a new challenge, please feel free to contact me&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Christoph Baur, Stefan Denner, Benedikt Wiestler, Nassir Navab, Shadi Albarqouni. Autoencoders for unsupervised anomaly segmentation in brain MR images: A comparative study. In Medical Image Analysis, 2021.&lt;/p&gt;
+&lt;p&gt;[2] Felix Meissen, Georgios Kaissis, Daniel Rueckert. Challenging Current Semi-Supervised Anomaly Segmentation Methods for Brain MRI. arXiv:2109.06023, 2021.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Unsupervised deep learning for vessel segmentation in optical coherence tomography angiographs</title>

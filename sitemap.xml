@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/felix-meissen/</loc>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/anomaly_study/</loc>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/martin-menten/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
@@ -306,8 +312,6 @@
     <loc>https://aim-lab.io/author/dmitrii-usynin/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/e.-birney-and-d.-p.-oregan./</loc>
-  </url><url>
-    <loc>https://aim-lab.io/author/felix-meissen/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/georgios-kaissis/</loc>
   </url><url>
