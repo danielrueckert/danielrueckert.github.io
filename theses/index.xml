@@ -217,9 +217,9 @@ The objective of this thesis is to develop a learning-based pipeline, and invest
     
     <item>
       <title>MSc Thesis: Transformer-based Optical Flow Estimation in General Computer Vision</title>
-      <link>https://aim-lab.io/theses/transformer/</link>
+      <link>https://aim-lab.io/theses/old/transformer/</link>
       <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/transformer/</guid>
+      <guid>https://aim-lab.io/theses/old/transformer/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Deep learning has reached a new era in 2021, with Transformer-based networks making a name for themselves in Computer vision tasks, topping the Leaderboard in Recognition, Detection and Segmentation [1-3]. However, the power of Transformers has not been researched in optical flow estimation. Based on our current knowledge about optical flow and Transformers, we believe that Transformer has the potential to surpass the state-of-the-art convolution-based networks like [4-6] in the field of flow estimation. During this project, you will develop a brand new transformer-based neural network aiming at solving the flow estimation problem, and test them on leading benchmarks like Sintel [7] and KITTI [8]. Are you ready for this challenge?&lt;/p&gt;
 &lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
@@ -300,9 +300,9 @@ Possible tasks may include but are not limited to:&lt;/p&gt;
     
     <item>
       <title>MSc Thesis: Machine Learning in Fetal MRI Reconstruction</title>
-      <link>https://aim-lab.io/theses/fetal/</link>
+      <link>https://aim-lab.io/theses/old/fetal/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/fetal/</guid>
+      <guid>https://aim-lab.io/theses/old/fetal/</guid>
       <description>&lt;p&gt;Fetal Magnetic Resonance Imaging (MRI) has become increasingly important to assess the development of the fetal brain. However, the acquisition is challenging due to the uncontrollable fetal motion. This requires both improved MR acquisition and reconstruction procedures. The objective of this thesis is to develop a learning-based reconstruction pipeline to reconstruct and monitor the fetal heartbeat and to investigate how we can transfer knowledge from adult cardiac MRI reconstruction to fetal cardiac MRI.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ol&gt;
@@ -323,9 +323,9 @@ Possible tasks may include but are not limited to:&lt;/p&gt;
     
     <item>
       <title>MSc Thesis: Motion-Compensated MRI Reconstruction</title>
-      <link>https://aim-lab.io/theses/motionmri/</link>
+      <link>https://aim-lab.io/theses/old/motionmri/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/motionmri/</guid>
+      <guid>https://aim-lab.io/theses/old/motionmri/</guid>
       <description>&lt;p&gt;Long acquisition times in Magnetic Resonance Imaging (MRI) bear the risk of patient motion, which substantially degrades the image quality. Further sources of image degradation are physiological motion, such as periodic respiratory and cardiac motion. Accelerated acquisitions can compensate for the motion. The motion information can also be derived from the acquired MRI data retrospectively and used as a correction step in image reconstruction. The objective of this thesis is to include the motion model directly in MRI reconstruction using both knowledge of the acquisition physics and machine learning. Motion-Compensated MRI reconstruction offers a wide range of opportunities for projects, where we can set the emphasis based on your interests. Please get in touch with us to find an individual topic!&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ol&gt;
@@ -346,9 +346,9 @@ Possible tasks may include but are not limited to:&lt;/p&gt;
     
     <item>
       <title>MSc Thesis: Physics-Driven Self-Supervised Learning in MRI Reconstruction</title>
-      <link>https://aim-lab.io/theses/physicsmri/</link>
+      <link>https://aim-lab.io/theses/old/physicsmri/</link>
       <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/physicsmri/</guid>
+      <guid>https://aim-lab.io/theses/old/physicsmri/</guid>
       <description>&lt;p&gt;Machine learning has evolved tremendously to accelerate the inherently low acquisition process of Magnetic Resonance (MR) images. However, it is challenging to obtain ground truth data for learning MRI reconstruction. The objective of this MSc thesis is to explore self-supervised learning for MRI reconstruction, where only the measurement (k-space) data and knowledge about the acquisition physics are available. The tasks are to get an overview of the field (literature review), to test existing methods, and to develop novel methods on MRI data.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ol&gt;

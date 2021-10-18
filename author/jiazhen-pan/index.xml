@@ -7,16 +7,16 @@
     <description>Jiazhen Pan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright><lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/author/jiazhen-pan/avatar_hu45a4f324f6628652cdb1a211ae39186a_6982848_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Jiazhen Pan</title>
       <link>https://aim-lab.io/author/jiazhen-pan/</link>
     </image>
     
     <item>
       <title>MSc Thesis: Transformer-based Optical Flow Estimation in General Computer Vision</title>
-      <link>https://aim-lab.io/theses/transformer/</link>
+      <link>https://aim-lab.io/theses/old/transformer/</link>
       <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/transformer/</guid>
+      <guid>https://aim-lab.io/theses/old/transformer/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Deep learning has reached a new era in 2021, with Transformer-based networks making a name for themselves in Computer vision tasks, topping the Leaderboard in Recognition, Detection and Segmentation [1-3]. However, the power of Transformers has not been researched in optical flow estimation. Based on our current knowledge about optical flow and Transformers, we believe that Transformer has the potential to surpass the state-of-the-art convolution-based networks like [4-6] in the field of flow estimation. During this project, you will develop a brand new transformer-based neural network aiming at solving the flow estimation problem, and test them on leading benchmarks like Sintel [7] and KITTI [8]. Are you ready for this challenge?&lt;/p&gt;
 &lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
