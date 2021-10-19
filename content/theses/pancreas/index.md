@@ -2,6 +2,7 @@
 title: "MSc Thesis: End-to-end survival prediction on CT images of PDAC patients"
 date: 2021-10-05
 authors: ["AlexZiller"]
+draft: true
 tags:
     - Deep Learning
     - Medical Imaging
