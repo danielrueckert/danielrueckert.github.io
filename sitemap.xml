@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aim-lab.io/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/authors/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
   </url>
@@ -40,36 +35,6 @@
   <url>
     <loc>https://aim-lab.io/tag/uk-biobank/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/alexander-ziller/</loc>
-    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/tag/deep-learning/</loc>
-    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/tag/medical-imaging/</loc>
-    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/pancreas/</loc>
-    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/tag/privacy/</loc>
-    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/privacy/</loc>
-    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -363,6 +328,11 @@
   </url>
   
   <url>
+    <loc>https://aim-lab.io/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -394,6 +364,11 @@
   
   <url>
     <loc>https://aim-lab.io/author/d.-p.-oregan/</loc>
+    <lastmod>1970-01-01T01:33:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/e.-birney-and-d.-p.-oregan./</loc>
     <lastmod>1970-01-01T01:33:40+01:00</lastmod>
   </url>
   
@@ -553,6 +528,10 @@
   </url>
   
   <url>
+    <loc>https://aim-lab.io/author/alexander-ziller/</loc>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/author/alina-dima/</loc>
   </url>
   
@@ -570,10 +549,6 @@
   
   <url>
     <loc>https://aim-lab.io/author/dmitrii-usynin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/e.-birney-and-d.-p.-oregan./</loc>
   </url>
   
   <url>
