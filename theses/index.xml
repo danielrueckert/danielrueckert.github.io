@@ -5,9 +5,9 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2021</copyright><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
@@ -66,69 +66,6 @@ The high dimensionality and the size of this dataset provide perfect conditions 
 [3] Kipf, Thomas N., and Max Welling. &amp;ldquo;Semi-supervised classification with graph convolutional networks.&amp;rdquo; arXiv preprint arXiv:1609.02907 (2016).&lt;br/&gt;
 [4] Cosmo, Luca, et al. &amp;ldquo;Latent-graph learning for disease prediction.&amp;rdquo; International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2020.&lt;br/&gt;
 [5] Parisot, Sarah, et al. &amp;ldquo;Spectral graph convolutions for population-based disease prediction.&amp;rdquo; International conference on medical image computing and computer-assisted intervention. Springer, Cham, 2017.&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: A Patch-Wise Discriminator for Semi-Supervised Anomaly Segmentation</title>
-      <link>https://aim-lab.io/theses/anomaly_patch_gan/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/anomaly_patch_gan/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;The medical domain is characterized by large amounts of available data, but obtaining labels usually requires expert radiologists. The recent surge of unsupervised learning spawned valuable techniques to handle data without the necessity of these labels.
-Anomaly Detection tries to find data points that deviate from a statistical norm. This is especially useful in the medical domain as anomalies here are often indicators for diseases.&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Currently, most anomaly detection and segmentation methods train a generative model (Autoencoder or GAN) on healthy images only and use the reconstruction error of unseen samples to detect anomalies [1].
-However, the reconstruction error is suboptimal and can only detect certain anomaly types.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s why you will develop a new scoring method.
-Generative models are a natural fit for anomaly detection, since they can assess the
-likelihood of a region appearing in an image. The discriminator of a GAN trained on normal
-data only is a natural anomaly detector as its only purpose is to decide whether a presented
-sample comes from the learned distribution or not.
-You will build a GAN with a patch-wise discriminator to localize anomalies in the images.&lt;/p&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Cutting edge research in an active field of medical imaging&lt;/li&gt;
-&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
-&lt;li&gt;The opportunity to publish your work at a renown conference&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-expect&#34;&gt;What we expect&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced skills in Python and deep learning frameworks such as PyTorch, Tensorflow or JAX&lt;/li&gt;
-&lt;li&gt;Strong background in deep learning, especially in the image domain&lt;/li&gt;
-&lt;li&gt;A good feeling for behavior of neural networks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you are interested in this work and ready for a new challenge, please feel free to contact me&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Christoph Baur, Stefan Denner, Benedikt Wiestler, Nassir Navab, Shadi Albarqouni. Autoencoders for unsupervised anomaly segmentation in brain MR images: A comparative study. In Medical Image Analysis, 2021.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Evaluation of Medical Anomaly Detection Methods on Multiple Modalities</title>
-      <link>https://aim-lab.io/theses/anomaly_study/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/anomaly_study/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;The medical domain is characterized by large amounts of available data, but obtaining labels usually requires expert radiologists. The recent surge of unsupervised learning spawned valuable techniques to handle data without the necessity of these labels.
-Anomaly Detection tries to find data points that deviate from a statistical norm. This is especially useful in the medical domain as anomalies here are often indicators for diseases.
-Recently, multiple anomaly detection and segmentation methods have been compared in a comparative study by Baur et al. [1]. However, these methods have only been evaluated on FLAIR brain MR images. This modality is not well suited to evaluate anomaly detection, because, as we recently demonstrated, all methods in this study cn be outperformed via simple thresholding [2].&lt;/p&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Cutting edge research in an active field of medical imaging&lt;/li&gt;
-&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
-&lt;li&gt;The opportunity to publish your work&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-expect&#34;&gt;What we expect&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced skills in Python and deep learning frameworks such as PyTorch, Tensorflow or JAX&lt;/li&gt;
-&lt;li&gt;Strong background in deep learning, especially in the image domain&lt;/li&gt;
-&lt;li&gt;A research mindset for asking and answering the right questions (the most important thing)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you are interested in this work and ready for a new challenge, please feel free to contact me&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Christoph Baur, Stefan Denner, Benedikt Wiestler, Nassir Navab, Shadi Albarqouni. Autoencoders for unsupervised anomaly segmentation in brain MR images: A comparative study. In Medical Image Analysis, 2021.&lt;/p&gt;
-&lt;p&gt;[2] Felix Meissen, Georgios Kaissis, Daniel Rueckert. Challenging Current Semi-Supervised Anomaly Segmentation Methods for Brain MRI. arXiv:2109.06023, 2021.&lt;/p&gt;
 </description>
     </item>
     
@@ -422,6 +359,69 @@ The aim of this project is to explore OoD detection in deep learning in general,
 &lt;p&gt;We are seeking an MSc candidate with a strong background in machine learning, preferrably with previous exposure to medical imaging topics to complete their thesis at our institute. Experience with distributed systems, privacy and security issues or cryptology is desirable.
 We are offering an engaging work environment, a large, diverse team, close personal supervision and collaboration with AI, medical and privacy-preserving ML experts.&lt;/p&gt;
 &lt;p&gt;We can accommodate a wide range of interests from your side! Please get in touch with us to find an appropriate topic. We are also able to supervise guided research projects, smaller in scope than full MSc theses.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aim-lab.io/theses/anomaly_patch_gan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/anomaly_patch_gan/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The medical domain is characterized by large amounts of available data, but obtaining labels usually requires expert radiologists. The recent surge of unsupervised learning spawned valuable techniques to handle data without the necessity of these labels.
+Anomaly Detection tries to find data points that deviate from a statistical norm. This is especially useful in the medical domain as anomalies here are often indicators for diseases.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Currently, most anomaly detection and segmentation methods train a generative model (Autoencoder or GAN) on healthy images only and use the reconstruction error of unseen samples to detect anomalies [1].
+However, the reconstruction error is suboptimal and can only detect certain anomaly types.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s why you will develop a new scoring method.
+Generative models are a natural fit for anomaly detection, since they can assess the
+likelihood of a region appearing in an image. The discriminator of a GAN trained on normal
+data only is a natural anomaly detector as its only purpose is to decide whether a presented
+sample comes from the learned distribution or not.
+You will build a GAN with a patch-wise discriminator to localize anomalies in the images.&lt;/p&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cutting edge research in an active field of medical imaging&lt;/li&gt;
+&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
+&lt;li&gt;The opportunity to publish your work at a renown conference&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-expect&#34;&gt;What we expect&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced skills in Python and deep learning frameworks such as PyTorch, Tensorflow or JAX&lt;/li&gt;
+&lt;li&gt;Strong background in deep learning, especially in the image domain&lt;/li&gt;
+&lt;li&gt;A good feeling for behavior of neural networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are interested in this work and ready for a new challenge, please feel free to contact me&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Christoph Baur, Stefan Denner, Benedikt Wiestler, Nassir Navab, Shadi Albarqouni. Autoencoders for unsupervised anomaly segmentation in brain MR images: A comparative study. In Medical Image Analysis, 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://aim-lab.io/theses/anomaly_study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/anomaly_study/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;The medical domain is characterized by large amounts of available data, but obtaining labels usually requires expert radiologists. The recent surge of unsupervised learning spawned valuable techniques to handle data without the necessity of these labels.
+Anomaly Detection tries to find data points that deviate from a statistical norm. This is especially useful in the medical domain as anomalies here are often indicators for diseases.
+Recently, multiple anomaly detection and segmentation methods have been compared in a comparative study by Baur et al. [1]. However, these methods have only been evaluated on FLAIR brain MR images. This modality is not well suited to evaluate anomaly detection, because, as we recently demonstrated, all methods in this study cn be outperformed via simple thresholding [2].&lt;/p&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Cutting edge research in an active field of medical imaging&lt;/li&gt;
+&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
+&lt;li&gt;The opportunity to publish your work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-expect&#34;&gt;What we expect&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced skills in Python and deep learning frameworks such as PyTorch, Tensorflow or JAX&lt;/li&gt;
+&lt;li&gt;Strong background in deep learning, especially in the image domain&lt;/li&gt;
+&lt;li&gt;A research mindset for asking and answering the right questions (the most important thing)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are interested in this work and ready for a new challenge, please feel free to contact me&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Christoph Baur, Stefan Denner, Benedikt Wiestler, Nassir Navab, Shadi Albarqouni. Autoencoders for unsupervised anomaly segmentation in brain MR images: A comparative study. In Medical Image Analysis, 2021.&lt;/p&gt;
+&lt;p&gt;[2] Felix Meissen, Georgios Kaissis, Daniel Rueckert. Challenging Current Semi-Supervised Anomaly Segmentation Methods for Brain MRI. arXiv:2109.06023, 2021.&lt;/p&gt;
 </description>
     </item>
     
