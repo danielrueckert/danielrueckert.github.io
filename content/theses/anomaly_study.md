@@ -1,7 +1,7 @@
 ---
-title: "MSc Thesis: Evaluation of Medical Anomaly Detection Methods on Multiple Modalities"
-date: 2021-10-04
-authors: ["FelixMeissen"]
+# title: "MSc Thesis: Evaluation of Medical Anomaly Detection Methods on Multiple Modalities"
+# date: 2021-10-04
+# authors: ["FelixMeissen"]
 ---
 
 ## Description
