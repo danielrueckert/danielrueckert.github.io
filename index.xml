@@ -5,67 +5,42 @@
     <link>https://aim-lab.io/</link>
       <atom:link href="https://aim-lab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI in Medicine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>AI in Medicine</title>
       <link>https://aim-lab.io/</link>
     </image>
     
     <item>
-      <title>MSc Thesis: End-to-end prediction on CT images of PDAC patients</title>
-      <link>https://aim-lab.io/theses/pancreas/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/pancreas/</guid>
-      <description>&lt;p&gt;Pancreatic ductal adenocarcinoma (PDAC) is considered the fourteenth most common cancer globally, the seventh on the list of causes of cancer death in 2020, and the fourth in 2021.
-To further investigate the causes and therapy for affected patients we aim to extend our previous work. This project is ideal for students who like to work on applied deep learning.
-Tasks vary from simple hyperparameter optimisation to dedicated auxillary networks and multi-task learning. If you are interested kindly send us a message including your CV, transcript of records, and very briefly what you are looking for, expecting in your thesis, your talents and interests in regard to this thesis are and if applicable a short description of a project that you did. We are looking forward to your message.&lt;/p&gt;
+      <title>MSc Thesis: Adversarial attacks in collaborative machine learning</title>
+      <link>https://aim-lab.io/theses/attacks/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/attacks/</guid>
+      <description>&lt;p&gt;Collaborative machine learning has became the new paradigm-of-choice when it comes to training deep learning models in many fields, including medical image analysis. Due to a number of data protection and governance regulations being introduced, direct data sharing for such training is rendered problematic. As a result implementations that rely on local training, such as federated learning (FL) have been widely adopted. However, a number of studies [1,2] have shown that such paradigms are deeply vulnerable to adversarial influence either in the form of privacy violation [3] or utility degradation [4]. Fortunately for the research community, such attacks are often very fragile and require a number of assumptions to hold in practise. The aim of this project is to explore the recent advances in adversarial machine learning in order to investigate how to adapt them to the real-world machine learning contexts in order to encourage the research community and policymakers to employ safe, robust and privacy-preserving systems when working with sensitive personally-identifying information.&lt;/p&gt;
+&lt;p&gt;This project is deliberately very open-ended, as there is a large number of various attack vectors that could be pursued: attacks on membership, reconstruction of sensitive attributes or training samples, insertion of auxiliary learning tasks etc. Our lab has experience primarily with privacy-oriented attacks on machine learning, but we are otherwise happy to consider students with interest in any other attack formulation.&lt;/p&gt;
+&lt;p&gt;We additionally consider students interested in attacks on software systems outside of machine learning, but can offer limited guidance on such proposals.&lt;/p&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Enthusiasm for deep learning.&lt;/li&gt;
+&lt;li&gt;Basic familiarity with existing collaborative machine learning paradigms, preferably federated learning.&lt;/li&gt;
+&lt;li&gt;Basic familiarity with attacks on machine learning models (all information can be found in the references).&lt;/li&gt;
 &lt;li&gt;Advanced knowledge of machine learning and computer vision.&lt;/li&gt;
 &lt;li&gt;Excellent programming skills in Python and PyTorch.&lt;/li&gt;
-&lt;li&gt;Prior knowledge on survival analysis and statistics is helpful.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Exciting research projects with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Working in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
-&lt;li&gt;Enough freedom to pursue your own project while providing the guidance you need&lt;/li&gt;
+&lt;li&gt;Ability to perform cutting edge research in the field of adversarial and privacy-preserving machine learning.&lt;/li&gt;
+&lt;li&gt;Closely working and collaborating with a team of experts in privacy-preserving machine learning, deep learning and medical image analysis.&lt;/li&gt;
+&lt;li&gt;This project is targeting publication at leading privacy and security conferences/journals (e.g. PETS)
+&lt;br/&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;br/&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Kaissis, Georgios, et al. &amp;ldquo;A machine learning algorithm predicts molecular subtypes in pancreatic ductal adenocarcinoma with differential response to gemcitabine-based versus FOLFIRINOX chemotherapy.&amp;rdquo; PloS one 14.10 (2019): e0218642.&lt;/br&gt;
-[2] Harder, Felix N., et al. &amp;ldquo;[18F] FDG PET/MRI enables early chemotherapy response prediction in pancreatic ductal adenocarcinoma.&amp;rdquo; EJNMMI research 11.1 (2021): 1-11.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis/Guided Research Project: Age Prediction with Graph Neural Networks on UK BioBank data</title>
-      <link>https://aim-lab.io/theses/ukbb/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/ukbb/</guid>
-      <description>&lt;p&gt;&lt;b&gt;About the dataset&lt;/b&gt;: The &lt;a href=&#34;https://www.ukbiobank.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK BioBank&lt;/a&gt; is a large medical dataset, containing data of about 50,000 participants. It holds images (brain MRI, abdominal MRI) as well as several thousand clinical parameters of the participants (demographic data, lifestyle data, clinical diagnoses,…). The lack of available data is a big challenge in medical applications of artificial intelligence. Therefore, the UK Biobank holds great potential to explore ML techniques on a large standardised dataset.
-&lt;br/&gt;
-&lt;b&gt;Methods:&lt;/b&gt; Graph Neural Networks (GNNs) are currently a hot topic in research. They provide a method for deep learning, directly applied on graph structured data. The goal of this project is to build a population graph, which holds extracted information from both, imaging data and clinical features, to predict the participants’ age. The advantage of building a population graph is that it allows to explore the whole dataset in one data structure. By comparing the actual biological age versus the predicted age from the network, we can draw conclusions about the participants’ health.
-The high dimensionality and the size of this dataset provide perfect conditions for data exploration and gives the freedom to implement own ideas and personal interests.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Prior knowledge in deep learning and computer vision&lt;/li&gt;
-&lt;li&gt;Very good programming skills in PyTorch&lt;/li&gt;
-&lt;li&gt;Interest in graph neural networks and geometric deep learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you are interested, please send us an email with your CV attached. We are looking forward to your message!&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Wu, Zonghan, et al. &amp;ldquo;A comprehensive survey on graph neural networks.&amp;rdquo; IEEE transactions on neural networks and learning systems 32.1 (2020): 4-24.&lt;br/&gt;
-[2] Tarroni, Giacomo, et al. &amp;ldquo;Large-scale Quality control of cardiac imaging in population Studies: Application to UK Biobank.&amp;rdquo; Scientific reports 10.1 (2020): 1-11.&lt;br/&gt;
-[3] Kipf, Thomas N., and Max Welling. &amp;ldquo;Semi-supervised classification with graph convolutional networks.&amp;rdquo; arXiv preprint arXiv:1609.02907 (2016).&lt;br/&gt;
-[4] Cosmo, Luca, et al. &amp;ldquo;Latent-graph learning for disease prediction.&amp;rdquo; International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2020.&lt;br/&gt;
-[5] Parisot, Sarah, et al. &amp;ldquo;Spectral graph convolutions for population-based disease prediction.&amp;rdquo; International conference on medical image computing and computer-assisted intervention. Springer, Cham, 2017.&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;[1] Usynin, Dmitrii, et al. &amp;ldquo;Adversarial interference and its mitigations in privacy-preserving collaborative machine learning.&amp;rdquo; Nature Machine Intelligence 3.9 (2021): 749-758.&lt;/p&gt;
+&lt;p&gt;[2] Usynin, Dmitrii, et al. &amp;ldquo;Distributed Machine Learning and the Semblance of Trust.&amp;rdquo; arXiv preprint arXiv:2112.11040 (2021).&lt;/p&gt;
+&lt;p&gt;[3] Shokri, Reza, et al. &amp;ldquo;Membership inference attacks against machine learning models.&amp;rdquo; 2017 IEEE Symposium on Security and Privacy (SP). IEEE, 2017.&lt;/p&gt;
+&lt;p&gt;[4] Bagdasaryan, Eugene, et al. &amp;ldquo;How to backdoor federated learning.&amp;rdquo; International Conference on Artificial Intelligence and Statistics. PMLR, 2020.&lt;/p&gt;
 </description>
     </item>
     
