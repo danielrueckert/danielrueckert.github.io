@@ -18,7 +18,7 @@ organizations:
   url: "https://www.translatum.tum.de/forschungsgruppen/ki-in-der-medizin/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning in medical imaging as well as Privacy-preserving Machine Learning.
+bio: My research interests include Privacy-preserving Machine Learning as well as deep learning in medical imaging.
 
 interests:
 - Artifical Intelligence in Medicine
