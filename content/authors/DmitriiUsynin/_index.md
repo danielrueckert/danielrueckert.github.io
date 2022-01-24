@@ -21,7 +21,7 @@ organizations:
   url: "https://biomedia.doc.ic.ac.uk/person/dmitrii-usynin/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning in medical imaging as well as prisecure and private AI.
+bio: Attacks on machine learning, privacy-preserving machine learning.
 
 interests:
 - Artifical Intelligence in Medicine

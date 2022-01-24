@@ -1,7 +1,8 @@
 ---
-# title: "MSc Thesis: A Patch-Wise Discriminator for Semi-Supervised Anomaly Segmentation"
-# date: 2021-10-04
-# authors: ["FelixMeissen"]
+title: "MSc Thesis: A Patch-Wise Discriminator for Semi-Supervised Anomaly Segmentation"
+date: 2021-10-04
+draft: true
+authors: ["FelixMeissen"]
 ---
 
 ## Introduction

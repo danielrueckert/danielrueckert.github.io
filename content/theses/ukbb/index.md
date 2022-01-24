@@ -2,6 +2,7 @@
 title: "MSc Thesis/Guided Research Project: Age Prediction with Graph Neural Networks on UK BioBank data"
 date: 2021-10-15
 authors: ["TamaraMueller"]
+draft: true
 tags:
     - UK BioBank
     - Geometric Deep Learning
