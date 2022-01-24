@@ -12,7 +12,7 @@ In this course students are given the chance to apply their abilities and knowle
 In short this course offers students to:
  - Apply Deep Learning in the real world
  - Work on medical data and potentially help diagnose and analyse health related problems
- - Close supervision of PhD students with specialization in AI
+ - Close supervision by PhD students with specialization in AI
  - Collaboration with medical experts
  - Work on the intersection between medicine and computer science
 ## Prerequisites:
