@@ -5,105 +5,53 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
     
     <item>
-      <title>MSc Thesis: Adversarial attacks in collaborative machine learning</title>
-      <link>https://aim-lab.io/theses/attacks/</link>
-      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/attacks/</guid>
-      <description>&lt;p&gt;Collaborative machine learning has became the new paradigm-of-choice when it comes to training deep learning models in many fields, including medical image analysis. Due to a number of data protection and governance regulations being introduced, direct data sharing for such training is rendered problematic. As a result implementations that rely on local training, such as federated learning (FL) have been widely adopted. However, a number of studies [1,2] have shown that such paradigms are deeply vulnerable to adversarial influence either in the form of privacy violation [3] or utility degradation [4]. Fortunately for the research community, such attacks are often very fragile and require a number of assumptions to hold in practise. The aim of this project is to explore the recent advances in adversarial machine learning in order to investigate how to adapt them to the real-world machine learning contexts in order to encourage the research community and policymakers to employ safe, robust and privacy-preserving systems when working with sensitive personally-identifying information.&lt;/p&gt;
-&lt;p&gt;This project is deliberately very open-ended, as there is a large number of various attack vectors that could be pursued: attacks on membership, reconstruction of sensitive attributes or training samples, insertion of auxiliary learning tasks etc. Our lab has experience primarily with privacy-oriented attacks on machine learning, but we are otherwise happy to consider students with interest in any other attack formulation.&lt;/p&gt;
-&lt;p&gt;We additionally consider students interested in attacks on software systems outside of machine learning, but can offer limited guidance on such proposals.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+      <title>Practical Course: Applied Deep Learning in Medicine</title>
+      <link>https://aim-lab.io/theses/practical/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/practical/</guid>
+      <description>&lt;p&gt;In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan. Deep Learning methods will be applied to solve tasks to achieve the goal that is agreed upon. Datasets will be explored and analysed in several directions and different approaches will be evaluated and compared.
+In short this course offers students to:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Basic familiarity with existing collaborative machine learning paradigms, preferably federated learning.&lt;/li&gt;
-&lt;li&gt;Basic familiarity with attacks on machine learning models (all information can be found in the references).&lt;/li&gt;
-&lt;li&gt;Advanced knowledge of machine learning and computer vision.&lt;/li&gt;
-&lt;li&gt;Excellent programming skills in Python and PyTorch.&lt;/li&gt;
+&lt;li&gt;Apply Deep Learning in the real world&lt;/li&gt;
+&lt;li&gt;Work on medical data and potentially help diagnose and analyse health related problems&lt;/li&gt;
+&lt;li&gt;Close supervision of PhD students with specialization in AI&lt;/li&gt;
+&lt;li&gt;Collaboration with medical experts&lt;/li&gt;
+&lt;li&gt;Work on the intersection between medicine and computer science&lt;/li&gt;
 &lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Ability to perform cutting edge research in the field of adversarial and privacy-preserving machine learning.&lt;/li&gt;
-&lt;li&gt;Closely working and collaborating with a team of experts in privacy-preserving machine learning, deep learning and medical image analysis.&lt;/li&gt;
-&lt;li&gt;This project is targeting publication at leading privacy and security conferences/journals (e.g. PETS)
-&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;Completed at least one or several machine learning or deep learning courses (e.g. Intro to Deep Learning, Advanced Deep Learning, Machine Learning etc) with good grades. Knowledge about augmentation, optimizer, common model architectures, etc.&lt;/li&gt;
+&lt;li&gt;Good coding skills in python&lt;/li&gt;
+&lt;li&gt;Coding experience in one or more deep learning frameworks (Tensorflow, PyTorch, etc)&lt;/li&gt;
+&lt;li&gt;Enthusiasm for the application in the medical field&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Usynin, Dmitrii, et al. &amp;ldquo;Adversarial interference and its mitigations in privacy-preserving collaborative machine learning.&amp;rdquo; Nature Machine Intelligence 3.9 (2021): 749-758.&lt;/p&gt;
-&lt;p&gt;[2] Usynin, Dmitrii, et al. &amp;ldquo;Distributed Machine Learning and the Semblance of Trust.&amp;rdquo; arXiv preprint arXiv:2112.11040 (2021).&lt;/p&gt;
-&lt;p&gt;[3] Shokri, Reza, et al. &amp;ldquo;Membership inference attacks against machine learning models.&amp;rdquo; 2017 IEEE Symposium on Security and Privacy (SP). IEEE, 2017.&lt;/p&gt;
-&lt;p&gt;[4] Bagdasaryan, Eugene, et al. &amp;ldquo;How to backdoor federated learning.&amp;rdquo; International Conference on Artificial Intelligence and Statistics. PMLR, 2020.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: A Patch-Wise Discriminator for Semi-Supervised Anomaly Segmentation</title>
-      <link>https://aim-lab.io/theses/anomaly_patch_gan/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/anomaly_patch_gan/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;The medical domain is characterized by large amounts of available data, but obtaining labels usually requires expert radiologists. The recent surge of unsupervised learning spawned valuable techniques to handle data without the necessity of these labels.
-Anomaly Detection tries to find data points that deviate from a statistical norm. This is especially useful in the medical domain as anomalies here are often indicators for diseases.&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Currently, most anomaly detection and segmentation methods train a generative model (Autoencoder or GAN) on healthy images only and use the reconstruction error of unseen samples to detect anomalies [1].
-However, the reconstruction error is suboptimal and can only detect certain anomaly types.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s why you will develop a new scoring method.
-Generative models are a natural fit for anomaly detection, since they can assess the
-likelihood of a region appearing in an image. The discriminator of a GAN trained on normal
-data only is a natural anomaly detector as its only purpose is to decide whether a presented
-sample comes from the learned distribution or not.
-You will build a GAN with a patch-wise discriminator to localize anomalies in the images.&lt;/p&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Cutting edge research in an active field of medical imaging&lt;/li&gt;
-&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
-&lt;li&gt;The opportunity to publish your work at a renown conference&lt;/li&gt;
+&lt;li&gt;Ability to tackle applied deep learning projects in a structured manner with a good overview of possibilities&lt;/li&gt;
+&lt;li&gt;Gained insight into the problems of medical data&lt;/li&gt;
+&lt;li&gt;Final outcome as a useful insight or tool for medical professionals&lt;/li&gt;
+&lt;li&gt;If possible outcome will be published in a peer-reviewed venue&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;what-we-expect&#34;&gt;What we expect&lt;/h2&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Advanced skills in Python and deep learning frameworks such as PyTorch, Tensorflow or JAX&lt;/li&gt;
-&lt;li&gt;Strong background in deep learning, especially in the image domain&lt;/li&gt;
-&lt;li&gt;A good feeling for behavior of neural networks&lt;/li&gt;
+&lt;li&gt;Students will work in teams of three&lt;/li&gt;
+&lt;li&gt;Each group will be assigned one medical dataset&lt;/li&gt;
+&lt;li&gt;(Bi)weekly meetings with progress reports&lt;/li&gt;
+&lt;li&gt;Final presentation&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;If you are interested in this work and ready for a new challenge, please feel free to contact me&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Christoph Baur, Stefan Denner, Benedikt Wiestler, Nassir Navab, Shadi Albarqouni. Autoencoders for unsupervised anomaly segmentation in brain MR images: A comparative study. In Medical Image Analysis, 2021.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Evaluation of Medical Anomaly Detection Methods on Multiple Modalities</title>
-      <link>https://aim-lab.io/theses/anomaly_study/</link>
-      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/anomaly_study/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;The medical domain is characterized by large amounts of available data, but obtaining labels usually requires expert radiologists. The recent surge of unsupervised learning spawned valuable techniques to handle data without the necessity of these labels.
-Anomaly Detection tries to find data points that deviate from a statistical norm. This is especially useful in the medical domain as anomalies here are often indicators for diseases.
-Recently, multiple anomaly detection and segmentation methods have been compared in a comparative study by Baur et al. [1]. However, these methods have only been evaluated on FLAIR brain MR images. This modality is not well suited to evaluate anomaly detection, because, as we recently demonstrated, all methods in this study cn be outperformed via simple thresholding [2].&lt;/p&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Cutting edge research in an active field of medical imaging&lt;/li&gt;
-&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
-&lt;li&gt;The opportunity to publish your work&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-expect&#34;&gt;What we expect&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced skills in Python and deep learning frameworks such as PyTorch, Tensorflow or JAX&lt;/li&gt;
-&lt;li&gt;Strong background in deep learning, especially in the image domain&lt;/li&gt;
-&lt;li&gt;A research mindset for asking and answering the right questions (the most important thing)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you are interested in this work and ready for a new challenge, please feel free to contact me&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Christoph Baur, Stefan Denner, Benedikt Wiestler, Nassir Navab, Shadi Albarqouni. Autoencoders for unsupervised anomaly segmentation in brain MR images: A comparative study. In Medical Image Analysis, 2021.&lt;/p&gt;
-&lt;p&gt;[2] Felix Meissen, Georgios Kaissis, Daniel Rueckert. Challenging Current Semi-Supervised Anomaly Segmentation Methods for Brain MRI. arXiv:2109.06023, 2021.&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
+&lt;p&gt;For more information on this practical we recommend participation in our preliminary meeting taking place &lt;b&gt;2nd of February 2022 at 15:00&lt;/b&gt; on zoom: &lt;/br&gt;
+&lt;a href=&#34;https://tum-conf.zoom.us/j/67021473624&#34;&gt;https://tum-conf.zoom.us/j/67021473624&lt;/a&gt; &lt;/br&gt;
+Meeting-ID: 670 2147 3624 &lt;/br&gt;
+Code: 515230 &lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     
