@@ -33,8 +33,5 @@ In short this course offers students to:
  - Final presentation
 
 ## Preliminary meeting
-For more information on this practical we recommend participation in our preliminary meeting taking place <b>2nd of February 2022 at 15:00</b> on zoom: </br>
-https://tum-conf.zoom.us/j/67021473624 </br>
-Meeting-ID: 670 2147 3624 </br>
-Code: 515230 </br>
+[Slides](PracticalPreMeeting.pdf)
 
