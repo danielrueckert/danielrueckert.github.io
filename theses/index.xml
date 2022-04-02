@@ -22,6 +22,11 @@
 &lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
 &lt;p&gt;We are looking for a highly motivated Master’s student who will establish a comprehensive bioinformatics pipeline to extract information from these images. You will be working together with computational scientists at the AI in Medicine Lab and wet-lab scientists (Prof. Andreas Pichlmair group, Virology). Importantly, your results will be functionally tested iteratively and used to further improve the predictive power of your model.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Advanced programming skills in Python&lt;/li&gt;
+&lt;li&gt;Strong background in deep learning and image analysis&lt;/li&gt;
+&lt;li&gt;Strong interest in working in an interdisciplinary team&lt;/li&gt;
+&lt;/ol&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
 &lt;ul&gt;
@@ -30,7 +35,6 @@
 &lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biology and medicine.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 </description>
     </item>
     
@@ -379,9 +383,9 @@ The objective of this thesis is to develop a learning-based pipeline, and invest
     
     <item>
       <title>MSc Thesis: Distributionally robust neural networks in medical imaging</title>
-      <link>https://aim-lab.io/theses/robust/</link>
+      <link>https://aim-lab.io/theses/old/robust/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/robust/</guid>
+      <guid>https://aim-lab.io/theses/old/robust/</guid>
       <description>&lt;p&gt;Deep learning has revolutionized the field of medical imaging. However, the performance of a model drops when the distribution of the test data is different from the distribution of the training data. This is especially critical in a medical setting, where the amount of labelled training data is often limited, and in particular for the application in clinical routine, where the distribution of the test data cannot be controlled. Typical problems are here domain shift, bias in the training data and out-of-distribution samples (e.g., pathologies, image artefacts).
 In this project, we will explore distributionally robust optimization (DRO) [1,2] for deep learning in medical imaging. Instead of minimizing the average loss of a training set, DRO minimizes the worst-case risk and with this optimizes the performances on ”hard” examples. The student will adapt and develop novel methods using DRO for medical imaging applications (classification, segmentation and/or registration.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
@@ -399,9 +403,9 @@ In this project, we will explore distributionally robust optimization (DRO) [1,2
     
     <item>
       <title>MSc Thesis: Out-of-distribution detection using contrastive training for medical imaging</title>
-      <link>https://aim-lab.io/theses/oodd/</link>
+      <link>https://aim-lab.io/theses/old/oodd/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/oodd/</guid>
+      <guid>https://aim-lab.io/theses/old/oodd/</guid>
       <description>&lt;p&gt;Deep learning has revolutionized the field of medical imaging. However, the performance of a model drops when the distribution of the test data is different from the distribution of the training data. This is especially critical in a medical setting, where the amount of labelled training data is often limited, and in particular for the application in clinical routine, where the distribution of the test data cannot be controlled. The automatic detection of such Out-of-Distribution (OoD) samples at inference is important for the design of reliable models, but also to identify poor quality images and pathologies not seen during training.&lt;/p&gt;
 &lt;p&gt;Recently, contrastive learning has shown to provide state-of-the-art results for OoD in image classification benchmarks [1]. Contrastive learning is an approach to formulate the task of finding similar and dissimilar samples during training. One advantage of the proposed method is that no OoD data is required during training.
 The aim of this project is to explore OoD detection in deep learning in general, and in particular the use of contrastive training. The student will develop and implement (novel) methods for image classification, segmentation, and/or registration in a medical application.&lt;/p&gt;
