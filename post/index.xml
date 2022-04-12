@@ -1,16 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Chair for AI in Medicine and Healthcare</title>
-    <link>https://danielrueckert.github.io/post/</link>
-      <atom:link href="https://danielrueckert.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright>
+    <title>News | AI in Medicine</title>
+    <link>https://aim-lab.io/post/</link>
+      <atom:link href="https://aim-lab.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Tue, 12 Apr 2022 13:45:38 +0200</lastBuildDate>
     <image>
-      <url>https://danielrueckert.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Posts</title>
-      <link>https://danielrueckert.github.io/post/</link>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <title>News</title>
+      <link>https://aim-lab.io/post/</link>
     </image>
+    
+    <item>
+      <title>New Module IN2409: Inverse Problems in Medical Imaging</title>
+      <link>https://aim-lab.io/post/inverse-problems/</link>
+      <pubDate>Tue, 12 Apr 2022 13:45:38 +0200</pubDate>
+      <guid>https://aim-lab.io/post/inverse-problems/</guid>
+      <description>&lt;p&gt;This module will be held as a &lt;em&gt;joint online course&lt;/em&gt; between Technical University of Munich (TUM) and  Graz University of Technology (TUG). We offer an interactive lecture, theoretical and practical exercises, as well as international networking opportunities to our students.&lt;/p&gt;
+&lt;h1 id=&#34;lecture-content&#34;&gt;Lecture Content&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction, Basics and Applications, Definition Inverse Problem&lt;/li&gt;
+&lt;li&gt;The Eigenvalue Problem, solving Quadratic Inverse Problems&lt;/li&gt;
+&lt;li&gt;Singular Value Decomposition&lt;/li&gt;
+&lt;li&gt;Inverse Methods Based on Length&lt;/li&gt;
+&lt;li&gt;The Generalized Inverse&lt;/li&gt;
+&lt;li&gt;Nonlinear Inverse Problems&lt;/li&gt;
+&lt;li&gt;Regularization&lt;/li&gt;
+&lt;li&gt;Inverse Problems in Imaging&lt;/li&gt;
+&lt;li&gt;Application: Computed Tomography&lt;/li&gt;
+&lt;li&gt;Application: Magnetic Resonance Imaging&lt;/li&gt;
+&lt;li&gt;Connections to Machine Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;target-group&#34;&gt;Target Group&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Master&amp;rsquo;s students and PhD students&lt;/li&gt;
+&lt;li&gt;Interest in Mathematics, Biomedical Imaging, Magnetic Resonance Imaging&lt;/li&gt;
+&lt;li&gt;Students of Informatics, Mathematics, Biomedical Engineering, Physics and related studies&lt;/li&gt;
+&lt;li&gt;Required: Basic knowledge of Mathematics (Bachelor&amp;rsquo;s courses)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;registration&#34;&gt;Registration&lt;/h1&gt;
+&lt;p&gt;Registration has to be conducted in TUMonline. Registration is open for students of Informatics, students from other fields can be manually enrolled to the courses. The module IN2409 consists of a lecture class and an exercise class.&lt;/p&gt;
+&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:k.hammernik@tum.de&#34;&gt;Kerstin Hammernik&lt;/a&gt;, Technical University of Munich&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:c.graf@tugraz.at&#34;&gt;Christina Graf&lt;/a&gt;, Graz University of Technology&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
