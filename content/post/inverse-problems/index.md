@@ -4,7 +4,7 @@
 title: "New Module IN2409: Inverse Problems in Medical Imaging"
 subtitle: "Joint online course with Graz University of Technology"
 summary: "This module will be held as a _joint online course_ between Technical University of Munich (TUM) and  Graz University of Technology (TUG). We offer an interactive lecture, theoretical and practical exercises, as well as international networking opportunities to our students."
-authors: ["K. Hammernik"]
+authors: ["Kerstin Hammernik"]
 tags: []
 categories: []
 date: 2022-04-12T13:45:38+02:00
