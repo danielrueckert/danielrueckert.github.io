@@ -24,14 +24,13 @@ interests:
 - Multi-modality Image Analysis
 - Domain Transfer 
 
-
 education:
   
   courses:
   - course: MSc in Biomedical Engineering
     institution: Tsinghua University, China
     year: 2021
-    
+
   - course: BSc in Computer Science and Engineering
     institution: Northeastern University, China
     year: 2018

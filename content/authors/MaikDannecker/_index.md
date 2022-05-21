@@ -21,17 +21,22 @@ organizations:
 bio: My research interests include machine learning in medical imaging
 
 interests:
-- Machine Learning
-- Geometric Deep Learning
-- Medical Image Computing
+- Medical Imaging
+- Deep Learning
+- Biomarker Discovery
+- Demystifying The Human Brain
 
 education:
   
   courses:
-  - course: MSc in Computer Science and Engineering
-    institution: EPITA, Paris, France
+  - course: MSc in Informactics
+    institution: Technical University of Munich, Germany
     year: 2021
-  
+    
+  - course: BSc in Informatics
+    institution: Technical University of Munich, Germany
+    year: 2019
+   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -39,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:sophie.starck@tum.de
+  link: mailto:m.dannecker@tum.de
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -47,7 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sophie.starck@tum.de"
+email: "m.dannecker@tum.de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -55,4 +60,4 @@ user_groups:
 - "Researchers"
 ---
 
-Sophie Starck is an intern at the Institute for Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Bachelor’s degree in Computer Science and Engineering from EPITA (School of Engineering and Computer Science) and will receive her Master’s degree in image processing and computer graphics from EPITA in 2021. She is very enthusiastic about machine learning in the field of medical imaging. Her research interests are focused on the applications of geometric deep learning for medical diagnosis.
+Maik Dannecker is a PhD student at the Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). He received his Bachelor’s and Master's degrees in Informatics from TUM. In this Master's thesios he compared classic and deep learning methods for deformable image registration in CT scans of the lungs. In his PhD he is developing methods for the quatification and prediction of abnormal growth of the brain in fetal MRI.
