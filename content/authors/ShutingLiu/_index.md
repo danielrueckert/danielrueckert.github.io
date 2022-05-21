@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Sophie Starck
+title: Shuting Liu
 
 # Username (this should match the folder name)
 authors:
-- SophieStarck
+- ShutingLiu
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,16 +21,20 @@ organizations:
 bio: My research interests include machine learning in medical imaging
 
 interests:
-- Machine Learning
-- Geometric Deep Learning
-- Medical Image Computing
+- Multi-modality Image Analysis
+- Domain Transfer 
+
 
 education:
   
   courses:
-  - course: MSc in Computer Science and Engineering
-    institution: EPITA, Paris, France
+  - course: MSc in Biomedical Engineering
+    institution: Tsinghua University, China
     year: 2021
+    
+  - course: BSc in Computer Science and Engineering
+    institution: Northeastern University, China
+    year: 2018
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:sophie.starck@tum.de
+  link: mailto:shuting.liu@tum.de
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -47,7 +51,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sophie.starck@tum.de"
+email: "shuting.liu@tum.de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -55,4 +59,4 @@ user_groups:
 - "Researchers"
 ---
 
-Sophie Starck is an intern at the Institute for Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Bachelor’s degree in Computer Science and Engineering from EPITA (School of Engineering and Computer Science) and will receive her Master’s degree in image processing and computer graphics from EPITA in 2021. She is very enthusiastic about machine learning in the field of medical imaging. Her research interests are focused on the applications of geometric deep learning for medical diagnosis.
+Shuting Liu is a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Master’s degree in Tsinghua University, Beijing, China. Her previous research focused on virtual immunohistochemical stain transfer based on Generative Adversarial Network. Her research interests include deep learning for domain transfer and multi-modality images analysis.
