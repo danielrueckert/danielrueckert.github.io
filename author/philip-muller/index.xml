@@ -1,38 +1,119 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Philip Müller on AI in Medicine</title>
+    <title>Philip Müller | AI in Medicine</title>
     <link>https://aim-lab.io/author/philip-muller/</link>
-    <description>Recent content in Philip Müller on AI in Medicine</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Technical University of Munich {year}</copyright>
-    <lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aim-lab.io/author/philip-muller/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://aim-lab.io/author/philip-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philip Müller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <title>Philip Müller</title>
+      <link>https://aim-lab.io/author/philip-muller/</link>
+    </image>
+    
     <item>
       <title>MSc Thesis: Contrastive Pre-Training for Radiology Reports</title>
       <link>https://aim-lab.io/theses/report_pretraining/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://aim-lab.io/theses/report_pretraining/</guid>
-      <description>In recent years transformer-based language models have proven quite successful in the field of natural language processing (NLP). These models require huge amounts of training data and are therefore typically pre-trained on unlabelled datasets using self-supervised objectives like masked language modelling (MLM) as proposed in BERT [1].</description>
+      <description>&lt;p&gt;In recent years transformer-based language models have proven quite successful in the field of natural language processing (NLP).
+These models require huge amounts of training data and are therefore typically pre-trained on unlabelled datasets using self-supervised objectives
+like masked language modelling (MLM) as proposed in BERT [1].
+While models like BioBERT [2] are pre-trained on the medical domain, the used pre-training objectives like MLM treat text as independent sentences and do not utilise the structure of medical documents.
+In this project we instead make use of the semi-structured nature of radiology reports and apply contrastive methods on the sections of these reports.
+Your task is the adaptation of such contrastive methods (e.g. SimCLR [3], BYOL [4], DINO [5], …) to be used effectively on language models.&lt;/p&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware&lt;/li&gt;
+&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
+&lt;li&gt;Cutting-edge research in Medical NLP with the opportunity to publish your work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Advanced programming skills in Python and deep learning frameworks like PyTorch, JAX, or Tensorflow&lt;/li&gt;
+&lt;li&gt;Strong background in deep learning, preferable (but not required) with experience in NLP&lt;/li&gt;
+&lt;li&gt;Basic familiarity with self-supervised methods like SimCLR is preferable but not required&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[1] J. Devlin et al. “Bert: Pre-training of deep bidirectional transformers for language understanding.”  arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/1810.04805&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:1810.04805]&lt;/a&gt; (2018).&lt;/li&gt;
+&lt;li&gt;[2] J. Lee et al. “BioBERT: a pre-trained biomedical language representation model for biomedical text mining.” Bioinformatics 4.36 &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/36/4/1234/5566506&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2020)&lt;/li&gt;
+&lt;li&gt;[3] T. Chen et al. “Big Self-Supervised Models are Strong Semi-Supervised Learners.” NeurIPS &lt;a href=&#34;https://arxiv.org/abs/2006.10029&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:2006.10029]&lt;/a&gt; (2020)&lt;/li&gt;
+&lt;li&gt;[4] J. Grill et al. “Bootstrap Your Own Latent A New Approach to Self-Supervised Learning.” NIPS &lt;a href=&#34;https://papers.nips.cc/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2020)&lt;/li&gt;
+&lt;li&gt;[5] M. Caron et al. &amp;ldquo;Emerging Properties in Self-Supervised Vision Transformers.&amp;rdquo; ICCV &lt;a href=&#34;https://arxiv.org/abs/2104.14294&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:2104.14294]&lt;/a&gt; (2021)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>MSc Thesis: Region-guided Chest X-Ray Report Generation</title>
       <link>https://aim-lab.io/theses/report_generation/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://aim-lab.io/theses/report_generation/</guid>
-      <description>In clinical practice, medical experts like radiologists routinely write radiology reports for chest X-rays. Report generation models [1, 2, 3] try to generate such reports automatically given only the chest X-ray images without the need for human intervention.</description>
+      <description>&lt;p&gt;In clinical practice, medical experts like radiologists routinely write radiology reports for chest X-rays. Report generation models [1, 2, 3] try to generate such reports automatically given only the chest X-ray images without the need for human intervention. While such generation models are an interesting research topic, their practical use is limited as they often lack factual completeness and consistency [2] and are typically unable to include additional information not contained in the image.
+Instead of generating reports fully automatically, we plan to keep the medical expert in the loop but try to assist during the creation of reports by providing sentence proposals or autocomplete for pre-defined regions (of the chest X-ray) selected by the user.&lt;/p&gt;
+&lt;p&gt;The goal of this project is to create a deep learning model that predicts report sentences for regions in chest X-rays. You use a model with a CNN-based image encoder and a transformer-based language model (e.g. a conditioned GPT-2 as in [4]).&lt;/p&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware&lt;/li&gt;
+&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
+&lt;li&gt;Cutting-edge research in Medical NLP with the opportunity to publish your work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Advanced programming skills in Python and deep learning frameworks like PyTorch, JAX, or Tensorflow&lt;/li&gt;
+&lt;li&gt;Strong background in deep learning, preferable with experience in computer vision or NLP&lt;/li&gt;
+&lt;li&gt;Basic familiarity with transformer-based language models and/or text generation is preferable but not required&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[1] J. Lovelace &amp;amp; B. Mortazavi &amp;ldquo;Learning to Generate Clinically Coherent Chest X-Ray Reports.&amp;rdquo; EMNLP &lt;a href=&#34;https://aclanthology.org/2020.findings-emnlp.110.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2020)&lt;/li&gt;
+&lt;li&gt;[2] Y. Miura et al. &amp;ldquo;Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation.&amp;rdquo; NAACL &lt;a href=&#34;https://aclanthology.org/2021.naacl-main.416.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2021)&lt;/li&gt;
+&lt;li&gt;[3] G. Liu et al. &amp;ldquo;Clinically Accurate Chest X-Ray Report Generation.&amp;rdquo; Machine Learning for Healthcare Conference &lt;a href=&#34;http://proceedings.mlr.press/v106/liu19a/liu19a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2019)&lt;/li&gt;
+&lt;li&gt;[4] O. Alfarghaly et al. &amp;ldquo;Automated radiology report generation using conditioned transformers.&amp;rdquo; Informatics in Medicine Unlocked 24 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2352914821000472&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2021)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Practical Course: Applied Deep Learning in Medicine</title>
       <link>https://aim-lab.io/theses/practical/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://aim-lab.io/theses/practical/</guid>
-      <description>In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan.</description>
+      <description>&lt;p&gt;In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan. Deep Learning methods will be applied to solve tasks to achieve the goal that is agreed upon. Datasets will be explored and analysed in several directions and different approaches will be evaluated and compared.
+In short this course offers students to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply Deep Learning in the real world&lt;/li&gt;
+&lt;li&gt;Work on medical data and potentially help diagnose and analyse health related problems&lt;/li&gt;
+&lt;li&gt;Close supervision by PhD students with specialization in AI&lt;/li&gt;
+&lt;li&gt;Collaboration with medical experts&lt;/li&gt;
+&lt;li&gt;Work on the intersection between medicine and computer science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Completed at least one or several machine learning or deep learning courses (e.g. Intro to Deep Learning, Advanced Deep Learning, Machine Learning etc) with good grades. Knowledge about augmentation, optimizer, common model architectures, etc.&lt;/li&gt;
+&lt;li&gt;Good coding skills in python&lt;/li&gt;
+&lt;li&gt;Coding experience in one or more deep learning frameworks (Tensorflow, PyTorch, etc)&lt;/li&gt;
+&lt;li&gt;Enthusiasm for the application in the medical field&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ability to tackle applied deep learning projects in a structured manner with a good overview of possibilities&lt;/li&gt;
+&lt;li&gt;Gained insight into the problems of medical data&lt;/li&gt;
+&lt;li&gt;Final outcome as a useful insight or tool for medical professionals&lt;/li&gt;
+&lt;li&gt;If possible outcome will be published in a peer-reviewed venue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Students will work in teams of three&lt;/li&gt;
+&lt;li&gt;Each group will be assigned one medical dataset&lt;/li&gt;
+&lt;li&gt;(Bi)weekly meetings with progress reports&lt;/li&gt;
+&lt;li&gt;Final presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
