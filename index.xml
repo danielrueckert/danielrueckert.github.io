@@ -5,12 +5,38 @@
     <link>https://aim-lab.io/</link>
       <atom:link href="https://aim-lab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI in Medicine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Tue, 12 Apr 2022 13:45:38 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>AI in Medicine</title>
       <link>https://aim-lab.io/</link>
     </image>
+    
+    <item>
+      <title>B.Sc. Thesis: Collection of a German Biomedical Text Corpus from Public Sources</title>
+      <link>https://aim-lab.io/theses/data_collection/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/data_collection/</guid>
+      <description>&lt;p&gt;Recent successes in Natural Language Processing (NLP) are based on pre-training language models on large datasets of unlabelled text.
+In the medical domain however, such large datasets are hard to acquire. Especially in the German Medical domain, very few public text datasets are available which limits the availability of pre-trained language models and therefore the success of NLP in this domain.
+Instead fo relying on clinical texts that are typically hard to acquire due to privacy issues, we will therefore create a large German Medical corpus based on public sources.
+These public sources include academic publications and book, dissertations (e.g. from the university library), and online sources like Wikipedia.
+Additionally, we will create a smaller paired German-English corpus from bilingual thesauri and ontologies like the Unified Medical Language System (UMLS).&lt;/p&gt;
+&lt;h2 id=&#34;your-tasks-include&#34;&gt;Your tasks include&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Selection of sources for the corpus&lt;/li&gt;
+&lt;li&gt;Automatic extraction from the sources (e.g. web crawling, text/section extraction from pdf-files, extraction from structured files like csv or xml) and data cleaning (if required)&lt;/li&gt;
+&lt;li&gt;Definition of the target structure for the corpus and integrating of all selected sources into this structure&lt;/li&gt;
+&lt;li&gt;Explorative data analysis, i.e. computing dataset statistics and visualising properties of the dataset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced programming skills in Python&lt;/li&gt;
+&lt;li&gt;Experience in web crawling or data collection is preferable but not required&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: Experience with machine learning is NOT required.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Module IN2409: Inverse Problems in Medical Imaging</title>
@@ -105,36 +131,6 @@ Your task is the adaptation of such contrastive methods (e.g. SimCLR [3], BYOL [
 &lt;li&gt;[3] T. Chen et al. “Big Self-Supervised Models are Strong Semi-Supervised Learners.” NeurIPS &lt;a href=&#34;https://arxiv.org/abs/2006.10029&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:2006.10029]&lt;/a&gt; (2020)&lt;/li&gt;
 &lt;li&gt;[4] J. Grill et al. “Bootstrap Your Own Latent A New Approach to Self-Supervised Learning.” NIPS &lt;a href=&#34;https://papers.nips.cc/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2020)&lt;/li&gt;
 &lt;li&gt;[5] M. Caron et al. &amp;ldquo;Emerging Properties in Self-Supervised Vision Transformers.&amp;rdquo; ICCV &lt;a href=&#34;https://arxiv.org/abs/2104.14294&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:2104.14294]&lt;/a&gt; (2021)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Region-guided Chest X-Ray Report Generation</title>
-      <link>https://aim-lab.io/theses/report_generation/</link>
-      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/report_generation/</guid>
-      <description>&lt;p&gt;In clinical practice, medical experts like radiologists routinely write radiology reports for chest X-rays. Report generation models [1, 2, 3] try to generate such reports automatically given only the chest X-ray images without the need for human intervention. While such generation models are an interesting research topic, their practical use is limited as they often lack factual completeness and consistency [2] and are typically unable to include additional information not contained in the image.
-Instead of generating reports fully automatically, we plan to keep the medical expert in the loop but try to assist during the creation of reports by providing sentence proposals or autocomplete for pre-defined regions (of the chest X-ray) selected by the user.&lt;/p&gt;
-&lt;p&gt;The goal of this project is to create a deep learning model that predicts report sentences for regions in chest X-rays. You use a model with a CNN-based image encoder and a transformer-based language model (e.g. a conditioned GPT-2 as in [4]).&lt;/p&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware&lt;/li&gt;
-&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
-&lt;li&gt;Cutting-edge research in Medical NLP with the opportunity to publish your work&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Advanced programming skills in Python and deep learning frameworks like PyTorch, JAX, or Tensorflow&lt;/li&gt;
-&lt;li&gt;Strong background in deep learning, preferable with experience in computer vision or NLP&lt;/li&gt;
-&lt;li&gt;Basic familiarity with transformer-based language models and/or text generation is preferable but not required&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;[1] J. Lovelace &amp;amp; B. Mortazavi &amp;ldquo;Learning to Generate Clinically Coherent Chest X-Ray Reports.&amp;rdquo; EMNLP &lt;a href=&#34;https://aclanthology.org/2020.findings-emnlp.110.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2020)&lt;/li&gt;
-&lt;li&gt;[2] Y. Miura et al. &amp;ldquo;Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation.&amp;rdquo; NAACL &lt;a href=&#34;https://aclanthology.org/2021.naacl-main.416.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2021)&lt;/li&gt;
-&lt;li&gt;[3] G. Liu et al. &amp;ldquo;Clinically Accurate Chest X-Ray Report Generation.&amp;rdquo; Machine Learning for Healthcare Conference &lt;a href=&#34;http://proceedings.mlr.press/v106/liu19a/liu19a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2019)&lt;/li&gt;
-&lt;li&gt;[4] O. Alfarghaly et al. &amp;ldquo;Automated radiology report generation using conditioned transformers.&amp;rdquo; Informatics in Medicine Unlocked 24 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S2352914821000472&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2021)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
