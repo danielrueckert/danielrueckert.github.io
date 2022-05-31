@@ -2,6 +2,7 @@
 title: "MSc Thesis: Region-guided Chest X-Ray Report Generation"
 date: 2022-01-26
 authors: ["PhilipMueller"]
+draft: true
 ---
 
 In clinical practice, medical experts like radiologists routinely write radiology reports for chest X-rays. Report generation models [1, 2, 3] try to generate such reports automatically given only the chest X-ray images without the need for human intervention. While such generation models are an interesting research topic, their practical use is limited as they often lack factual completeness and consistency [2] and are typically unable to include additional information not contained in the image.
