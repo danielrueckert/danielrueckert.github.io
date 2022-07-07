@@ -1,6 +1,6 @@
 ---
 title: "Practical Course: Applied Deep Learning in Medicine"
-date: 2022-01-22
+date: 2022-07-07
 authors: ["AlexZiller", "PhilipMueller"]
 draft: false
 tags:
@@ -33,5 +33,11 @@ In short this course offers students to:
  - Final presentation
 
 ## Preliminary meeting
-[Slides](PracticalPreMeeting.pdf)
+A preliminary meeting will take place on 20th of July, 2022 at 11:00 on zoom with the following details: \
+https://tum-conf.zoom.us/j/69075883519 
+
+Meeting ID: 690 7588 3519 \
+Passcode: 850155 
+
+[(Outdated) Slides - SoSe 2022](PracticalPreMeeting.pdf)
 
