@@ -1,6 +1,6 @@
 ---
 title: "Practical Course: Applied Deep Learning in Medicine"
-date: 2022-07-07
+date: 2022-07-22
 authors: ["AlexZiller", "PhilipMueller"]
 draft: false
 tags:
@@ -38,6 +38,8 @@ https://tum-conf.zoom.us/j/69075883519
 
 Meeting ID: 690 7588 3519 \
 Passcode: 850155 
+
+[Slides - WS 2022/23](PracticalPreMeetingWS22.pdf)
 
 [(Outdated) Slides - SoSe 2022](PracticalPreMeeting.pdf)
 
