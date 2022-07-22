@@ -5,12 +5,57 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>Practical Course: Applied Deep Learning in Medicine</title>
+      <link>https://aim-lab.io/theses/practical/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/practical/</guid>
+      <description>&lt;p&gt;In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan. Deep Learning methods will be applied to solve tasks to achieve the goal that is agreed upon. Datasets will be explored and analysed in several directions and different approaches will be evaluated and compared.
+In short this course offers students to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply Deep Learning in the real world&lt;/li&gt;
+&lt;li&gt;Work on medical data and potentially help diagnose and analyse health related problems&lt;/li&gt;
+&lt;li&gt;Close supervision by PhD students with specialization in AI&lt;/li&gt;
+&lt;li&gt;Collaboration with medical experts&lt;/li&gt;
+&lt;li&gt;Work on the intersection between medicine and computer science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Completed at least one or several machine learning or deep learning courses (e.g. Intro to Deep Learning, Advanced Deep Learning, Machine Learning etc) with good grades. Knowledge about augmentation, optimizer, common model architectures, etc.&lt;/li&gt;
+&lt;li&gt;Good coding skills in python&lt;/li&gt;
+&lt;li&gt;Coding experience in one or more deep learning frameworks (Tensorflow, PyTorch, etc)&lt;/li&gt;
+&lt;li&gt;Enthusiasm for the application in the medical field&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ability to tackle applied deep learning projects in a structured manner with a good overview of possibilities&lt;/li&gt;
+&lt;li&gt;Gained insight into the problems of medical data&lt;/li&gt;
+&lt;li&gt;Final outcome as a useful insight or tool for medical professionals&lt;/li&gt;
+&lt;li&gt;If possible outcome will be published in a peer-reviewed venue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Students will work in teams of three&lt;/li&gt;
+&lt;li&gt;Each group will be assigned one medical dataset&lt;/li&gt;
+&lt;li&gt;(Bi)weekly meetings with progress reports&lt;/li&gt;
+&lt;li&gt;Final presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
+&lt;p&gt;A preliminary meeting will take place on 20th of July, 2022 at 11:00 on zoom with the following details:&lt;br&gt;
+&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 690 7588 3519&lt;br&gt;
+Passcode: 850155&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWS22.pdf&#34;&gt;Slides - WS 2022/23&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting.pdf&#34;&gt;(Outdated) Slides - SoSe 2022&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Transformer based Graph Extraction</title>
@@ -82,53 +127,9 @@ Traditionally, image-to-graph generation is addressed with a two-stage approach 
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
 &lt;p&gt;[1] He, Chenhang, et al. &amp;ldquo;Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
 [2] Lai, Xin, et al. &amp;ldquo;Stratified Transformer for 3D Point Cloud Segmentation.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
-[3] Pozo Soler, Jose; Frangi, Alejandro F; Consortium, The @neurIST (2017): Database of Cerebral Artery Geometries including Aneurysms at the Middle Cerebral Artery Bifurcation. The University of Sheffield. Dataset. &lt;a href=&#34;https://doi.org/10.15131/shef.data.4806910.v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.15131/shef.data.4806910.v1&lt;/a&gt;.
+[3] Pozo Soler, Jose; Frangi, Alejandro F; Consortium, The @neurIST (2017): Database of Cerebral Artery Geometries including Aneurysms at the Middle Cerebral Artery Bifurcation. The University of Sheffield. Dataset. &lt;a href=&#34;https://doi.org/10.15131/shef.data.4806910.v1&#34;&gt;https://doi.org/10.15131/shef.data.4806910.v1&lt;/a&gt;.
 [4] Yang, Xi, et al. &amp;ldquo;Intra: 3d intracranial aneurysm dataset for deep learning.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.&lt;/p&gt;
 &lt;br/&gt;</description>
-    </item>
-    
-    <item>
-      <title>Practical Course: Applied Deep Learning in Medicine</title>
-      <link>https://aim-lab.io/theses/practical/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/practical/</guid>
-      <description>&lt;p&gt;In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan. Deep Learning methods will be applied to solve tasks to achieve the goal that is agreed upon. Datasets will be explored and analysed in several directions and different approaches will be evaluated and compared.
-In short this course offers students to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Apply Deep Learning in the real world&lt;/li&gt;
-&lt;li&gt;Work on medical data and potentially help diagnose and analyse health related problems&lt;/li&gt;
-&lt;li&gt;Close supervision by PhD students with specialization in AI&lt;/li&gt;
-&lt;li&gt;Collaboration with medical experts&lt;/li&gt;
-&lt;li&gt;Work on the intersection between medicine and computer science&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Completed at least one or several machine learning or deep learning courses (e.g. Intro to Deep Learning, Advanced Deep Learning, Machine Learning etc) with good grades. Knowledge about augmentation, optimizer, common model architectures, etc.&lt;/li&gt;
-&lt;li&gt;Good coding skills in python&lt;/li&gt;
-&lt;li&gt;Coding experience in one or more deep learning frameworks (Tensorflow, PyTorch, etc)&lt;/li&gt;
-&lt;li&gt;Enthusiasm for the application in the medical field&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;objectives&#34;&gt;Objectives:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ability to tackle applied deep learning projects in a structured manner with a good overview of possibilities&lt;/li&gt;
-&lt;li&gt;Gained insight into the problems of medical data&lt;/li&gt;
-&lt;li&gt;Final outcome as a useful insight or tool for medical professionals&lt;/li&gt;
-&lt;li&gt;If possible outcome will be published in a peer-reviewed venue&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Students will work in teams of three&lt;/li&gt;
-&lt;li&gt;Each group will be assigned one medical dataset&lt;/li&gt;
-&lt;li&gt;(Bi)weekly meetings with progress reports&lt;/li&gt;
-&lt;li&gt;Final presentation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
-&lt;p&gt;A preliminary meeting will take place on 20th of July, 2022 at 11:00 on zoom with the following details:&lt;br&gt;
-&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meeting ID: 690 7588 3519&lt;br&gt;
-Passcode: 850155&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting.pdf&#34;&gt;(Outdated) Slides - SoSe 2022&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
