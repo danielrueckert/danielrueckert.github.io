@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes C. Paetzold | AI in Medicine</title>
+    <link>https://aim-lab.io/author/johannes-c.-paetzold/</link>
+      <atom:link href="https://aim-lab.io/author/johannes-c.-paetzold/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannes C. Paetzold</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <title>Johannes C. Paetzold</title>
+      <link>https://aim-lab.io/author/johannes-c.-paetzold/</link>
+    </image>
+    
+    <item>
+      <title>MSc Thesis: Transformer based Graph Extraction</title>
+      <link>https://aim-lab.io/theses/masther_thesis_relationformer/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/masther_thesis_relationformer/</guid>
+      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Transformers [2][3]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation. 
+Traditionally, image-to-graph generation is addressed with a two-stage approach consisting of object detection followed by a separate relation prediction, which prevents simultaneous object-relation interaction. In our recent ECCV paper, we proposed a unified one-stage transformer-based framework, namely &lt;em&gt;Relationformer&lt;/em&gt; that jointly predicts objects and their relations [1].&lt;/p&gt;
+&lt;p&gt;In a next step we aim to apply the &lt;em&gt;Relationformer&lt;/em&gt; to large scale biological applications for example the whole brain vasculature [4] or neurons. We plan to explore concepts of domain-adaptation and transfer learning. Please see exemplary images of the whole brain vasculature and the &lt;em&gt;Relationformer&lt;/em&gt; model below.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;img src=&#34;./relationformer.png&#34; alt=&#34;image transformer&#34;&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase and apply it to novel datasets. You will be working together with Suprosanna and Johannes, two senior computater scientist at TU Munich and Imperial College London under the supervision of Prof. Daniel Rückert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:j.paetzold@ic.ac.uk&#34;&gt;j.paetzold@ic.ac.uk&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;img src=&#34;./vessels.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A Unified Framework for Image-to-Graph Generation.&amp;rdquo; arXiv preprint arXiv:2203.10202 (2022).&lt;/p&gt;
+&lt;p&gt;[2] Dosovitskiy, Alexey, et al. &amp;ldquo;An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.&amp;rdquo; International Conference on Learning Representations. 2020.&lt;/p&gt;
+&lt;p&gt;[3] Carion, Nicolas, et al. &amp;ldquo;End-to-end object detection with transformers.&amp;rdquo; European conference on computer vision. Springer, Cham, 2020.&lt;/p&gt;
+&lt;p&gt;[4] Paetzold, Johannes C., et al. &amp;ldquo;Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience.&amp;rdquo; Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). 2021.
+&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Transformer-based Mesh Analysis for Brain Aneurysm Detection</title>
+      <link>https://aim-lab.io/theses/masther_thesis_aneyrism/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/masther_thesis_aneyrism/</guid>
+      <description>&lt;p&gt;Detecting aneurysm in 3D volumetric TOF MRA is difficult because a) the variation in shape information of aneurysms is hard to capture in patch-based 3D approach using just intensity information b) processing full 3D volumetric image is computationally demanding. In this Master thesis we aim to address this with shape analysis of blood vessels. Vessel surface lies in a non-Euclidean manifold which can be described by its i) vertices i.e. point-cloud ii) mesh i.e. vertices, edges and faces.  Thus we reformulate aneurysm detection as into two sub tasks on segmented vessel: i) aneurysm recognition: classification of vessel mesh ii) aneurysm segmentation: part segmentation of vessel surface.  We aim to translate recent progress of the transformer based model [1,2] for this geometric deep learning task on multiple vessel mesh  datasets [3,4].&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;img src=&#34;./vessels.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master&amp;rsquo;s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to apply recent transformer-based part segmentation to three vessel mesh datasets. You will be working together with Suprosanna and Johannes, two senior computater scientist at TU Munich and Imperial College London under the supervision of Prof. Daniel Rückert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:j.paetzold@ic.ac.uk&#34;&gt;j.paetzold@ic.ac.uk&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] He, Chenhang, et al. &amp;ldquo;Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
+[2] Lai, Xin, et al. &amp;ldquo;Stratified Transformer for 3D Point Cloud Segmentation.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
+[3] Pozo Soler, Jose; Frangi, Alejandro F; Consortium, The @neurIST (2017): Database of Cerebral Artery Geometries including Aneurysms at the Middle Cerebral Artery Bifurcation. The University of Sheffield. Dataset. &lt;a href=&#34;https://doi.org/10.15131/shef.data.4806910.v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.15131/shef.data.4806910.v1&lt;/a&gt;.
+[4] Yang, Xi, et al. &amp;ldquo;Intra: 3d intracranial aneurysm dataset for deep learning.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.&lt;/p&gt;
+&lt;br/&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

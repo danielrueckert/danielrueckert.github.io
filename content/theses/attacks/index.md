@@ -1,6 +1,6 @@
 ---
 title: "MSc Thesis: Adversarial attacks in collaborative machine learning"
-date: 2022-01-11
+date: 2022-07-27
 authors: ["DmitriiUsynin"]
 tags:
     - Federated Learning
@@ -12,8 +12,6 @@ tags:
 Collaborative machine learning has became the new paradigm-of-choice when it comes to training deep learning models in many fields, including medical image analysis. Due to a number of data protection and governance regulations being introduced, direct data sharing for such training is rendered problematic. As a result implementations that rely on local training, such as federated learning (FL) have been widely adopted. However, a number of studies [1,2] have shown that such paradigms are deeply vulnerable to adversarial influence either in the form of privacy violation [3] or utility degradation [4]. Fortunately for the research community, such attacks are often very fragile and require a number of assumptions to hold in practise. The aim of this project is to explore the recent advances in adversarial machine learning in order to investigate how to adapt them to the real-world machine learning contexts in order to encourage the research community and policymakers to employ safe, robust and privacy-preserving systems when working with sensitive personally-identifying information. 
 
 This project is deliberately very open-ended, as there is a large number of various attack vectors that could be pursued: attacks on membership, reconstruction of sensitive attributes or training samples, insertion of auxiliary learning tasks etc. Our lab has experience primarily with privacy-oriented attacks on machine learning, but we are otherwise happy to consider students with interest in any other attack formulation.
-
-We additionally consider students interested in attacks on software systems outside of machine learning, but can offer limited guidance on such proposals.
 
 <br/>
 
