@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aim-lab.io/tag/adversarial-machine-learning/</loc>
-    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/</loc>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/florian-holzl/</loc>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/prostate_cancer/</loc>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/tag/adversarial-machine-learning/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/dmitrii-usynin/</loc>
@@ -39,28 +45,49 @@
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/alexander-ziller/</loc>
-    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/tag/deep-learning/</loc>
-    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/tag/medical-imaging/</loc>
-    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/theses/pancreas/</loc>
-    <lastmod>2021-11-28T00:00:00+00:00</lastmod>
+    <loc>https://aim-lab.io/author/philip-muller/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/tag/geometric-deep-learning/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <loc>https://aim-lab.io/theses/practical/</loc>
+    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/theses/ukbb/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/author/tamara-muller/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <loc>https://aim-lab.io/theses/masther_thesis_relationformer/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/tag/uk-biobank/</loc>
-    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <loc>https://aim-lab.io/theses/masther_thesis_aneyrism/</loc>
+    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/data_collection/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/kerstin-hammernik/</loc>
+    <lastmod>2022-04-12T13:45:38+02:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/post/inverse-problems/</loc>
+    <lastmod>2022-04-12T13:45:38+02:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/post/</loc>
+    <lastmod>2022-04-12T13:45:38+02:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/daniel-ruckert/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/ai-virus/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/report_pretraining/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/martin-menten/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
@@ -85,12 +112,6 @@
   </url><url>
     <loc>https://aim-lab.io/theses/old/transformer/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/nlp/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/author/philip-mueller/</loc>
-    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/federated/</loc>
     <lastmod>2021-02-06T00:00:00+00:00</lastmod>
@@ -200,10 +221,10 @@
     <loc>https://aim-lab.io/theses/old/physicsmri/</loc>
     <lastmod>2020-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/theses/robust/</loc>
+    <loc>https://aim-lab.io/theses/old/robust/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/theses/oodd/</loc>
+    <loc>https://aim-lab.io/theses/old/oodd/</loc>
     <lastmod>2020-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/gkaissis/</loc>
@@ -344,15 +365,9 @@
     <loc>https://aim-lab.io/author/y.-guo/</loc>
     <lastmod>1970-01-01T01:33:40+01:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/theses/anomaly_patch_gan/</loc>
-  </url><url>
-    <loc>https://aim-lab.io/theses/anomaly_study/</loc>
-  </url><url>
     <loc>https://aim-lab.io/author/alina-dima/</loc>
   </url><url>
     <loc>https://aim-lab.io/categories/</loc>
-  </url><url>
-    <loc>https://aim-lab.io/author/daniel-ruckert/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/deborah-carraro/</loc>
   </url><url>
@@ -368,6 +383,8 @@
   </url><url>
     <loc>https://aim-lab.io/author/leonhard-feiner/</loc>
   </url><url>
+    <loc>https://aim-lab.io/author/maik-dannecker/</loc>
+  </url><url>
     <loc>https://aim-lab.io/author/moritz-knolle/</loc>
   </url><url>
     <loc>https://aim-lab.io/news/</loc>
@@ -382,9 +399,11 @@
   </url><url>
     <loc>https://aim-lab.io/author/sabine-franke/</loc>
   </url><url>
-    <loc>https://aim-lab.io/author/shadi-albarqouni/</loc>
+    <loc>https://aim-lab.io/author/shuting-liu/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/sophie-starck/</loc>
+  </url><url>
+    <loc>https://aim-lab.io/author/tamara-muller/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/vasiliki-sideri-lampretsa/</loc>
   </url><url>

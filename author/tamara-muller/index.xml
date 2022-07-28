@@ -5,39 +5,12 @@
     <link>https://aim-lab.io/author/tamara-muller/</link>
       <atom:link href="https://aim-lab.io/author/tamara-muller/index.xml" rel="self" type="application/rss+xml" />
     <description>Tamara Müller</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Tamara Müller</title>
       <link>https://aim-lab.io/author/tamara-muller/</link>
     </image>
-    
-    <item>
-      <title>MSc Thesis/Guided Research Project: Age Prediction with Graph Neural Networks on UK BioBank data</title>
-      <link>https://aim-lab.io/theses/ukbb/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/ukbb/</guid>
-      <description>&lt;p&gt;&lt;b&gt;About the dataset&lt;/b&gt;: The &lt;a href=&#34;https://www.ukbiobank.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK BioBank&lt;/a&gt; is a large medical dataset, containing data of about 50,000 participants. It holds images (brain MRI, abdominal MRI) as well as several thousand clinical parameters of the participants (demographic data, lifestyle data, clinical diagnoses,…). The lack of available data is a big challenge in medical applications of artificial intelligence. Therefore, the UK Biobank holds great potential to explore ML techniques on a large standardised dataset.
-&lt;br/&gt;
-&lt;b&gt;Methods:&lt;/b&gt; Graph Neural Networks (GNNs) are currently a hot topic in research. They provide a method for deep learning, directly applied on graph structured data. The goal of this project is to build a population graph, which holds extracted information from both, imaging data and clinical features, to predict the participants’ age. The advantage of building a population graph is that it allows to explore the whole dataset in one data structure. By comparing the actual biological age versus the predicted age from the network, we can draw conclusions about the participants’ health.
-The high dimensionality and the size of this dataset provide perfect conditions for data exploration and gives the freedom to implement own ideas and personal interests.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Prior knowledge in deep learning and computer vision&lt;/li&gt;
-&lt;li&gt;Very good programming skills in PyTorch&lt;/li&gt;
-&lt;li&gt;Interest in graph neural networks and geometric deep learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you are interested, please send us an email with your CV attached. We are looking forward to your message!&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Wu, Zonghan, et al. &amp;ldquo;A comprehensive survey on graph neural networks.&amp;rdquo; IEEE transactions on neural networks and learning systems 32.1 (2020): 4-24.&lt;br/&gt;
-[2] Tarroni, Giacomo, et al. &amp;ldquo;Large-scale Quality control of cardiac imaging in population Studies: Application to UK Biobank.&amp;rdquo; Scientific reports 10.1 (2020): 1-11.&lt;br/&gt;
-[3] Kipf, Thomas N., and Max Welling. &amp;ldquo;Semi-supervised classification with graph convolutional networks.&amp;rdquo; arXiv preprint arXiv:1609.02907 (2016).&lt;br/&gt;
-[4] Cosmo, Luca, et al. &amp;ldquo;Latent-graph learning for disease prediction.&amp;rdquo; International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2020.&lt;br/&gt;
-[5] Parisot, Sarah, et al. &amp;ldquo;Spectral graph convolutions for population-based disease prediction.&amp;rdquo; International conference on medical image computing and computer-assisted intervention. Springer, Cham, 2017.&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

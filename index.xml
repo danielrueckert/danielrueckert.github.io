@@ -5,12 +5,44 @@
     <link>https://aim-lab.io/</link>
       <atom:link href="https://aim-lab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI in Medicine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>AI in Medicine</title>
       <link>https://aim-lab.io/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Non-invasive and accurate prediction of prostate cancer aggressiveness</title>
+      <link>https://aim-lab.io/theses/prostate_cancer/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/prostate_cancer/</guid>
+      <description>&lt;p&gt;With estimates of 1 600 000 cases and more than 350 000 deaths annually worldwide, prostate cancer is among the most common cancers in men [1]. Diagnosis of prostate cancer is typically done by using ultrasound-guided needle biopsies. An approach that not only involves risks, due to the invasive nature of the method, but also generally underestimates the aggressiveness of the tumor [2]. Standard positron emission tomography (PET) imaging with prostate cancer specific tracers and specifically PSMA-PET have shown to be advantageous for delineating suspicious lesions during biopsy [3, 4].&lt;/p&gt;
+&lt;p&gt;We want to use the information provided by these PET and multi-parametric MRI images to directly predict Gleason scores that accurately report the aggressiveness of the prostate cancers without the risks associated with an invasive biopsy. Recent research at our institution has produced promising results predicting Gleason scores from handcrafted radiomic features [5]. This work aims at building on top of this research and to develop an end-to-end deep learning pipeline for predicting tumor aggressiveness directly from different imaging modalities. We have exclusive access to a dataset which includes PSMA-11 PET/MRI scans, segmentation maps and the pathological information of the tumors. Additional public data is available through the &lt;a href=&#34;https://pi-cai.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PI-CAI Challenge&lt;/a&gt;. The focus of this work is to build a complete pipeline for analysing multi-modal medical imaging datasets. This includes research on understanding the diverse data available, exploring different approaches for dealing with the limited dataset size (data augmentation, pre-training etc.) and finding a suitable model and evaluation metric for this use case.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive medical imaging pipeline in PyTorch to extract information from these images. You will be working together with me and under the supervision of Prof. Daniel Rückert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact medical imaging conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in machine learning and medical imaging.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow).&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] 1. Global Burden of Disease Cancer Collaboration (2017). Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015: A Systematic Analysis for the Global Burden of Disease Study. JAMA Oncol. 2017;3(4):524. &lt;/br&gt;
+[2] Cohen et al. (2008). Comparing the Gleason prostate biopsy and Gleason prostatectomy grading system: the Lahey Clinic Medical Center experience and an international meta-analysis. EurUrol. 2008;54(2):371-81. &lt;/br&gt;
+[3] Fendler et al. (2017). Joint EANM and SNMMI procedure guideline for prostate cancer imaging: version 1.0. Eur J Nucl Med Mol Imaging. 2017;44(6):1014–24. &lt;/br&gt;
+[4] Maurer et al. (2016). Current use of PSMA-PET in prostate cancer management. Nat Rev Urol. 2016;13(4):226–35. &lt;/br&gt;
+[5] Solari et al. (2021). The added value of PSMA PET/MR radiomics for prostate cancer staging. Eur J Nucl Med Mol Imaging. 2022;49:527–538.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Adversarial attacks in collaborative machine learning</title>
@@ -78,59 +110,245 @@
     </item>
     
     <item>
-      <title>MSc Thesis: End-to-end prediction on CT images of PDAC patients</title>
-      <link>https://aim-lab.io/theses/pancreas/</link>
-      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/pancreas/</guid>
-      <description>&lt;p&gt;Pancreatic ductal adenocarcinoma (PDAC) is considered the fourteenth most common cancer globally, the seventh on the list of causes of cancer death in 2020, and the fourth in 2021.
-To further investigate the causes and therapy for affected patients we aim to extend our previous work. This project is ideal for students who like to work on applied deep learning.
-Tasks vary from simple hyperparameter optimisation to dedicated auxillary networks and multi-task learning. If you are interested kindly send us a message including your CV, transcript of records, and very briefly what you are looking for, expecting in your thesis, your talents and interests in regard to this thesis are and if applicable a short description of a project that you did. We are looking forward to your message.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+      <title>Practical Course: Applied Deep Learning in Medicine</title>
+      <link>https://aim-lab.io/theses/practical/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/practical/</guid>
+      <description>&lt;p&gt;In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan. Deep Learning methods will be applied to solve tasks to achieve the goal that is agreed upon. Datasets will be explored and analysed in several directions and different approaches will be evaluated and compared.
+In short this course offers students to:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Enthusiasm for deep learning.&lt;/li&gt;
-&lt;li&gt;Advanced knowledge of machine learning and computer vision.&lt;/li&gt;
-&lt;li&gt;Excellent programming skills in Python and PyTorch.&lt;/li&gt;
-&lt;li&gt;Prior knowledge on survival analysis and statistics is helpful.&lt;/li&gt;
+&lt;li&gt;Apply Deep Learning in the real world&lt;/li&gt;
+&lt;li&gt;Work on medical data and potentially help diagnose and analyse health related problems&lt;/li&gt;
+&lt;li&gt;Close supervision by PhD students with specialization in AI&lt;/li&gt;
+&lt;li&gt;Collaboration with medical experts&lt;/li&gt;
+&lt;li&gt;Work on the intersection between medicine and computer science&lt;/li&gt;
 &lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Exciting research projects with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Working in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
-&lt;li&gt;Enough freedom to pursue your own project while providing the guidance you need&lt;/li&gt;
+&lt;li&gt;Completed at least one or several machine learning or deep learning courses (e.g. Intro to Deep Learning, Advanced Deep Learning, Machine Learning etc) with good grades. Knowledge about augmentation, optimizer, common model architectures, etc.&lt;/li&gt;
+&lt;li&gt;Good coding skills in python&lt;/li&gt;
+&lt;li&gt;Coding experience in one or more deep learning frameworks (Tensorflow, PyTorch, etc)&lt;/li&gt;
+&lt;li&gt;Enthusiasm for the application in the medical field&lt;/li&gt;
 &lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Kaissis, Georgios, et al. &amp;ldquo;A machine learning algorithm predicts molecular subtypes in pancreatic ductal adenocarcinoma with differential response to gemcitabine-based versus FOLFIRINOX chemotherapy.&amp;rdquo; PloS one 14.10 (2019): e0218642.&lt;/br&gt;
-[2] Harder, Felix N., et al. &amp;ldquo;[18F] FDG PET/MRI enables early chemotherapy response prediction in pancreatic ductal adenocarcinoma.&amp;rdquo; EJNMMI research 11.1 (2021): 1-11.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ability to tackle applied deep learning projects in a structured manner with a good overview of possibilities&lt;/li&gt;
+&lt;li&gt;Gained insight into the problems of medical data&lt;/li&gt;
+&lt;li&gt;Final outcome as a useful insight or tool for medical professionals&lt;/li&gt;
+&lt;li&gt;If possible outcome will be published in a peer-reviewed venue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Students will work in teams of three&lt;/li&gt;
+&lt;li&gt;Each group will be assigned one medical dataset&lt;/li&gt;
+&lt;li&gt;(Bi)weekly meetings with progress reports&lt;/li&gt;
+&lt;li&gt;Final presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
+&lt;p&gt;A preliminary meeting will take place on 20th of July, 2022 at 11:00 on zoom with the following details: &lt;br&gt;
+&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 690 7588 3519 &lt;br&gt;
+Passcode: 850155&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWS22.pdf&#34;&gt;Slides - WS 2022/23&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting.pdf&#34;&gt;(Outdated) Slides - SoSe 2022&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>MSc Thesis/Guided Research Project: Age Prediction with Graph Neural Networks on UK BioBank data</title>
-      <link>https://aim-lab.io/theses/ukbb/</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/ukbb/</guid>
-      <description>&lt;p&gt;&lt;b&gt;About the dataset&lt;/b&gt;: The &lt;a href=&#34;https://www.ukbiobank.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK BioBank&lt;/a&gt; is a large medical dataset, containing data of about 50,000 participants. It holds images (brain MRI, abdominal MRI) as well as several thousand clinical parameters of the participants (demographic data, lifestyle data, clinical diagnoses,…). The lack of available data is a big challenge in medical applications of artificial intelligence. Therefore, the UK Biobank holds great potential to explore ML techniques on a large standardised dataset.
+      <title>MSc Thesis: Transformer based Graph Extraction</title>
+      <link>https://aim-lab.io/theses/masther_thesis_relationformer/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/masther_thesis_relationformer/</guid>
+      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Transformers [2][3]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation. 
+Traditionally, image-to-graph generation is addressed with a two-stage approach consisting of object detection followed by a separate relation prediction, which prevents simultaneous object-relation interaction. In our recent ECCV paper, we proposed a unified one-stage transformer-based framework, namely &lt;em&gt;Relationformer&lt;/em&gt; that jointly predicts objects and their relations [1].&lt;/p&gt;
+&lt;p&gt;In a next step we aim to apply the &lt;em&gt;Relationformer&lt;/em&gt; to large scale biological applications for example the whole brain vasculature [4] or neurons. We plan to explore concepts of domain-adaptation and transfer learning. Please see exemplary images of the whole brain vasculature and the &lt;em&gt;Relationformer&lt;/em&gt; model below.&lt;/p&gt;
 &lt;br/&gt;
-&lt;b&gt;Methods:&lt;/b&gt; Graph Neural Networks (GNNs) are currently a hot topic in research. They provide a method for deep learning, directly applied on graph structured data. The goal of this project is to build a population graph, which holds extracted information from both, imaging data and clinical features, to predict the participants’ age. The advantage of building a population graph is that it allows to explore the whole dataset in one data structure. By comparing the actual biological age versus the predicted age from the network, we can draw conclusions about the participants’ health.
-The high dimensionality and the size of this dataset provide perfect conditions for data exploration and gives the freedom to implement own ideas and personal interests.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./relationformer.png&#34; alt=&#34;image transformer&#34;&gt;&lt;/p&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Prior knowledge in deep learning and computer vision&lt;/li&gt;
-&lt;li&gt;Very good programming skills in PyTorch&lt;/li&gt;
-&lt;li&gt;Interest in graph neural networks and geometric deep learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you are interested, please send us an email with your CV attached. We are looking forward to your message!&lt;/p&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase and apply it to novel datasets. You will be working together with Suprosanna and Johannes, two senior computater scientist at TU Munich and Imperial College London under the supervision of Prof. Daniel Rückert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:j.paetzold@ic.ac.uk&#34;&gt;j.paetzold@ic.ac.uk&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;img src=&#34;./vessels.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A Unified Framework for Image-to-Graph Generation.&amp;rdquo; arXiv preprint arXiv:2203.10202 (2022).&lt;/p&gt;
+&lt;p&gt;[2] Dosovitskiy, Alexey, et al. &amp;ldquo;An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.&amp;rdquo; International Conference on Learning Representations. 2020.&lt;/p&gt;
+&lt;p&gt;[3] Carion, Nicolas, et al. &amp;ldquo;End-to-end object detection with transformers.&amp;rdquo; European conference on computer vision. Springer, Cham, 2020.&lt;/p&gt;
+&lt;p&gt;[4] Paetzold, Johannes C., et al. &amp;ldquo;Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience.&amp;rdquo; Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). 2021.
+&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Transformer-based Mesh Analysis for Brain Aneurysm Detection</title>
+      <link>https://aim-lab.io/theses/masther_thesis_aneyrism/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/masther_thesis_aneyrism/</guid>
+      <description>&lt;p&gt;Detecting aneurysm in 3D volumetric TOF MRA is difficult because a) the variation in shape information of aneurysms is hard to capture in patch-based 3D approach using just intensity information b) processing full 3D volumetric image is computationally demanding. In this Master thesis we aim to address this with shape analysis of blood vessels. Vessel surface lies in a non-Euclidean manifold which can be described by its i) vertices i.e. point-cloud ii) mesh i.e. vertices, edges and faces.  Thus we reformulate aneurysm detection as into two sub tasks on segmented vessel: i) aneurysm recognition: classification of vessel mesh ii) aneurysm segmentation: part segmentation of vessel surface.  We aim to translate recent progress of the transformer based model [1,2] for this geometric deep learning task on multiple vessel mesh  datasets [3,4].&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;img src=&#34;./vessels.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master&amp;rsquo;s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to apply recent transformer-based part segmentation to three vessel mesh datasets. You will be working together with Suprosanna and Johannes, two senior computater scientist at TU Munich and Imperial College London under the supervision of Prof. Daniel Rückert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:j.paetzold@ic.ac.uk&#34;&gt;j.paetzold@ic.ac.uk&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] He, Chenhang, et al. &amp;ldquo;Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
+[2] Lai, Xin, et al. &amp;ldquo;Stratified Transformer for 3D Point Cloud Segmentation.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
+[3] Pozo Soler, Jose; Frangi, Alejandro F; Consortium, The @neurIST (2017): Database of Cerebral Artery Geometries including Aneurysms at the Middle Cerebral Artery Bifurcation. The University of Sheffield. Dataset. &lt;a href=&#34;https://doi.org/10.15131/shef.data.4806910.v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.15131/shef.data.4806910.v1&lt;/a&gt;.
+[4] Yang, Xi, et al. &amp;ldquo;Intra: 3d intracranial aneurysm dataset for deep learning.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.&lt;/p&gt;
+&lt;br/&gt;</description>
+    </item>
+    
+    <item>
+      <title>B.Sc. Thesis: Collection of a German Biomedical Text Corpus from Public Sources</title>
+      <link>https://aim-lab.io/theses/data_collection/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/data_collection/</guid>
+      <description>&lt;p&gt;Recent successes in Natural Language Processing (NLP) are based on pre-training language models on large datasets of unlabelled text.
+In the medical domain however, such large datasets are hard to acquire. Especially in the German Medical domain, very few public text datasets are available which limits the availability of pre-trained language models and therefore the success of NLP in this domain.
+Instead fo relying on clinical texts that are typically hard to acquire due to privacy issues, we will therefore create a large German Medical corpus based on public sources.
+These public sources include academic publications and book, dissertations (e.g. from the university library), and online sources like Wikipedia.
+Additionally, we will create a smaller paired German-English corpus from bilingual thesauri and ontologies like the Unified Medical Language System (UMLS).&lt;/p&gt;
+&lt;h2 id=&#34;your-tasks-include&#34;&gt;Your tasks include&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Selection of sources for the corpus&lt;/li&gt;
+&lt;li&gt;Automatic extraction from the sources (e.g. web crawling, text/section extraction from pdf-files, extraction from structured files like csv or xml) and data cleaning (if required)&lt;/li&gt;
+&lt;li&gt;Definition of the target structure for the corpus and integrating of all selected sources into this structure&lt;/li&gt;
+&lt;li&gt;Explorative data analysis, i.e. computing dataset statistics and visualising properties of the dataset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced programming skills in Python&lt;/li&gt;
+&lt;li&gt;Experience in web crawling or data collection is preferable but not required&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: Experience with machine learning is NOT required.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Module IN2409: Inverse Problems in Medical Imaging</title>
+      <link>https://aim-lab.io/post/inverse-problems/</link>
+      <pubDate>Tue, 12 Apr 2022 13:45:38 +0200</pubDate>
+      <guid>https://aim-lab.io/post/inverse-problems/</guid>
+      <description>&lt;p&gt;This module will be held as a &lt;em&gt;joint online course&lt;/em&gt; between Technical University of Munich (TUM) and  Graz University of Technology (TUG). We offer an interactive lecture, theoretical and practical exercises, as well as international networking opportunities to our students.&lt;/p&gt;
+&lt;h1 id=&#34;lecture-content&#34;&gt;Lecture Content&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction, Basics and Applications, Definition Inverse Problem&lt;/li&gt;
+&lt;li&gt;The Eigenvalue Problem, solving Quadratic Inverse Problems&lt;/li&gt;
+&lt;li&gt;Singular Value Decomposition&lt;/li&gt;
+&lt;li&gt;Inverse Methods Based on Length&lt;/li&gt;
+&lt;li&gt;The Generalized Inverse&lt;/li&gt;
+&lt;li&gt;Nonlinear Inverse Problems&lt;/li&gt;
+&lt;li&gt;Regularization&lt;/li&gt;
+&lt;li&gt;Inverse Problems in Imaging&lt;/li&gt;
+&lt;li&gt;Application: Computed Tomography&lt;/li&gt;
+&lt;li&gt;Application: Magnetic Resonance Imaging&lt;/li&gt;
+&lt;li&gt;Connections to Machine Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;target-group&#34;&gt;Target Group&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Master&amp;rsquo;s students and PhD students&lt;/li&gt;
+&lt;li&gt;Interest in Mathematics, Biomedical Imaging, Magnetic Resonance Imaging&lt;/li&gt;
+&lt;li&gt;Students of Informatics, Mathematics, Biomedical Engineering, Physics and related studies&lt;/li&gt;
+&lt;li&gt;Required: Basic knowledge of Mathematics (Bachelor&amp;rsquo;s courses)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;registration&#34;&gt;Registration&lt;/h1&gt;
+&lt;p&gt;Registration has to be conducted in TUMonline. Registration is open for students of Informatics, students from other fields can be manually enrolled to the courses. The module IN2409 consists of a lecture class and an exercise class.&lt;/p&gt;
+&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:k.hammernik@tum.de&#34;&gt;Kerstin Hammernik&lt;/a&gt;, Technical University of Munich&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:c.graf@tugraz.at&#34;&gt;Christina Graf&lt;/a&gt;, Graz University of Technology&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: AI against SARS-CoV-2</title>
+      <link>https://aim-lab.io/theses/ai-virus/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/ai-virus/</guid>
+      <description>&lt;p&gt;Viruses interact with cellular proteins to replicate and spread. We aim to gain functional insights into the mode of action of cellular proteins, enabling us to better understand how different viruses like SARS-CoV-2 cause disease.&lt;/p&gt;
+&lt;p&gt;We are using genetic ablation of cellular proteins and viruses that express a green fluorescent protein (GFP), allowing us to continuously follow the infection by live-cell fluorescent microscopy in a time-resolved manner.  The resulting, very rich dataset (consisting of ~60.000 images per virus tested), will be used to search for patterns allowing to classify the function of the perturbed gene in relation to the infecting virus.  For instance, the GFP intensity/area, the localization, and spatial proximity of a GFP signal over time contains information on virus replication and spread.  This work aims to establish and apply unbiased machine learning algorithms to understand these functional links between the cell and the viruses and to identify the proteins and perturbations that contribute to virus growth and virus restriction. This algorithm will further be used to study the influence of inflammatory events and treatment with drug libraries.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student who will establish a comprehensive bioinformatics pipeline to extract information from these images. You will be working together with computational scientists at the AI in Medicine Lab and wet-lab scientists (Prof. Andreas Pichlmair group, Virology). Importantly, your results will be functionally tested iteratively and used to further improve the predictive power of your model.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Advanced programming skills in Python&lt;/li&gt;
+&lt;li&gt;Strong background in deep learning and image analysis&lt;/li&gt;
+&lt;li&gt;Strong interest in working in an interdisciplinary team&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biology and medicine.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Contrastive Pre-Training for Radiology Reports</title>
+      <link>https://aim-lab.io/theses/report_pretraining/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/report_pretraining/</guid>
+      <description>&lt;p&gt;In recent years transformer-based language models have proven quite successful in the field of natural language processing (NLP).
+These models require huge amounts of training data and are therefore typically pre-trained on unlabelled datasets using self-supervised objectives
+like masked language modelling (MLM) as proposed in BERT [1].
+While models like BioBERT [2] are pre-trained on the medical domain, the used pre-training objectives like MLM treat text as independent sentences and do not utilise the structure of medical documents.
+In this project we instead make use of the semi-structured nature of radiology reports and apply contrastive methods on the sections of these reports.
+Your task is the adaptation of such contrastive methods (e.g. SimCLR [3], BYOL [4], DINO [5], …) to be used effectively on language models.&lt;/p&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware&lt;/li&gt;
+&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
+&lt;li&gt;Cutting-edge research in Medical NLP with the opportunity to publish your work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Advanced programming skills in Python and deep learning frameworks like PyTorch, JAX, or Tensorflow&lt;/li&gt;
+&lt;li&gt;Strong background in deep learning, preferable (but not required) with experience in NLP&lt;/li&gt;
+&lt;li&gt;Basic familiarity with self-supervised methods like SimCLR is preferable but not required&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Wu, Zonghan, et al. &amp;ldquo;A comprehensive survey on graph neural networks.&amp;rdquo; IEEE transactions on neural networks and learning systems 32.1 (2020): 4-24.&lt;br/&gt;
-[2] Tarroni, Giacomo, et al. &amp;ldquo;Large-scale Quality control of cardiac imaging in population Studies: Application to UK Biobank.&amp;rdquo; Scientific reports 10.1 (2020): 1-11.&lt;br/&gt;
-[3] Kipf, Thomas N., and Max Welling. &amp;ldquo;Semi-supervised classification with graph convolutional networks.&amp;rdquo; arXiv preprint arXiv:1609.02907 (2016).&lt;br/&gt;
-[4] Cosmo, Luca, et al. &amp;ldquo;Latent-graph learning for disease prediction.&amp;rdquo; International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2020.&lt;br/&gt;
-[5] Parisot, Sarah, et al. &amp;ldquo;Spectral graph convolutions for population-based disease prediction.&amp;rdquo; International conference on medical image computing and computer-assisted intervention. Springer, Cham, 2017.&lt;br/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[1] J. Devlin et al. “Bert: Pre-training of deep bidirectional transformers for language understanding.”  arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/1810.04805&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:1810.04805]&lt;/a&gt; (2018).&lt;/li&gt;
+&lt;li&gt;[2] J. Lee et al. “BioBERT: a pre-trained biomedical language representation model for biomedical text mining.” Bioinformatics 4.36 &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/36/4/1234/5566506&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2020)&lt;/li&gt;
+&lt;li&gt;[3] T. Chen et al. “Big Self-Supervised Models are Strong Semi-Supervised Learners.” NeurIPS &lt;a href=&#34;https://arxiv.org/abs/2006.10029&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:2006.10029]&lt;/a&gt; (2020)&lt;/li&gt;
+&lt;li&gt;[4] J. Grill et al. “Bootstrap Your Own Latent A New Approach to Self-Supervised Learning.” NIPS &lt;a href=&#34;https://papers.nips.cc/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2020)&lt;/li&gt;
+&lt;li&gt;[5] M. Caron et al. &amp;ldquo;Emerging Properties in Self-Supervised Vision Transformers.&amp;rdquo; ICCV &lt;a href=&#34;https://arxiv.org/abs/2104.14294&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:2104.14294]&lt;/a&gt; (2021)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -257,40 +475,6 @@ The objective of this thesis is to develop a learning-based pipeline, and invest
     </item>
     
     <item>
-      <title>MSc Thesis: Deep Natural Language Processing for Radiology Reports</title>
-      <link>https://aim-lab.io/theses/nlp/</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/nlp/</guid>
-      <description>&lt;p&gt;In recent years deep learning has proven quite successful in the field of natural language processing (NLP). However, many of today’s NLP models require very large datasets for training, thus self-supervised pre-training (like BERT [1]) on large unlabeled datasets has become quite important.&lt;/p&gt;
-&lt;p&gt;We want to apply deep NLP models (like transformers) to radiology reports and do predictions on them. While there is a large variety of pre-trained models available which we could utilize for this task (like [2,3]), these models suffer from a language domain-shift when directly applied to German radiology reports as available models are typically not pre-trained on German medical language.
-Thus, our goal is to pre-train a NLP model for the domain of German radiology reports such that the resulting model can be easily fine-tuned for prediction tasks.&lt;/p&gt;
-&lt;p&gt;We offer flexibility regarding the objectives of this MSc thesis.
-Possible tasks may include but are not limited to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Domain adaptation of pre-trained models&lt;/li&gt;
-&lt;li&gt;Adaption or development of a pre-training strategy for radiology reports&lt;/li&gt;
-&lt;li&gt;Development of a model architecture for radiology reports&lt;/li&gt;
-&lt;li&gt;Development of a data augmentation strategy&lt;/li&gt;
-&lt;li&gt;Utilization of additional data sources for pre-training (e.g. Wikipedia or books)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We can define the topic of your thesis, such that it matches your interests as good as possible.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong background in deep learning&lt;/li&gt;
-&lt;li&gt;Proficient in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, preferable PyTorch&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Prior experience or knowledge (e.g. lectures) in NLP is beneficial but not required.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;J. Devlin et al. &amp;ldquo;Bert: Pre-training of deep bidirectional transformers for language understanding.&amp;rdquo; arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/1810.04805&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1810.04805&lt;/a&gt; (2018).&lt;/li&gt;
-&lt;li&gt;E. Alsentzer et al. “Publicly Available Clinical BERT Embeddings.” arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/1904.03323&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:1904.03323&lt;/a&gt; (2019)&lt;/li&gt;
-&lt;li&gt;B. Chan et al. “German’s Next Language Model.” arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/2010.10906&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv:2010.10906&lt;/a&gt; (2020)&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Seminar on Federated Learning (SoSe2021)</title>
       <link>https://aim-lab.io/theses/federated/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
@@ -385,9 +569,9 @@ Possible tasks may include but are not limited to:&lt;/p&gt;
     
     <item>
       <title>MSc Thesis: Distributionally robust neural networks in medical imaging</title>
-      <link>https://aim-lab.io/theses/robust/</link>
+      <link>https://aim-lab.io/theses/old/robust/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/robust/</guid>
+      <guid>https://aim-lab.io/theses/old/robust/</guid>
       <description>&lt;p&gt;Deep learning has revolutionized the field of medical imaging. However, the performance of a model drops when the distribution of the test data is different from the distribution of the training data. This is especially critical in a medical setting, where the amount of labelled training data is often limited, and in particular for the application in clinical routine, where the distribution of the test data cannot be controlled. Typical problems are here domain shift, bias in the training data and out-of-distribution samples (e.g., pathologies, image artefacts).
 In this project, we will explore distributionally robust optimization (DRO) [1,2] for deep learning in medical imaging. Instead of minimizing the average loss of a training set, DRO minimizes the worst-case risk and with this optimizes the performances on ”hard” examples. The student will adapt and develop novel methods using DRO for medical imaging applications (classification, segmentation and/or registration.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
@@ -405,9 +589,9 @@ In this project, we will explore distributionally robust optimization (DRO) [1,2
     
     <item>
       <title>MSc Thesis: Out-of-distribution detection using contrastive training for medical imaging</title>
-      <link>https://aim-lab.io/theses/oodd/</link>
+      <link>https://aim-lab.io/theses/old/oodd/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/oodd/</guid>
+      <guid>https://aim-lab.io/theses/old/oodd/</guid>
       <description>&lt;p&gt;Deep learning has revolutionized the field of medical imaging. However, the performance of a model drops when the distribution of the test data is different from the distribution of the training data. This is especially critical in a medical setting, where the amount of labelled training data is often limited, and in particular for the application in clinical routine, where the distribution of the test data cannot be controlled. The automatic detection of such Out-of-Distribution (OoD) samples at inference is important for the design of reliable models, but also to identify poor quality images and pathologies not seen during training.&lt;/p&gt;
 &lt;p&gt;Recently, contrastive learning has shown to provide state-of-the-art results for OoD in image classification benchmarks [1]. Contrastive learning is an approach to formulate the task of finding similar and dissimilar samples during training. One advantage of the proposed method is that no OoD data is required during training.
 The aim of this project is to explore OoD detection in deep learning in general, and in particular the use of contrastive training. The student will develop and implement (novel) methods for image classification, segmentation, and/or registration in a medical application.&lt;/p&gt;
@@ -490,69 +674,6 @@ E-Mail: daniel(dot)rueckert(at)tum(dot)de&lt;br&gt;
       <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
       <guid>https://aim-lab.io/publication/nat-2020a/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aim-lab.io/theses/anomaly_patch_gan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/anomaly_patch_gan/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;The medical domain is characterized by large amounts of available data, but obtaining labels usually requires expert radiologists. The recent surge of unsupervised learning spawned valuable techniques to handle data without the necessity of these labels.
-Anomaly Detection tries to find data points that deviate from a statistical norm. This is especially useful in the medical domain as anomalies here are often indicators for diseases.&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Currently, most anomaly detection and segmentation methods train a generative model (Autoencoder or GAN) on healthy images only and use the reconstruction error of unseen samples to detect anomalies [1].
-However, the reconstruction error is suboptimal and can only detect certain anomaly types.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s why you will develop a new scoring method.
-Generative models are a natural fit for anomaly detection, since they can assess the
-likelihood of a region appearing in an image. The discriminator of a GAN trained on normal
-data only is a natural anomaly detector as its only purpose is to decide whether a presented
-sample comes from the learned distribution or not.
-You will build a GAN with a patch-wise discriminator to localize anomalies in the images.&lt;/p&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Cutting edge research in an active field of medical imaging&lt;/li&gt;
-&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
-&lt;li&gt;The opportunity to publish your work at a renown conference&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-expect&#34;&gt;What we expect&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced skills in Python and deep learning frameworks such as PyTorch, Tensorflow or JAX&lt;/li&gt;
-&lt;li&gt;Strong background in deep learning, especially in the image domain&lt;/li&gt;
-&lt;li&gt;A good feeling for behavior of neural networks&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you are interested in this work and ready for a new challenge, please feel free to contact me&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Christoph Baur, Stefan Denner, Benedikt Wiestler, Nassir Navab, Shadi Albarqouni. Autoencoders for unsupervised anomaly segmentation in brain MR images: A comparative study. In Medical Image Analysis, 2021.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aim-lab.io/theses/anomaly_study/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/anomaly_study/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;The medical domain is characterized by large amounts of available data, but obtaining labels usually requires expert radiologists. The recent surge of unsupervised learning spawned valuable techniques to handle data without the necessity of these labels.
-Anomaly Detection tries to find data points that deviate from a statistical norm. This is especially useful in the medical domain as anomalies here are often indicators for diseases.
-Recently, multiple anomaly detection and segmentation methods have been compared in a comparative study by Baur et al. [1]. However, these methods have only been evaluated on FLAIR brain MR images. This modality is not well suited to evaluate anomaly detection, because, as we recently demonstrated, all methods in this study cn be outperformed via simple thresholding [2].&lt;/p&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Cutting edge research in an active field of medical imaging&lt;/li&gt;
-&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
-&lt;li&gt;The opportunity to publish your work&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-expect&#34;&gt;What we expect&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced skills in Python and deep learning frameworks such as PyTorch, Tensorflow or JAX&lt;/li&gt;
-&lt;li&gt;Strong background in deep learning, especially in the image domain&lt;/li&gt;
-&lt;li&gt;A research mindset for asking and answering the right questions (the most important thing)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you are interested in this work and ready for a new challenge, please feel free to contact me&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Christoph Baur, Stefan Denner, Benedikt Wiestler, Nassir Navab, Shadi Albarqouni. Autoencoders for unsupervised anomaly segmentation in brain MR images: A comparative study. In Medical Image Analysis, 2021.&lt;/p&gt;
-&lt;p&gt;[2] Felix Meissen, Georgios Kaissis, Daniel Rueckert. Challenging Current Semi-Supervised Anomaly Segmentation Methods for Brain MRI. arXiv:2109.06023, 2021.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
