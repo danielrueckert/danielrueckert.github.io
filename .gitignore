@@ -3,7 +3,7 @@
 
 # Hugo
 resources/
-public/
+#public/
 
 *.DS_Store*
 update-website.sh
