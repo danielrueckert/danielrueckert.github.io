@@ -3,37 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aim-lab.io/authors/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/tag/deep-learning/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/tag/medical-imaging/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/vertebrae/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/tags/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/tamara-muller/</loc>
+    <lastmod>2022-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/author/alexander-ziller/</loc>
     <lastmod>2022-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/tag/deep-learning/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/tag/medical-imaging/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/theses/pancreas_attention/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/tags/</loc>
     <lastmod>2022-08-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -687,10 +697,6 @@
   
   <url>
     <loc>https://aim-lab.io/author/sophie-starck/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/tamara-muller/</loc>
   </url>
   
   <url>
