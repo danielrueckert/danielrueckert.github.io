@@ -1,6 +1,6 @@
 ---
 title: "MSc Thesis: Motion-Compensated MRI Reconstruction"
-date: 2020-11-21
+date: 2022-10-07
 authors: ["KerstinHammernik"]
 ---
 
@@ -8,13 +8,13 @@ Long acquisition times in Magnetic Resonance Imaging (MRI) bear the risk of pati
 
 
 ## Requirements
-1. Computer Science, Biomedical Engineering or similar background
-2. Strong background in machine learning
-3. Interest in medical imaging
-4. Proficient  in Python
-5. Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras (optional)
+- Computer Science, Biomedical Engineering or similar background
+- Strong background in machine learning
+- Interest in medical imaging
+- Proficient  in Python
+- Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras (optional)
 
 ## We offer
-1. a close, personal supervision
-2. to work in an interdisciplinary team
-3. to collaborate with international experts in machine learning and MR image reconstruction.
+- a close, personal supervision
+- to work in an interdisciplinary team
+- to collaborate with international experts in machine learning and MR image reconstruction.
