@@ -51,7 +51,7 @@ social:
   link: mailto:oezguen.turgut@tum.de
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/özgün-turgut-11810b1b8
+  link: https://www.linkedin.com/in/özgün-turgut-11810b1b8/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
