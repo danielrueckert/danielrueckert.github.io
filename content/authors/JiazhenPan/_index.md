@@ -23,7 +23,7 @@ bio: My main research interests lie in medical imaging computing, semantic segme
 interests:
 - Medical Imaging Computing
 - Semantic Segmentation
-- Flow Estimation
+- Medical Image Reconstruction 
 
 
 education:
