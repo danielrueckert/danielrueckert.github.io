@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/jiazhen-pan/</loc>
+    <lastmod>2022-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/denosing/</loc>
+    <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/mri_philips/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
@@ -392,8 +398,6 @@
     <loc>https://aim-lab.io/author/georgios-kaissis/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/henrik-von-kleist/</loc>
-  </url><url>
-    <loc>https://aim-lab.io/author/jiazhen-pan/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/leonhard-feiner/</loc>
   </url><url>

@@ -5,12 +5,39 @@
     <link>https://aim-lab.io/author/jiazhen-pan/</link>
       <atom:link href="https://aim-lab.io/author/jiazhen-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiazhen Pan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Jiazhen Pan</title>
       <link>https://aim-lab.io/author/jiazhen-pan/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: An attention-based image denoising network leveraging information of both spatial and frequency domain</title>
+      <link>https://aim-lab.io/theses/denosing/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/denosing/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Image denoising task, in which a clean image is recovered from a noise observation, is a classical inverse problem and still active topic in low-level vision since it is an indispensable step in many practical applications. In past decades, a large variety of image denoising methods employing neural networks were proposed to solve this inverse problem. These methods are major in the spatial domain which denoise the image straightforwardly by extracting the spatial information using the sliding CNN window. On the other hand, image denoising from the frequency domain also has a long history in which the low-pass filter techniques are applied and the noise (major in high-frequency space) can be filtered out. The denoising optimization in the frequency domain is frequently utilized in medical image reconstruction. Recently a great number of frequency networks with CNNs are used in this field to improve the reconstruction quality. However, this approach is rarely studied in the nature denoising field with RGB images. More recently, the advent of Transformers evolutes the computer vision field. Its inherent attributes like larger receptive field and lower inductive bias facilitate the image denoising tasks.
+In this work, we attempt to introduce a hybrid image denoising network that optimizes the noise image from both spatial and frequency domain. A comparison with SOTA methods on public datasets like urban100 or SIDD will be conducted in the end.&lt;/p&gt;
+&lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-have&#34;&gt;To accomplish this work successfully, we expect you have:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most important: solid coding skills and familiarity with Pytorch and Numpy&lt;/li&gt;
+&lt;li&gt;Knowledge of the state-of-the-art image denoising methods&lt;/li&gt;
+&lt;li&gt;Knowledge of the state-of-the-art CNN and Transformer approaches&lt;/li&gt;
+&lt;li&gt;Knowledge of Fourier transformation and frequency optimization methods/network&lt;/li&gt;
+&lt;li&gt;Independent work spirit of finding, research reading and solving a research problem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:jiazhen.pan@tum.de&#34;&gt;jiazhen.pan@tum.de&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
