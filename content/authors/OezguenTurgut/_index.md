@@ -24,8 +24,6 @@ interests:
 - Signal processing
 - Transfer learning
 - Human brain analysis
-- Geile Sache
-
 
 education:
   courses:
