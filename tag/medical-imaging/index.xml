@@ -5,88 +5,12 @@
     <link>https://aim-lab.io/tag/medical-imaging/</link>
       <atom:link href="https://aim-lab.io/tag/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
     <description>Medical Imaging</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Medical Imaging</title>
       <link>https://aim-lab.io/tag/medical-imaging/</link>
     </image>
-    
-    <item>
-      <title>MSc Thesis: Vertebrae detection and labelling in MR images</title>
-      <link>https://aim-lab.io/theses/vertebrae/</link>
-      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/vertebrae/</guid>
-      <description>&lt;p&gt;The spine of a patient can indicate their health state or frailty. E.g. the localised vertebrae can be used for detecting fractures, surgical planning or treatment analyses [1]. Image landmark detection has the goal of automatically identify the locations of points of interest in an image [2]. Recent studies have investigated the identification and localisation of vertebrae for automated spline analysis on CT scans [1,3]. However, spline detection and analysis holds several challenges, including its difficulty in MR images compared to CT scans.&lt;/p&gt;
-&lt;p&gt;This work will be investigated on a dataset of about 30,000 MR images from the&lt;/p&gt;
-&lt;p&gt;UK Biobank [4] from which 200 were selected and labelled by clinicians. The focus of this work is to implement a landmark detection algorithm that detects and labels all vertebrae in the MR images. Given the comparably small size of the labelled dataset and the large amount of unlabelled data, we target the implementation of a semi-supervised approach. Works like [5] have e.g. explored contrastive learning for medical image segmentation, which could be extended for landmark detection in this project.&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master&amp;rsquo;s student in Computer Science or a closely related programme. You should bring:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Interest in medical image processing;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Prior knowledge in machine learning and a commonly used DL framework (PyTorch, Tensorflow)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;a background in computer vision (e.g. from one of the CV courses)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;An exciting project on real world medical data&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;a large dataset with annotations from medical experts&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;an interdisciplinary team of high qualified experts in image processing, computer vision, deep learning, and medicine.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[1] Sekuboyina, Anjany, et al. &amp;ldquo;Btrfly net: Vertebrae labelling with energy-based adversarial learning of local spine prior.&amp;rdquo; International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2018.&lt;/p&gt;
-&lt;p&gt;[2] Li, Weijian, et al. &amp;ldquo;Structured landmark detection via topology-adapting deep graph learning.&amp;rdquo; European Conference on Computer Vision. Springer, Cham, 2020.&lt;/p&gt;
-&lt;p&gt;[3] Sekuboyina, Anjany, et al. &amp;ldquo;VerSe: A Vertebrae labelling and segmentation benchmark for multi-detector CT images.&amp;rdquo; Medical image analysis 73 (2021): 102166.&lt;/p&gt;
-&lt;p&gt;[4] &lt;a href=&#34;https://www.ukbiobank.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ukbiobank.ac.uk/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[5] Chaitanya, Krishna, et al. &amp;ldquo;Contrastive learning of global and local features for medical image segmentation with limited annotations.&amp;rdquo; Advances in Neural Information Processing Systems 33 (2020): 12546-12558.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Attention mechanisms for end-to-end therapy response prediction on PDAC CTs</title>
-      <link>https://aim-lab.io/theses/pancreas_attention/</link>
-      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/pancreas_attention/</guid>
-      <description>&lt;p&gt;Pancreatic ductal adenocarcinoma (PDAC) is considered the fourteenth most common cancer globally, the seventh on the list of causes of cancer death in 2020, and the fourth in 2021.
-To further investigate the causes and therapy for affected patients we aim to extend our previous work. This project is ideal for students who like to work on applied deep learning in the medical field.
-In particular in this thesis we aim to evaluate the effect of attention mechanisms to the prediction of therapy response and/or other labels for PDAC patients. Hence, after an in-depth literature research you have the opportunity to implement and evaluate the most promising approaches and compare to previous work. Experience in deep learning and good practices in software engineering are thus a requirement. Note that we do explicitly not require any previous medical knowledge.&lt;br&gt;
-If you are interested kindly send us a message &lt;b&gt;including your CV and transcript of records&lt;/b&gt;. Please also describe briefly what you are looking for and why you are suited to this thesis. Optionally describe a previous deep learning project you have worked on. We are looking forward to your message.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced knowledge of machine learning and computer vision. Multiple previous experience on deep learning projects.&lt;/li&gt;
-&lt;li&gt;Excellent programming skills in Python and a deep learning framework. Previous work is based on PyTorch.&lt;/li&gt;
-&lt;li&gt;Clean coding style and organisational skills.&lt;/li&gt;
-&lt;li&gt;Willingness to dive into a new field and ability to research related works.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Opportunity to introduce your deep learning skills to the benefit of cancer patients.&lt;/li&gt;
-&lt;li&gt;Working in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
-&lt;li&gt;Freedom to pursue your own project while providing the guidance you need&lt;/li&gt;
-&lt;li&gt;GPU Hardware&lt;/li&gt;
-&lt;li&gt;Opportunity to participate in lab meetings as well as workspace in TranslaTUM.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Kaissis, Georgios, et al. &amp;ldquo;A machine learning algorithm predicts molecular subtypes in pancreatic ductal adenocarcinoma with differential response to gemcitabine-based versus FOLFIRINOX chemotherapy.&amp;rdquo; PloS one 14.10 (2019): e0218642.&lt;/br&gt;
-[2] Harder, Felix N., et al. &amp;ldquo;[18F] FDG PET/MRI enables early chemotherapy response prediction in pancreatic ductal adenocarcinoma.&amp;rdquo; EJNMMI research 11.1 (2021): 1-11.&lt;/br&gt;
-[3] Vaswani, Ashish, et al. &amp;ldquo;Attention is all you need.&amp;rdquo; Advances in neural information processing systems 30 (2017). &lt;/br&gt;
-[4] Woo, Sanghyun, et al. &amp;ldquo;Cbam: Convolutional block attention module.&amp;rdquo; Proceedings of the European conference on computer vision (ECCV). 2018.&lt;/br&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Practical Course: Applied Deep Learning in Medicine</title>
