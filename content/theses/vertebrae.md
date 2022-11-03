@@ -3,7 +3,7 @@
 title: "MSc Thesis: Vertebrae detection and labelling in MR images"
 date: 2022-08-09
 authors: ["TamaraMueller"]
-draft: false
+draft: true
 tags:
     - Deep Learning
     - Medical Imaging

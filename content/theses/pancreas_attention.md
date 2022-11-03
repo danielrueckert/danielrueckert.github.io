@@ -2,7 +2,7 @@
 title: "MSc Thesis: Attention mechanisms for end-to-end therapy response prediction on PDAC CTs"
 date: 2022-08-04
 authors: ["AlexZiller"]
-draft: false
+draft: true
 tags:
     - Deep Learning
     - Medical Imaging
