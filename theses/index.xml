@@ -5,51 +5,12 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
-    
-    <item>
-      <title>MSc Thesis: Cardiac Fat Segmenation</title>
-      <link>https://aim-lab.io/theses/cardiac_fat/</link>
-      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/cardiac_fat/</guid>
-      <description>&lt;p&gt;Healthy cardiac adipose tissues can modulate cardiovascular functions and enery partitioning and function therefore in a protective manner. However, if this cardiac tissue changes it can contribute to the development of cardiovasuclar disorders. It is therefore of high relevance to segment different types of cardiac fat tissue and investigate its implication on the health of subjects.&lt;/p&gt;
-&lt;p&gt;This work will be investigated on a dataset of about 30,000 cardiac MR images from the UK Biobank [2] from which 200 will be selected and labelled by clinicians. The focus of this thesis is to implement a segmentation algorithm that detects and labels two different types of fat in the cardiac images. Given the comparably small size of the labelled dataset and the large amount of unlabelled data, we target the implementation of a semi-supervised approach. Works like [3] have e.g. explored contrastive learning for medical image segmentation, which could be extended for our task.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About the dataset&lt;/b&gt;: The &lt;a href=&#34;https://www.ukbiobank.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK BioBank&lt;/a&gt; is a large medical dataset, containing data of about 50,000 participants. It holds images (brain MRI, abdominal MRI) as well as several thousand clinical parameters of the participants (demographic data, lifestyle data, clinical diagnoses,…). The lack of available data is a big challenge in medical applications of artificial intelligence. Therefore, the UK Biobank holds great potential to explore ML techniques on a large standardised dataset.&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master&amp;rsquo;s student in Computer Science or a closely related programme. You should bring:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;interest in medical image processing;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;prior knowledge in machine learning and a commonly used DL framework (PyTorch, Tensorflow)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;a background in computer vision (e.g. from one of the CV courses)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;an exciting project on real world medical data&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;a large dataset with annotations from medical experts&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;an interdisciplinary team of high qualified experts in image processing, computer vision, deep learning, and medicine.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[1] Lu Z, Jiang Z, Tang J, Lin CP, Zhang H. Functions and origins of cardiac fat. FEBS J. 2022 Feb 3. doi: 10.1111/febs.16388. Epub ahead of print. PMID: 35114069.&lt;/p&gt;
-&lt;p&gt;[2] &lt;a href=&#34;https://www.ukbiobank.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ukbiobank.ac.uk/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[3] Chaitanya, Krishna, et al. &amp;ldquo;Contrastive learning of global and local features for medical image segmentation with limited annotations.&amp;rdquo; Advances in Neural Information Processing Systems 33 (2020): 12546-12558.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>MSc Thesis: An attention-based image denoising network leveraging information of both spatial and frequency domain</title>
@@ -345,7 +306,7 @@ Passcode: 850155&lt;/p&gt;
       <link>https://aim-lab.io/theses/masther_thesis_relationformer/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/masther_thesis_relationformer/</guid>
-      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Transformers [2][3]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation. 
+      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Transformers [2][3]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation.
 Traditionally, image-to-graph generation is addressed with a two-stage approach consisting of object detection followed by a separate relation prediction, which prevents simultaneous object-relation interaction. In our recent ECCV paper, we proposed a unified one-stage transformer-based framework, namely &lt;em&gt;Relationformer&lt;/em&gt; that jointly predicts objects and their relations [1].&lt;/p&gt;
 &lt;p&gt;In a next step we aim to apply the &lt;em&gt;Relationformer&lt;/em&gt; to large scale biological applications for example the whole brain vasculature [4] or neurons. We plan to explore concepts of domain-adaptation and transfer learning. Please see exemplary images of the whole brain vasculature and the &lt;em&gt;Relationformer&lt;/em&gt; model below.&lt;/p&gt;
 &lt;br/&gt;
