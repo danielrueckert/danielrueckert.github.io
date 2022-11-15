@@ -3,7 +3,7 @@
 title: "MSc Thesis: Cardiac Fat Segmenation"
 date: 2022-11-03
 authors: ["TamaraMueller"]
-draft: false
+draft: true
 tags:
     - Deep Learning
     - Medical Segmentation
