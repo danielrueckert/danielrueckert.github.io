@@ -5,12 +5,35 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>B.Sc. Thesis/Guided Research/IDP: Influence of slice thickness of pulmonary CTs on Semantic Segmentation Algorithms </title>
+      <link>https://aim-lab.io/theses/leo/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/leo/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Covid-19 can cause various types of pathologies within the lung. Deep learning is widely used to segment affected areas of the lung using computed tomography images as input. However, these images can be acquired using a large variety of imaging parameters. These parameters include the resolution in Z axis usually given as slice thickness of the longitudinal plane in millimeter. The goal of this project is to assess the implications of the slice thickness on common imaging metrics for semantic segmentation.&lt;/p&gt;
+&lt;p&gt;Hence, we created an in-house dataset containing 50 patients and 2 scans per patent for slice thickness of 1mm and 5mm. Furthermore, we have semantic labels for all 100 volumes. Those could be used to compare single thickness of 1mm, single thickness of 5mm and mixed thickness. To achieve a fair comparison, we also want to mitigate the effect of an unequal number of total slices for the subsets containing different slice thicknesses.&lt;/p&gt;
+&lt;h2 id=&#34;your-task-include&#34;&gt;Your task include&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Defining an appropriate dataset split and selection to get a fair comparison&lt;/li&gt;
+&lt;li&gt;Implementation and training of a semantic segmentation deep learning model&lt;/li&gt;
+&lt;li&gt;Hyperparameter tuning&lt;/li&gt;
+&lt;li&gt;Evaluation using appropriate metrics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;your-requirements&#34;&gt;Your requirements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Interest in medical image processing&lt;/li&gt;
+&lt;li&gt;Prior knowledge in machine learning and a commonly used DL framework (PyTorch, TensorFlow, …)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: An attention-based image denoising network leveraging information of both spatial and frequency domain</title>
@@ -292,9 +315,9 @@ In short this course offers students to:&lt;/p&gt;
 &lt;li&gt;Final presentation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
-&lt;p&gt;A preliminary meeting will take place on 20th of July, 2022 at 11:00 on zoom with the following details: &lt;br&gt;
-&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meeting ID: 690 7588 3519 &lt;br&gt;
+&lt;p&gt;A preliminary meeting will take place on 20th of July, 2022 at 11:00 on zoom with the following details:&lt;br&gt;
+&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 690 7588 3519&lt;br&gt;
 Passcode: 850155&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWS22.pdf&#34;&gt;Slides - WS 2022/23&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeeting.pdf&#34;&gt;(Outdated) Slides - SoSe 2022&lt;/a&gt;&lt;/p&gt;
@@ -306,7 +329,7 @@ Passcode: 850155&lt;/p&gt;
       <link>https://aim-lab.io/theses/masther_thesis_relationformer/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/masther_thesis_relationformer/</guid>
-      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Transformers [2][3]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation.
+      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Transformers [2][3]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation. 
 Traditionally, image-to-graph generation is addressed with a two-stage approach consisting of object detection followed by a separate relation prediction, which prevents simultaneous object-relation interaction. In our recent ECCV paper, we proposed a unified one-stage transformer-based framework, namely &lt;em&gt;Relationformer&lt;/em&gt; that jointly predicts objects and their relations [1].&lt;/p&gt;
 &lt;p&gt;In a next step we aim to apply the &lt;em&gt;Relationformer&lt;/em&gt; to large scale biological applications for example the whole brain vasculature [4] or neurons. We plan to explore concepts of domain-adaptation and transfer learning. Please see exemplary images of the whole brain vasculature and the &lt;em&gt;Relationformer&lt;/em&gt; model below.&lt;/p&gt;
 &lt;br/&gt;
@@ -371,7 +394,7 @@ Traditionally, image-to-graph generation is addressed with a two-stage approach 
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
 &lt;p&gt;[1] He, Chenhang, et al. &amp;ldquo;Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
 [2] Lai, Xin, et al. &amp;ldquo;Stratified Transformer for 3D Point Cloud Segmentation.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
-[3] Pozo Soler, Jose; Frangi, Alejandro F; Consortium, The @neurIST (2017): Database of Cerebral Artery Geometries including Aneurysms at the Middle Cerebral Artery Bifurcation. The University of Sheffield. Dataset. &lt;a href=&#34;https://doi.org/10.15131/shef.data.4806910.v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.15131/shef.data.4806910.v1&lt;/a&gt;.
+[3] Pozo Soler, Jose; Frangi, Alejandro F; Consortium, The @neurIST (2017): Database of Cerebral Artery Geometries including Aneurysms at the Middle Cerebral Artery Bifurcation. The University of Sheffield. Dataset. &lt;a href=&#34;https://doi.org/10.15131/shef.data.4806910.v1&#34;&gt;https://doi.org/10.15131/shef.data.4806910.v1&lt;/a&gt;.
 [4] Yang, Xi, et al. &amp;ldquo;Intra: 3d intracranial aneurysm dataset for deep learning.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.&lt;/p&gt;
 &lt;br/&gt;</description>
     </item>
