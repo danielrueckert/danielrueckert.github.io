@@ -7,7 +7,7 @@
     <description>Kerstin Hammernik</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Tue, 12 Apr 2022 13:45:38 +0200</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Kerstin Hammernik</title>
       <link>https://aim-lab.io/author/kerstin-hammernik/</link>
     </image>
@@ -45,31 +45,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;mailto:k.hammernik@tum.de&#34;&gt;Kerstin Hammernik&lt;/a&gt;, Technical University of Munich&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;mailto:c.graf@tugraz.at&#34;&gt;Christina Graf&lt;/a&gt;, Graz University of Technology&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
-<item>
-      <title>MSc Thesis: Motion-Compensated MRI Reconstruction</title>
-      <link>https://aim-lab.io/theses/motionmri/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/motionmri/</guid>
-      <description>&lt;p&gt;Long acquisition times in Magnetic Resonance Imaging (MRI) bear the risk of patient motion, which substantially degrades the image quality. Further sources of image degradation are physiological motion, such as periodic respiratory and cardiac motion. Accelerated acquisitions can compensate for the motion. The motion information can also be derived from the acquired MRI data retrospectively and used as a correction step in image reconstruction. The objective of this thesis is to include the motion model directly in MRI reconstruction using both knowledge of the acquisition physics and machine learning. Motion-Compensated MRI reconstruction offers a wide range of opportunities for projects, where we can set the emphasis based on your interests. Please get in touch with us to find an individual topic!&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Computer Science, Biomedical Engineering or similar background&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;li&gt;Proficient  in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras (optional)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;a close, personal supervision&lt;/li&gt;
-&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
-&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
