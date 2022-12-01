@@ -18,7 +18,7 @@ organizations:
   url: "https://www.translatum.tum.de/en/research-groups/ai-in-healthcare-and-medicine/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interest is how to effectively integrate biological and genetic information into medical imaging deep learning models.
+bio: My main research interest is how to effectively integrate biological, genetic and lifestyle information into medical imaging deep learning models.
 
 interests:
 - Medical Imaging Computing
@@ -62,7 +62,9 @@ user_groups:
 - "Researchers"
 ---
 
-I am a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). I completed both my bachelors and masters jointly at the TUM and LMU in Munich in the area of Bioinformatics. Many of my early projects concerned Next Generation Sequencing data and hospital genetic pipelines before I started working in the field of deep learning. In my master's thesis I developed a GAN to synthesize tau-PET images from structural MR images to aid in the research and diagnosis of Alzheimer's Disease. Currently, I am developing multi-modal deep learning models that utilize the full breadth of information available in the medical domain, including patient background, genetic profile, and imaging data.
+I am a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). I completed both my bachelors and masters jointly at the TUM and LMU in Munich in the area of Bioinformatics. My previous projects and publications concern Multimodal Self-Supervised models with tabular and imaging data, GANs and volumetric brain data for Alzheimer's research and Next Generation Sequencing pipelines. Currently, I am developing multi-modal deep learning models that utilize the full breadth of information available in the medical domain, including patient lifestyle, genetic profile, and imaging data.
+
+
 
 
 
