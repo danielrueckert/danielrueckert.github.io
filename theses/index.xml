@@ -5,12 +5,50 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Interpreting age prediction in whole body MR images</title>
+      <link>https://aim-lab.io/theses/age_prediction/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/age_prediction/</guid>
+      <description>&lt;p&gt;Age prediction has been investigated intensively for brain imaging (brain age estimation) [1]. Here, it has been applied for early prediction of neurodegenerative diseases and the assessment of accelerated aging. However, there is very little research on abdominal age prediction which estimates the age of a person based on abdominal organs [2]. The goal of this project is to extend a previously implemented age prediction algorithm, which uses full body MR images as an input and apply interpretability methods like GradCAM on different slices as areas of the image, to investigate which parts of the body are predictive of a person’s age. This can lead to medical insights about accelerated aging of different areas of the body, as well as which parts of the body are most relevant to estimate age.&lt;/p&gt;
+&lt;p&gt;This work will be using a dataset of about 40,000 whole body MR images from the UK Biobank [3].&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master&amp;rsquo;s student in Computer Science or a closely related programme. You should bring:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Interest in medical image processing;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prior knowledge in machine learning and a commonly used DL framework (PyTorch, Tensorflow)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a background in computer vision (e.g. from one of the CV courses)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;An exciting project on real world medical data&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;a large dataset with annotations from medical experts&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;an interdisciplinary team of high qualified experts in image processing, computer vision, deep learning, and medicine.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[1] Sajedi, Hedieh, and Nastaran Pardakhti. &amp;ldquo;Age prediction based on brain MRI image: a survey.&amp;rdquo; Journal of medical systems 43.8 (2019): 1-30.&lt;/p&gt;
+&lt;p&gt;[2] Le Goallec, A., Diai, S., Collin, S. et al. Using deep learning to predict abdominal age from liver and pancreas magnetic resonance images. Nat Commun 13, 1979 (2022). &lt;a href=&#34;https://doi.org/10.1038/s41467-022-29525-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41467-022-29525-9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] &lt;a href=&#34;https://www.ukbiobank.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ukbiobank.ac.uk/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Cardiac MRI Segmentation using Morphometric Informed Multimodal Self-Supervised Models</title>
@@ -385,7 +423,7 @@ Passcode: 850155&lt;/p&gt;
       <link>https://aim-lab.io/theses/masther_thesis_relationformer/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/masther_thesis_relationformer/</guid>
-      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Transformers [2][3]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation. 
+      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Transformers [2][3]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation.
 Traditionally, image-to-graph generation is addressed with a two-stage approach consisting of object detection followed by a separate relation prediction, which prevents simultaneous object-relation interaction. In our recent ECCV paper, we proposed a unified one-stage transformer-based framework, namely &lt;em&gt;Relationformer&lt;/em&gt; that jointly predicts objects and their relations [1].&lt;/p&gt;
 &lt;p&gt;In a next step we aim to apply the &lt;em&gt;Relationformer&lt;/em&gt; to large scale biological applications for example the whole brain vasculature [4] or neurons. We plan to explore concepts of domain-adaptation and transfer learning. Please see exemplary images of the whole brain vasculature and the &lt;em&gt;Relationformer&lt;/em&gt; model below.&lt;/p&gt;
 &lt;br/&gt;
