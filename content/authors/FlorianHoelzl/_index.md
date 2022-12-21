@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Florian Hölzl
+title: Florian A. Hölzl
 
 # Username (this should match the folder name)
 authors:
@@ -46,6 +46,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/hlzl
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/florianhoelzl
 - icon: google-scholar
   icon_pack: ai
   link: https://www.semanticscholar.org/author/2155198740
