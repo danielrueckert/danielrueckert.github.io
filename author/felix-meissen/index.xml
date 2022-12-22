@@ -5,12 +5,34 @@
     <link>https://aim-lab.io/author/felix-meissen/</link>
       <atom:link href="https://aim-lab.io/author/felix-meissen/index.xml" rel="self" type="application/rss+xml" />
     <description>Felix Meissen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Felix Meissen</title>
       <link>https://aim-lab.io/author/felix-meissen/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Fairness in Unsupervised Anomaly Detection</title>
+      <link>https://aim-lab.io/theses/anomaly_detection_fairness/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/anomaly_detection_fairness/</guid>
+      <description>&lt;p&gt;Unsupervised anomaly detection methods use unlabeled data from one distribution for training and can then differentiate between samples that come from that distribution and samples from other distributions.
+In medical applications, anomalies often correspond to diseases and can be detected with such methods. This is a way to make use of the large amounts of clinically unremarkable data available.
+While it is known that supervised machine learning models show worse performance for minority groups that are usually underrepresented in the data, this problem has so far not been studied for unsupervised methods despite the large implications a potentially unfair clinical application could have.&lt;/p&gt;
+&lt;p&gt;This Masters Thesis will investigate (un)fairness of anomaly detection models used for medical disease detection under different definitions of fairness and will try to offer mitigation strategies.&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your Qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most important: solid coding skills and familiarity with PyTorch and Numpy&lt;/li&gt;
+&lt;li&gt;Strong background in machine learning&lt;/li&gt;
+&lt;li&gt;Motivated master student in Informatics, Mathematics, Physics or a closely related field&lt;/li&gt;
+&lt;li&gt;Ability to thoroughly answer a research question&lt;/li&gt;
+&lt;li&gt;Strong research mindset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:felix.meissen@tum.de&#34;&gt;felix.meissen@tum.de&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
