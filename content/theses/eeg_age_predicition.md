@@ -1,5 +1,5 @@
 ---
-title: "MSc Thesis: Brain age predicition using resting-state electroencephograpy (EEG) data"
+title: "MSc Thesis: Brain age predicition using resting-state electroencephograpy (EEG)"
 date: 2023-01-23
 authors: ["OezguenTurgut"]
 ---
