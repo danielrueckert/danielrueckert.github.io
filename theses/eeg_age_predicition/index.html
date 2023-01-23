@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1].">
+  <meta name="description" content="Electroencephalography (EEG) data represents the electrical activity of the brain over time. EEG signals are collected with thin electrodes placed on the scalp. They detect tiny electrical charges that result from the activity of brain cells.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/theses/efficient_training/">
+  <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/theses/eeg_age_predicition/">
 
   
 
@@ -249,7 +249,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="https://aim-lab.io/theses/efficient_training/">
+  <link rel="canonical" href="https://aim-lab.io/theses/eeg_age_predicition/">
 
   
   
@@ -268,15 +268,15 @@
   <meta property="twitter:creator" content="@DanielRueckert">
   
   <meta property="og:site_name" content="AI in Medicine">
-  <meta property="og:url" content="https://aim-lab.io/theses/efficient_training/">
-  <meta property="og:title" content="MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy | AI in Medicine">
-  <meta property="og:description" content="Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]."><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png">
+  <meta property="og:url" content="https://aim-lab.io/theses/eeg_age_predicition/">
+  <meta property="og:title" content="MSc Thesis: Brain age predicition using resting-state electroencephograpy (EEG) data | AI in Medicine">
+  <meta property="og:description" content="Electroencephalography (EEG) data represents the electrical activity of the brain over time. EEG signals are collected with thin electrodes placed on the scalp. They detect tiny electrical charges that result from the activity of brain cells."><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2022-12-21T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2023-01-23T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2022-12-21T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-01-23T00:00:00&#43;00:00">
   
 
   
@@ -295,7 +295,7 @@
 
 
 
-  <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy | AI in Medicine</title>
+  <title>MSc Thesis: Brain age predicition using resting-state electroencephograpy (EEG) data | AI in Medicine</title>
 
 </head>
 
@@ -751,7 +751,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</h1>
+  <h1>MSc Thesis: Brain age predicition using resting-state electroencephograpy (EEG) data</h1>
 
   
 
@@ -769,7 +769,7 @@
     
 
   
-  <span ><a href="/author/florian-a.-holzl/">Florian A. Hölzl</a></span>
+  <span ><a href="/author/ozgun-turgut/">Özgün Turgut</a></span>
   </div>
   
   
@@ -780,7 +780,7 @@
     
       
     
-    Dec 21, 2022
+    Jan 23, 2023
   </span>
   
 
@@ -822,28 +822,35 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.</p>
-<p>Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
-<br/></p>
+      <p>Electroencephalography (EEG) data represents the electrical activity of the brain over time. EEG signals are collected with thin electrodes placed on the scalp. They detect tiny electrical charges that result from the activity of brain cells. Given the simple and low-cost setup, the EEG is used in clinical practice to evaluate brain disorders (e.g. epilepsy), to diagnose diseases (e.g. Alzheimer&rsquo;s disease, narcolepsy), or simply to monitor blood flow in the brain. [1]</p>
+<p>Within the context of this thesis, a dataset containing the EEG recordings of chronic pain patients (chronic backpain, chronic widespread pain, joint pain, and neuropathic pain) and a matching healthy control group is provided by the University Hospital rechts der Isar. Previous work on EEG data of chronic pain patients has shown an increased brain connectivity at specific frequencies in frontal brain areas when compared to the healthy control group. [2] Furthermore, longitudinal studies indicate a global brain network change in chronic pain patients. [3] In this thesis we would like to investigate how brain age is affected by chronic diseases. The goal is to use self-supervised learning approaches to determine features that are shared across all EEG recordings. In a next step, the learned representations can then be used to predict the brain age of a given subject. Moreover, transfer learning techniques will be investigated to see whether knowledge gained from other types of EEG data can improve performance on the brain age regression task.
+<br/><br/></p>
 <h2 id="your-qualifications">Your qualifications:</h2>
-<p>We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.</p>
-<ol>
-<li>Strong motivation and interest in deep learning and learning theory.</li>
-<li>Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).</li>
-<li>Independent working style with strong interest in teamwork and methodic research.</li>
-</ol>
-<br/>
+<ul>
+<li>Background in computer science, engineering, mathematics, or similar studies</li>
+<li>Basic knowledge of signal processing</li>
+<li>Advanced knowledge of machine learning</li>
+<li>Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX)</li>
+<li>Independent working style with strong interest in teamwork and methodic research
+<br/><br/></li>
+</ul>
 <h2 id="what-we-offer">What we offer:</h2>
 <ul>
-<li>An exciting state-of-the-art research project with many possibilities to bring in your own ideas.</li>
-<li>Close supervision and access to the necessary computer hardware.</li>
-<li>The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.</li>
+<li>Ability to perform cutting edge research in the field of neuroscience and deep learning</li>
+<li>Close supervision and access to high-end computer hardware</li>
+<li>Closely working and collabroting in an inter-disciplinary team of experts in signal processing, deep learning, neuroscience and medicine</li>
+<li>This project is targeting publication at leading neuroscience journals
+<br/><br/></li>
 </ul>
-<br/>
+<h2 id="how-to-apply">How to apply:</h2>
+<p>Please send us a short e-mail with your CV and grade report to <a href="mailto:oezguen.turgut@tum.de">oezguen.turgut@tum.de</a>.
+<br/><br/></p>
 <h2 id="references">References</h2>
-<p>[1] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. </br>
-[2] Louizos et al. (2018). Learning sparse neural networks through L0 regularization. ICLR 2018. </br>
-[3] Sander et al. (2022). TAN without a burn: Scaling Laws of DP-SGD. ArXiv, abs/2210.03403.</p>
+<p>[1] Johns Hopkins Medicine. &ldquo;Electroencephalogram (EEG)&rdquo;. <a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg" target="_blank" rel="noopener">https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg</a> </br>
+[2] Dinh et al. &ldquo;Brain dysfunction in chronic pain patients assessed by resting-state electroencephalography.&rdquo; Pain 160.12 (2019): 2751.
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/" target="_blank" rel="noopener">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/</a> </br>
+[3] Heitmann et al. &ldquo;Longitudinal resting-state electroencephalography in patients with chronic pain undergoing interdisciplinary multimodal pain therapy.&rdquo; Pain 163.9 (2022): e997-e1005.
+<a href="https://pubmed.ncbi.nlm.nih.gov/35050961/" target="_blank" rel="noopener">https://pubmed.ncbi.nlm.nih.gov/35050961/</a> </br></p>
 
     </div>
 
@@ -867,7 +874,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/theses/efficient_training/&amp;text=MSc%20Thesis/Guided%20Research/IDP:%20Efficient%20Training%20under%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/theses/eeg_age_predicition/&amp;text=MSc%20Thesis:%20Brain%20age%20predicition%20using%20resting-state%20electroencephograpy%20%28EEG%29%20data" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -880,7 +887,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/theses/efficient_training/&amp;t=MSc%20Thesis/Guided%20Research/IDP:%20Efficient%20Training%20under%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/theses/eeg_age_predicition/&amp;t=MSc%20Thesis:%20Brain%20age%20predicition%20using%20resting-state%20electroencephograpy%20%28EEG%29%20data" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -893,7 +900,7 @@
       
       
       <li>
-        <a href="mailto:?subject=MSc%20Thesis/Guided%20Research/IDP:%20Efficient%20Training%20under%20Differential%20Privacy&amp;body=https://aim-lab.io/theses/efficient_training/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=MSc%20Thesis:%20Brain%20age%20predicition%20using%20resting-state%20electroencephograpy%20%28EEG%29%20data&amp;body=https://aim-lab.io/theses/eeg_age_predicition/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -906,7 +913,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/theses/efficient_training/&amp;title=MSc%20Thesis/Guided%20Research/IDP:%20Efficient%20Training%20under%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/theses/eeg_age_predicition/&amp;title=MSc%20Thesis:%20Brain%20age%20predicition%20using%20resting-state%20electroencephograpy%20%28EEG%29%20data" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -919,7 +926,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=MSc%20Thesis/Guided%20Research/IDP:%20Efficient%20Training%20under%20Differential%20Privacy%20https://aim-lab.io/theses/efficient_training/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=MSc%20Thesis:%20Brain%20age%20predicition%20using%20resting-state%20electroencephograpy%20%28EEG%29%20data%20https://aim-lab.io/theses/eeg_age_predicition/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -932,7 +939,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/theses/efficient_training/&amp;title=MSc%20Thesis/Guided%20Research/IDP:%20Efficient%20Training%20under%20Differential%20Privacy" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/theses/eeg_age_predicition/&amp;title=MSc%20Thesis:%20Brain%20age%20predicition%20using%20resting-state%20electroencephograpy%20%28EEG%29%20data" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -964,13 +971,13 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/florian-a.-holzl/"><img class="avatar mr-3 avatar-circle" src="/author/florian-a.-holzl/avatar_hu85e27d71119a00c103faf77f28da5c05_1406585_270x270_fill_lanczos_center_3.png" alt="Florian A. Hölzl"></a>
+      <a href="/author/ozgun-turgut/"><img class="avatar mr-3 avatar-circle" src="/author/ozgun-turgut/avatar_hu2bd4a03788b4a8f105bf5c697c35e49d_1605150_270x270_fill_q90_lanczos_center.jpg" alt="Özgün Turgut"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/author/florian-a.-holzl/">Florian A. Hölzl</a></h5>
+      <h5 class="card-title"><a href="/author/ozgun-turgut/">Özgün Turgut</a></h5>
       <h6 class="card-subtitle">PhD Student</h6>
-      <p class="card-text">My research interests include privacy-preserving deep learning in general and in medical imaging specifically.</p>
+      <p class="card-text">My research interests focus on signal processing using deep learning methods.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -983,7 +990,7 @@
     
     
     <li>
-      <a href="mailto:florian.hoelzl@tum.de" >
+      <a href="mailto:oezguen.turgut@tum.de" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -1000,56 +1007,7 @@
       
     
     <li>
-      <a href="https://github.com/hlzl" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/florianhoelzl" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://www.semanticscholar.org/author/2155198740" target="_blank" rel="noopener">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://www.linkedin.com/in/hoelzlflorian/details/education/" target="_blank" rel="noopener">
+      <a href="https://www.linkedin.com/in/oezguen-turgut-11810b1b8/" target="_blank" rel="noopener">
         <i class="fab fa-linkedin"></i>
       </a>
     </li>
