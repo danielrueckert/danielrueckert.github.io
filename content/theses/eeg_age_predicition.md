@@ -1,5 +1,5 @@
 ---
-title: "MSc Thesis: Self-supervised based brain age predicition using resting-state electroencephograpy (EEG)"
+title: "MSc Thesis: Self-supervised learning based brain age predicition using resting-state electroencephograpy (EEG)"
 date: 2023-01-23
 authors: ["OezguenTurgut"]
 ---
