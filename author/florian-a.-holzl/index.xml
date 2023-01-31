@@ -7,10 +7,40 @@
     <description>Florian A. Hölzl</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/author/florian-a.-holzl/avatar_hu85e27d71119a00c103faf77f28da5c05_1406585_270x270_fill_lanczos_center_2.png</url>
       <title>Florian A. Hölzl</title>
       <link>https://aim-lab.io/author/florian-a.-holzl/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
+      <link>https://aim-lab.io/theses/efficient_training/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/efficient_training/</guid>
+      <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
+&lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
+&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
+[2] Louizos et al. (2018). Learning sparse neural networks through L0 regularization. ICLR 2018. &lt;/br&gt;
+[3] Sander et al. (2022). TAN without a burn: Scaling Laws of DP-SGD. ArXiv, abs/2210.03403.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Scaling Laws of Equivariant Convolutions</title>
@@ -40,36 +70,6 @@
 [2] Tan and Le (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ICML 2019. &lt;/br&gt;
 [3] Hoffmann et al. (2022). Training Compute-Optimal Large Language Models. ArXiv, abs/2203.15556. &lt;/br&gt;
 [4] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
-      <link>https://aim-lab.io/theses/efficient_training/</link>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/efficient_training/</guid>
-      <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
-&lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
-&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
-&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
-[2] Louizos et al. (2018). Learning sparse neural networks through L0 regularization. ICLR 2018. &lt;/br&gt;
-[3] Sander et al. (2022). TAN without a burn: Scaling Laws of DP-SGD. ArXiv, abs/2210.03403.&lt;/p&gt;
 </description>
     </item>
     
