@@ -7,18 +7,18 @@
     <description>Current Vacancies</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
     
     <item>
-      <title>MSc Thesis: Self-supervised learning based brain age predicition using resting-state electroencephograpy (EEG)</title>
+      <title>MSc Thesis: Brain age predicition using resting-state electroencephography (EEG)</title>
       <link>https://aim-lab.io/theses/eeg_age_predicition/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/eeg_age_predicition/</guid>
-      <description>&lt;p&gt;Electroencephalography (EEG) data represents the electrical activity of the brain over time. EEG signals are collected with thin electrodes placed on the scalp. They detect tiny electrical charges that result from the activity of brain cells. Given the simple and low-cost setup, the EEG is used in clinical practice to evaluate brain disorders (e.g. epilepsy), to diagnose diseases (e.g. Alzheimer&amp;rsquo;s disease, narcolepsy), or simply to monitor blood flow in the brain. [1]&lt;/p&gt;
-&lt;p&gt;Within the context of this thesis, a dataset containing the EEG recordings of chronic pain patients (chronic backpain, chronic widespread pain, joint pain, and neuropathic pain) and a matching healthy control group is provided by the University Hospital rechts der Isar. Previous work on EEG data of chronic pain patients has shown an increased brain connectivity at specific frequencies in frontal brain areas when compared to the healthy control group. [2] Furthermore, longitudinal studies indicate a global brain network change in chronic pain patients. [3] In this thesis we will investigate how brain age is affected by chronic diseases. The goal is to use self-supervised learning approaches to determine features that are shared across all EEG recordings. These learned representations can then be used to predict the brain age of a given subject. Moreover, we will examine transfer learning techniques to see whether knowledge gained from other types of EEG data can improve performance on the brain age regression task.
+      <description>&lt;p&gt;The electroencephalogram (EEG) is a tool that allows non-invasive monitoring of the brain activity. Thin electrodes placed on the scalp detect tiny electrical charges that result from the activity of brain cells. Given the simple and low-cost setup, in clinical medicine the EEG is used by neurologists to evaluate brain disorders (e.g. epilepsy), to diagnose diseases (e.g. Alzheimer&amp;rsquo;s disease, narcolepsy), or simply to monitor blood flow in the brain. [1]&lt;/p&gt;
+&lt;p&gt;Within the context of this thesis, a dataset containing the EEGs of chronic pain patients (chronic backpain, chronic widespread pain, joint pain, and neuropathic pain) and an age-matching healthy control group is provided by the University Hospital rechts der Isar. Previous work on EEG data of chronic pain patients has shown an increased brain connectivity at specific frequencies in frontal brain areas when compared to the healthy control group. [2] Furthermore, longitudinal studies indicate a global brain network change in chronic pain patients. [3] In this thesis we will investigate how brain age is affected by chronic diseases. Self-supervised learning and transfer learning techniques will be leveraged to understand the high-level context of an EEG. The learned EEG representation is then used to predict the brain age. We will analyse the differences in brain age between chronic pain patients and the healthy control group.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
 &lt;ul&gt;
@@ -41,11 +41,11 @@
 &lt;p&gt;Please send us a short e-mail with your CV and grade report to &lt;a href=&#34;mailto:oezguen.turgut@tum.de&#34;&gt;oezguen.turgut@tum.de&lt;/a&gt;.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Johns Hopkins Medicine. &amp;ldquo;Electroencephalogram (EEG)&amp;quot;. &lt;a href=&#34;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&#34;&gt;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&lt;/a&gt; &lt;/br&gt;
+&lt;p&gt;[1] Johns Hopkins Medicine. &amp;ldquo;Electroencephalogram (EEG)&amp;rdquo;. &lt;a href=&#34;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&lt;/a&gt; &lt;/br&gt;
 [2] Dinh et al. &amp;ldquo;Brain dysfunction in chronic pain patients assessed by resting-state electroencephalography.&amp;rdquo; Pain 160.12 (2019): 2751.
-&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&lt;/a&gt; &lt;/br&gt;
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&lt;/a&gt; &lt;/br&gt;
 [3] Heitmann et al. &amp;ldquo;Longitudinal resting-state electroencephalography in patients with chronic pain undergoing interdisciplinary multimodal pain therapy.&amp;rdquo; Pain 163.9 (2022): e997-e1005.
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35050961/&#34;&gt;https://pubmed.ncbi.nlm.nih.gov/35050961/&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35050961/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pubmed.ncbi.nlm.nih.gov/35050961/&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -85,9 +85,9 @@ In short this course offers students to:&lt;/p&gt;
 &lt;li&gt;Final presentation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
-&lt;p&gt;A preliminary meeting will take place on 31st of January, 2023 at 11:30 on zoom with the following details:&lt;br&gt;
-&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meeting ID: 690 7588 3519&lt;br&gt;
+&lt;p&gt;A preliminary meeting will take place on 31st of January, 2023 at 11:30 on zoom with the following details: &lt;br&gt;
+&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 690 7588 3519 &lt;br&gt;
 Passcode: 850155&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingSoSe23.pdf&#34;&gt;Slides - SoSe 2023&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWS22.pdf&#34;&gt;(Outdated) Slides - WS 2022/23&lt;/a&gt;&lt;/p&gt;
@@ -114,36 +114,6 @@ While it is known that supervised machine learning models show worse performance
 &lt;/ul&gt;
 &lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;
 &lt;p&gt;Send an email to &lt;a href=&#34;mailto:felix.meissen@tum.de&#34;&gt;felix.meissen@tum.de&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
-      <link>https://aim-lab.io/theses/efficient_training/</link>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/efficient_training/</guid>
-      <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
-&lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
-&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
-&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
-[2] Louizos et al. (2018). Learning sparse neural networks through L0 regularization. ICLR 2018. &lt;/br&gt;
-[3] Sander et al. (2022). TAN without a burn: Scaling Laws of DP-SGD. ArXiv, abs/2210.03403.&lt;/p&gt;
 </description>
     </item>
     
@@ -175,6 +145,36 @@ While it is known that supervised machine learning models show worse performance
 [2] Tan and Le (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ICML 2019. &lt;/br&gt;
 [3] Hoffmann et al. (2022). Training Compute-Optimal Large Language Models. ArXiv, abs/2203.15556. &lt;/br&gt;
 [4] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
+      <link>https://aim-lab.io/theses/efficient_training/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/efficient_training/</guid>
+      <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
+&lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
+&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
+[2] Louizos et al. (2018). Learning sparse neural networks through L0 regularization. ICLR 2018. &lt;/br&gt;
+[3] Sander et al. (2022). TAN without a burn: Scaling Laws of DP-SGD. ArXiv, abs/2210.03403.&lt;/p&gt;
 </description>
     </item>
     
@@ -571,7 +571,7 @@ Traditionally, image-to-graph generation is addressed with a two-stage approach 
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
 &lt;p&gt;[1] He, Chenhang, et al. &amp;ldquo;Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
 [2] Lai, Xin, et al. &amp;ldquo;Stratified Transformer for 3D Point Cloud Segmentation.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
-[3] Pozo Soler, Jose; Frangi, Alejandro F; Consortium, The @neurIST (2017): Database of Cerebral Artery Geometries including Aneurysms at the Middle Cerebral Artery Bifurcation. The University of Sheffield. Dataset. &lt;a href=&#34;https://doi.org/10.15131/shef.data.4806910.v1&#34;&gt;https://doi.org/10.15131/shef.data.4806910.v1&lt;/a&gt;.
+[3] Pozo Soler, Jose; Frangi, Alejandro F; Consortium, The @neurIST (2017): Database of Cerebral Artery Geometries including Aneurysms at the Middle Cerebral Artery Bifurcation. The University of Sheffield. Dataset. &lt;a href=&#34;https://doi.org/10.15131/shef.data.4806910.v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.15131/shef.data.4806910.v1&lt;/a&gt;.
 [4] Yang, Xi, et al. &amp;ldquo;Intra: 3d intracranial aneurysm dataset for deep learning.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.&lt;/p&gt;
 &lt;br/&gt;</description>
     </item>

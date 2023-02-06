@@ -7,18 +7,18 @@
     <description>Özgün Turgut</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/author/ozgun-turgut/avatar_hu2bd4a03788b4a8f105bf5c697c35e49d_1605150_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Özgün Turgut</title>
       <link>https://aim-lab.io/author/ozgun-turgut/</link>
     </image>
     
     <item>
-      <title>MSc Thesis: Self-supervised learning based brain age predicition using resting-state electroencephograpy (EEG)</title>
+      <title>MSc Thesis: Brain age predicition using resting-state electroencephography (EEG)</title>
       <link>https://aim-lab.io/theses/eeg_age_predicition/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/eeg_age_predicition/</guid>
-      <description>&lt;p&gt;Electroencephalography (EEG) data represents the electrical activity of the brain over time. EEG signals are collected with thin electrodes placed on the scalp. They detect tiny electrical charges that result from the activity of brain cells. Given the simple and low-cost setup, the EEG is used in clinical practice to evaluate brain disorders (e.g. epilepsy), to diagnose diseases (e.g. Alzheimer&amp;rsquo;s disease, narcolepsy), or simply to monitor blood flow in the brain. [1]&lt;/p&gt;
-&lt;p&gt;Within the context of this thesis, a dataset containing the EEG recordings of chronic pain patients (chronic backpain, chronic widespread pain, joint pain, and neuropathic pain) and a matching healthy control group is provided by the University Hospital rechts der Isar. Previous work on EEG data of chronic pain patients has shown an increased brain connectivity at specific frequencies in frontal brain areas when compared to the healthy control group. [2] Furthermore, longitudinal studies indicate a global brain network change in chronic pain patients. [3] In this thesis we will investigate how brain age is affected by chronic diseases. The goal is to use self-supervised learning approaches to determine features that are shared across all EEG recordings. These learned representations can then be used to predict the brain age of a given subject. Moreover, we will examine transfer learning techniques to see whether knowledge gained from other types of EEG data can improve performance on the brain age regression task.
+      <description>&lt;p&gt;The electroencephalogram (EEG) is a tool that allows non-invasive monitoring of the brain activity. Thin electrodes placed on the scalp detect tiny electrical charges that result from the activity of brain cells. Given the simple and low-cost setup, in clinical medicine the EEG is used by neurologists to evaluate brain disorders (e.g. epilepsy), to diagnose diseases (e.g. Alzheimer&amp;rsquo;s disease, narcolepsy), or simply to monitor blood flow in the brain. [1]&lt;/p&gt;
+&lt;p&gt;Within the context of this thesis, a dataset containing the EEGs of chronic pain patients (chronic backpain, chronic widespread pain, joint pain, and neuropathic pain) and an age-matching healthy control group is provided by the University Hospital rechts der Isar. Previous work on EEG data of chronic pain patients has shown an increased brain connectivity at specific frequencies in frontal brain areas when compared to the healthy control group. [2] Furthermore, longitudinal studies indicate a global brain network change in chronic pain patients. [3] In this thesis we will investigate how brain age is affected by chronic diseases. Self-supervised learning and transfer learning techniques will be leveraged to understand the high-level context of an EEG. The learned EEG representation is then used to predict the brain age. We will analyse the differences in brain age between chronic pain patients and the healthy control group.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
 &lt;ul&gt;
@@ -41,11 +41,11 @@
 &lt;p&gt;Please send us a short e-mail with your CV and grade report to &lt;a href=&#34;mailto:oezguen.turgut@tum.de&#34;&gt;oezguen.turgut@tum.de&lt;/a&gt;.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Johns Hopkins Medicine. &amp;ldquo;Electroencephalogram (EEG)&amp;quot;. &lt;a href=&#34;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&#34;&gt;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&lt;/a&gt; &lt;/br&gt;
+&lt;p&gt;[1] Johns Hopkins Medicine. &amp;ldquo;Electroencephalogram (EEG)&amp;rdquo;. &lt;a href=&#34;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&lt;/a&gt; &lt;/br&gt;
 [2] Dinh et al. &amp;ldquo;Brain dysfunction in chronic pain patients assessed by resting-state electroencephalography.&amp;rdquo; Pain 160.12 (2019): 2751.
-&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&lt;/a&gt; &lt;/br&gt;
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&lt;/a&gt; &lt;/br&gt;
 [3] Heitmann et al. &amp;ldquo;Longitudinal resting-state electroencephalography in patients with chronic pain undergoing interdisciplinary multimodal pain therapy.&amp;rdquo; Pain 163.9 (2022): e997-e1005.
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35050961/&#34;&gt;https://pubmed.ncbi.nlm.nih.gov/35050961/&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35050961/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pubmed.ncbi.nlm.nih.gov/35050961/&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     
