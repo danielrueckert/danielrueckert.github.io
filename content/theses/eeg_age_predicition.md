@@ -1,12 +1,12 @@
 ---
-title: "MSc Thesis: Self-supervised learning based brain age predicition using resting-state electroencephograpy (EEG)"
+title: "MSc Thesis: Brain age predicition using resting-state electroencephography (EEG)"
 date: 2023-01-23
 authors: ["OezguenTurgut"]
 ---
  
-Electroencephalography (EEG) data represents the electrical activity of the brain over time. EEG signals are collected with thin electrodes placed on the scalp. They detect tiny electrical charges that result from the activity of brain cells. Given the simple and low-cost setup, the EEG is used in clinical practice to evaluate brain disorders (e.g. epilepsy), to diagnose diseases (e.g. Alzheimer's disease, narcolepsy), or simply to monitor blood flow in the brain. [1] 
-  
-Within the context of this thesis, a dataset containing the EEG recordings of chronic pain patients (chronic backpain, chronic widespread pain, joint pain, and neuropathic pain) and a matching healthy control group is provided by the University Hospital rechts der Isar. Previous work on EEG data of chronic pain patients has shown an increased brain connectivity at specific frequencies in frontal brain areas when compared to the healthy control group. [2] Furthermore, longitudinal studies indicate a global brain network change in chronic pain patients. [3] In this thesis we will investigate how brain age is affected by chronic diseases. The goal is to use self-supervised learning approaches to determine features that are shared across all EEG recordings. These learned representations can then be used to predict the brain age of a given subject. Moreover, we will examine transfer learning techniques to see whether knowledge gained from other types of EEG data can improve performance on the brain age regression task. 
+The electroencephalogram (EEG) is a tool that allows non-invasive monitoring of the brain activity. Thin electrodes placed on the scalp detect tiny electrical charges that result from the activity of brain cells. Given the simple and low-cost setup, in clinical medicine the EEG is used by neurologists to evaluate brain disorders (e.g. epilepsy), to diagnose diseases (e.g. Alzheimer's disease, narcolepsy), or simply to monitor blood flow in the brain. [1]
+
+Within the context of this thesis, a dataset containing the EEGs of chronic pain patients (chronic backpain, chronic widespread pain, joint pain, and neuropathic pain) and an age-matching healthy control group is provided by the University Hospital rechts der Isar. Previous work on EEG data of chronic pain patients has shown an increased brain connectivity at specific frequencies in frontal brain areas when compared to the healthy control group. [2] Furthermore, longitudinal studies indicate a global brain network change in chronic pain patients. [3] In this thesis we will investigate how brain age is affected by chronic diseases. Self-supervised learning and transfer learning techniques will be leveraged to understand the high-level context of an EEG. The learned EEG representation is then used to predict the brain age. We will analyse the differences in brain age between chronic pain patients and the healthy control group. 
 <br/><br/> 
  
 ## Your qualifications:
