@@ -5,12 +5,46 @@
     <link>https://aim-lab.io/</link>
       <atom:link href="https://aim-lab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI in Medicine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>AI in Medicine</title>
       <link>https://aim-lab.io/</link>
     </image>
+    
+    <item>
+      <title>Systemic Evaluation of Segmentation Architectures in Private Medical Deep Learning</title>
+      <link>https://aim-lab.io/theses/privatesegmentation/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/privatesegmentation/</guid>
+      <description>&lt;p&gt;Privacy-Preserving Machine Learning enables the training of neural networks, while bounding the information about data subjects [1,2]. Hence, especially in sensitive contexts where plausible deniability is crucial it is an important mean to give mathematical guarantees about worst case guarantees. However, due to these constraints in most cases it introduces a drop in utility compared to non-private training. In recent publications it was shown that the margin between private and non-private training is among other factors dependent on the model architecture [3,4,5]. It is apparent that the rules, which architectures perform best, which have extensively been researched for standard training are different in these settings. First studies in classification settings showed that wider models appear to be advantageous [4,5]. In this thesis we want to systematically evaluate existing segmentation architectures under privacy constraints in medical and non-medical benchmark datasets.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enthusiasm for deep learning.&lt;/li&gt;
+&lt;li&gt;Advanced knowledge of machine learning and computer vision.&lt;/li&gt;
+&lt;li&gt;Excellent programming skills in Python and at least one deep learning frame work (optimally PyTorch or Jax)&lt;/li&gt;
+&lt;li&gt;Prior knowledge on PPML or medical imaging is helpful but no requirement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with several top-tier publications in privacy-preserving machine learning.&lt;/li&gt;
+&lt;li&gt;Working in an interdisciplinary team of experts in PPML, image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
+&lt;li&gt;Enough freedom to pursue your own project while providing the guidance you need.&lt;/li&gt;
+&lt;li&gt;Thesis is strongly aimed to be published in a peer-reviewed venue.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s42256-020-0186-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[1] Secure, privacy-preserving and federated machine learning in medical imaging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s42256-021-00337-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[2] End-to-end privacy preserving deep learning on multi-institutional medical imaging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2203.00324.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[3] Differentially private training of residual networks with scale normalisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2204.13650.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[4] Unlocking high-accuracy differentially private image classification through scale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2205.04095.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[5] SmoothNets: Optimizing CNN architecture design for differentially private deep learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Brain age predicition using resting-state electroencephography (EEG)</title>
@@ -41,11 +75,11 @@
 &lt;p&gt;Please send us a short e-mail with your CV and grade report to &lt;a href=&#34;mailto:oezguen.turgut@tum.de&#34;&gt;oezguen.turgut@tum.de&lt;/a&gt;.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Johns Hopkins Medicine. &amp;ldquo;Electroencephalogram (EEG)&amp;rdquo;. &lt;a href=&#34;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&lt;/a&gt; &lt;/br&gt;
+&lt;p&gt;[1] Johns Hopkins Medicine. &amp;ldquo;Electroencephalogram (EEG)&amp;quot;. &lt;a href=&#34;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&#34;&gt;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&lt;/a&gt; &lt;/br&gt;
 [2] Dinh et al. &amp;ldquo;Brain dysfunction in chronic pain patients assessed by resting-state electroencephalography.&amp;rdquo; Pain 160.12 (2019): 2751.
-&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&lt;/a&gt; &lt;/br&gt;
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&lt;/a&gt; &lt;/br&gt;
 [3] Heitmann et al. &amp;ldquo;Longitudinal resting-state electroencephalography in patients with chronic pain undergoing interdisciplinary multimodal pain therapy.&amp;rdquo; Pain 163.9 (2022): e997-e1005.
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35050961/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pubmed.ncbi.nlm.nih.gov/35050961/&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35050961/&#34;&gt;https://pubmed.ncbi.nlm.nih.gov/35050961/&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -85,9 +119,9 @@ In short this course offers students to:&lt;/p&gt;
 &lt;li&gt;Final presentation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
-&lt;p&gt;A preliminary meeting will take place on 31st of January, 2023 at 11:30 on zoom with the following details: &lt;br&gt;
-&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meeting ID: 690 7588 3519 &lt;br&gt;
+&lt;p&gt;A preliminary meeting will take place on 31st of January, 2023 at 11:30 on zoom with the following details:&lt;br&gt;
+&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 690 7588 3519&lt;br&gt;
 Passcode: 850155&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingSoSe23.pdf&#34;&gt;Slides - SoSe 2023&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWS22.pdf&#34;&gt;(Outdated) Slides - WS 2022/23&lt;/a&gt;&lt;/p&gt;
@@ -114,6 +148,36 @@ While it is known that supervised machine learning models show worse performance
 &lt;/ul&gt;
 &lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;
 &lt;p&gt;Send an email to &lt;a href=&#34;mailto:felix.meissen@tum.de&#34;&gt;felix.meissen@tum.de&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
+      <link>https://aim-lab.io/theses/efficient_training/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/efficient_training/</guid>
+      <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
+&lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
+&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
+[2] Louizos et al. (2018). Learning sparse neural networks through L0 regularization. ICLR 2018. &lt;/br&gt;
+[3] Sander et al. (2022). TAN without a burn: Scaling Laws of DP-SGD. ArXiv, abs/2210.03403.&lt;/p&gt;
 </description>
     </item>
     
@@ -145,36 +209,6 @@ While it is known that supervised machine learning models show worse performance
 [2] Tan and Le (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ICML 2019. &lt;/br&gt;
 [3] Hoffmann et al. (2022). Training Compute-Optimal Large Language Models. ArXiv, abs/2203.15556. &lt;/br&gt;
 [4] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
-      <link>https://aim-lab.io/theses/efficient_training/</link>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/efficient_training/</guid>
-      <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
-&lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
-&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
-&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
-[2] Louizos et al. (2018). Learning sparse neural networks through L0 regularization. ICLR 2018. &lt;/br&gt;
-[3] Sander et al. (2022). TAN without a burn: Scaling Laws of DP-SGD. ArXiv, abs/2210.03403.&lt;/p&gt;
 </description>
     </item>
     
@@ -571,7 +605,7 @@ Traditionally, image-to-graph generation is addressed with a two-stage approach 
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
 &lt;p&gt;[1] He, Chenhang, et al. &amp;ldquo;Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
 [2] Lai, Xin, et al. &amp;ldquo;Stratified Transformer for 3D Point Cloud Segmentation.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
-[3] Pozo Soler, Jose; Frangi, Alejandro F; Consortium, The @neurIST (2017): Database of Cerebral Artery Geometries including Aneurysms at the Middle Cerebral Artery Bifurcation. The University of Sheffield. Dataset. &lt;a href=&#34;https://doi.org/10.15131/shef.data.4806910.v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.15131/shef.data.4806910.v1&lt;/a&gt;.
+[3] Pozo Soler, Jose; Frangi, Alejandro F; Consortium, The @neurIST (2017): Database of Cerebral Artery Geometries including Aneurysms at the Middle Cerebral Artery Bifurcation. The University of Sheffield. Dataset. &lt;a href=&#34;https://doi.org/10.15131/shef.data.4806910.v1&#34;&gt;https://doi.org/10.15131/shef.data.4806910.v1&lt;/a&gt;.
 [4] Yang, Xi, et al. &amp;ldquo;Intra: 3d intracranial aneurysm dataset for deep learning.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.&lt;/p&gt;
 &lt;br/&gt;</description>
     </item>

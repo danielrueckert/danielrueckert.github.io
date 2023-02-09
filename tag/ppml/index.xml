@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PPML | AI in Medicine</title>
+    <link>https://aim-lab.io/tag/ppml/</link>
+      <atom:link href="https://aim-lab.io/tag/ppml/index.xml" rel="self" type="application/rss+xml" />
+    <description>PPML</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <title>PPML</title>
+      <link>https://aim-lab.io/tag/ppml/</link>
+    </image>
+    
+    <item>
+      <title>Systemic Evaluation of Segmentation Architectures in Private Medical Deep Learning</title>
+      <link>https://aim-lab.io/theses/privatesegmentation/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/privatesegmentation/</guid>
+      <description>&lt;p&gt;Privacy-Preserving Machine Learning enables the training of neural networks, while bounding the information about data subjects [1,2]. Hence, especially in sensitive contexts where plausible deniability is crucial it is an important mean to give mathematical guarantees about worst case guarantees. However, due to these constraints in most cases it introduces a drop in utility compared to non-private training. In recent publications it was shown that the margin between private and non-private training is among other factors dependent on the model architecture [3,4,5]. It is apparent that the rules, which architectures perform best, which have extensively been researched for standard training are different in these settings. First studies in classification settings showed that wider models appear to be advantageous [4,5]. In this thesis we want to systematically evaluate existing segmentation architectures under privacy constraints in medical and non-medical benchmark datasets.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enthusiasm for deep learning.&lt;/li&gt;
+&lt;li&gt;Advanced knowledge of machine learning and computer vision.&lt;/li&gt;
+&lt;li&gt;Excellent programming skills in Python and at least one deep learning frame work (optimally PyTorch or Jax)&lt;/li&gt;
+&lt;li&gt;Prior knowledge on PPML or medical imaging is helpful but no requirement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Experience with several top-tier publications in privacy-preserving machine learning.&lt;/li&gt;
+&lt;li&gt;Working in an interdisciplinary team of experts in PPML, image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
+&lt;li&gt;Enough freedom to pursue your own project while providing the guidance you need.&lt;/li&gt;
+&lt;li&gt;Thesis is strongly aimed to be published in a peer-reviewed venue.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s42256-020-0186-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[1] Secure, privacy-preserving and federated machine learning in medical imaging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s42256-021-00337-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[2] End-to-end privacy preserving deep learning on multi-institutional medical imaging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2203.00324.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[3] Differentially private training of residual networks with scale normalisation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2204.13650.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[4] Unlocking high-accuracy differentially private image classification through scale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/2205.04095.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[5] SmoothNets: Optimizing CNN architecture design for differentially private deep learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
