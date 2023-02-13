@@ -103,16 +103,6 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/leo/</loc>
-    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/leonhard-feiner/</loc>
-    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/author/jiazhen-pan/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url>
@@ -719,6 +709,10 @@
   
   <url>
     <loc>https://aim-lab.io/author/henrik-von-kleist/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/leonhard-feiner/</loc>
   </url>
   
   <url>
