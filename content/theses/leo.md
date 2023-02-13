@@ -1,7 +1,7 @@
 ---
 title: "B.Sc. Thesis/Guided Research/IDP: Influence of slice thickness of pulmonary CTs on Semantic Segmentation Algorithms "
 date: 2022-11-16
-draft: false
+draft: true
 authors: ["LeonhardFeiner"]
 ---
 
