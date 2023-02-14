@@ -246,8 +246,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_3.png">
 
   <link rel="canonical" href="https://aim-lab.io/theses/tabular_feature_selection/">
 
@@ -269,14 +269,14 @@
   
   <meta property="og:site_name" content="AI in Medicine">
   <meta property="og:url" content="https://aim-lab.io/theses/tabular_feature_selection/">
-  <meta property="og:title" content="MSc Thesis: Tabular Feature Selection and Shared Latent Space Explainability in Self-Supervised Multimodal Deep Learning | AI in Medicine">
-  <meta property="og:description" content="Description Medical datasets and especially biobanks, often contain extensive tabular data with rich clinical information in addition to images. In practice, clinicians typically have less data, both in terms of diversity and scale, but still, wish to deploy deep learning solutions."><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="MSc Thesis: Multimodal Representation Learning Dynamics and its Implications on Tabular Feature Selection | AI in Medicine">
+  <meta property="og:description" content="Description Medical datasets and especially biobanks, often contain extensive tabular data with rich clinical information in addition to images. In practice, clinicians typically have less data, both in terms of diversity and scale, but still, wish to deploy deep learning solutions."><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2022-12-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2022-02-14T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2022-12-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-02-14T00:00:00&#43;00:00">
   
 
   
@@ -295,7 +295,7 @@
 
 
 
-  <title>MSc Thesis: Tabular Feature Selection and Shared Latent Space Explainability in Self-Supervised Multimodal Deep Learning | AI in Medicine</title>
+  <title>MSc Thesis: Multimodal Representation Learning Dynamics and its Implications on Tabular Feature Selection | AI in Medicine</title>
 
 </head>
 
@@ -751,7 +751,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>MSc Thesis: Tabular Feature Selection and Shared Latent Space Explainability in Self-Supervised Multimodal Deep Learning</h1>
+  <h1>MSc Thesis: Multimodal Representation Learning Dynamics and its Implications on Tabular Feature Selection</h1>
 
   
 
@@ -780,7 +780,7 @@
     
       
     
-    Dec 1, 2022
+    Feb 14, 2022
   </span>
   
 
@@ -824,12 +824,14 @@
     <div class="article-style">
       <h2 id="description">Description</h2>
 <p>Medical datasets and especially biobanks, often contain extensive tabular data with rich clinical information in addition to images. In practice, clinicians typically have less data, both in terms of diversity and scale, but still, wish to deploy deep learning solutions. Combined with increasing medical dataset sizes and expensive annotation costs, the necessity for unsupervised methods that can be pretrain multimodally and predict unimodally has risen.</p>
-<p>We have developed a self-supervised framework that incorporates both tabular and imaging data during pretraining but requires only images during testing. So far, during pretraining we have used all possibly relevant features but have indications that there exists an optimal subset. Furthermore, the shared latent space should hold keys to the increased performance of the multimodal pretraining process.</p>
-<p>The goal of this thesis will be to develop a framework for optimal subset selection of tabular features for pretraining. Your target is to improve the downstream performance of the imaging encoder across all tasks. Theoretically, you will explore concepts such as mutual information and collinearity. Experimentally, you will use our network architecture and the UK Biobank dataset of cardiac MR data to test your hypotheses. As an extension, you will use explainability methods such as Guided GradCAM and integrated gradients to investigate how the learned features change with different subsets of tabular features and why perfomance increases.</p>
+<p>We have developed a self-supervised representation learning framework that incorporates both tabular and imaging data during pretraining but requires only images during testing. So far, during pretraining we have used all possibly relevant features but have indications in the literature and through our experiments that there exists an optimal subset. Furthermore, the shared latent space should hold keys to the increased performance of the multimodal pretraining process.</p>
+<p>The goal of this thesis will be to develop a framework for optimal subset selection of tabular features for pretraining. Your target is to improve the downstream performance of the imaging encoder across all tasks. At the end, we wish to understand how information is encoded between modalities when training in a multimodal fashion and how to maximize our learning signal.</p>
+<p>Theoretically, you will explore concepts such as mutual information and collinearity. Experimentally, you will use our network architecture and the UK Biobank dataset of cardiac MR data to test your hypotheses. As an extension, you will use explainability methods such as Guided GradCAM and integrated gradients to investigate how the learned features change with different subsets of tabular features and why perfomance increases.</p>
 <h2 id="to-accomplish-this-work-successfully-we-expect-you-to-have">To accomplish this work successfully, we expect you to have:</h2>
 <ul>
-<li>Strong coding skills and familiarity with Pytorch and Numpy</li>
-<li>Basic knowledge of contrastive self-supervised learning, especially SimCLR</li>
+<li>Strong skills in mathematics</li>
+<li>Decent coding skills and familiarity with Pytorch</li>
+<li>Basic knowledge of representation learning</li>
 <li>Basic knowledge of deep-learning explainability methods</li>
 <li>A strong spirit of independent work and desire to solve interesting research questions</li>
 </ul>
@@ -865,7 +867,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/theses/tabular_feature_selection/&amp;text=MSc%20Thesis:%20Tabular%20Feature%20Selection%20and%20Shared%20Latent%20Space%20Explainability%20in%20Self-Supervised%20Multimodal%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/theses/tabular_feature_selection/&amp;text=MSc%20Thesis:%20Multimodal%20Representation%20Learning%20Dynamics%20and%20its%20Implications%20on%20Tabular%20Feature%20Selection" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -878,7 +880,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/theses/tabular_feature_selection/&amp;t=MSc%20Thesis:%20Tabular%20Feature%20Selection%20and%20Shared%20Latent%20Space%20Explainability%20in%20Self-Supervised%20Multimodal%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/theses/tabular_feature_selection/&amp;t=MSc%20Thesis:%20Multimodal%20Representation%20Learning%20Dynamics%20and%20its%20Implications%20on%20Tabular%20Feature%20Selection" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -891,7 +893,7 @@
       
       
       <li>
-        <a href="mailto:?subject=MSc%20Thesis:%20Tabular%20Feature%20Selection%20and%20Shared%20Latent%20Space%20Explainability%20in%20Self-Supervised%20Multimodal%20Deep%20Learning&amp;body=https://aim-lab.io/theses/tabular_feature_selection/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=MSc%20Thesis:%20Multimodal%20Representation%20Learning%20Dynamics%20and%20its%20Implications%20on%20Tabular%20Feature%20Selection&amp;body=https://aim-lab.io/theses/tabular_feature_selection/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -904,7 +906,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/theses/tabular_feature_selection/&amp;title=MSc%20Thesis:%20Tabular%20Feature%20Selection%20and%20Shared%20Latent%20Space%20Explainability%20in%20Self-Supervised%20Multimodal%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/theses/tabular_feature_selection/&amp;title=MSc%20Thesis:%20Multimodal%20Representation%20Learning%20Dynamics%20and%20its%20Implications%20on%20Tabular%20Feature%20Selection" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -917,7 +919,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=MSc%20Thesis:%20Tabular%20Feature%20Selection%20and%20Shared%20Latent%20Space%20Explainability%20in%20Self-Supervised%20Multimodal%20Deep%20Learning%20https://aim-lab.io/theses/tabular_feature_selection/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=MSc%20Thesis:%20Multimodal%20Representation%20Learning%20Dynamics%20and%20its%20Implications%20on%20Tabular%20Feature%20Selection%20https://aim-lab.io/theses/tabular_feature_selection/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -930,7 +932,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/theses/tabular_feature_selection/&amp;title=MSc%20Thesis:%20Tabular%20Feature%20Selection%20and%20Shared%20Latent%20Space%20Explainability%20in%20Self-Supervised%20Multimodal%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/theses/tabular_feature_selection/&amp;title=MSc%20Thesis:%20Multimodal%20Representation%20Learning%20Dynamics%20and%20its%20Implications%20on%20Tabular%20Feature%20Selection" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1205,7 +1207,7 @@
     
     
     
-    <script src="/js/wowchemy.min.d9d80f811e95b4b4f6df1eaaf297b05f.js"></script>
+    <script src="/js/wowchemy.min.e1c274a50c718dd98f2b1b40621d91d5.js"></script>
 
     
 
