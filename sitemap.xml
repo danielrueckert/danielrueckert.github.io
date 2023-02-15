@@ -3,22 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/martin-menten/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/thoracic_ct_segmentation/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/veronika-zimmer/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/mm_tabular_feature_selection/</loc>
-    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/temporal_contrastive_learning/</loc>
-    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/paul-hager/</loc>
-    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/alexander-ziller/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
@@ -66,6 +75,9 @@
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/morphometric_segmentation/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/tabular_feature_selection/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/jiazhen-pan/</loc>
@@ -155,16 +167,10 @@
     <loc>https://aim-lab.io/theses/report_pretraining/</loc>
     <lastmod>2022-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/author/martin-menten/</loc>
-    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/octa/</loc>
+    <loc>https://aim-lab.io/theses/old/octa/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/stroke/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/author/veronika-zimmer/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/florian-hinterwimmer/</loc>
