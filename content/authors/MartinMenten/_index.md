@@ -18,12 +18,12 @@ organizations:
   url: "https://www.translatum.tum.de/forschungsgruppen/ki-in-der-medizin/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include generative modelling, biomarker discovery and applications in opthamology
+bio: My research interests include weakly and unsupervised learning, generative modeling and their applications in opthamology
 
 interests:
-- Generative modelling
-- Unsupervised biomarker detection
-- Retinal imaging
+- Weakly and unsupervised deep learning
+- Generative modeling
+- Ophthalmologic imaging
 
 
 education:
@@ -32,7 +32,7 @@ education:
   - course: PostDoc
     institution: Imperial College London, United Kingdom
   - course: PhD in Physics
-    institution: The Institute of Cancer Research, United Kingdom
+    institution: The Institute of Cancer Research, London, United Kingdom
   - course: MSc in Physics
     institution: Heidelberg University, Germany
   - course: BSc in Physics
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:m.menten@imperial.ac.uk
+  link: mailto:martin.menten@tum.de
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=FSlGL2oAAAAJ&hl=en
@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "m.menten@imperial.ac.uk"
+email: "martin.menten@tum.de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,4 +70,4 @@ user_groups:
 - "Senior Researchers"
 ---
 
-Martin Menten recently joined the Institute of Artificial Intelligence and Informatics in Medicine as a postdoctoral researcher. He is also a researcher in the BioMedIA group at Imperial College London. His research explores the use of generative modelling to advance the understanding and diagnosis of age-related macular degeneration, the leading cause of blindness in the elderly. Before joining the lab of Professor Rueckert, Martin received his PhD in physics from the Institute of Cancer Research in 2018. There, he researched strategies to adapt external beam radiotherapy to anatomical changes in real-time in order to increase cure rates and reduce side effects of cancer treatments.
+Martin Menten is a senior researcher at the Institute of Artificial Intelligence and Informatics in Medicine. He is also affiliated with the BioMedIA group at Imperial College London. His research explores the development and application of machine learning algorithms for ophthalmology. In particular, he is interested in advancing the understanding and clinical management of age-related macular degeneration, the leading cause of blindness in the elderly. Before joining the lab of Professor Rueckert, Martin received his PhD in physics from the Institute of Cancer Research in 2018. There, he researched strategies to adapt external beam radiotherapy to anatomical changes in real-time in order to increase cure rates and reduce side effects of cancer treatments.
