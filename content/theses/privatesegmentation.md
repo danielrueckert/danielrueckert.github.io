@@ -1,6 +1,6 @@
 ---
-title: "Systemic Evaluation of Segmentation Architectures in Private Medical Deep Learning"
-date: 2023-02-09
+title: "MSc Thesis: Systematic Evaluation of Segmentation Architectures in Private Medical Deep Learning"
+date: 2023-02-22
 authors: ["AlexZiller"]
 draft: false
 tags:
