@@ -8,7 +8,7 @@ tags:
     - PPML
 
 ---
-Privacy-Preserving Machine Learning enables the training of neural networks, while bounding the information about data subjects [1,2]. Hence, especially in sensitive contexts where plausible deniability is crucial it is an important mean to give mathematical guarantees about worst case guarantees. However, due to these constraints in most cases it introduces a drop in utility compared to non-private training. This noise can be explained from two factors compared to normal training: 1) gradients are clipped to a maximum norm and 2) noise is added. In this project we want to evaluate the effect of both seperately on different architectures and settings. 
+Privacy-Preserving Machine Learning enables the training of neural networks, while bounding the information about data subjects [1,2]. Hence, especially in sensitive contexts where plausible deniability is crucial it is an important mean to give mathematical guarantees about worst case guarantees. However, due to these constraints in most cases it introduces a drop in utility compared to non-private training. This drop can be explained from two factors compared to normal training: 1) gradients are clipped to a maximum norm and 2) noise is added. In this project we want to evaluate the effect of both seperately on different architectures and settings. 
 
 
 <br/>
