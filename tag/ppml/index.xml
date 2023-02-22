@@ -17,7 +17,7 @@
       <link>https://aim-lab.io/theses/clipvsnoise/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/clipvsnoise/</guid>
-      <description>&lt;p&gt;Privacy-Preserving Machine Learning enables the training of neural networks, while bounding the information about data subjects [1,2]. Hence, especially in sensitive contexts where plausible deniability is crucial it is an important mean to give mathematical guarantees about worst case guarantees. However, due to these constraints in most cases it introduces a drop in utility compared to non-private training. This noise can be explained from two factors compared to normal training: 1) gradients are clipped to a maximum norm and 2) noise is added. In this project we want to evaluate the effect of both seperately on different architectures and settings.&lt;/p&gt;
+      <description>&lt;p&gt;Privacy-Preserving Machine Learning enables the training of neural networks, while bounding the information about data subjects [1,2]. Hence, especially in sensitive contexts where plausible deniability is crucial it is an important mean to give mathematical guarantees about worst case guarantees. However, due to these constraints in most cases it introduces a drop in utility compared to non-private training. This drop can be explained from two factors compared to normal training: 1) gradients are clipped to a maximum norm and 2) noise is added. In this project we want to evaluate the effect of both seperately on different architectures and settings.&lt;/p&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
 &lt;ul&gt;
