@@ -5,17 +5,17 @@
     <link>https://aim-lab.io/tag/segmentation/</link>
       <atom:link href="https://aim-lab.io/tag/segmentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Segmentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Segmentation</title>
       <link>https://aim-lab.io/tag/segmentation/</link>
     </image>
     
     <item>
-      <title>Systemic Evaluation of Segmentation Architectures in Private Medical Deep Learning</title>
+      <title>MSc Thesis: Systematic Evaluation of Segmentation Architectures in Private Medical Deep Learning</title>
       <link>https://aim-lab.io/theses/privatesegmentation/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/privatesegmentation/</guid>
       <description>&lt;p&gt;Privacy-Preserving Machine Learning enables the training of neural networks, while bounding the information about data subjects [1,2]. Hence, especially in sensitive contexts where plausible deniability is crucial it is an important mean to give mathematical guarantees about worst case guarantees. However, due to these constraints in most cases it introduces a drop in utility compared to non-private training. In recent publications it was shown that the margin between private and non-private training is among other factors dependent on the model architecture [3,4,5]. It is apparent that the rules, which architectures perform best, which have extensively been researched for standard training are different in these settings. First studies in classification settings showed that wider models appear to be advantageous [4,5]. In this thesis we want to systematically evaluate existing segmentation architectures under privacy constraints in medical and non-medical benchmark datasets.&lt;/p&gt;
 &lt;br/&gt;
