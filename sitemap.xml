@@ -3,48 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aim-lab.io/author/alexander-ziller/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/clipvsnoise/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/tag/deep-learning/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/privatesegmentation/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/tag/ppml/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/tag/segmentation/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/tags/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -98,12 +63,27 @@
   </url>
   
   <url>
+    <loc>https://aim-lab.io/author/alexander-ziller/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/tag/deep-learning/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/tag/medical-imaging/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/theses/practical/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/tags/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url>
   
