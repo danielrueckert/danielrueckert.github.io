@@ -2,7 +2,7 @@
 title: "MSc Thesis: Systematic Evaluation of Segmentation Architectures in Private Medical Deep Learning"
 date: 2023-02-22
 authors: ["AlexZiller"]
-draft: false
+draft: true
 tags:
     - Deep Learning
     - PPML
