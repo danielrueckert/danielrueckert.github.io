@@ -3,13 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/masther_thesis_relationformer/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/daniel-ruckert/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/boryschibisov/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/martin-menten/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/thoracic_ct_processing/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/veronika-zimmer/</loc>
+    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/mm_tabular_feature_selection/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/temporal_contrastive_learning/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/paul-hager/</loc>
+    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/eeg_age_predicition/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/ozgun-turgut/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/alexander-ziller/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/tag/deep-learning/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/tag/medical-imaging/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/practical/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/tags/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/felix-meissen/</loc>
     <lastmod>2022-12-22T00:00:00+00:00</lastmod>
@@ -26,35 +77,11 @@
     <loc>https://aim-lab.io/theses/scaling_laws/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/tag/deep-learning/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/tag/medical-imaging/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/age_prediction/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/tags/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/author/tamara-muller/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aim-lab.io/theses/morphometric_segmentation/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/tabular_feature_selection/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/author/paul-hager/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/leo/</loc>
-    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/author/leonhard-feiner/</loc>
-    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/jiazhen-pan/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
@@ -110,25 +137,10 @@
     <loc>https://aim-lab.io/theses/attacks_path/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/author/alexander-ziller/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
+    <loc>https://aim-lab.io/theses/data_collection/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/philip-muller/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/practical/</loc>
-    <lastmod>2022-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/masther_thesis_relationformer/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/masther_thesis_aneyrism/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/data_collection/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/kerstin-hammernik/</loc>
@@ -140,25 +152,16 @@
     <loc>https://aim-lab.io/post/</loc>
     <lastmod>2022-04-12T13:45:38+02:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/author/daniel-ruckert/</loc>
-    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aim-lab.io/theses/ai-virus/</loc>
     <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/report_pretraining/</loc>
     <lastmod>2022-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/author/martin-menten/</loc>
-    <lastmod>2021-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/octa/</loc>
+    <loc>https://aim-lab.io/theses/old/octa/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/stroke/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/author/veronika-zimmer/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/florian-hinterwimmer/</loc>
@@ -421,6 +424,8 @@
   </url><url>
     <loc>https://aim-lab.io/author/henrik-von-kleist/</loc>
   </url><url>
+    <loc>https://aim-lab.io/author/leonhard-feiner/</loc>
+  </url><url>
     <loc>https://aim-lab.io/author/moritz-knolle/</loc>
   </url><url>
     <loc>https://aim-lab.io/news/</loc>
@@ -437,10 +442,10 @@
   </url><url>
     <loc>https://aim-lab.io/author/sophie-starck/</loc>
   </url><url>
+    <loc>https://aim-lab.io/author/tamara-muller/</loc>
+  </url><url>
     <loc>https://aim-lab.io/author/wenqi-huang/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/yundi-zhang/</loc>
-  </url><url>
-    <loc>https://aim-lab.io/author/ozgun-turgut/</loc>
   </url>
 </urlset>

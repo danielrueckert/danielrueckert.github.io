@@ -5,35 +5,12 @@
     <link>https://aim-lab.io/author/leonhard-feiner/</link>
       <atom:link href="https://aim-lab.io/author/leonhard-feiner/index.xml" rel="self" type="application/rss+xml" />
     <description>Leonhard Feiner</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Leonhard Feiner</title>
       <link>https://aim-lab.io/author/leonhard-feiner/</link>
     </image>
-    
-    <item>
-      <title>B.Sc. Thesis/Guided Research/IDP: Influence of slice thickness of pulmonary CTs on Semantic Segmentation Algorithms </title>
-      <link>https://aim-lab.io/theses/leo/</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/leo/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Covid-19 can cause various types of pathologies within the lung. Deep learning is widely used to segment affected areas of the lung using computed tomography images as input. However, these images can be acquired using a large variety of imaging parameters. These parameters include the resolution in Z axis usually given as slice thickness of the longitudinal plane in millimeter. The goal of this project is to assess the implications of the slice thickness on common imaging metrics for semantic segmentation.&lt;/p&gt;
-&lt;p&gt;Hence, we created an in-house dataset containing 50 patients and 2 scans per patent for slice thickness of 1mm and 5mm. Furthermore, we have semantic labels for all 100 volumes. Those could be used to compare single thickness of 1mm, single thickness of 5mm and mixed thickness. To achieve a fair comparison, we also want to mitigate the effect of an unequal number of total slices for the subsets containing different slice thicknesses.&lt;/p&gt;
-&lt;h2 id=&#34;your-task-include&#34;&gt;Your task include&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Defining an appropriate dataset split and selection to get a fair comparison&lt;/li&gt;
-&lt;li&gt;Implementation and training of a semantic segmentation deep learning model&lt;/li&gt;
-&lt;li&gt;Hyperparameter tuning&lt;/li&gt;
-&lt;li&gt;Evaluation using appropriate metrics&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;your-requirements&#34;&gt;Your requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Interest in medical image processing&lt;/li&gt;
-&lt;li&gt;Prior knowledge in machine learning and a commonly used DL framework (PyTorch, TensorFlow, …)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
