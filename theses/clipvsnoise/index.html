@@ -27,17 +27,17 @@
   
   
 
-  <meta name="author" content="Johannes C. Paetzold">
+  <meta name="author" content="Daniel Rückert">
 
   
   
   
     
   
-  <meta name="description" content="Description Covid-19 can cause various types of pathologies within the lung. Deep learning is widely used to segment affected areas of the lung using computed tomography images as input. However, these images can be acquired using a large variety of imaging parameters.">
+  <meta name="description" content="Privacy-Preserving Machine Learning enables the training of neural networks, while bounding the information about data subjects [1,2]. Hence, especially in sensitive contexts where plausible deniability is crucial it is an important mean to give mathematical guarantees about worst case guarantees.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/theses/leo/">
+  <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/theses/clipvsnoise/">
 
   
 
@@ -249,7 +249,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://aim-lab.io/theses/leo/">
+  <link rel="canonical" href="https://aim-lab.io/theses/clipvsnoise/">
 
   
   
@@ -268,15 +268,15 @@
   <meta property="twitter:creator" content="@DanielRueckert">
   
   <meta property="og:site_name" content="AI in Medicine">
-  <meta property="og:url" content="https://aim-lab.io/theses/leo/">
-  <meta property="og:title" content="B.Sc. Thesis/Guided Research/IDP: Influence of slice thickness of pulmonary CTs on Semantic Segmentation Algorithms  | AI in Medicine">
-  <meta property="og:description" content="Description Covid-19 can cause various types of pathologies within the lung. Deep learning is widely used to segment affected areas of the lung using computed tomography images as input. However, these images can be acquired using a large variety of imaging parameters."><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://aim-lab.io/theses/clipvsnoise/">
+  <meta property="og:title" content="Application Project/Guided Research/etc: Separating the influence of noising and clipping in differentially private training. | AI in Medicine">
+  <meta property="og:description" content="Privacy-Preserving Machine Learning enables the training of neural networks, while bounding the information about data subjects [1,2]. Hence, especially in sensitive contexts where plausible deniability is crucial it is an important mean to give mathematical guarantees about worst case guarantees."><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2022-11-16T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2023-02-22T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2022-11-16T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-02-22T00:00:00&#43;00:00">
   
 
   
@@ -295,7 +295,7 @@
 
 
 
-  <title>B.Sc. Thesis/Guided Research/IDP: Influence of slice thickness of pulmonary CTs on Semantic Segmentation Algorithms  | AI in Medicine</title>
+  <title>Application Project/Guided Research/etc: Separating the influence of noising and clipping in differentially private training. | AI in Medicine</title>
 
 </head>
 
@@ -751,7 +751,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>B.Sc. Thesis/Guided Research/IDP: Influence of slice thickness of pulmonary CTs on Semantic Segmentation Algorithms </h1>
+  <h1>Application Project/Guided Research/etc: Separating the influence of noising and clipping in differentially private training.</h1>
 
   
 
@@ -769,7 +769,7 @@
     
 
   
-  <span ><a href="/author/leonhard-feiner/">Leonhard Feiner</a></span>
+  <span ><a href="/author/alexander-ziller/">Alexander Ziller</a></span>
   </div>
   
   
@@ -780,7 +780,7 @@
     
       
     
-    Nov 16, 2022
+    Feb 22, 2023
   </span>
   
 
@@ -822,20 +822,28 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h2 id="description">Description</h2>
-<p>Covid-19 can cause various types of pathologies within the lung. Deep learning is widely used to segment affected areas of the lung using computed tomography images as input. However, these images can be acquired using a large variety of imaging parameters. These parameters include the resolution in Z axis usually given as slice thickness of the longitudinal plane in millimeter. The goal of this project is to assess the implications of the slice thickness on common imaging metrics for semantic segmentation.</p>
-<p>Hence, we created an in-house dataset containing 50 patients and 2 scans per patent for slice thickness of 1mm and 5mm. Furthermore, we have semantic labels for all 100 volumes. Those could be used to compare single thickness of 1mm, single thickness of 5mm and mixed thickness. To achieve a fair comparison, we also want to mitigate the effect of an unequal number of total slices for the subsets containing different slice thicknesses.</p>
-<h2 id="your-task-include">Your task include</h2>
+      <p>Privacy-Preserving Machine Learning enables the training of neural networks, while bounding the information about data subjects [1,2]. Hence, especially in sensitive contexts where plausible deniability is crucial it is an important mean to give mathematical guarantees about worst case guarantees. However, due to these constraints in most cases it introduces a drop in utility compared to non-private training. This drop can be explained from two factors compared to normal training: 1) gradients are clipped to a maximum norm and 2) noise is added. In this project we want to evaluate the effect of both seperately on different architectures and settings.</p>
+<br/>
+<h2 id="your-qualifications">Your qualifications:</h2>
 <ul>
-<li>Defining an appropriate dataset split and selection to get a fair comparison</li>
-<li>Implementation and training of a semantic segmentation deep learning model</li>
-<li>Hyperparameter tuning</li>
-<li>Evaluation using appropriate metrics</li>
+<li>Enthusiasm for deep learning.</li>
+<li>Advanced knowledge of machine learning and computer vision.</li>
+<li>Excellent programming skills in Python and at least one deep learning frame work (optimally PyTorch or Jax)</li>
+<li>Prior knowledge on PPML or medical imaging is helpful but no requirement</li>
 </ul>
-<h2 id="your-requirements">Your requirements</h2>
+<br/>
+<h2 id="what-we-offer">What we offer:</h2>
 <ul>
-<li>Interest in medical image processing</li>
-<li>Prior knowledge in machine learning and a commonly used DL framework (PyTorch, TensorFlow, …)</li>
+<li>Experience with several top-tier publications in privacy-preserving machine learning.</li>
+<li>Working in an interdisciplinary team of experts in PPML, image processing, deep learning, biomedical engineering and medicine.</li>
+<li>Enough freedom to pursue your own project while providing the guidance you need.</li>
+<li>Thesis is strongly aimed to be published in a peer-reviewed venue.</li>
+</ul>
+<br/>
+<h2 id="references">References</h2>
+<ul>
+<li><a href="https://www.nature.com/articles/s42256-020-0186-1" target="_blank" rel="noopener">[1] Secure, privacy-preserving and federated machine learning in medical imaging</a></li>
+<li><a href="https://www.nature.com/articles/s42256-021-00337-8" target="_blank" rel="noopener">[2] End-to-end privacy preserving deep learning on multi-institutional medical imaging</a></li>
 </ul>
 
     </div>
@@ -846,6 +854,14 @@
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/deep-learning/">Deep Learning</a>
+  
+  <a class="badge badge-light" href="/tag/ppml/">PPML</a>
+  
+</div>
 
 
 
@@ -860,7 +876,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/theses/leo/&amp;text=B.Sc.%20Thesis/Guided%20Research/IDP:%20Influence%20of%20slice%20thickness%20of%20pulmonary%20CTs%20on%20Semantic%20Segmentation%20Algorithms%20" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/theses/clipvsnoise/&amp;text=Application%20Project/Guided%20Research/etc:%20Separating%20the%20influence%20of%20noising%20and%20clipping%20in%20differentially%20private%20training." target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -873,7 +889,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/theses/leo/&amp;t=B.Sc.%20Thesis/Guided%20Research/IDP:%20Influence%20of%20slice%20thickness%20of%20pulmonary%20CTs%20on%20Semantic%20Segmentation%20Algorithms%20" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/theses/clipvsnoise/&amp;t=Application%20Project/Guided%20Research/etc:%20Separating%20the%20influence%20of%20noising%20and%20clipping%20in%20differentially%20private%20training." target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -886,7 +902,7 @@
       
       
       <li>
-        <a href="mailto:?subject=B.Sc.%20Thesis/Guided%20Research/IDP:%20Influence%20of%20slice%20thickness%20of%20pulmonary%20CTs%20on%20Semantic%20Segmentation%20Algorithms%20&amp;body=https://aim-lab.io/theses/leo/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Application%20Project/Guided%20Research/etc:%20Separating%20the%20influence%20of%20noising%20and%20clipping%20in%20differentially%20private%20training.&amp;body=https://aim-lab.io/theses/clipvsnoise/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -899,7 +915,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/theses/leo/&amp;title=B.Sc.%20Thesis/Guided%20Research/IDP:%20Influence%20of%20slice%20thickness%20of%20pulmonary%20CTs%20on%20Semantic%20Segmentation%20Algorithms%20" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/theses/clipvsnoise/&amp;title=Application%20Project/Guided%20Research/etc:%20Separating%20the%20influence%20of%20noising%20and%20clipping%20in%20differentially%20private%20training." target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -912,7 +928,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=B.Sc.%20Thesis/Guided%20Research/IDP:%20Influence%20of%20slice%20thickness%20of%20pulmonary%20CTs%20on%20Semantic%20Segmentation%20Algorithms%20%20https://aim-lab.io/theses/leo/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Application%20Project/Guided%20Research/etc:%20Separating%20the%20influence%20of%20noising%20and%20clipping%20in%20differentially%20private%20training.%20https://aim-lab.io/theses/clipvsnoise/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -925,7 +941,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/theses/leo/&amp;title=B.Sc.%20Thesis/Guided%20Research/IDP:%20Influence%20of%20slice%20thickness%20of%20pulmonary%20CTs%20on%20Semantic%20Segmentation%20Algorithms%20" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/theses/clipvsnoise/&amp;title=Application%20Project/Guided%20Research/etc:%20Separating%20the%20influence%20of%20noising%20and%20clipping%20in%20differentially%20private%20training." target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -957,13 +973,13 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/leonhard-feiner/"><img class="avatar mr-3 avatar-circle" src="/author/leonhard-feiner/avatar_hu42b50e687b941ba313f001a47e869412_504194_270x270_fill_q90_lanczos_center.jpg" alt="Leonhard Feiner"></a>
+      <a href="/author/alexander-ziller/"><img class="avatar mr-3 avatar-circle" src="/author/alexander-ziller/avatar_hu88e80638f93b3174cfb75c89a83e2b3e_80953_270x270_fill_q90_lanczos_center.jpg" alt="Alexander Ziller"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/author/leonhard-feiner/">Leonhard Feiner</a></h5>
+      <h5 class="card-title"><a href="/author/alexander-ziller/">Alexander Ziller</a></h5>
       <h6 class="card-subtitle">PhD Student</h6>
-      <p class="card-text">My research interests consists of deep learning for medical imaging with focus on pulmonary diseases.</p>
+      <p class="card-text">My research interests include Privacy-preserving Machine Learning as well as deep learning in medical imaging.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -976,7 +992,7 @@
     
     
     <li>
-      <a href="mailto:leo.feiner@tum.de" >
+      <a href="mailto:alex.ziller@tum.de" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -993,7 +1009,39 @@
       
     
     <li>
-      <a href="https://www.linkedin.com/in/leonhard-feiner" target="_blank" rel="noopener">
+      <a href="https://github.com/a1302z" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.de/citations?user=Ir90mU4AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://de.linkedin.com/in/a1302z" target="_blank" rel="noopener">
         <i class="fab fa-linkedin"></i>
       </a>
     </li>
@@ -1010,25 +1058,8 @@
       
     
     <li>
-      <a href="https://www.xing.com/profile/Leonhard_Feiner" target="_blank" rel="noopener">
-        <i class="fab fa-xing-square"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/LeonhardFeiner" target="_blank" rel="noopener">
-        <i class="fab fa-github-square"></i>
+      <a href="https://twitter.com/a1302z" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
       </a>
     </li>
   
