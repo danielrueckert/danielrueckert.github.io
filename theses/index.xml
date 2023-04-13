@@ -7,7 +7,7 @@
     <description>Current Vacancies</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
@@ -44,8 +44,8 @@ Traditionally, image-to-graph generation is addressed with a two-stage approach 
 &lt;p&gt;&lt;img src=&#34;./vessels.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;[1] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A Unified Framework for Image-to-Graph Generation.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/abs/2203.10202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2203.10202&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2] Chen et al. &amp;ldquo;DiffusionDet: Diffusion Model for Object Detection.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/pdf/2211.09788.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2211.09788.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A Unified Framework for Image-to-Graph Generation.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/abs/2203.10202&#34;&gt;https://arxiv.org/abs/2203.10202&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] Chen et al. &amp;ldquo;DiffusionDet: Diffusion Model for Object Detection.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/pdf/2211.09788.pdf&#34;&gt;https://arxiv.org/pdf/2211.09788.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[3] Paetzold, Johannes C., et al. &amp;ldquo;Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience.&amp;rdquo; Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). 2021.
 &lt;br/&gt;&lt;/p&gt;
 </description>
@@ -204,11 +204,11 @@ The objective of this thesis is to compare different methods for automatic recog
 &lt;p&gt;Please send us a short e-mail with your CV and grade report to &lt;a href=&#34;mailto:oezguen.turgut@tum.de&#34;&gt;oezguen.turgut@tum.de&lt;/a&gt;.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Johns Hopkins Medicine. &amp;ldquo;Electroencephalogram (EEG)&amp;rdquo;. &lt;a href=&#34;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&lt;/a&gt; &lt;/br&gt;
+&lt;p&gt;[1] Johns Hopkins Medicine. &amp;ldquo;Electroencephalogram (EEG)&amp;rdquo;. &lt;a href=&#34;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&#34;&gt;https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/electroencephalogram-eeg&lt;/a&gt; &lt;/br&gt;
 [2] Dinh et al. &amp;ldquo;Brain dysfunction in chronic pain patients assessed by resting-state electroencephalography.&amp;rdquo; Pain 160.12 (2019): 2751.
-&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&lt;/a&gt; &lt;/br&gt;
+&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7195856/&lt;/a&gt; &lt;/br&gt;
 [3] Heitmann et al. &amp;ldquo;Longitudinal resting-state electroencephalography in patients with chronic pain undergoing interdisciplinary multimodal pain therapy.&amp;rdquo; Pain 163.9 (2022): e997-e1005.
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35050961/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pubmed.ncbi.nlm.nih.gov/35050961/&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35050961/&#34;&gt;https://pubmed.ncbi.nlm.nih.gov/35050961/&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -248,9 +248,9 @@ In short this course offers students to:&lt;/p&gt;
 &lt;li&gt;Final presentation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
-&lt;p&gt;A preliminary meeting will take place on 31st of January, 2023 at 11:30 on zoom with the following details: &lt;br&gt;
-&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meeting ID: 690 7588 3519 &lt;br&gt;
+&lt;p&gt;A preliminary meeting will take place on 31st of January, 2023 at 11:30 on zoom with the following details:&lt;br&gt;
+&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 690 7588 3519&lt;br&gt;
 Passcode: 850155&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingSoSe23.pdf&#34;&gt;Slides - SoSe 2023&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWS22.pdf&#34;&gt;(Outdated) Slides - WS 2022/23&lt;/a&gt;&lt;/p&gt;
@@ -421,32 +421,6 @@ In this work, we attempt to introduce a hybrid image denoising network that opti
 &lt;/ul&gt;
 &lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
 &lt;p&gt;Just send an email to &lt;a href=&#34;mailto:jiazhen.pan@tum.de&#34;&gt;jiazhen.pan@tum.de&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Internship / External MSc Project at Philips Research Hamburg: Loss functions for MRI reconstruction</title>
-      <link>https://aim-lab.io/theses/mri_philips/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/mri_philips/</guid>
-      <description>&lt;p&gt;Techniques from Deep Learning have become a central building block in the development of medical image reconstruction algorithms. For example, neural networks have been used to accelerate and improve MR and CT reconstructions, thereby allowing reduction of measurement duration or radiation dose.  A central issue in the training of these networks is the choice of the objective functions, or loss functions, that do not generally reflect human visual perception. The aim of this Master’s Project is to study and develop suitable feature-based loss functions, which can be used for improving deep-learning based techniques in medical image reconstruction. An initial direction of study would be the unsupervised training of a feature loss based on a database of MR images and the subsequent application of the resulting loss in downstream tasks such as image reconstruction or contrast-to-contrast mapping.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Computer Science, Biomedical Engineering, Physics or similar background&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;li&gt;Proficient in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;a close and personal co-supervision between TUM and Philips Research Hamburg&lt;/li&gt;
-&lt;li&gt;a three month paid internship in the Philips Research Lab in Hamburg, taking place in the beginning of the project&lt;/li&gt;
-&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
-&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction from academia and industry&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply&lt;/h2&gt;
-&lt;p&gt;Please send your application via email to &lt;a href=&#34;mailto:jakob.meineke@philips.com&#34;&gt;jakob.meineke@philips.com&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

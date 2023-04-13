@@ -7,7 +7,7 @@
     <description>Johannes C. Paetzold</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Johannes C. Paetzold</title>
       <link>https://aim-lab.io/author/johannes-c.-paetzold/</link>
     </image>
@@ -44,8 +44,8 @@ Traditionally, image-to-graph generation is addressed with a two-stage approach 
 &lt;p&gt;&lt;img src=&#34;./vessels.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;[1] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A Unified Framework for Image-to-Graph Generation.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/abs/2203.10202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2203.10202&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2] Chen et al. &amp;ldquo;DiffusionDet: Diffusion Model for Object Detection.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/pdf/2211.09788.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2211.09788.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A Unified Framework for Image-to-Graph Generation.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/abs/2203.10202&#34;&gt;https://arxiv.org/abs/2203.10202&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] Chen et al. &amp;ldquo;DiffusionDet: Diffusion Model for Object Detection.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/pdf/2211.09788.pdf&#34;&gt;https://arxiv.org/pdf/2211.09788.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[3] Paetzold, Johannes C., et al. &amp;ldquo;Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience.&amp;rdquo; Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). 2021.
 &lt;br/&gt;&lt;/p&gt;
 </description>

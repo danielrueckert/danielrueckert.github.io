@@ -7,36 +7,10 @@
     <description>Kerstin Hammernik</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Kerstin Hammernik</title>
       <link>https://aim-lab.io/author/kerstin-hammernik/</link>
     </image>
-    
-    <item>
-      <title>Internship / External MSc Project at Philips Research Hamburg: Loss functions for MRI reconstruction</title>
-      <link>https://aim-lab.io/theses/mri_philips/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/mri_philips/</guid>
-      <description>&lt;p&gt;Techniques from Deep Learning have become a central building block in the development of medical image reconstruction algorithms. For example, neural networks have been used to accelerate and improve MR and CT reconstructions, thereby allowing reduction of measurement duration or radiation dose.  A central issue in the training of these networks is the choice of the objective functions, or loss functions, that do not generally reflect human visual perception. The aim of this Master’s Project is to study and develop suitable feature-based loss functions, which can be used for improving deep-learning based techniques in medical image reconstruction. An initial direction of study would be the unsupervised training of a feature loss based on a database of MR images and the subsequent application of the resulting loss in downstream tasks such as image reconstruction or contrast-to-contrast mapping.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Computer Science, Biomedical Engineering, Physics or similar background&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;li&gt;Proficient in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;a close and personal co-supervision between TUM and Philips Research Hamburg&lt;/li&gt;
-&lt;li&gt;a three month paid internship in the Philips Research Lab in Hamburg, taking place in the beginning of the project&lt;/li&gt;
-&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
-&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction from academia and industry&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply&lt;/h2&gt;
-&lt;p&gt;Please send your application via email to &lt;a href=&#34;mailto:jakob.meineke@philips.com&#34;&gt;jakob.meineke@philips.com&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>MSc Thesis: Motion-Compensated MRI Reconstruction</title>
