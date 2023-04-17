@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/temporal_contrastive_learning/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/paul-hager/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
     <lastmod>2023-04-03T00:00:00+00:00</lastmod>
@@ -31,15 +37,6 @@
   </url><url>
     <loc>https://aim-lab.io/author/veronika-zimmer/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/mm_tabular_feature_selection/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/temporal_contrastive_learning/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/author/paul-hager/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/eeg_age_predicition/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
@@ -71,17 +68,11 @@
     <loc>https://aim-lab.io/author/florian-a.-holzl/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/theses/efficient_training/</loc>
-    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aim-lab.io/theses/scaling_laws/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/theses/morphometric_segmentation/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/tabular_feature_selection/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <loc>https://aim-lab.io/theses/efficient_training/</loc>
+    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/jiazhen-pan/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
