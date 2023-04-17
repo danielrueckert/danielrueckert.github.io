@@ -1,16 +1,18 @@
 ---
 title: "MSc Thesis: Temporal Contrastive Learning of Cardiac Heartbeat"
-date: 2023-02-14
+date: 2023-04-17
 authors: ["PaulHager"]
 ---
 
 ## Description
 
-Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Contrastive learning is strong because it uses multiple views of an object to learn which information to capture/encode. If the views are smartly chosen through proper augmentations, then information which is useful for the targeted downstream task is learned and the resulting representations are strong.
+Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Its strength lies in training networks to solve a context-matching task using multiple views of an image. If the views are smartly chosen through proper augmentations, the model learns informative representations of data without any human supervision. These representations can then be used on targeted downstream tasks.
 
-Contrastive learning has been explored extensively in the natural image domain but there still remain many unanswered questions and untapped potential in the medical domain. The unique nature of medical data offers many avenues to explore to try and determine how best to adapt contrastive learning to medical imaging. 
+Contrastive learning has been explored extensively in the natural image domain but there still remain many unanswered questions and untapped potential in the medical domain. The unique characteristics of medical data offers many avenues to explore to try and determine how best to adapt contrastive learning to medical imaging. In this project, we are interested in the temporal dimension in two very large medical datasets.
 
-One such area is cardiac MR imaging, where instead of having a static image of an object that we wish to encode, we have an entire time series spanning at least one heart beat. The goal of this thesis is to explore how to best select views from a time-series of cardiac MR data to maximize the information learned through contrastive learning. You will use full cycle cardiac MR data from the UKBB which contains over 45k subjects.
+Our main application will be for learning representations of the evolution of progressive diseases. Despite being the leading cause of blindness in the elderly, little is understood about how Age-related macular degeneration (AMD) develops over time. This evolution is documented in our dataset of 181k retinal images of 7.5k subjects imaged over eight years. Using the self-supervised  methodology you develop, you will also learn representations that encode multiple years of disease progression, ultimately improving diagnosis and prognosis of AMD.
+
+A secondary application, to test the generalisability of the method, is cardiac MR imaging. Here we will train models to learn the dynamics of the heart as it cycles at least one heart beat, which is important for predicting cardiac disease such as infarction. The full cycle cardiac MR data from the UKBB contains over 45k subjects.
 
 ## To accomplish this work successfully, we expect you to have:
 
