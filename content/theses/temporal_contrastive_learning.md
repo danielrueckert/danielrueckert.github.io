@@ -1,5 +1,5 @@
 ---
-title: "MSc Thesis: Temporal Contrastive Learning of Cardiac Heartbeat"
+title: "MSc Thesis: Spatiotemporal Contrastive Learning of Progressive Diseases"
 date: 2023-04-17
 authors: ["PaulHager"]
 ---
