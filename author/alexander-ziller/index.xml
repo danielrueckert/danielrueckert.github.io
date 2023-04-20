@@ -5,7 +5,7 @@
     <link>https://aim-lab.io/author/alexander-ziller/</link>
       <atom:link href="https://aim-lab.io/author/alexander-ziller/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Ziller</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Alexander Ziller</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Practical Course: Applied Deep Learning in Medicine</title>
       <link>https://aim-lab.io/theses/practical/</link>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/practical/</guid>
       <description>&lt;p&gt;In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan. Deep Learning methods will be applied to solve tasks to achieve the goal that is agreed upon. Datasets will be explored and analysed in several directions and different approaches will be evaluated and compared.
 In short this course offers students to:&lt;/p&gt;
@@ -48,7 +48,13 @@ In short this course offers students to:&lt;/p&gt;
 &lt;li&gt;Final presentation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting.pdf&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A preliminary meeting will take place on 31st of January, 2023 at 11:30 on zoom with the following details: &lt;br&gt;
+&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 690 7588 3519 &lt;br&gt;
+Passcode: 850155&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;PracticalPreMeetingSoSe23.pdf&#34;&gt;Slides - SoSe 2023&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWS22.pdf&#34;&gt;(Outdated) Slides - WS 2022/23&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting.pdf&#34;&gt;(Outdated) Slides - SoSe 2022&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

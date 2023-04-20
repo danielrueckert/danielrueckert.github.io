@@ -5,12 +5,44 @@
     <link>https://aim-lab.io/author/paul-hager/</link>
       <atom:link href="https://aim-lab.io/author/paul-hager/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Hager</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2022</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 17 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Paul Hager</title>
       <link>https://aim-lab.io/author/paul-hager/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Spatiotemporal Contrastive Learning of Progressive Diseases</title>
+      <link>https://aim-lab.io/theses/temporal_contrastive_learning/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/temporal_contrastive_learning/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Its strength lies in training networks to solve a context-matching task using multiple views of an image. If the views are smartly chosen through proper augmentations, the model learns informative representations of data without any human supervision. These representations can then be used on targeted downstream tasks.&lt;/p&gt;
+&lt;p&gt;Contrastive learning has been explored extensively in the natural image domain but there still remain many unanswered questions and untapped potential in the medical domain. The unique characteristics of medical data offers many avenues to explore to try and determine how best to adapt contrastive learning to medical imaging. In this project, we are interested in the temporal dimension in two very large medical datasets.&lt;/p&gt;
+&lt;p&gt;Our main application will be for learning representations of the evolution of progressive diseases. Despite being the leading cause of blindness in the elderly, little is understood about how Age-related macular degeneration (AMD) develops over time. This evolution is documented in our dataset of 181k retinal images of 7.5k subjects imaged over eight years. Using the self-supervised  methodology you develop, you will also learn representations that encode multiple years of disease progression, ultimately improving diagnosis and prognosis of AMD.&lt;/p&gt;
+&lt;p&gt;A secondary application, to test the generalisability of the method, is cardiac MR imaging. Here we will train models to learn the dynamics of the heart as it cycles at least one heart beat, which is important for predicting cardiac disease such as infarction. The full cycle cardiac MR data from the UKBB contains over 45k subjects.&lt;/p&gt;
+&lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-to-have&#34;&gt;To accomplish this work successfully, we expect you to have:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong coding skills and familiarity with Pytorch&lt;/li&gt;
+&lt;li&gt;Basic knowledge of contrastive learning&lt;/li&gt;
+&lt;li&gt;A strong spirit of independent work and desire to solve interesting research questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
+&lt;li&gt;Support in bringing your finished project to publication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://arxiv.org/pdf/2002.05709.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Simple Framework for Contrastive Learning of Visual Representations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&#34;https://arxiv.org/pdf/2104.14558.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] &lt;a href=&#34;https://faculty.ucmerced.edu/mhyang/papers/cvpr2021_cvrl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatiotemporal Contrastive Video Representation Learning&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:robert.holland15@imperial.ac.uk&#34;&gt;robert.holland15@imperial.ac.uk&lt;/a&gt; and &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
