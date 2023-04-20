@@ -2,6 +2,7 @@
 title: "MSc Thesis: Contrastive Pre-Training for Radiology Reports"
 date: 2022-01-26
 authors: ["PhilipMueller"]
+draft: true
 ---
 
 In recent years transformer-based language models have proven quite successful in the field of natural language processing (NLP). 

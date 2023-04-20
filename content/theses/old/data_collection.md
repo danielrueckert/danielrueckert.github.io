@@ -2,6 +2,7 @@
 title: "B.Sc. Thesis: Collection of a German Biomedical Text Corpus from Public Sources"
 date: 2022-05-31
 authors: ["PhilipMueller"]
+draft: true
 ---
 
 Recent successes in Natural Language Processing (NLP) are based on pre-training language models on large datasets of unlabelled text.
