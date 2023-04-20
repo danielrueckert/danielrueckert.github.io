@@ -68,10 +68,10 @@
     <loc>https://aim-lab.io/author/florian-a.-holzl/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/theses/efficient_training/</loc>
+    <loc>https://aim-lab.io/theses/scaling_laws/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/theses/scaling_laws/</loc>
+    <loc>https://aim-lab.io/theses/efficient_training/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/jiazhen-pan/</loc>
@@ -125,6 +125,12 @@
     <loc>https://aim-lab.io/theses/attacks_path/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://aim-lab.io/theses/data_collection/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/philip-muller/</loc>
+    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aim-lab.io/author/kerstin-hammernik/</loc>
     <lastmod>2022-04-12T13:45:38+02:00</lastmod>
   </url><url>
@@ -136,6 +142,9 @@
   </url><url>
     <loc>https://aim-lab.io/theses/ai-virus/</loc>
     <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/report_pretraining/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/old/octa/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
@@ -408,8 +417,6 @@
     <loc>https://aim-lab.io/author/moritz-knolle/</loc>
   </url><url>
     <loc>https://aim-lab.io/news/</loc>
-  </url><url>
-    <loc>https://aim-lab.io/author/philip-muller/</loc>
   </url><url>
     <loc>https://aim-lab.io/talk/</loc>
   </url><url>
