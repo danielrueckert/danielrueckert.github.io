@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ivan Ezhov | AI in Medicine</title>
+    <link>https://aim-lab.io/author/ivan-ezhov/</link>
+      <atom:link href="https://aim-lab.io/author/ivan-ezhov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ivan Ezhov</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <title>Ivan Ezhov</title>
+      <link>https://aim-lab.io/author/ivan-ezhov/</link>
+    </image>
+    
+    <item>
+      <title>IDP/Guided research/Thesis: Transfer learning for hyperspectral brain surgery imaging</title>
+      <link>https://aim-lab.io/theses/hsi_transfer_md/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/hsi_transfer_md/</guid>
+      <description>&lt;p&gt;Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object&amp;rsquo;s reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors. Within the hyperprobe.eu project, we aim to exploit physics-based machine learning for inferring biochemical tissue properties from the HSI images.&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A few self-written lines of code&lt;/li&gt;
+&lt;li&gt;Moderate ability to understand math and read physics equations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:ivan.ezhov@tum.de&#34;&gt;ivan.ezhov@tum.de&lt;/a&gt; with your CV and transcript.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] M. J. Khan, H. S. Khan, A. Yousaf, K. Khurshid, and A. Abbas. Modern trends in hyperspectral image analysis: A review. IEEE Access&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
