@@ -1,7 +1,7 @@
 ---
 title: "MSc Thesis: Bias and Fairness in Healthcare AI-based Algorithms"
 date: 2023-04-26
-authors: ["Haifa Beji"]
+authors: ["HaifaBeji"]
 ---
 
 We are looking for a motivated Master's student to join our research team and work on a thesis project that deals with bias in healthcare, specifically with AI-based algorithms. The successful candidate will have access to a large-scale biomedical database and research resource, containing in-depth genetic and health information from half a million participants. The position involves designing a use case for evaluating bias, implementing machine learning models, and generating a fairness report.
