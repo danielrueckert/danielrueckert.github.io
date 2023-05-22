@@ -5,12 +5,65 @@
     <link>https://aim-lab.io/</link>
       <atom:link href="https://aim-lab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI in Medicine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>AI in Medicine</title>
       <link>https://aim-lab.io/</link>
     </image>
+    
+    <item>
+      <title>BSc / Guided Research: Multi-object and multi-modal image segmentation of periodontal lesions in MRI</title>
+      <link>https://aim-lab.io/theses/mri-pa/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/mri-pa/</guid>
+      <description>&lt;p&gt;Periodontitis (chronic or acute alterations of the periodontium) is among the globally widest spread diseases, and interacts with cardiovascular and metabolic disorders. The diagnosis and monitoring of periodontitis is mainly based on imaging modalities exhibiting ionizing radiation: X-ray (panoramic radiography) and cone-beam computed tomography (CBCT). Recent studies report the successful use of magnetic resonance imaging (MRI) in the application of periodontitis diagnosis [1]. Two MRI sequences were developed: a T1-weighted sequence to visualise osseous tissue, and a T2-weighted sequence to visualise the periodontal lesion. To enable automatic diagnosis and monitoring of the disease, accurate segmentations of several anatomical structures, such as the mandibular bone, the alveolar nerve and the periodontal lesion are of utmost importance.&lt;/p&gt;
+&lt;p&gt;The objective of this project is the multi-modal segmentation of mandibular bone, alveolar nerve and periodontal lesions in MRI images. The prospective student will explore state-of-the-art deep-learning-based segmentation methods such as [2], and compare them for binary and multi-class segmentation.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Prior experience and good understanding in machine learning and statistics.&lt;/li&gt;
+&lt;li&gt;Very good programming skills in python (and pytorch).&lt;/li&gt;
+&lt;li&gt;Interest in medical imaging&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;contacts&#34;&gt;Contacts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Veronika Zimmer (&lt;a href=&#34;mailto:veronika.zimmer@tum.de&#34;&gt;veronika.zimmer@tum.de&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Prof. Julia Schnabel (&lt;a href=&#34;mailto:julia.schnabel@helmholtz-muenchen.de&#34;&gt;julia.schnabel@helmholtz-muenchen.de&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Probst, Monika, et al. &amp;ldquo;Magnetic resonance imaging as a diagnostic tool for periodontal disease: A prospective study with correlation to standard clinical findings - Is there added value?&amp;rdquo; Journal of Clinical Periodontology (2021).&lt;/li&gt;
+&lt;li&gt;Isensee, Fabian, et al. &amp;ldquo;nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation.&amp;rdquo; Nature methods 18.2 (2021): 203-211.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BSc / Guided Research: Prediction of long-term cognitive outcome in Stroke patients using machine learning</title>
+      <link>https://aim-lab.io/theses/stroke/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/stroke/</guid>
+      <description>&lt;p&gt;Machine learning, in particular deep learning, has reformed the research in the field of medical imaging, and the focus of this project will be on its use for the prediction of disease progression/ neurological outcome in stroke patients. Stroke patients have a high risk of developing dementia (incidence around 20%) within a few months after the event, but so far the reasons and mechanisms are poorly understood [1]. Clinical parameters, such as age, smoking habit and previous health conditions have an influence, but are not sufficient to reliably predict the cognitive outcome. Imaging, for example magnetic resonance imaging (MRI), becomes increasingly important. Recently, we have developed a novel method to predict cognitive outcome after a stroke with a balanced accuracy of 80% [2].  One drawback of the current model is that is relies on a complex preprocessing pipeline, including image registration and semi-automatic segmentation, which hinders its usefullness in clinical routine.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to develop a fully automatic end-to-end pipeline for cognitive outcome prediction in stroke patients. This will include (i) automating the segmentations using state-of-the-art learning-based segmentation methods, (ii) identifying the most influential preprocessing steps, and (iii) development of a functioning fully automatic pipeline for easy usability by clinicians and neurologists.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Prior experience and good understanding in machine learning and statistics.&lt;/li&gt;
+&lt;li&gt;Good programming skills in python (and pytorch).&lt;/li&gt;
+&lt;li&gt;Interest in medical imaging&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;contacts&#34;&gt;Contacts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Shuting Liu (&lt;a href=&#34;mailto:shuting.liu@tum.de&#34;&gt;shuting.liu@tum.de&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dr. Veronika Zimmer (&lt;a href=&#34;mailto:veronika.zimmer@tum.de&#34;&gt;veronika.zimmer@tum.de&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;F. A. Wollenweber et al.: The Determinants of Dementia After Stroke (DEDEMAS) Study: protocol and pilot data. International Journal of Stroke 9(3) (2014): 387-392.&lt;/li&gt;
+&lt;li&gt;S. Liu, R. Fang, D. Rueckert, V.A. Zimmer: Dynamic Graph Neural Representation Based Multi-modal Fusion
+Model for Cognitive Outcome Prediction in Stroke Cases. Under review.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>IDP/Guided research/Thesis: Transfer learning for hyperspectral brain surgery imaging</title>
@@ -664,26 +717,6 @@ segmentation”. In: arXiv preprint arXiv:2107.02586 (2021).&lt;br/&gt;&lt;/p&gt
 [5] Ma, Y., Hao, H., Xie, J., Fu, H., Zhang, J., Yang, J., &amp;hellip; &amp;amp; Zhao, Y. (2020). ROSE: a retinal OCT-angiography vessel segmentation dataset and new model. IEEE transactions on medical imaging, 40(3), 928-939. &lt;/br&gt;
 [6] Schneider, M., Reichold, J., Weber, B., Székely, G., &amp;amp; Hirsch, S. (2012). Tissue metabolism driven arterial tree generation. Medical image analysis, 16(7), 1397-1414. &lt;/br&gt;
 [7] Kato, H., Beker, D., Morariu, M., Ando, T., Matsuoka, T., Kehl, W., &amp;amp; Gaidon, A. (2020). Differentiable rendering: A survey. arXiv preprint arXiv:2006.12057.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Prediction of long-term cognitive outcome in Stroke patients using machine learning</title>
-      <link>https://aim-lab.io/theses/stroke/</link>
-      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/stroke/</guid>
-      <description>&lt;p&gt;Machine learning, in particular deep learning, has reformed the research in the field of medical imaging, and the focus of this project will be on its use for the prediction of disease progression/ neurological outcome in stroke patients. Stroke patients have a high risk of developing dementia (incidence around 20%) within a few months after the event, but so far the reasons and mechanisms are poorly understood [1]. Clinical parameters, such as age, smoking habit and previous health conditions have an influence, but are not sufficient to reliably predict the cognitive outcome. Imaging, for example magnetic resonance imaging (MRI), becomes increasingly important.
-The objective of this thesis is to develop a learning-based pipeline, and investigate and identify imaging biomarkers from structural and diffusion MRI to predict poststroke dementia.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Prior experience and good understanding in machine learning and statistics.&lt;/li&gt;
-&lt;li&gt;Very good programming skills in python (and pytorch).&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;F. A. Wollenweber et al.: The Determinants of Dementia After Stroke (DEDEMAS) Study: protocol and pilot data. International Journal of Stroke 9(3) (2014): 387-392.&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
