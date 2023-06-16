@@ -14,9 +14,9 @@
     
     <item>
       <title>MSc Thesis: Spatiotemporal Contrastive Learning of Progressive Diseases</title>
-      <link>https://aim-lab.io/theses/temporal_contrastive_learning/</link>
+      <link>https://aim-lab.io/theses/paulhager/temporal_contrastive_learning/</link>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/temporal_contrastive_learning/</guid>
+      <guid>https://aim-lab.io/theses/paulhager/temporal_contrastive_learning/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Its strength lies in training networks to solve a context-matching task using multiple views of an image. If the views are smartly chosen through proper augmentations, the model learns informative representations of data without any human supervision. These representations can then be used on targeted downstream tasks.&lt;/p&gt;
 &lt;p&gt;Contrastive learning has been explored extensively in the natural image domain but there still remain many unanswered questions and untapped potential in the medical domain. The unique characteristics of medical data offers many avenues to explore to try and determine how best to adapt contrastive learning to medical imaging. In this project, we are interested in the temporal dimension in two very large medical datasets.&lt;/p&gt;

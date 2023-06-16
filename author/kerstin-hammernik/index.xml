@@ -14,9 +14,9 @@
     
     <item>
       <title>MSc Thesis: Motion-Compensated MRI Reconstruction</title>
-      <link>https://aim-lab.io/theses/motionmri/</link>
+      <link>https://aim-lab.io/theses/kerstinhammernik/motionmri/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/motionmri/</guid>
+      <guid>https://aim-lab.io/theses/kerstinhammernik/motionmri/</guid>
       <description>&lt;p&gt;Long acquisition times in Magnetic Resonance Imaging (MRI) bear the risk of patient motion, which substantially degrades the image quality. Further sources of image degradation are physiological motion, such as periodic respiratory and cardiac motion. Accelerated acquisitions can compensate for the motion. The motion information can also be derived from the acquired MRI data retrospectively and used as a correction step in image reconstruction. The objective of this thesis is to include the motion model directly in MRI reconstruction using both knowledge of the acquisition physics and machine learning. Motion-Compensated MRI reconstruction offers a wide range of opportunities for projects, where we can set the emphasis based on your interests. Please get in touch with us to find an individual topic!&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ul&gt;

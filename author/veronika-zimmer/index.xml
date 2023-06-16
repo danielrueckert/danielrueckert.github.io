@@ -14,9 +14,9 @@
     
     <item>
       <title>BSc / Guided Research: Multi-object and multi-modal image segmentation of periodontal lesions in MRI</title>
-      <link>https://aim-lab.io/theses/mri-pa/</link>
+      <link>https://aim-lab.io/theses/veronikazimmer/mri-pa/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/mri-pa/</guid>
+      <guid>https://aim-lab.io/theses/veronikazimmer/mri-pa/</guid>
       <description>&lt;p&gt;Periodontitis (chronic or acute alterations of the periodontium) is among the globally widest spread diseases, and interacts with cardiovascular and metabolic disorders. The diagnosis and monitoring of periodontitis is mainly based on imaging modalities exhibiting ionizing radiation: X-ray (panoramic radiography) and cone-beam computed tomography (CBCT). Recent studies report the successful use of magnetic resonance imaging (MRI) in the application of periodontitis diagnosis [1]. Two MRI sequences were developed: a T1-weighted sequence to visualise osseous tissue, and a T2-weighted sequence to visualise the periodontal lesion. To enable automatic diagnosis and monitoring of the disease, accurate segmentations of several anatomical structures, such as the mandibular bone, the alveolar nerve and the periodontal lesion are of utmost importance.&lt;/p&gt;
 &lt;p&gt;The objective of this project is the multi-modal segmentation of mandibular bone, alveolar nerve and periodontal lesions in MRI images. The prospective student will explore state-of-the-art deep-learning-based segmentation methods such as [2], and compare them for binary and multi-class segmentation.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>BSc / Guided Research: Prediction of long-term cognitive outcome in Stroke patients using machine learning</title>
-      <link>https://aim-lab.io/theses/stroke/</link>
+      <link>https://aim-lab.io/theses/veronikazimmer/stroke/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/stroke/</guid>
+      <guid>https://aim-lab.io/theses/veronikazimmer/stroke/</guid>
       <description>&lt;p&gt;Machine learning, in particular deep learning, has reformed the research in the field of medical imaging, and the focus of this project will be on its use for the prediction of disease progression/ neurological outcome in stroke patients. Stroke patients have a high risk of developing dementia (incidence around 20%) within a few months after the event, but so far the reasons and mechanisms are poorly understood [1]. Clinical parameters, such as age, smoking habit and previous health conditions have an influence, but are not sufficient to reliably predict the cognitive outcome. Imaging, for example magnetic resonance imaging (MRI), becomes increasingly important. Recently, we have developed a novel method to predict cognitive outcome after a stroke with a balanced accuracy of 80% [2].  One drawback of the current model is that is relies on a complex preprocessing pipeline, including image registration and semi-automatic segmentation, which hinders its usefullness in clinical routine.&lt;/p&gt;
 &lt;p&gt;The objective of this project is to develop a fully automatic end-to-end pipeline for cognitive outcome prediction in stroke patients. This will include (i) automating the segmentations using state-of-the-art learning-based segmentation methods, (ii) identifying the most influential preprocessing steps, and (iii) development of a functioning fully automatic pipeline for easy usability by clinicians and neurologists.&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
@@ -67,9 +67,9 @@ Model for Cognitive Outcome Prediction in Stroke Cases. Under review.&lt;/li&gt;
     
     <item>
       <title>MSc Thesis: transfer learning for segmentation of tubular structures in thoracic CT images</title>
-      <link>https://aim-lab.io/theses/thoracic_ct_processing/</link>
+      <link>https://aim-lab.io/theses/martinmenten/thoracic_ct_processing/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/thoracic_ct_processing/</guid>
+      <guid>https://aim-lab.io/theses/martinmenten/thoracic_ct_processing/</guid>
       <description>&lt;p&gt;Computed tomography (CT) scans are commonly used in clinic practice to diagnose and monitor diseases of the lung, heart and upper abdomen [1]. Deep learning has seen wide-spread application for the segmentation of organs in CT images [2,3]. However, its use for segmentation of complex, tubular structures, such as the bronchial proximal airways or cardiac vasculature, has been inhibited by a lack of high-quality ground truth labels [4]. In this research project, the prospective student will investigate the use of unsupervised learning and transfer learning to segment complex structures in chest CT images without having to rely on large amounts of ground truth annotations.&lt;/p&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
 &lt;ul&gt;

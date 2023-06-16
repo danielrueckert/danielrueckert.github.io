@@ -14,9 +14,9 @@
     
     <item>
       <title>MSc Thesis: Privacy-preserving Deep Learning in Medical Imaging</title>
-      <link>https://aim-lab.io/theses/ppml/</link>
+      <link>https://aim-lab.io/theses/georgioskaissis/ppml/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/ppml/</guid>
+      <guid>https://aim-lab.io/theses/georgioskaissis/ppml/</guid>
       <description>&lt;p&gt;Privacy-preserving artificial intelligence techniques such as differential privacy, encryption and multi-party computation can reconcile the needs for data utilisation and data protection in the medical domain, as mandated by legal and ethical requirements. Their widespread utilisation requires innovations in the fields of distributed machine learning (federated learning) as well as answering open questions in privacy research and cryptography.&lt;/p&gt;
 &lt;p&gt;We are seeking an MSc candidate with a strong background in machine learning, preferrably with previous exposure to medical imaging topics to complete their thesis at our institute. Experience with distributed systems, privacy and security issues or cryptology is desirable.
 We are offering an engaging work environment, a large, diverse team, close personal supervision and collaboration with AI, medical and privacy-preserving ML experts.&lt;/p&gt;

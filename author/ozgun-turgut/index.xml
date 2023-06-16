@@ -14,9 +14,9 @@
     
     <item>
       <title>MSc Thesis: Brain age predicition using resting-state electroencephography (EEG)</title>
-      <link>https://aim-lab.io/theses/eeg_age_predicition/</link>
+      <link>https://aim-lab.io/theses/oezguenturgut/eeg_age_predicition/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/eeg_age_predicition/</guid>
+      <guid>https://aim-lab.io/theses/oezguenturgut/eeg_age_predicition/</guid>
       <description>&lt;p&gt;The electroencephalogram (EEG) is a tool that allows non-invasive monitoring of the brain activity. Thin electrodes placed on the scalp detect tiny electrical charges that result from the activity of brain cells. Given the simple and low-cost setup, in clinical medicine the EEG is used by neurologists to evaluate brain disorders (e.g. epilepsy), to diagnose diseases (e.g. Alzheimer&amp;rsquo;s disease, narcolepsy), or simply to monitor blood flow in the brain. [1]&lt;/p&gt;
 &lt;p&gt;Within the context of this thesis, a dataset containing the EEGs of chronic pain patients (chronic backpain, chronic widespread pain, joint pain, and neuropathic pain) and an age-matching healthy control group is provided by the University Hospital rechts der Isar. Previous work on EEG data of chronic pain patients has shown an increased brain connectivity at specific frequencies in frontal brain areas when compared to the healthy control group. [2] Furthermore, longitudinal studies indicate a global brain network change in chronic pain patients. [3] In this thesis we will investigate how brain age is affected by chronic diseases. Self-supervised learning and transfer learning techniques will be leveraged to understand the high-level context of an EEG. The learned EEG representation is then used to predict the brain age. We will analyse the differences in brain age between chronic pain patients and the healthy control group.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
