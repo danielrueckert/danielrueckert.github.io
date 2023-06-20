@@ -1,7 +1,7 @@
 ---
 title: "MSc Thesis: Prediction of Points-of-Interest on CT Vertebrae"
 date: 2023-05-12
-authors: ["HendrikMöller"]
+authors: ["HendrikMoeller"]
 ---
 
 The position of attachment points of ligaments and muscles on vertebral bodies are crucial for biomechanical simulations.
