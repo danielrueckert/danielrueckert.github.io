@@ -1,6 +1,7 @@
 ---
 title: "MSc Thesis: Fairness in Unsupervised Anomaly Detection"
 date: 2022-12-22
+draft: true
 authors: ["FelixMeissen"]
 ---
 
