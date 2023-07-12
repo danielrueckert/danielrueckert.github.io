@@ -33,7 +33,7 @@ In short this course offers students to:
  - Final presentation
 
 ## Preliminary meeting
-A preliminary meeting will take place on 12st of July, 2023 at 10:00 on zoom with the following details: \
+A preliminary meeting will take place on 12th of July, 2023 at 10:00 on zoom with the following details: \
 https://tum-conf.zoom.us/j/69075883519 
 
 Meeting ID: 690 7588 3519 \
