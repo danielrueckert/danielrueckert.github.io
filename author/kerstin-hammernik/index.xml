@@ -5,46 +5,58 @@
     <link>https://aim-lab.io/author/kerstin-hammernik/</link>
       <atom:link href="https://aim-lab.io/author/kerstin-hammernik/index.xml" rel="self" type="application/rss+xml" />
     <description>Kerstin Hammernik</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Tue, 12 Apr 2022 13:45:38 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/author/kerstin-hammernik/avatar_huba39210d4681a96bf55e8fdacc236bb6_54625_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Kerstin Hammernik</title>
       <link>https://aim-lab.io/author/kerstin-hammernik/</link>
     </image>
     
     <item>
-      <title>New Module IN2409: Inverse Problems in Medical Imaging</title>
-      <link>https://aim-lab.io/post/inverse-problems/</link>
-      <pubDate>Tue, 12 Apr 2022 13:45:38 +0200</pubDate>
-      <guid>https://aim-lab.io/post/inverse-problems/</guid>
-      <description>&lt;p&gt;This module will be held as a &lt;em&gt;joint online course&lt;/em&gt; between Technical University of Munich (TUM) and  Graz University of Technology (TUG). We offer an interactive lecture, theoretical and practical exercises, as well as international networking opportunities to our students.&lt;/p&gt;
-&lt;h1 id=&#34;lecture-content&#34;&gt;Lecture Content&lt;/h1&gt;
+      <title>Internship / External MSc Project at Philips Research Hamburg: Loss functions for MRI reconstruction</title>
+      <link>https://aim-lab.io/theses/mri_philips/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/mri_philips/</guid>
+      <description>&lt;p&gt;Techniques from Deep Learning have become a central building block in the development of medical image reconstruction algorithms. For example, neural networks have been used to accelerate and improve MR and CT reconstructions, thereby allowing reduction of measurement duration or radiation dose.  A central issue in the training of these networks is the choice of the objective functions, or loss functions, that do not generally reflect human visual perception. The aim of this Master’s Project is to study and develop suitable feature-based loss functions, which can be used for improving deep-learning based techniques in medical image reconstruction. An initial direction of study would be the unsupervised training of a feature loss based on a database of MR images and the subsequent application of the resulting loss in downstream tasks such as image reconstruction or contrast-to-contrast mapping.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Introduction, Basics and Applications, Definition Inverse Problem&lt;/li&gt;
-&lt;li&gt;The Eigenvalue Problem, solving Quadratic Inverse Problems&lt;/li&gt;
-&lt;li&gt;Singular Value Decomposition&lt;/li&gt;
-&lt;li&gt;Inverse Methods Based on Length&lt;/li&gt;
-&lt;li&gt;The Generalized Inverse&lt;/li&gt;
-&lt;li&gt;Nonlinear Inverse Problems&lt;/li&gt;
-&lt;li&gt;Regularization&lt;/li&gt;
-&lt;li&gt;Inverse Problems in Imaging&lt;/li&gt;
-&lt;li&gt;Application: Computed Tomography&lt;/li&gt;
-&lt;li&gt;Application: Magnetic Resonance Imaging&lt;/li&gt;
-&lt;li&gt;Connections to Machine Learning&lt;/li&gt;
+&lt;li&gt;Computer Science, Biomedical Engineering, Physics or similar background&lt;/li&gt;
+&lt;li&gt;Strong background in machine learning&lt;/li&gt;
+&lt;li&gt;Interest in medical imaging&lt;/li&gt;
+&lt;li&gt;Proficient in Python&lt;/li&gt;
+&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;target-group&#34;&gt;Target Group&lt;/h1&gt;
+&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Master&amp;rsquo;s students and PhD students&lt;/li&gt;
-&lt;li&gt;Interest in Mathematics, Biomedical Imaging, Magnetic Resonance Imaging&lt;/li&gt;
-&lt;li&gt;Students of Informatics, Mathematics, Biomedical Engineering, Physics and related studies&lt;/li&gt;
-&lt;li&gt;Required: Basic knowledge of Mathematics (Bachelor&amp;rsquo;s courses)&lt;/li&gt;
+&lt;li&gt;a close and personal co-supervision between TUM and Philips Research Hamburg&lt;/li&gt;
+&lt;li&gt;a three month paid internship in the Philips Research Lab in Hamburg, taking place in the beginning of the project&lt;/li&gt;
+&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
+&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction from academia and industry&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;registration&#34;&gt;Registration&lt;/h1&gt;
-&lt;p&gt;Registration has to be conducted in TUMonline. Registration is open for students of Informatics, students from other fields can be manually enrolled to the courses. The module IN2409 consists of a lecture class and an exercise class.&lt;/p&gt;
-&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply&lt;/h2&gt;
+&lt;p&gt;Please send your application via email to &lt;a href=&#34;mailto:jakob.meineke@philips.com&#34;&gt;jakob.meineke@philips.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Motion-Compensated MRI Reconstruction</title>
+      <link>https://aim-lab.io/theses/motionmri/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/motionmri/</guid>
+      <description>&lt;p&gt;Long acquisition times in Magnetic Resonance Imaging (MRI) bear the risk of patient motion, which substantially degrades the image quality. Further sources of image degradation are physiological motion, such as periodic respiratory and cardiac motion. Accelerated acquisitions can compensate for the motion. The motion information can also be derived from the acquired MRI data retrospectively and used as a correction step in image reconstruction. The objective of this thesis is to include the motion model directly in MRI reconstruction using both knowledge of the acquisition physics and machine learning. Motion-Compensated MRI reconstruction offers a wide range of opportunities for projects, where we can set the emphasis based on your interests. Please get in touch with us to find an individual topic!&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:k.hammernik@tum.de&#34;&gt;Kerstin Hammernik&lt;/a&gt;, Technical University of Munich&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:c.graf@tugraz.at&#34;&gt;Christina Graf&lt;/a&gt;, Graz University of Technology&lt;/li&gt;
+&lt;li&gt;Computer Science, Biomedical Engineering or similar background&lt;/li&gt;
+&lt;li&gt;Strong background in machine learning&lt;/li&gt;
+&lt;li&gt;Interest in medical imaging&lt;/li&gt;
+&lt;li&gt;Proficient  in Python&lt;/li&gt;
+&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;a close, personal supervision&lt;/li&gt;
+&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
+&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -7,16 +7,16 @@
     <description>Jiazhen Pan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/author/jiazhen-pan/avatar_hu45a4f324f6628652cdb1a211ae39186a_6982848_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Jiazhen Pan</title>
       <link>https://aim-lab.io/author/jiazhen-pan/</link>
     </image>
     
     <item>
       <title>MSc Thesis: An attention-based image denoising network leveraging information of both spatial and frequency domain</title>
-      <link>https://aim-lab.io/theses/jiazhenpan/denosing/</link>
+      <link>https://aim-lab.io/theses/denosing/</link>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/jiazhenpan/denosing/</guid>
+      <guid>https://aim-lab.io/theses/denosing/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Image denoising task, in which a clean image is recovered from a noise observation, is a classical inverse problem and still active topic in low-level vision since it is an indispensable step in many practical applications. In past decades, a large variety of image denoising methods employing neural networks were proposed to solve this inverse problem. These methods are major in the spatial domain which denoise the image straightforwardly by extracting the spatial information using the sliding CNN window. On the other hand, image denoising from the frequency domain also has a long history in which the low-pass filter techniques are applied and the noise (major in high-frequency space) can be filtered out. The denoising optimization in the frequency domain is frequently utilized in medical image reconstruction. Recently a great number of frequency networks with CNNs are used in this field to improve the reconstruction quality. However, this approach is rarely studied in the nature denoising field with RGB images. More recently, the advent of Transformers evolutes the computer vision field. Its inherent attributes like larger receptive field and lower inductive bias facilitate the image denoising tasks.
 In this work, we attempt to introduce a hybrid image denoising network that optimizes the noise image from both spatial and frequency domain. A comparison with SOTA methods on public datasets like urban100 or SIDD will be conducted in the end.&lt;/p&gt;

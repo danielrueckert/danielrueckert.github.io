@@ -7,16 +7,16 @@
     <description>Florian A. Hölzl</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/author/florian-a.-holzl/avatar_hu85e27d71119a00c103faf77f28da5c05_1406585_270x270_fill_lanczos_center_2.png</url>
       <title>Florian A. Hölzl</title>
       <link>https://aim-lab.io/author/florian-a.-holzl/</link>
     </image>
     
     <item>
       <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
-      <link>https://aim-lab.io/theses/florianhoelzl/efficient_training/</link>
+      <link>https://aim-lab.io/theses/efficient_training/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/florianhoelzl/efficient_training/</guid>
+      <guid>https://aim-lab.io/theses/efficient_training/</guid>
       <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
 &lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
 &lt;br/&gt;&lt;/p&gt;
@@ -44,9 +44,9 @@
     
     <item>
       <title>MSc Thesis: Scaling Laws of Equivariant Convolutions</title>
-      <link>https://aim-lab.io/theses/florianhoelzl/scaling_laws/</link>
+      <link>https://aim-lab.io/theses/scaling_laws/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/florianhoelzl/scaling_laws/</guid>
+      <guid>https://aim-lab.io/theses/scaling_laws/</guid>
       <description>&lt;p&gt;Equivariant convolutions are a novel approach that incorporate additional geometric properties of the input domain during the convolution process (i.e. symmetry properties such as rotations and reflections) [1]. This additional inductive bias allows the model to learn more robust and general features from less data, rendering them highly promising for application in the medical domain. So far, however, nobody has investigated how their beneficial characteristics impact the design and scaling of deep learning model architectures.&lt;/p&gt;
 &lt;p&gt;We have developed a framework for initial investigation of equivariant convolutions and now want to evaluate how their performance can be further increased with larger model sizes and under different training regimes. This work plans to build onto previous highly impactful research on model design, such as the establishment of the EfficientNet architecture and the Chinchilla language model, to create a sound basis for the further consolidation of equivariant convolutions in the broader research landscape [2, 3]. The focus will be to thoroughly analyze and expand a framework for equivariant models already developed at our lab. This includes getting familiar with model architectures in general, the properties of equivariant convolutions and the intersection of the two. Our goal is to develop a methodological framework for equivariant model architectures that can be easily adapted to the properties of the used dataset and are able to beat state-of-the-art non-equivariant alternatives in standard and privacy-preserving deep learning settings [4].
 &lt;br/&gt;&lt;/p&gt;
@@ -75,9 +75,9 @@
     
     <item>
       <title>MSc Thesis: Non-invasive and accurate prediction of prostate cancer aggressiveness</title>
-      <link>https://aim-lab.io/theses/florianhoelzl/prostate_cancer/</link>
+      <link>https://aim-lab.io/theses/prostate_cancer/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/florianhoelzl/prostate_cancer/</guid>
+      <guid>https://aim-lab.io/theses/prostate_cancer/</guid>
       <description>&lt;p&gt;With estimates of 1 600 000 cases and more than 350 000 deaths annually worldwide, prostate cancer is among the most common cancers in men [1]. Diagnosis of prostate cancer is typically done by using ultrasound-guided needle biopsies. An approach that not only involves risks, due to the invasive nature of the method, but also generally underestimates the aggressiveness of the tumor [2]. Standard positron emission tomography (PET) imaging with prostate cancer specific tracers and specifically PSMA-PET have shown to be advantageous for delineating suspicious lesions during biopsy [3, 4].&lt;/p&gt;
 &lt;p&gt;We want to use the information provided by these PET and multi-parametric MRI images to directly predict Gleason scores that accurately report the aggressiveness of the prostate cancers without the risks associated with an invasive biopsy. Recent research at our institution has produced promising results predicting Gleason scores from handcrafted radiomic features [5]. This work aims at building on top of this research and to develop an end-to-end deep learning pipeline for predicting tumor aggressiveness directly from different imaging modalities. We have exclusive access to a dataset which includes PSMA-11 PET/MRI scans, segmentation maps and the pathological information of the tumors. Additional public data is available through the &lt;a href=&#34;https://pi-cai.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PI-CAI Challenge&lt;/a&gt;. The focus of this work is to build a complete pipeline for analysing multi-modal medical imaging datasets. This includes research on understanding the diverse data available, exploring different approaches for dealing with the limited dataset size (data augmentation, pre-training etc.) and finding a suitable model and evaluation metric for this use case.
 &lt;br/&gt;&lt;/p&gt;

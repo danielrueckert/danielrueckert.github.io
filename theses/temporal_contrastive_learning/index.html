@@ -27,14 +27,14 @@
   
   
 
-  <meta name="author" content="Johannes C. Paetzold">
+  <meta name="author" content="Daniel Rückert">
 
   
   
   
     
   
-  <meta name="description" content="Description Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Its strength lies in training networks to solve a context-matching task using multiple views of an image.">
+  <meta name="description" content="Description Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Contrastive learning is strong because it uses multiple views of an object to learn which information to capture/encode.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/theses/temporal_contrastive_learning/">
@@ -246,8 +246,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://aim-lab.io/theses/temporal_contrastive_learning/">
 
@@ -269,14 +269,14 @@
   
   <meta property="og:site_name" content="AI in Medicine">
   <meta property="og:url" content="https://aim-lab.io/theses/temporal_contrastive_learning/">
-  <meta property="og:title" content="MSc Thesis: Spatiotemporal Contrastive Learning of Progressive Diseases | AI in Medicine">
-  <meta property="og:description" content="Description Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Its strength lies in training networks to solve a context-matching task using multiple views of an image."><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="MSc Thesis: Temporal Contrastive Learning of Cardiac Heartbeat | AI in Medicine">
+  <meta property="og:description" content="Description Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Contrastive learning is strong because it uses multiple views of an object to learn which information to capture/encode."><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2023-04-17T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2023-02-14T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2023-04-17T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-02-14T00:00:00&#43;00:00">
   
 
   
@@ -295,7 +295,7 @@
 
 
 
-  <title>MSc Thesis: Spatiotemporal Contrastive Learning of Progressive Diseases | AI in Medicine</title>
+  <title>MSc Thesis: Temporal Contrastive Learning of Cardiac Heartbeat | AI in Medicine</title>
 
 </head>
 
@@ -751,7 +751,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>MSc Thesis: Spatiotemporal Contrastive Learning of Progressive Diseases</h1>
+  <h1>MSc Thesis: Temporal Contrastive Learning of Cardiac Heartbeat</h1>
 
   
 
@@ -780,7 +780,7 @@
     
       
     
-    Apr 17, 2023
+    Feb 14, 2023
   </span>
   
 
@@ -823,10 +823,9 @@
 
     <div class="article-style">
       <h2 id="description">Description</h2>
-<p>Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Its strength lies in training networks to solve a context-matching task using multiple views of an image. If the views are smartly chosen through proper augmentations, the model learns informative representations of data without any human supervision. These representations can then be used on targeted downstream tasks.</p>
-<p>Contrastive learning has been explored extensively in the natural image domain but there still remain many unanswered questions and untapped potential in the medical domain. The unique characteristics of medical data offers many avenues to explore to try and determine how best to adapt contrastive learning to medical imaging. In this project, we are interested in the temporal dimension in two very large medical datasets.</p>
-<p>Our main application will be for learning representations of the evolution of progressive diseases. Despite being the leading cause of blindness in the elderly, little is understood about how Age-related macular degeneration (AMD) develops over time. This evolution is documented in our dataset of 181k retinal images of 7.5k subjects imaged over eight years. Using the self-supervised  methodology you develop, you will also learn representations that encode multiple years of disease progression, ultimately improving diagnosis and prognosis of AMD.</p>
-<p>A secondary application, to test the generalisability of the method, is cardiac MR imaging. Here we will train models to learn the dynamics of the heart as it cycles at least one heart beat, which is important for predicting cardiac disease such as infarction. The full cycle cardiac MR data from the UKBB contains over 45k subjects.</p>
+<p>Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Contrastive learning is strong because it uses multiple views of an object to learn which information to capture/encode. If the views are smartly chosen through proper augmentations, then information which is useful for the targeted downstream task is learned and the resulting representations are strong.</p>
+<p>Contrastive learning has been explored extensively in the natural image domain but there still remain many unanswered questions and untapped potential in the medical domain. The unique nature of medical data offers many avenues to explore to try and determine how best to adapt contrastive learning to medical imaging.</p>
+<p>One such area is cardiac MR imaging, where instead of having a static image of an object that we wish to encode, we have an entire time series spanning at least one heart beat. The goal of this thesis is to explore how to best select views from a time-series of cardiac MR data to maximize the information learned through contrastive learning. You will use full cycle cardiac MR data from the UKBB which contains over 45k subjects.</p>
 <h2 id="to-accomplish-this-work-successfully-we-expect-you-to-have">To accomplish this work successfully, we expect you to have:</h2>
 <ul>
 <li>Strong coding skills and familiarity with Pytorch</li>
@@ -842,10 +841,10 @@
 </ul>
 <h2 id="references">References</h2>
 <p>[1] <a href="https://arxiv.org/pdf/2002.05709.pdf" target="_blank" rel="noopener">A Simple Framework for Contrastive Learning of Visual Representations</a></p>
-<p>[2] <a href="https://arxiv.org/pdf/2104.14558.pdf" target="_blank" rel="noopener">A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning</a></p>
+<p>[2] <a href="https://proceedings.neurips.cc/paper/2020/file/4c2e5eaae9152079b9e95845750bb9ab-Paper.pdf" target="_blank" rel="noopener">What Makes for Good Views for Contrastive Learning?</a></p>
 <p>[3] <a href="https://faculty.ucmerced.edu/mhyang/papers/cvpr2021_cvrl.pdf" target="_blank" rel="noopener">Spatiotemporal Contrastive Video Representation Learning</a></p>
 <h2 id="how-to-apply">How to apply:</h2>
-<p>Send an email to <a href="mailto:robert.holland15@imperial.ac.uk">robert.holland15@imperial.ac.uk</a> and <a href="mailto:paul.hager@tum.de">paul.hager@tum.de</a> with your CV and transcript. We promise to get back to you within a couple of days.</p>
+<p>Send an email to <a href="mailto:paul.hager@tum.de">paul.hager@tum.de</a> with your CV and transcript. We promise to get back to you within a couple of days.</p>
 
     </div>
 
@@ -869,7 +868,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/theses/temporal_contrastive_learning/&amp;text=MSc%20Thesis:%20Spatiotemporal%20Contrastive%20Learning%20of%20Progressive%20Diseases" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/theses/temporal_contrastive_learning/&amp;text=MSc%20Thesis:%20Temporal%20Contrastive%20Learning%20of%20Cardiac%20Heartbeat" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -882,7 +881,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/theses/temporal_contrastive_learning/&amp;t=MSc%20Thesis:%20Spatiotemporal%20Contrastive%20Learning%20of%20Progressive%20Diseases" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/theses/temporal_contrastive_learning/&amp;t=MSc%20Thesis:%20Temporal%20Contrastive%20Learning%20of%20Cardiac%20Heartbeat" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -895,7 +894,7 @@
       
       
       <li>
-        <a href="mailto:?subject=MSc%20Thesis:%20Spatiotemporal%20Contrastive%20Learning%20of%20Progressive%20Diseases&amp;body=https://aim-lab.io/theses/temporal_contrastive_learning/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=MSc%20Thesis:%20Temporal%20Contrastive%20Learning%20of%20Cardiac%20Heartbeat&amp;body=https://aim-lab.io/theses/temporal_contrastive_learning/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -908,7 +907,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/theses/temporal_contrastive_learning/&amp;title=MSc%20Thesis:%20Spatiotemporal%20Contrastive%20Learning%20of%20Progressive%20Diseases" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/theses/temporal_contrastive_learning/&amp;title=MSc%20Thesis:%20Temporal%20Contrastive%20Learning%20of%20Cardiac%20Heartbeat" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -921,7 +920,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=MSc%20Thesis:%20Spatiotemporal%20Contrastive%20Learning%20of%20Progressive%20Diseases%20https://aim-lab.io/theses/temporal_contrastive_learning/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=MSc%20Thesis:%20Temporal%20Contrastive%20Learning%20of%20Cardiac%20Heartbeat%20https://aim-lab.io/theses/temporal_contrastive_learning/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -934,7 +933,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/theses/temporal_contrastive_learning/&amp;title=MSc%20Thesis:%20Spatiotemporal%20Contrastive%20Learning%20of%20Progressive%20Diseases" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/theses/temporal_contrastive_learning/&amp;title=MSc%20Thesis:%20Temporal%20Contrastive%20Learning%20of%20Cardiac%20Heartbeat" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1209,7 +1208,7 @@
     
     
     
-    <script src="/js/wowchemy.min.a30e17c6197f21f7f966f9a6cd022a55.js"></script>
+    <script src="/js/wowchemy.min.d9d80f811e95b4b4f6df1eaaf297b05f.js"></script>
 
     
 

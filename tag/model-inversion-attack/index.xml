@@ -7,16 +7,16 @@
     <description>Model Inversion Attack</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Model Inversion Attack</title>
       <link>https://aim-lab.io/tag/model-inversion-attack/</link>
     </image>
     
     <item>
       <title>MSc Thesis: Adversarial attacks in collaborative machine learning</title>
-      <link>https://aim-lab.io/theses/dmitriiusynin/attacks/</link>
+      <link>https://aim-lab.io/theses/attacks/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/dmitriiusynin/attacks/</guid>
+      <guid>https://aim-lab.io/theses/attacks/</guid>
       <description>&lt;p&gt;Collaborative machine learning has became the new paradigm-of-choice when it comes to training deep learning models in many fields, including medical image analysis. Due to a number of data protection and governance regulations being introduced, direct data sharing for such training is rendered problematic. As a result implementations that rely on local training, such as federated learning (FL) have been widely adopted. However, a number of studies [1,2] have shown that such paradigms are deeply vulnerable to adversarial influence either in the form of privacy violation [3] or utility degradation [4]. Fortunately for the research community, such attacks are often very fragile and require a number of assumptions to hold in practise. The aim of this project is to explore the recent advances in adversarial machine learning in order to investigate how to adapt them to the real-world machine learning contexts in order to encourage the research community and policymakers to employ safe, robust and privacy-preserving systems when working with sensitive personally-identifying information.&lt;/p&gt;
 &lt;p&gt;This project is deliberately very open-ended, as there is a large number of various attack vectors that could be pursued: attacks on membership, reconstruction of sensitive attributes or training samples, insertion of auxiliary learning tasks etc. Our lab has experience primarily with privacy-oriented attacks on machine learning, but we are otherwise happy to consider students with interest in any other attack formulation.&lt;/p&gt;
 &lt;br/&gt;
@@ -45,9 +45,9 @@
     
     <item>
       <title>MSc Thesis: Defending collaborative machine learning through interpretability methods</title>
-      <link>https://aim-lab.io/theses/dmitriiusynin/attacks_path/</link>
+      <link>https://aim-lab.io/theses/attacks_path/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/dmitriiusynin/attacks_path/</guid>
+      <guid>https://aim-lab.io/theses/attacks_path/</guid>
       <description>&lt;p&gt;Collaborative machine learning has became the new paradigm-of-choice when it comes to training deep learning models in many fields, including medical image analysis. Due to a number of data protection and governance regulations being introduced, direct data sharing for such training is rendered problematic. As a result implementations that rely on local training, such as federated learning (FL) have been widely adopted. However, a number of studies [1,2] have shown that such paradigms are deeply vulnerable to adversarial influence either in the form of privacy violation [3] or utility degradation [4].&lt;/p&gt;
 &lt;p&gt;This project aims to unite the areas of interpretable deep learning and defenses against attacks on collaborative learning. A number of approaches identifying the so-called critical neurons and pathways have previously been proposed to aid the community in interpretation of the predictions made by deep learning models[5,6,7]. We want to determine if these neurons/pathways are also critical for the adversary when it comes to extraction of information or destruction of utility of a jointly trained model.&lt;/p&gt;
 &lt;br/&gt;
