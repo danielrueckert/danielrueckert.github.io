@@ -5,72 +5,12 @@
     <link>https://aim-lab.io/author/philip-muller/</link>
       <atom:link href="https://aim-lab.io/author/philip-muller/index.xml" rel="self" type="application/rss+xml" />
     <description>Philip Müller</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright>
     <image>
       <url>https://aim-lab.io/author/philip-muller/avatar_huebfb1a8f9b03371737ed0e0993aaacc0_14018_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Philip Müller</title>
       <link>https://aim-lab.io/author/philip-muller/</link>
     </image>
-    
-    <item>
-      <title>B.Sc. Thesis: Collection of a German Biomedical Text Corpus from Public Sources</title>
-      <link>https://aim-lab.io/theses/data_collection/</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/data_collection/</guid>
-      <description>&lt;p&gt;Recent successes in Natural Language Processing (NLP) are based on pre-training language models on large datasets of unlabelled text.
-In the medical domain however, such large datasets are hard to acquire. Especially in the German Medical domain, very few public text datasets are available which limits the availability of pre-trained language models and therefore the success of NLP in this domain.
-Instead fo relying on clinical texts that are typically hard to acquire due to privacy issues, we will therefore create a large German Medical corpus based on public sources.
-These public sources include academic publications and book, dissertations (e.g. from the university library), and online sources like Wikipedia.
-Additionally, we will create a smaller paired German-English corpus from bilingual thesauri and ontologies like the Unified Medical Language System (UMLS).&lt;/p&gt;
-&lt;h2 id=&#34;your-tasks-include&#34;&gt;Your tasks include&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Selection of sources for the corpus&lt;/li&gt;
-&lt;li&gt;Automatic extraction from the sources (e.g. web crawling, text/section extraction from pdf-files, extraction from structured files like csv or xml) and data cleaning (if required)&lt;/li&gt;
-&lt;li&gt;Definition of the target structure for the corpus and integrating of all selected sources into this structure&lt;/li&gt;
-&lt;li&gt;Explorative data analysis, i.e. computing dataset statistics and visualising properties of the dataset&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced programming skills in Python&lt;/li&gt;
-&lt;li&gt;Experience in web crawling or data collection is preferable but not required&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Note: Experience with machine learning is NOT required.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Contrastive Pre-Training for Radiology Reports</title>
-      <link>https://aim-lab.io/theses/report_pretraining/</link>
-      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/report_pretraining/</guid>
-      <description>&lt;p&gt;In recent years transformer-based language models have proven quite successful in the field of natural language processing (NLP).
-These models require huge amounts of training data and are therefore typically pre-trained on unlabelled datasets using self-supervised objectives
-like masked language modelling (MLM) as proposed in BERT [1].
-While models like BioBERT [2] are pre-trained on the medical domain, the used pre-training objectives like MLM treat text as independent sentences and do not utilise the structure of medical documents.
-In this project we instead make use of the semi-structured nature of radiology reports and apply contrastive methods on the sections of these reports.
-Your task is the adaptation of such contrastive methods (e.g. SimCLR [3], BYOL [4], DINO [5], …) to be used effectively on language models.&lt;/p&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware&lt;/li&gt;
-&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
-&lt;li&gt;Cutting-edge research in Medical NLP with the opportunity to publish your work&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Advanced programming skills in Python and deep learning frameworks like PyTorch, JAX, or Tensorflow&lt;/li&gt;
-&lt;li&gt;Strong background in deep learning, preferable (but not required) with experience in NLP&lt;/li&gt;
-&lt;li&gt;Basic familiarity with self-supervised methods like SimCLR is preferable but not required&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;[1] J. Devlin et al. “Bert: Pre-training of deep bidirectional transformers for language understanding.”  arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/1810.04805&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:1810.04805]&lt;/a&gt; (2018).&lt;/li&gt;
-&lt;li&gt;[2] J. Lee et al. “BioBERT: a pre-trained biomedical language representation model for biomedical text mining.” Bioinformatics 4.36 &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/36/4/1234/5566506&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2020)&lt;/li&gt;
-&lt;li&gt;[3] T. Chen et al. “Big Self-Supervised Models are Strong Semi-Supervised Learners.” NeurIPS &lt;a href=&#34;https://arxiv.org/abs/2006.10029&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:2006.10029]&lt;/a&gt; (2020)&lt;/li&gt;
-&lt;li&gt;[4] J. Grill et al. “Bootstrap Your Own Latent A New Approach to Self-Supervised Learning.” NIPS &lt;a href=&#34;https://papers.nips.cc/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2020)&lt;/li&gt;
-&lt;li&gt;[5] M. Caron et al. &amp;ldquo;Emerging Properties in Self-Supervised Vision Transformers.&amp;rdquo; ICCV &lt;a href=&#34;https://arxiv.org/abs/2104.14294&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:2104.14294]&lt;/a&gt; (2021)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

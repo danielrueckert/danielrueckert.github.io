@@ -5,7 +5,7 @@
     <link>https://aim-lab.io/author/felix-meissen/</link>
       <atom:link href="https://aim-lab.io/author/felix-meissen/index.xml" rel="self" type="application/rss+xml" />
     <description>Felix Meissen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/author/felix-meissen/avatar_hu1caf3960d3b9e96eb84a85ecf0f94f7a_1367630_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Felix Meissen</title>
@@ -13,24 +13,42 @@
     </image>
     
     <item>
-      <title>MSc Thesis: Fairness in Unsupervised Anomaly Detection</title>
-      <link>https://aim-lab.io/theses/anomaly_detection_fairness/</link>
-      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/anomaly_detection_fairness/</guid>
-      <description>&lt;p&gt;Unsupervised anomaly detection methods use unlabeled data from one distribution for training and can then differentiate between samples that come from that distribution and samples from other distributions.
-In medical applications, anomalies often correspond to diseases and can be detected with such methods. This is a way to make use of the large amounts of clinically unremarkable data available.
-While it is known that supervised machine learning models show worse performance for minority groups that are usually underrepresented in the data, this problem has so far not been studied for unsupervised methods despite the large implications a potentially unfair clinical application could have.&lt;/p&gt;
-&lt;p&gt;This Masters Thesis will investigate (un)fairness of anomaly detection models used for medical disease detection under different definitions of fairness and will try to offer mitigation strategies.&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your Qualifications:&lt;/h2&gt;
+      <title>Master-Seminar: Unsupervised Anomaly Detection in Medical Imaging</title>
+      <link>https://aim-lab.io/theses/felixmeissen/seminar/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/felixmeissen/seminar/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./cover.jpg&#34; alt=&#34;cover image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Anomaly detection aims to identify patterns that do not conform to the expected normal distribution.
+Despite its importance for clinical applications, the detection of outliers is still a very challenging task due to the
+rarity, unknownness, diversity and heterogeneity of abnormalities.
+Basic problem formulations to recent advances in the field will be discussed.
+This includes, but is not limited to: reconstruction-based
+auto-encoders (AE) adversarial methods, diffusion models, and others.
+In short this course offers students to:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Most important: solid coding skills and familiarity with PyTorch and Numpy&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Motivated master student in Informatics, Mathematics, Physics or a closely related field&lt;/li&gt;
-&lt;li&gt;Ability to thoroughly answer a research question&lt;/li&gt;
-&lt;li&gt;Strong research mindset&lt;/li&gt;
+&lt;li&gt;Learn how to critically read and understand scientific papers&lt;/li&gt;
+&lt;li&gt;Get hands-on practice in implementing anomaly detection methods on medical data&lt;/li&gt;
+&lt;li&gt;Practice the presentation and discussion of experimental results&lt;/li&gt;
+&lt;li&gt;Get a multi-facetted view in multiple guest lecturers by reknown researchers in the field of anomaly detection&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:felix.meissen@tum.de&#34;&gt;felix.meissen@tum.de&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding of Deep Learning and Neural Networks, demonstrated through the completion of at least one learning or deep learning course (e.g. Intro to Deep Learning, Advanced Deep Learning, Machine Learning, or equivalent).&lt;/li&gt;
+&lt;li&gt;Good coding skills in Python&lt;/li&gt;
+&lt;li&gt;Coding experience in PyTorch&lt;/li&gt;
+&lt;li&gt;Interest in medical imaging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Students will select a relevant paper and present it critically&lt;/li&gt;
+&lt;li&gt;They will then implement the method in the paper given our framework and data&lt;/li&gt;
+&lt;li&gt;Experimental results will be presented to the lecturers and fellow students in a poster session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ## Preliminary meeting
+A preliminary meeting will take place on 31st of January, 2023 at 11:30 on zoom with the following details: https://tum-conf.zoom.us/j/69075883519 
+
+Meeting ID: 690 7588 3519 \
+Passcode: 850155  --&gt;
 </description>
     </item>
     

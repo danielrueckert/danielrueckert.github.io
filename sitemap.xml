@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/practical/</loc>
+    <loc>https://aim-lab.io/theses/alexziller/practical/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,12 +38,92 @@
   </url>
   
   <url>
+    <loc>https://aim-lab.io/author/julian-mcginnis/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/julianmcginnis/mcginnis_disentangled/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/julianmcginnis/mcginnis_medical_inrs/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/veronikazimmer/mri-pa/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/veronikazimmer/stroke/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/veronika-zimmer/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/hendrik-moller/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/ivanezhov/hsi_transfer_md/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/ivan-ezhov/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/hendrikmoeller/poi_prediction/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/haifa-beji/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/haifabeji/bias_fairness_ai_healthcare/</loc>
+    <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/paulhager/temporal_contrastive_learning/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/paul-hager/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/johannespaetzold/masther_thesis_relationformer/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/author/daniel-ruckert/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/boryschibisov/</loc>
+    <loc>https://aim-lab.io/theses/danielrueckert/boryschibisov/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,32 +133,12 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/thoracic_ct_processing/</loc>
+    <loc>https://aim-lab.io/theses/martinmenten/thoracic_ct_processing/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aim-lab.io/author/veronika-zimmer/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/mm_tabular_feature_selection/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/temporal_contrastive_learning/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/paul-hager/</loc>
-    <lastmod>2023-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/eeg_age_predicition/</loc>
+    <loc>https://aim-lab.io/theses/oezguenturgut/eeg_age_predicition/</loc>
     <lastmod>2023-01-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,38 +148,18 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/author/felix-meissen/</loc>
-    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/anomaly_detection_fairness/</loc>
-    <lastmod>2022-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/author/florian-a.-holzl/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/efficient_training/</loc>
+    <loc>https://aim-lab.io/theses/florianhoelzl/efficient_training/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/scaling_laws/</loc>
+    <loc>https://aim-lab.io/theses/florianhoelzl/scaling_laws/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/morphometric_segmentation/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/tabular_feature_selection/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -128,13 +168,8 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/denosing/</loc>
+    <loc>https://aim-lab.io/theses/jiazhenpan/denosing/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/mri_philips/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -143,12 +178,12 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/motionmri/</loc>
+    <loc>https://aim-lab.io/theses/kerstinhammernik/motionmri/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/depression_prediction/</loc>
+    <loc>https://aim-lab.io/theses/vasilikisideri-lampretsa/depression_prediction/</loc>
     <lastmod>2022-09-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,12 +198,12 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/maik/</loc>
+    <loc>https://aim-lab.io/theses/maikdannecker/maik/</loc>
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/prostate_cancer/</loc>
+    <loc>https://aim-lab.io/theses/florianhoelzl/prostate_cancer/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,38 +238,13 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/attacks/</loc>
+    <loc>https://aim-lab.io/theses/dmitriiusynin/attacks/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/attacks_path/</loc>
+    <loc>https://aim-lab.io/theses/dmitriiusynin/attacks_path/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/masther_thesis_relationformer/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/masther_thesis_aneyrism/</loc>
-    <lastmod>2022-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/data_collection/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/philip-muller/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -253,23 +263,28 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/ai-virus/</loc>
+    <loc>https://aim-lab.io/theses/danielrueckert/ai-virus/</loc>
     <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/report_pretraining/</loc>
-    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+    <loc>https://aim-lab.io/tag/anomaly-detection/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/felix-meissen/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/felixmeissen/seminar/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/theses/old/octa/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/stroke/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -280,16 +295,6 @@
   <url>
     <loc>https://aim-lab.io/theses/old/sarcoma/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/federated/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/shadi-albarqouni/</loc>
-    <lastmod>2021-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -458,7 +463,7 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/ppml/</loc>
+    <loc>https://aim-lab.io/theses/georgioskaissis/ppml/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -726,6 +731,10 @@
   
   <url>
     <loc>https://aim-lab.io/news/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/philip-muller/</loc>
   </url>
   
   <url>

@@ -14,9 +14,9 @@
     
     <item>
       <title>MSc Thesis: Combining longitudinal volumetric imaging and tabular data for depression prediction</title>
-      <link>https://aim-lab.io/theses/depression_prediction/</link>
+      <link>https://aim-lab.io/theses/vasilikisideri-lampretsa/depression_prediction/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/depression_prediction/</guid>
+      <guid>https://aim-lab.io/theses/vasilikisideri-lampretsa/depression_prediction/</guid>
       <description>&lt;p&gt;The objective of this project is to combine volumetric imaging and non-imaging longitudinal data to accurately analyze individual patients and provide automated decisions regarding diagnosis and disease prognosis. Physicians consider various medical biomarkers and meta-data to reach a clinical decision. Thus, creating computer-assisted diagnostic systems that operate in a similar manner could be highly beneficial.&lt;/p&gt;
 &lt;p&gt;The aim is to align imaging and other medical information, such as medical history, blood values, sleep habits, genetic information, and more, in the feature space using a contrastive loss. The approach will integrate multiple modalities of each patient from various time points in the same model in an end-to-end fashion. The method can be fully supervised or be used in a self-supervision scheme, in which our model can learn the aligned embedding space of imaging and non-imaging data using a proxy task from the data itself. Afterward, the learned embeddings can be finetuned for downstream tasks, such as depression prediction [1].&lt;/p&gt;
 &lt;p&gt;The project will be completed under the supervision of Dr. Magdalini Paschali (Stanford University) and Vasiliki Sideri-Lampretsa (TUM). Computational resources and datasets [1] will be provided.

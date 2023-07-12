@@ -14,9 +14,9 @@
     
     <item>
       <title>MSc Thesis: transfer learning for segmentation of tubular structures in thoracic CT images</title>
-      <link>https://aim-lab.io/theses/thoracic_ct_processing/</link>
+      <link>https://aim-lab.io/theses/martinmenten/thoracic_ct_processing/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/thoracic_ct_processing/</guid>
+      <guid>https://aim-lab.io/theses/martinmenten/thoracic_ct_processing/</guid>
       <description>&lt;p&gt;Computed tomography (CT) scans are commonly used in clinic practice to diagnose and monitor diseases of the lung, heart and upper abdomen [1]. Deep learning has seen wide-spread application for the segmentation of organs in CT images [2,3]. However, its use for segmentation of complex, tubular structures, such as the bronchial proximal airways or cardiac vasculature, has been inhibited by a lack of high-quality ground truth labels [4]. In this research project, the prospective student will investigate the use of unsupervised learning and transfer learning to segment complex structures in chest CT images without having to rely on large amounts of ground truth annotations.&lt;/p&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
 &lt;ul&gt;

@@ -5,7 +5,7 @@
     <link>https://aim-lab.io/author/paul-hager/</link>
       <atom:link href="https://aim-lab.io/author/paul-hager/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Hager</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 17 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/author/paul-hager/avatar_hu3e94c61b1072a7596c8f9779db81f911_78763_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Paul Hager</title>
@@ -13,49 +13,15 @@
     </image>
     
     <item>
-      <title>MSc Thesis: Multimodal Representation Learning Dynamics and its Implications on Tabular Feature Selection</title>
-      <link>https://aim-lab.io/theses/mm_tabular_feature_selection/</link>
-      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/mm_tabular_feature_selection/</guid>
+      <title>MSc Thesis: Spatiotemporal Contrastive Learning of Progressive Diseases</title>
+      <link>https://aim-lab.io/theses/paulhager/temporal_contrastive_learning/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/paulhager/temporal_contrastive_learning/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Medical datasets and especially biobanks, often contain extensive tabular data with rich clinical information in addition to images. In practice, clinicians typically have less data, both in terms of diversity and scale, but still, wish to deploy deep learning solutions. Combined with increasing medical dataset sizes and expensive annotation costs, the necessity for unsupervised methods that can be pretrain multimodally and predict unimodally has risen.&lt;/p&gt;
-&lt;p&gt;We have developed a self-supervised representation learning framework that incorporates both tabular and imaging data during pretraining but requires only images during testing. So far, during pretraining we have used all possibly relevant features but have indications in the literature and through our experiments that there exists an optimal subset. Furthermore, the shared latent space should hold keys to the increased performance of the multimodal pretraining process.&lt;/p&gt;
-&lt;p&gt;The goal of this thesis will be to develop a framework for optimal subset selection of tabular features for pretraining. Your target is to improve the downstream performance of the imaging encoder across all tasks. At the end, we wish to understand how information is encoded between modalities when training in a multimodal fashion and how to maximize our learning signal.&lt;/p&gt;
-&lt;p&gt;Theoretically, you will explore concepts such as mutual information, collinearity and latent space explainability. Experimentally, you will start with our network architecture and the UK Biobank dataset of over 40k cardiac MR scans to test your hypotheses. As an extension, you will use explainability methods such as Guided GradCAM and integrated gradients to investigate how the learned features change with different subsets of tabular features and why perfomance increases.&lt;/p&gt;
-&lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-to-have&#34;&gt;To accomplish this work successfully, we expect you to have:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong mathematical background&lt;/li&gt;
-&lt;li&gt;Decent coding skills and familiarity with Pytorch&lt;/li&gt;
-&lt;li&gt;Basic knowledge of representation learning&lt;/li&gt;
-&lt;li&gt;Basic knowledge of deep-learning explainability methods&lt;/li&gt;
-&lt;li&gt;A strong spirit of independent work and desire to solve interesting research questions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
-&lt;li&gt;Support in bringing your finished project to publication&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] &lt;a href=&#34;https://arxiv.org/pdf/2002.05709.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Simple Framework for Contrastive Learning of Visual Representations&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2] &lt;a href=&#34;https://arxiv.org/pdf/2106.15147.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[3] &lt;a href=&#34;https://openreview.net/pdf?id=Fp7__phQszn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Why do tree-based models still outperform deep learning on typical tabular data&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[4] &lt;a href=&#34;https://proceedings.neurips.cc/paper/2020/file/4c2e5eaae9152079b9e95845750bb9ab-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What Makes for Good Views for Contrastive Learning?&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Temporal Contrastive Learning of Cardiac Heartbeat</title>
-      <link>https://aim-lab.io/theses/temporal_contrastive_learning/</link>
-      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/temporal_contrastive_learning/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Contrastive learning is strong because it uses multiple views of an object to learn which information to capture/encode. If the views are smartly chosen through proper augmentations, then information which is useful for the targeted downstream task is learned and the resulting representations are strong.&lt;/p&gt;
-&lt;p&gt;Contrastive learning has been explored extensively in the natural image domain but there still remain many unanswered questions and untapped potential in the medical domain. The unique nature of medical data offers many avenues to explore to try and determine how best to adapt contrastive learning to medical imaging.&lt;/p&gt;
-&lt;p&gt;One such area is cardiac MR imaging, where instead of having a static image of an object that we wish to encode, we have an entire time series spanning at least one heart beat. The goal of this thesis is to explore how to best select views from a time-series of cardiac MR data to maximize the information learned through contrastive learning. You will use full cycle cardiac MR data from the UKBB which contains over 45k subjects.&lt;/p&gt;
+&lt;p&gt;Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Its strength lies in training networks to solve a context-matching task using multiple views of an image. If the views are smartly chosen through proper augmentations, the model learns informative representations of data without any human supervision. These representations can then be used on targeted downstream tasks.&lt;/p&gt;
+&lt;p&gt;Contrastive learning has been explored extensively in the natural image domain but there still remain many unanswered questions and untapped potential in the medical domain. The unique characteristics of medical data offers many avenues to explore to try and determine how best to adapt contrastive learning to medical imaging. In this project, we are interested in the temporal dimension in two very large medical datasets.&lt;/p&gt;
+&lt;p&gt;Our main application will be for learning representations of the evolution of progressive diseases. Despite being the leading cause of blindness in the elderly, little is understood about how Age-related macular degeneration (AMD) develops over time. This evolution is documented in our dataset of 181k retinal images of 7.5k subjects imaged over eight years. Using the self-supervised  methodology you develop, you will also learn representations that encode multiple years of disease progression, ultimately improving diagnosis and prognosis of AMD.&lt;/p&gt;
+&lt;p&gt;A secondary application, to test the generalisability of the method, is cardiac MR imaging. Here we will train models to learn the dynamics of the heart as it cycles at least one heart beat, which is important for predicting cardiac disease such as infarction. The full cycle cardiac MR data from the UKBB contains over 45k subjects.&lt;/p&gt;
 &lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-to-have&#34;&gt;To accomplish this work successfully, we expect you to have:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Strong coding skills and familiarity with Pytorch&lt;/li&gt;
@@ -71,66 +37,10 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;p&gt;[1] &lt;a href=&#34;https://arxiv.org/pdf/2002.05709.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Simple Framework for Contrastive Learning of Visual Representations&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2] &lt;a href=&#34;https://proceedings.neurips.cc/paper/2020/file/4c2e5eaae9152079b9e95845750bb9ab-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What Makes for Good Views for Contrastive Learning?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&#34;https://arxiv.org/pdf/2104.14558.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[3] &lt;a href=&#34;https://faculty.ucmerced.edu/mhyang/papers/cvpr2021_cvrl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatiotemporal Contrastive Video Representation Learning&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Cardiac MRI Segmentation using Morphometric Informed Multimodal Self-Supervised Models</title>
-      <link>https://aim-lab.io/theses/morphometric_segmentation/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/morphometric_segmentation/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Medical datasets and especially biobanks, often contain extensive tabular data with rich clinical information in addition to images. In practice, clinicians typically have less data, both in terms of diversity and scale, but still, wish to deploy deep learning solutions. Combined with increasing medical dataset sizes and expensive annotation costs, the necessity for unsupervised methods that can be pretrain multimodally and predict unimodally has risen.&lt;/p&gt;
-&lt;p&gt;We have developed a self-supervised framework that incorporates both tabular and imaging data during pretraining but requires only images during testing. We found that the training dynamics are strongly influenced by morphometric features, i.e. features that describe shape and size, and that these features greatly improve the performance on relevant downstream tasks. We expect segmentation to be a task that benefits from such morphometric features.&lt;/p&gt;
-&lt;p&gt;Your goal will be to use the aforementioned multimodal framework to improve the performance of cardiac MR segmentation using UK Biobank cardiac MR data. You will explore the influence of the morphometric features on downstream performance and how different encoder architectures change the pretraining and finetuning dynamics. You will investigate the influence of different imaging planes (Short Axis, Long Axis 2 channel, Long Axis 4 channel) on the pretraining and downstream segmentation performance.&lt;/p&gt;
-&lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-to-have&#34;&gt;To accomplish this work successfully, we expect you to have:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong coding skills and familiarity with Pytorch and Numpy&lt;/li&gt;
-&lt;li&gt;Basic knowledge of segmentation&lt;/li&gt;
-&lt;li&gt;Basic knowledge of contrastive self-supervised learning, especially SimCLR&lt;/li&gt;
-&lt;li&gt;A strong spirit of independent work and desire to solve interesting research questions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
-&lt;li&gt;Support in bringing your finished project to publication&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Tabular Feature Selection and Shared Latent Space Explainability in Self-Supervised Multimodal Deep Learning</title>
-      <link>https://aim-lab.io/theses/tabular_feature_selection/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/tabular_feature_selection/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Medical datasets and especially biobanks, often contain extensive tabular data with rich clinical information in addition to images. In practice, clinicians typically have less data, both in terms of diversity and scale, but still, wish to deploy deep learning solutions. Combined with increasing medical dataset sizes and expensive annotation costs, the necessity for unsupervised methods that can be pretrain multimodally and predict unimodally has risen.&lt;/p&gt;
-&lt;p&gt;We have developed a self-supervised framework that incorporates both tabular and imaging data during pretraining but requires only images during testing. So far, during pretraining we have used all possibly relevant features but have indications that there exists an optimal subset. Furthermore, the shared latent space should hold keys to the increased performance of the multimodal pretraining process.&lt;/p&gt;
-&lt;p&gt;The goal of this thesis will be to develop a framework for optimal subset selection of tabular features for pretraining. Your target is to improve the downstream performance of the imaging encoder across all tasks. Theoretically, you will explore concepts such as mutual information and collinearity. Experimentally, you will use our network architecture and the UK Biobank dataset of cardiac MR data to test your hypotheses. As an extension, you will use explainability methods such as Guided GradCAM and integrated gradients to investigate how the learned features change with different subsets of tabular features and why perfomance increases.&lt;/p&gt;
-&lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-to-have&#34;&gt;To accomplish this work successfully, we expect you to have:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong coding skills and familiarity with Pytorch and Numpy&lt;/li&gt;
-&lt;li&gt;Basic knowledge of contrastive self-supervised learning, especially SimCLR&lt;/li&gt;
-&lt;li&gt;Basic knowledge of deep-learning explainability methods&lt;/li&gt;
-&lt;li&gt;A strong spirit of independent work and desire to solve interesting research questions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
-&lt;li&gt;Support in bringing your finished project to publication&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:robert.holland15@imperial.ac.uk&#34;&gt;robert.holland15@imperial.ac.uk&lt;/a&gt; and &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
 </description>
     </item>
     

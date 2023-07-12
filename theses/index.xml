@@ -14,9 +14,9 @@
     
     <item>
       <title>Practical Course: Applied Deep Learning in Medicine</title>
-      <link>https://aim-lab.io/theses/practical/</link>
+      <link>https://aim-lab.io/theses/alexziller/practical/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/practical/</guid>
+      <guid>https://aim-lab.io/theses/alexziller/practical/</guid>
       <description>&lt;p&gt;In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan. Deep Learning methods will be applied to solve tasks to achieve the goal that is agreed upon. Datasets will be explored and analysed in several directions and different approaches will be evaluated and compared.
 In short this course offers students to:&lt;/p&gt;
 &lt;ul&gt;
@@ -60,10 +60,275 @@ Passcode: 850155&lt;/p&gt;
     </item>
     
     <item>
+      <title>MSc Thesis: Disentangled Implicit Neural Representations</title>
+      <link>https://aim-lab.io/theses/julianmcginnis/mcginnis_disentangled/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/julianmcginnis/mcginnis_disentangled/</guid>
+      <description>&lt;p&gt;Implicit Neural Representations (INR) have emerged as powerful and compact representations for audio, shapes and images, and have recently been translated into medical applications for super-resolution, reconstruction or shape completion [1]. While INRs have been traditionally trained on a single scene or image in the past, novel approaches such as [2] allow to capture a dataset of similar entities with the help of latent representations. Based upon this, INRs are emerging in generative settings and other areas of deep learning, making them a novel and pioneering field [3].&lt;/p&gt;
+&lt;p&gt;Built-up on these concepts, our current research focuses on efficient and interpretable implicit representations that may be generalized to diverse datasets and settings. Our aim is to find alternative methods and algorithms to [2], allowing to disentangle image features from spatial occurrences.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase by incorporating novel algorithms and methods, and work on signal processing methodology. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and interdisciplinary research.
+&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Please send us a short e-mail with your CV and grade report to &lt;a href=&#34;mailto:julian.mcginnis@tum.de&#34;&gt;julian.mcginnis@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt;.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] McGinnis J, Shit S, Li HB, Sideri-Lampretsa V, Graf R, Dannecker M, Pan J, Ansó NS, Mühlau M, Kirschke JS, Rueckert D. Multi-contrast MRI Super-resolution via Implicit Neural Representations. &lt;a href=&#34;https://arxiv.org/pdf/2303.15065.pdf&#34;&gt;https://arxiv.org/pdf/2303.15065.pdf&lt;/a&gt; &lt;/br&gt;
+[2] Mehta, Ishit, Michaël Gharbi, Connelly Barnes, Eli Shechtman, Ravi Ramamoorthi, and Manmohan Chandraker. &amp;ldquo;Modulated periodic activations for generalizable local functional representations.&amp;rdquo; In &lt;em&gt;Proceedings of the IEEE/CVF International Conference on Computer Vision&lt;/em&gt;, pp. 14214-14223. 2021. &lt;a href=&#34;https://openaccess.thecvf.com/content/ICCV2021/papers/Mehta_Modulated_Periodic_Activations_for_Generalizable_Local_Functional_Representations_ICCV_2021_paper.pdf&#34;&gt;https://openaccess.thecvf.com/content/ICCV2021/papers/Mehta_Modulated_Periodic_Activations_for_Generalizable_Local_Functional_Representations_ICCV_2021_paper.pdf&lt;/a&gt; &lt;/br&gt;
+[3] Dupont, Emilien, Hyunjik Kim, S. M. Eslami, Danilo Rezende, and Dan Rosenbaum. &amp;ldquo;From data to functa: Your data point is a function and you can treat it like one.&amp;rdquo; &lt;em&gt;arXiv preprint arXiv:2201.12204&lt;/em&gt; (2022). &lt;a href=&#34;https://proceedings.mlr.press/v162/dupont22a/dupont22a.pdf&#34;&gt;https://proceedings.mlr.press/v162/dupont22a/dupont22a.pdf&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Implicit Neural Representations for Medical Applications</title>
+      <link>https://aim-lab.io/theses/julianmcginnis/mcginnis_medical_inrs/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/julianmcginnis/mcginnis_medical_inrs/</guid>
+      <description>&lt;p&gt;Implicit Neural Representations (INR) have emerged as powerful and compact representations for audio, shapes and images, and have recently been translated into medical applications [1].
+Our recent work has shown that INRs can be used in multi-contrast MRI super-resolution, reconstructing high-resolution images from low-resolution scans, while preserving anatomical details and pathological findings, such as lesions and tumors. Notably, these methods require only training data of a single patient, allowing to use these models in the context of patient-specific super-resolution, making them attractive for clinical settings.&lt;/p&gt;
+&lt;p&gt;Built upon our recent findings, we are interested in incorporating novel concepts such as modulated periodic activation functions [2] and meta-learning [3], to scale INRs to cohorts of patients by incorporating priors learned over a dataset. Once incorporated, we aim to solve various medical downstream tasks in brain and spinal cord imaging, enabling our clinical partners to work on exciting scientific questions.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase by incorporating novel algorithms and methods. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and interdisciplinary research.
+&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.
+&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Please send us a short e-mail with your CV and grade report to &lt;a href=&#34;mailto:julian.mcginnis@tum.de&#34;&gt;julian.mcginnis@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt;.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] McGinnis J, Shit S, Li HB, Sideri-Lampretsa V, Graf R, Dannecker M, Pan J, Ansó NS, Mühlau M, Kirschke JS, Rueckert D. Multi-contrast MRI Super-resolution via Implicit Neural Representations. &lt;a href=&#34;https://arxiv.org/pdf/2303.15065.pdf&#34;&gt;https://arxiv.org/pdf/2303.15065.pdf&lt;/a&gt; &lt;/br&gt;
+[2] Mehta, Ishit, Michaël Gharbi, Connelly Barnes, Eli Shechtman, Ravi Ramamoorthi, and Manmohan Chandraker. &amp;ldquo;Modulated periodic activations for generalizable local functional representations.&amp;rdquo; In &lt;em&gt;Proceedings of the IEEE/CVF International Conference on Computer Vision&lt;/em&gt;, pp. 14214-14223. 2021. &lt;a href=&#34;https://openaccess.thecvf.com/content/ICCV2021/papers/Mehta_Modulated_Periodic_Activations_for_Generalizable_Local_Functional_Representations_ICCV_2021_paper.pdf&#34;&gt;https://openaccess.thecvf.com/content/ICCV2021/papers/Mehta_Modulated_Periodic_Activations_for_Generalizable_Local_Functional_Representations_ICCV_2021_paper.pdf&lt;/a&gt; &lt;/br&gt;
+[3]  Sitzmann, Vincent, Eric Chan, Richard Tucker, Noah Snavely, and Gordon Wetzstein. &amp;ldquo;Metasdf: Meta-learning signed distance functions.&amp;rdquo; Advances in Neural Information Processing Systems 33 (2020): 10136-10147.21. &lt;a href=&#34;https://papers.nips.cc/paper/2020/file/731c83db8d2ff01bdc000083fd3c3740-Paper.pdf&#34;&gt;https://papers.nips.cc/paper/2020/file/731c83db8d2ff01bdc000083fd3c3740-Paper.pdf&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BSc / Guided Research: Multi-object and multi-modal image segmentation of periodontal lesions in MRI</title>
+      <link>https://aim-lab.io/theses/veronikazimmer/mri-pa/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/veronikazimmer/mri-pa/</guid>
+      <description>&lt;p&gt;Periodontitis (chronic or acute alterations of the periodontium) is among the globally widest spread diseases, and interacts with cardiovascular and metabolic disorders. The diagnosis and monitoring of periodontitis is mainly based on imaging modalities exhibiting ionizing radiation: X-ray (panoramic radiography) and cone-beam computed tomography (CBCT). Recent studies report the successful use of magnetic resonance imaging (MRI) in the application of periodontitis diagnosis [1]. Two MRI sequences were developed: a T1-weighted sequence to visualise osseous tissue, and a T2-weighted sequence to visualise the periodontal lesion. To enable automatic diagnosis and monitoring of the disease, accurate segmentations of several anatomical structures, such as the mandibular bone, the alveolar nerve and the periodontal lesion are of utmost importance.&lt;/p&gt;
+&lt;p&gt;The objective of this project is the multi-modal segmentation of mandibular bone, alveolar nerve and periodontal lesions in MRI images. The prospective student will explore state-of-the-art deep-learning-based segmentation methods such as [2], and compare them for binary and multi-class segmentation.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Prior experience and good understanding in machine learning and statistics.&lt;/li&gt;
+&lt;li&gt;Very good programming skills in python (and pytorch).&lt;/li&gt;
+&lt;li&gt;Interest in medical imaging&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;contacts&#34;&gt;Contacts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Veronika Zimmer (&lt;a href=&#34;mailto:veronika.zimmer@tum.de&#34;&gt;veronika.zimmer@tum.de&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Prof. Julia Schnabel (&lt;a href=&#34;mailto:julia.schnabel@helmholtz-muenchen.de&#34;&gt;julia.schnabel@helmholtz-muenchen.de&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Probst, Monika, et al. &amp;ldquo;Magnetic resonance imaging as a diagnostic tool for periodontal disease: A prospective study with correlation to standard clinical findings - Is there added value?&amp;rdquo; Journal of Clinical Periodontology (2021).&lt;/li&gt;
+&lt;li&gt;Isensee, Fabian, et al. &amp;ldquo;nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation.&amp;rdquo; Nature methods 18.2 (2021): 203-211.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BSc / Guided Research: Prediction of long-term cognitive outcome in Stroke patients using machine learning</title>
+      <link>https://aim-lab.io/theses/veronikazimmer/stroke/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/veronikazimmer/stroke/</guid>
+      <description>&lt;p&gt;Machine learning, in particular deep learning, has reformed the research in the field of medical imaging, and the focus of this project will be on its use for the prediction of disease progression/ neurological outcome in stroke patients. Stroke patients have a high risk of developing dementia (incidence around 20%) within a few months after the event, but so far the reasons and mechanisms are poorly understood [1]. Clinical parameters, such as age, smoking habit and previous health conditions have an influence, but are not sufficient to reliably predict the cognitive outcome. Imaging, for example magnetic resonance imaging (MRI), becomes increasingly important. Recently, we have developed a novel method to predict cognitive outcome after a stroke with a balanced accuracy of 80% [2].  One drawback of the current model is that is relies on a complex preprocessing pipeline, including image registration and semi-automatic segmentation, which hinders its usefullness in clinical routine.&lt;/p&gt;
+&lt;p&gt;The objective of this project is to develop a fully automatic end-to-end pipeline for cognitive outcome prediction in stroke patients. This will include (i) automating the segmentations using state-of-the-art learning-based segmentation methods, (ii) identifying the most influential preprocessing steps, and (iii) development of a functioning fully automatic pipeline for easy usability by clinicians and neurologists.&lt;/p&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Prior experience and good understanding in machine learning and statistics.&lt;/li&gt;
+&lt;li&gt;Good programming skills in python (and pytorch).&lt;/li&gt;
+&lt;li&gt;Interest in medical imaging&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;contacts&#34;&gt;Contacts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Shuting Liu (&lt;a href=&#34;mailto:shuting.liu@tum.de&#34;&gt;shuting.liu@tum.de&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Dr. Veronika Zimmer (&lt;a href=&#34;mailto:veronika.zimmer@tum.de&#34;&gt;veronika.zimmer@tum.de&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;F. A. Wollenweber et al.: The Determinants of Dementia After Stroke (DEDEMAS) Study: protocol and pilot data. International Journal of Stroke 9(3) (2014): 387-392.&lt;/li&gt;
+&lt;li&gt;S. Liu, R. Fang, D. Rueckert, V.A. Zimmer: Dynamic Graph Neural Representation Based Multi-modal Fusion
+Model for Cognitive Outcome Prediction in Stroke Cases. Under review.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IDP/Guided research/Thesis: Transfer learning for hyperspectral brain surgery imaging</title>
+      <link>https://aim-lab.io/theses/ivanezhov/hsi_transfer_md/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/ivanezhov/hsi_transfer_md/</guid>
+      <description>&lt;p&gt;Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object&amp;rsquo;s reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors. Within the hyperprobe.eu project, we aim to exploit physics-based machine learning for inferring biochemical tissue properties from the HSI images.&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A few self-written lines of code&lt;/li&gt;
+&lt;li&gt;Moderate ability to understand math and read physics equations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:ivan.ezhov@tum.de&#34;&gt;ivan.ezhov@tum.de&lt;/a&gt; with your CV and transcript.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] M. J. Khan, H. S. Khan, A. Yousaf, K. Khurshid, and A. Abbas. Modern trends in hyperspectral image analysis: A review. IEEE Access&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Prediction of Points-of-Interest on CT Vertebrae</title>
+      <link>https://aim-lab.io/theses/hendrikmoeller/poi_prediction/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/hendrikmoeller/poi_prediction/</guid>
+      <description>&lt;p&gt;The position of attachment points of ligaments and muscles on vertebral bodies are crucial for biomechanical simulations.&lt;/p&gt;
+&lt;p&gt;Your task would be to compare existing methods and develop a model to accurately predict these points onto given vertebrae. The task is similar to Landmark prediction (&lt;a href=&#34;https://paperswithcode.com/task/facial-landmark-detection/latest),&#34;&gt;https://paperswithcode.com/task/facial-landmark-detection/latest),&lt;/a&gt; which is used in deep-fake, for example.&lt;/p&gt;
+&lt;p&gt;You will be working with 3D CT images and segmentations. You are given a hand-made Ground-Truth for the points as well as a prediction of points using registration with some selected &amp;ldquo;known-goods&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The tasks are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using the registrated data, make a preselection of the dataset.&lt;/li&gt;
+&lt;li&gt;Make a first baseline approach using the registrated data/points.&lt;/li&gt;
+&lt;li&gt;After a initial research phase, develop and train a DL model to outperform the registration approach.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Later steps could involve using the predicted POIs to measure the form of the vertebrae, i.e. for fracture detection.&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your Qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Most important: solid coding skills and familiarity with PyTorch and Numpy&lt;/li&gt;
+&lt;li&gt;Strong background in machine learning&lt;/li&gt;
+&lt;li&gt;Motivated master student in Informatics, Mathematics, or a closely related field&lt;/li&gt;
+&lt;li&gt;Ability to thoroughly answer a research question&lt;/li&gt;
+&lt;li&gt;Strong research mindset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:hendrik.moeller@tum.de&#34;&gt;hendrik.moeller@tum.de&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Bias and Fairness in Healthcare AI-based Algorithms</title>
+      <link>https://aim-lab.io/theses/haifabeji/bias_fairness_ai_healthcare/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/haifabeji/bias_fairness_ai_healthcare/</guid>
+      <description>&lt;p&gt;We are looking for a motivated Master&amp;rsquo;s student to join our research team and work on a thesis project that deals with bias in healthcare, specifically with AI-based algorithms. The successful candidate will have access to a large-scale biomedical database and research resource, containing in-depth genetic and health information from half a million participants. The position involves designing a use case for evaluating bias, implementing machine learning models, and generating a fairness report.&lt;/p&gt;
+&lt;p&gt;This is an exciting opportunity for a motivated Master&amp;rsquo;s student to work on a project with real-world implications for healthcare. Additionally, there may be the possibility of publishing the results of the project in a peer-reviewed scientific journal, providing an excellent opportunity to showcase the student&amp;rsquo;s research skills and contribute to the field of healthcare AI-based algorithms.&lt;/p&gt;
+&lt;h2 id=&#34;project-background&#34;&gt;Project Background:&lt;/h2&gt;
+&lt;p&gt;Healthcare AI-based algorithms are rapidly becoming ubiquitous in medical settings, from assisting clinicians in diagnosing diseases to personalizing treatments. While AI has the potential to revolutionize healthcare, it can also perpetuate biases and lead to disparities in care. For example, an AI-based algorithm may have a higher accuracy rate for diagnosing certain diseases in specific racial or ethnic groups, leading to differential treatment and outcomes. Bias in healthcare AI-based algorithms can have serious consequences for patient care, particularly for those from marginalized or underrepresented groups.
+Given the importance of fair and equitable healthcare, it is crucial to incorporate fairness checks into the design and implementation of healthcare AI-based algorithms. Fairness checks can help identify and mitigate bias and ensure that the algorithm does not unfairly discriminate against any group. The successful candidate will be responsible for designing and implementing a use case that evaluates bias in healthcare AI-based algorithms and generating a fairness report.&lt;/p&gt;
+&lt;h2 id=&#34;your-responsibilities&#34;&gt;Your Responsibilities:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Design a use case for evaluating bias in healthcare AI-based algorithms&lt;/li&gt;
+&lt;li&gt;Implement machine learning models to test the use case&lt;/li&gt;
+&lt;li&gt;Generate a fairness report that identifies any bias and suggests ways to mitigate it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your Qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong programming skills in Python&lt;/li&gt;
+&lt;li&gt;Experience with machine learning algorithms and data analysis&lt;/li&gt;
+&lt;li&gt;Excellent written and verbal communication skills&lt;/li&gt;
+&lt;li&gt;Ability to work independently and as part of a team&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;
+&lt;p&gt;Fill-in the following &lt;a href=&#34;https://forms.gle/bZQamy5btyYWdUbv6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;form&lt;/a&gt; or send an email to &lt;a href=&#34;mailto:haifa.beji@tum.de&#34;&gt;haifa.beji@tum.de&lt;/a&gt; with your CV. We promise to get back to you within days.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Spatiotemporal Contrastive Learning of Progressive Diseases</title>
+      <link>https://aim-lab.io/theses/paulhager/temporal_contrastive_learning/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/paulhager/temporal_contrastive_learning/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Its strength lies in training networks to solve a context-matching task using multiple views of an image. If the views are smartly chosen through proper augmentations, the model learns informative representations of data without any human supervision. These representations can then be used on targeted downstream tasks.&lt;/p&gt;
+&lt;p&gt;Contrastive learning has been explored extensively in the natural image domain but there still remain many unanswered questions and untapped potential in the medical domain. The unique characteristics of medical data offers many avenues to explore to try and determine how best to adapt contrastive learning to medical imaging. In this project, we are interested in the temporal dimension in two very large medical datasets.&lt;/p&gt;
+&lt;p&gt;Our main application will be for learning representations of the evolution of progressive diseases. Despite being the leading cause of blindness in the elderly, little is understood about how Age-related macular degeneration (AMD) develops over time. This evolution is documented in our dataset of 181k retinal images of 7.5k subjects imaged over eight years. Using the self-supervised  methodology you develop, you will also learn representations that encode multiple years of disease progression, ultimately improving diagnosis and prognosis of AMD.&lt;/p&gt;
+&lt;p&gt;A secondary application, to test the generalisability of the method, is cardiac MR imaging. Here we will train models to learn the dynamics of the heart as it cycles at least one heart beat, which is important for predicting cardiac disease such as infarction. The full cycle cardiac MR data from the UKBB contains over 45k subjects.&lt;/p&gt;
+&lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-to-have&#34;&gt;To accomplish this work successfully, we expect you to have:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong coding skills and familiarity with Pytorch&lt;/li&gt;
+&lt;li&gt;Basic knowledge of contrastive learning&lt;/li&gt;
+&lt;li&gt;A strong spirit of independent work and desire to solve interesting research questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
+&lt;li&gt;Support in bringing your finished project to publication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://arxiv.org/pdf/2002.05709.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Simple Framework for Contrastive Learning of Visual Representations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&#34;https://arxiv.org/pdf/2104.14558.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] &lt;a href=&#34;https://faculty.ucmerced.edu/mhyang/papers/cvpr2021_cvrl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatiotemporal Contrastive Video Representation Learning&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:robert.holland15@imperial.ac.uk&#34;&gt;robert.holland15@imperial.ac.uk&lt;/a&gt; and &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Diffusion model for Graph Generation</title>
+      <link>https://aim-lab.io/theses/johannespaetzold/masther_thesis_relationformer/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/johannespaetzold/masther_thesis_relationformer/</guid>
+      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Diffusion [2]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation. 
+Traditionally, image-to-graph generation is addressed with a two-stage approach consisting of object detection followed by a separate relation prediction, which prevents simultaneous object-relation interaction. In our recent ECCV paper, we proposed a unified one-stage transformer-based framework, namely &lt;em&gt;Relationformer&lt;/em&gt; that jointly predicts objects and their relations [1].&lt;/p&gt;
+&lt;p&gt;Our applications will be large scale biological applications for example the whole brain vasculature [3] or neurons as well as satellite imagery.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;img src=&#34;./relationformer.png&#34; alt=&#34;image transformer&#34;&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase and apply it to novel datasets. You will be working together with Suprosanna and Johannes, two PostDocs scientist at TU Munich and Imperial College London under the supervision of Prof. Daniel Rückert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:j.paetzold@ic.ac.uk&#34;&gt;j.paetzold@ic.ac.uk&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;img src=&#34;./vessels.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A Unified Framework for Image-to-Graph Generation.&amp;quot;, &lt;a href=&#34;https://arxiv.org/abs/2203.10202&#34;&gt;https://arxiv.org/abs/2203.10202&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] Chen et al. &amp;ldquo;DiffusionDet: Diffusion Model for Object Detection.&amp;quot;, &lt;a href=&#34;https://arxiv.org/pdf/2211.09788.pdf&#34;&gt;https://arxiv.org/pdf/2211.09788.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] Paetzold, Johannes C., et al. &amp;ldquo;Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience.&amp;rdquo; Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). 2021.
+&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MSc Thesis: Automatic recognition of billing codes based on dental documentation using Artificial Intelligence</title>
-      <link>https://aim-lab.io/theses/boryschibisov/</link>
+      <link>https://aim-lab.io/theses/danielrueckert/boryschibisov/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/boryschibisov/</guid>
+      <guid>https://aim-lab.io/theses/danielrueckert/boryschibisov/</guid>
       <description>&lt;p&gt;We are an international team of experts in the field of NLP and AI looking for a highly motivated Master&amp;rsquo;s student to join us for a master thesis project. Our main focus is the development of Doctos, an app that generates dental documentation through speech-to-text and converts the documentation into relevant billing codes using Named Entity Recognition. The documentation and the generated billing codes are automatically imported into the relevant PVS.
 The objective of this thesis is to compare different methods for automatic recognition of billing codes from dental documentation. In particular, the focus will be on Named Entity Recognition techniques and their implementation in Doctos.&lt;/p&gt;
 &lt;br/&gt;
@@ -90,9 +355,9 @@ The objective of this thesis is to compare different methods for automatic recog
     
     <item>
       <title>MSc Thesis: transfer learning for segmentation of tubular structures in thoracic CT images</title>
-      <link>https://aim-lab.io/theses/thoracic_ct_processing/</link>
+      <link>https://aim-lab.io/theses/martinmenten/thoracic_ct_processing/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/thoracic_ct_processing/</guid>
+      <guid>https://aim-lab.io/theses/martinmenten/thoracic_ct_processing/</guid>
       <description>&lt;p&gt;Computed tomography (CT) scans are commonly used in clinic practice to diagnose and monitor diseases of the lung, heart and upper abdomen [1]. Deep learning has seen wide-spread application for the segmentation of organs in CT images [2,3]. However, its use for segmentation of complex, tubular structures, such as the bronchial proximal airways or cardiac vasculature, has been inhibited by a lack of high-quality ground truth labels [4]. In this research project, the prospective student will investigate the use of unsupervised learning and transfer learning to segment complex structures in chest CT images without having to rely on large amounts of ground truth annotations.&lt;/p&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
 &lt;ul&gt;
@@ -118,76 +383,10 @@ The objective of this thesis is to compare different methods for automatic recog
     </item>
     
     <item>
-      <title>MSc Thesis: Multimodal Representation Learning Dynamics and its Implications on Tabular Feature Selection</title>
-      <link>https://aim-lab.io/theses/mm_tabular_feature_selection/</link>
-      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/mm_tabular_feature_selection/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Medical datasets and especially biobanks, often contain extensive tabular data with rich clinical information in addition to images. In practice, clinicians typically have less data, both in terms of diversity and scale, but still, wish to deploy deep learning solutions. Combined with increasing medical dataset sizes and expensive annotation costs, the necessity for unsupervised methods that can be pretrain multimodally and predict unimodally has risen.&lt;/p&gt;
-&lt;p&gt;We have developed a self-supervised representation learning framework that incorporates both tabular and imaging data during pretraining but requires only images during testing. So far, during pretraining we have used all possibly relevant features but have indications in the literature and through our experiments that there exists an optimal subset. Furthermore, the shared latent space should hold keys to the increased performance of the multimodal pretraining process.&lt;/p&gt;
-&lt;p&gt;The goal of this thesis will be to develop a framework for optimal subset selection of tabular features for pretraining. Your target is to improve the downstream performance of the imaging encoder across all tasks. At the end, we wish to understand how information is encoded between modalities when training in a multimodal fashion and how to maximize our learning signal.&lt;/p&gt;
-&lt;p&gt;Theoretically, you will explore concepts such as mutual information, collinearity and latent space explainability. Experimentally, you will start with our network architecture and the UK Biobank dataset of over 40k cardiac MR scans to test your hypotheses. As an extension, you will use explainability methods such as Guided GradCAM and integrated gradients to investigate how the learned features change with different subsets of tabular features and why perfomance increases.&lt;/p&gt;
-&lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-to-have&#34;&gt;To accomplish this work successfully, we expect you to have:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong mathematical background&lt;/li&gt;
-&lt;li&gt;Decent coding skills and familiarity with Pytorch&lt;/li&gt;
-&lt;li&gt;Basic knowledge of representation learning&lt;/li&gt;
-&lt;li&gt;Basic knowledge of deep-learning explainability methods&lt;/li&gt;
-&lt;li&gt;A strong spirit of independent work and desire to solve interesting research questions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
-&lt;li&gt;Support in bringing your finished project to publication&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] &lt;a href=&#34;https://arxiv.org/pdf/2002.05709.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Simple Framework for Contrastive Learning of Visual Representations&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2] &lt;a href=&#34;https://arxiv.org/pdf/2106.15147.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[3] &lt;a href=&#34;https://openreview.net/pdf?id=Fp7__phQszn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Why do tree-based models still outperform deep learning on typical tabular data&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[4] &lt;a href=&#34;https://proceedings.neurips.cc/paper/2020/file/4c2e5eaae9152079b9e95845750bb9ab-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What Makes for Good Views for Contrastive Learning?&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Temporal Contrastive Learning of Cardiac Heartbeat</title>
-      <link>https://aim-lab.io/theses/temporal_contrastive_learning/</link>
-      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/temporal_contrastive_learning/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Contrastive learning is currently the most effective way to learn representations in a self-supervised manner. Contrastive learning is strong because it uses multiple views of an object to learn which information to capture/encode. If the views are smartly chosen through proper augmentations, then information which is useful for the targeted downstream task is learned and the resulting representations are strong.&lt;/p&gt;
-&lt;p&gt;Contrastive learning has been explored extensively in the natural image domain but there still remain many unanswered questions and untapped potential in the medical domain. The unique nature of medical data offers many avenues to explore to try and determine how best to adapt contrastive learning to medical imaging.&lt;/p&gt;
-&lt;p&gt;One such area is cardiac MR imaging, where instead of having a static image of an object that we wish to encode, we have an entire time series spanning at least one heart beat. The goal of this thesis is to explore how to best select views from a time-series of cardiac MR data to maximize the information learned through contrastive learning. You will use full cycle cardiac MR data from the UKBB which contains over 45k subjects.&lt;/p&gt;
-&lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-to-have&#34;&gt;To accomplish this work successfully, we expect you to have:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong coding skills and familiarity with Pytorch&lt;/li&gt;
-&lt;li&gt;Basic knowledge of contrastive learning&lt;/li&gt;
-&lt;li&gt;A strong spirit of independent work and desire to solve interesting research questions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
-&lt;li&gt;Support in bringing your finished project to publication&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] &lt;a href=&#34;https://arxiv.org/pdf/2002.05709.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Simple Framework for Contrastive Learning of Visual Representations&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2] &lt;a href=&#34;https://proceedings.neurips.cc/paper/2020/file/4c2e5eaae9152079b9e95845750bb9ab-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What Makes for Good Views for Contrastive Learning?&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[3] &lt;a href=&#34;https://faculty.ucmerced.edu/mhyang/papers/cvpr2021_cvrl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatiotemporal Contrastive Video Representation Learning&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MSc Thesis: Brain age predicition using resting-state electroencephography (EEG)</title>
-      <link>https://aim-lab.io/theses/eeg_age_predicition/</link>
+      <link>https://aim-lab.io/theses/oezguenturgut/eeg_age_predicition/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/eeg_age_predicition/</guid>
+      <guid>https://aim-lab.io/theses/oezguenturgut/eeg_age_predicition/</guid>
       <description>&lt;p&gt;The electroencephalogram (EEG) is a tool that allows non-invasive monitoring of the brain activity. Thin electrodes placed on the scalp detect tiny electrical charges that result from the activity of brain cells. Given the simple and low-cost setup, in clinical medicine the EEG is used by neurologists to evaluate brain disorders (e.g. epilepsy), to diagnose diseases (e.g. Alzheimer&amp;rsquo;s disease, narcolepsy), or simply to monitor blood flow in the brain. [1]&lt;/p&gt;
 &lt;p&gt;Within the context of this thesis, a dataset containing the EEGs of chronic pain patients (chronic backpain, chronic widespread pain, joint pain, and neuropathic pain) and an age-matching healthy control group is provided by the University Hospital rechts der Isar. Previous work on EEG data of chronic pain patients has shown an increased brain connectivity at specific frequencies in frontal brain areas when compared to the healthy control group. [2] Furthermore, longitudinal studies indicate a global brain network change in chronic pain patients. [3] In this thesis we will investigate how brain age is affected by chronic diseases. Self-supervised learning and transfer learning techniques will be leveraged to understand the high-level context of an EEG. The learned EEG representation is then used to predict the brain age. We will analyse the differences in brain age between chronic pain patients and the healthy control group.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
@@ -221,32 +420,10 @@ The objective of this thesis is to compare different methods for automatic recog
     </item>
     
     <item>
-      <title>MSc Thesis: Fairness in Unsupervised Anomaly Detection</title>
-      <link>https://aim-lab.io/theses/anomaly_detection_fairness/</link>
-      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/anomaly_detection_fairness/</guid>
-      <description>&lt;p&gt;Unsupervised anomaly detection methods use unlabeled data from one distribution for training and can then differentiate between samples that come from that distribution and samples from other distributions.
-In medical applications, anomalies often correspond to diseases and can be detected with such methods. This is a way to make use of the large amounts of clinically unremarkable data available.
-While it is known that supervised machine learning models show worse performance for minority groups that are usually underrepresented in the data, this problem has so far not been studied for unsupervised methods despite the large implications a potentially unfair clinical application could have.&lt;/p&gt;
-&lt;p&gt;This Masters Thesis will investigate (un)fairness of anomaly detection models used for medical disease detection under different definitions of fairness and will try to offer mitigation strategies.&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your Qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Most important: solid coding skills and familiarity with PyTorch and Numpy&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Motivated master student in Informatics, Mathematics, Physics or a closely related field&lt;/li&gt;
-&lt;li&gt;Ability to thoroughly answer a research question&lt;/li&gt;
-&lt;li&gt;Strong research mindset&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to Apply&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:felix.meissen@tum.de&#34;&gt;felix.meissen@tum.de&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
-      <link>https://aim-lab.io/theses/efficient_training/</link>
+      <link>https://aim-lab.io/theses/florianhoelzl/efficient_training/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/efficient_training/</guid>
+      <guid>https://aim-lab.io/theses/florianhoelzl/efficient_training/</guid>
       <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
 &lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
 &lt;br/&gt;&lt;/p&gt;
@@ -274,9 +451,9 @@ While it is known that supervised machine learning models show worse performance
     
     <item>
       <title>MSc Thesis: Scaling Laws of Equivariant Convolutions</title>
-      <link>https://aim-lab.io/theses/scaling_laws/</link>
+      <link>https://aim-lab.io/theses/florianhoelzl/scaling_laws/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/scaling_laws/</guid>
+      <guid>https://aim-lab.io/theses/florianhoelzl/scaling_laws/</guid>
       <description>&lt;p&gt;Equivariant convolutions are a novel approach that incorporate additional geometric properties of the input domain during the convolution process (i.e. symmetry properties such as rotations and reflections) [1]. This additional inductive bias allows the model to learn more robust and general features from less data, rendering them highly promising for application in the medical domain. So far, however, nobody has investigated how their beneficial characteristics impact the design and scaling of deep learning model architectures.&lt;/p&gt;
 &lt;p&gt;We have developed a framework for initial investigation of equivariant convolutions and now want to evaluate how their performance can be further increased with larger model sizes and under different training regimes. This work plans to build onto previous highly impactful research on model design, such as the establishment of the EfficientNet architecture and the Chinchilla language model, to create a sound basis for the further consolidation of equivariant convolutions in the broader research landscape [2, 3]. The focus will be to thoroughly analyze and expand a framework for equivariant models already developed at our lab. This includes getting familiar with model architectures in general, the properties of equivariant convolutions and the intersection of the two. Our goal is to develop a methodological framework for equivariant model architectures that can be easily adapted to the properties of the used dataset and are able to beat state-of-the-art non-equivariant alternatives in standard and privacy-preserving deep learning settings [4].
 &lt;br/&gt;&lt;/p&gt;
@@ -304,66 +481,10 @@ While it is known that supervised machine learning models show worse performance
     </item>
     
     <item>
-      <title>MSc Thesis: Cardiac MRI Segmentation using Morphometric Informed Multimodal Self-Supervised Models</title>
-      <link>https://aim-lab.io/theses/morphometric_segmentation/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/morphometric_segmentation/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Medical datasets and especially biobanks, often contain extensive tabular data with rich clinical information in addition to images. In practice, clinicians typically have less data, both in terms of diversity and scale, but still, wish to deploy deep learning solutions. Combined with increasing medical dataset sizes and expensive annotation costs, the necessity for unsupervised methods that can be pretrain multimodally and predict unimodally has risen.&lt;/p&gt;
-&lt;p&gt;We have developed a self-supervised framework that incorporates both tabular and imaging data during pretraining but requires only images during testing. We found that the training dynamics are strongly influenced by morphometric features, i.e. features that describe shape and size, and that these features greatly improve the performance on relevant downstream tasks. We expect segmentation to be a task that benefits from such morphometric features.&lt;/p&gt;
-&lt;p&gt;Your goal will be to use the aforementioned multimodal framework to improve the performance of cardiac MR segmentation using UK Biobank cardiac MR data. You will explore the influence of the morphometric features on downstream performance and how different encoder architectures change the pretraining and finetuning dynamics. You will investigate the influence of different imaging planes (Short Axis, Long Axis 2 channel, Long Axis 4 channel) on the pretraining and downstream segmentation performance.&lt;/p&gt;
-&lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-to-have&#34;&gt;To accomplish this work successfully, we expect you to have:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong coding skills and familiarity with Pytorch and Numpy&lt;/li&gt;
-&lt;li&gt;Basic knowledge of segmentation&lt;/li&gt;
-&lt;li&gt;Basic knowledge of contrastive self-supervised learning, especially SimCLR&lt;/li&gt;
-&lt;li&gt;A strong spirit of independent work and desire to solve interesting research questions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
-&lt;li&gt;Support in bringing your finished project to publication&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Tabular Feature Selection and Shared Latent Space Explainability in Self-Supervised Multimodal Deep Learning</title>
-      <link>https://aim-lab.io/theses/tabular_feature_selection/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/tabular_feature_selection/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Medical datasets and especially biobanks, often contain extensive tabular data with rich clinical information in addition to images. In practice, clinicians typically have less data, both in terms of diversity and scale, but still, wish to deploy deep learning solutions. Combined with increasing medical dataset sizes and expensive annotation costs, the necessity for unsupervised methods that can be pretrain multimodally and predict unimodally has risen.&lt;/p&gt;
-&lt;p&gt;We have developed a self-supervised framework that incorporates both tabular and imaging data during pretraining but requires only images during testing. So far, during pretraining we have used all possibly relevant features but have indications that there exists an optimal subset. Furthermore, the shared latent space should hold keys to the increased performance of the multimodal pretraining process.&lt;/p&gt;
-&lt;p&gt;The goal of this thesis will be to develop a framework for optimal subset selection of tabular features for pretraining. Your target is to improve the downstream performance of the imaging encoder across all tasks. Theoretically, you will explore concepts such as mutual information and collinearity. Experimentally, you will use our network architecture and the UK Biobank dataset of cardiac MR data to test your hypotheses. As an extension, you will use explainability methods such as Guided GradCAM and integrated gradients to investigate how the learned features change with different subsets of tabular features and why perfomance increases.&lt;/p&gt;
-&lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-to-have&#34;&gt;To accomplish this work successfully, we expect you to have:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong coding skills and familiarity with Pytorch and Numpy&lt;/li&gt;
-&lt;li&gt;Basic knowledge of contrastive self-supervised learning, especially SimCLR&lt;/li&gt;
-&lt;li&gt;Basic knowledge of deep-learning explainability methods&lt;/li&gt;
-&lt;li&gt;A strong spirit of independent work and desire to solve interesting research questions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
-&lt;li&gt;Support in bringing your finished project to publication&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MSc Thesis: An attention-based image denoising network leveraging information of both spatial and frequency domain</title>
-      <link>https://aim-lab.io/theses/denosing/</link>
+      <link>https://aim-lab.io/theses/jiazhenpan/denosing/</link>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/denosing/</guid>
+      <guid>https://aim-lab.io/theses/jiazhenpan/denosing/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Image denoising task, in which a clean image is recovered from a noise observation, is a classical inverse problem and still active topic in low-level vision since it is an indispensable step in many practical applications. In past decades, a large variety of image denoising methods employing neural networks were proposed to solve this inverse problem. These methods are major in the spatial domain which denoise the image straightforwardly by extracting the spatial information using the sliding CNN window. On the other hand, image denoising from the frequency domain also has a long history in which the low-pass filter techniques are applied and the noise (major in high-frequency space) can be filtered out. The denoising optimization in the frequency domain is frequently utilized in medical image reconstruction. Recently a great number of frequency networks with CNNs are used in this field to improve the reconstruction quality. However, this approach is rarely studied in the nature denoising field with RGB images. More recently, the advent of Transformers evolutes the computer vision field. Its inherent attributes like larger receptive field and lower inductive bias facilitate the image denoising tasks.
 In this work, we attempt to introduce a hybrid image denoising network that optimizes the noise image from both spatial and frequency domain. A comparison with SOTA methods on public datasets like urban100 or SIDD will be conducted in the end.&lt;/p&gt;
@@ -387,36 +508,10 @@ In this work, we attempt to introduce a hybrid image denoising network that opti
     </item>
     
     <item>
-      <title>Internship / External MSc Project at Philips Research Hamburg: Loss functions for MRI reconstruction</title>
-      <link>https://aim-lab.io/theses/mri_philips/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/mri_philips/</guid>
-      <description>&lt;p&gt;Techniques from Deep Learning have become a central building block in the development of medical image reconstruction algorithms. For example, neural networks have been used to accelerate and improve MR and CT reconstructions, thereby allowing reduction of measurement duration or radiation dose.  A central issue in the training of these networks is the choice of the objective functions, or loss functions, that do not generally reflect human visual perception. The aim of this Master’s Project is to study and develop suitable feature-based loss functions, which can be used for improving deep-learning based techniques in medical image reconstruction. An initial direction of study would be the unsupervised training of a feature loss based on a database of MR images and the subsequent application of the resulting loss in downstream tasks such as image reconstruction or contrast-to-contrast mapping.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Computer Science, Biomedical Engineering, Physics or similar background&lt;/li&gt;
-&lt;li&gt;Strong background in machine learning&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;li&gt;Proficient in Python&lt;/li&gt;
-&lt;li&gt;Experience with ML frameworks, e.g., PyTorch / Tensorflow / Keras&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;a close and personal co-supervision between TUM and Philips Research Hamburg&lt;/li&gt;
-&lt;li&gt;a three month paid internship in the Philips Research Lab in Hamburg, taking place in the beginning of the project&lt;/li&gt;
-&lt;li&gt;to work in an interdisciplinary team&lt;/li&gt;
-&lt;li&gt;to collaborate with international experts in machine learning and MR image reconstruction from academia and industry&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply&lt;/h2&gt;
-&lt;p&gt;Please send your application via email to &lt;a href=&#34;mailto:jakob.meineke@philips.com&#34;&gt;jakob.meineke@philips.com&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MSc Thesis: Motion-Compensated MRI Reconstruction</title>
-      <link>https://aim-lab.io/theses/motionmri/</link>
+      <link>https://aim-lab.io/theses/kerstinhammernik/motionmri/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/motionmri/</guid>
+      <guid>https://aim-lab.io/theses/kerstinhammernik/motionmri/</guid>
       <description>&lt;p&gt;Long acquisition times in Magnetic Resonance Imaging (MRI) bear the risk of patient motion, which substantially degrades the image quality. Further sources of image degradation are physiological motion, such as periodic respiratory and cardiac motion. Accelerated acquisitions can compensate for the motion. The motion information can also be derived from the acquired MRI data retrospectively and used as a correction step in image reconstruction. The objective of this thesis is to include the motion model directly in MRI reconstruction using both knowledge of the acquisition physics and machine learning. Motion-Compensated MRI reconstruction offers a wide range of opportunities for projects, where we can set the emphasis based on your interests. Please get in touch with us to find an individual topic!&lt;/p&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 &lt;ul&gt;
@@ -437,9 +532,9 @@ In this work, we attempt to introduce a hybrid image denoising network that opti
     
     <item>
       <title>MSc Thesis: Combining longitudinal volumetric imaging and tabular data for depression prediction</title>
-      <link>https://aim-lab.io/theses/depression_prediction/</link>
+      <link>https://aim-lab.io/theses/vasilikisideri-lampretsa/depression_prediction/</link>
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/depression_prediction/</guid>
+      <guid>https://aim-lab.io/theses/vasilikisideri-lampretsa/depression_prediction/</guid>
       <description>&lt;p&gt;The objective of this project is to combine volumetric imaging and non-imaging longitudinal data to accurately analyze individual patients and provide automated decisions regarding diagnosis and disease prognosis. Physicians consider various medical biomarkers and meta-data to reach a clinical decision. Thus, creating computer-assisted diagnostic systems that operate in a similar manner could be highly beneficial.&lt;/p&gt;
 &lt;p&gt;The aim is to align imaging and other medical information, such as medical history, blood values, sleep habits, genetic information, and more, in the feature space using a contrastive loss. The approach will integrate multiple modalities of each patient from various time points in the same model in an end-to-end fashion. The method can be fully supervised or be used in a self-supervision scheme, in which our model can learn the aligned embedding space of imaging and non-imaging data using a proxy task from the data itself. Afterward, the learned embeddings can be finetuned for downstream tasks, such as depression prediction [1].&lt;/p&gt;
 &lt;p&gt;The project will be completed under the supervision of Dr. Magdalini Paschali (Stanford University) and Vasiliki Sideri-Lampretsa (TUM). Computational resources and datasets [1] will be provided.
@@ -468,9 +563,9 @@ In this work, we attempt to introduce a hybrid image denoising network that opti
     
     <item>
       <title>MSc Thesis: Federated, privacy preserving deep learning for fetal MRI brain segmentation</title>
-      <link>https://aim-lab.io/theses/maik/</link>
+      <link>https://aim-lab.io/theses/maikdannecker/maik/</link>
       <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/maik/</guid>
+      <guid>https://aim-lab.io/theses/maikdannecker/maik/</guid>
       <description>&lt;p&gt;In medical domain data protection and privacy preservation is highly relevant. Therefore, clinical data of patients is usually securely stored on clinic servers without access from outside.
 Publication of clinical data is difficult and cumbersome as strict privacy and data protection laws must be obeyed.
 These involve anonymization of patient data, drafting of data sharing agreements, and the approval of the corresponding ethics commission.
@@ -508,9 +603,9 @@ segmentation”. In: arXiv preprint arXiv:2107.02586 (2021).&lt;br/&gt;&lt;/p&gt
     
     <item>
       <title>MSc Thesis: Non-invasive and accurate prediction of prostate cancer aggressiveness</title>
-      <link>https://aim-lab.io/theses/prostate_cancer/</link>
+      <link>https://aim-lab.io/theses/florianhoelzl/prostate_cancer/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/prostate_cancer/</guid>
+      <guid>https://aim-lab.io/theses/florianhoelzl/prostate_cancer/</guid>
       <description>&lt;p&gt;With estimates of 1 600 000 cases and more than 350 000 deaths annually worldwide, prostate cancer is among the most common cancers in men [1]. Diagnosis of prostate cancer is typically done by using ultrasound-guided needle biopsies. An approach that not only involves risks, due to the invasive nature of the method, but also generally underestimates the aggressiveness of the tumor [2]. Standard positron emission tomography (PET) imaging with prostate cancer specific tracers and specifically PSMA-PET have shown to be advantageous for delineating suspicious lesions during biopsy [3, 4].&lt;/p&gt;
 &lt;p&gt;We want to use the information provided by these PET and multi-parametric MRI images to directly predict Gleason scores that accurately report the aggressiveness of the prostate cancers without the risks associated with an invasive biopsy. Recent research at our institution has produced promising results predicting Gleason scores from handcrafted radiomic features [5]. This work aims at building on top of this research and to develop an end-to-end deep learning pipeline for predicting tumor aggressiveness directly from different imaging modalities. We have exclusive access to a dataset which includes PSMA-11 PET/MRI scans, segmentation maps and the pathological information of the tumors. Additional public data is available through the &lt;a href=&#34;https://pi-cai.grand-challenge.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PI-CAI Challenge&lt;/a&gt;. The focus of this work is to build a complete pipeline for analysing multi-modal medical imaging datasets. This includes research on understanding the diverse data available, exploring different approaches for dealing with the limited dataset size (data augmentation, pre-training etc.) and finding a suitable model and evaluation metric for this use case.
 &lt;br/&gt;&lt;/p&gt;
@@ -540,9 +635,9 @@ segmentation”. In: arXiv preprint arXiv:2107.02586 (2021).&lt;br/&gt;&lt;/p&gt
     
     <item>
       <title>MSc Thesis: Adversarial attacks in collaborative machine learning</title>
-      <link>https://aim-lab.io/theses/attacks/</link>
+      <link>https://aim-lab.io/theses/dmitriiusynin/attacks/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/attacks/</guid>
+      <guid>https://aim-lab.io/theses/dmitriiusynin/attacks/</guid>
       <description>&lt;p&gt;Collaborative machine learning has became the new paradigm-of-choice when it comes to training deep learning models in many fields, including medical image analysis. Due to a number of data protection and governance regulations being introduced, direct data sharing for such training is rendered problematic. As a result implementations that rely on local training, such as federated learning (FL) have been widely adopted. However, a number of studies [1,2] have shown that such paradigms are deeply vulnerable to adversarial influence either in the form of privacy violation [3] or utility degradation [4]. Fortunately for the research community, such attacks are often very fragile and require a number of assumptions to hold in practise. The aim of this project is to explore the recent advances in adversarial machine learning in order to investigate how to adapt them to the real-world machine learning contexts in order to encourage the research community and policymakers to employ safe, robust and privacy-preserving systems when working with sensitive personally-identifying information.&lt;/p&gt;
 &lt;p&gt;This project is deliberately very open-ended, as there is a large number of various attack vectors that could be pursued: attacks on membership, reconstruction of sensitive attributes or training samples, insertion of auxiliary learning tasks etc. Our lab has experience primarily with privacy-oriented attacks on machine learning, but we are otherwise happy to consider students with interest in any other attack formulation.&lt;/p&gt;
 &lt;br/&gt;
@@ -571,9 +666,9 @@ segmentation”. In: arXiv preprint arXiv:2107.02586 (2021).&lt;br/&gt;&lt;/p&gt
     
     <item>
       <title>MSc Thesis: Defending collaborative machine learning through interpretability methods</title>
-      <link>https://aim-lab.io/theses/attacks_path/</link>
+      <link>https://aim-lab.io/theses/dmitriiusynin/attacks_path/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/attacks_path/</guid>
+      <guid>https://aim-lab.io/theses/dmitriiusynin/attacks_path/</guid>
       <description>&lt;p&gt;Collaborative machine learning has became the new paradigm-of-choice when it comes to training deep learning models in many fields, including medical image analysis. Due to a number of data protection and governance regulations being introduced, direct data sharing for such training is rendered problematic. As a result implementations that rely on local training, such as federated learning (FL) have been widely adopted. However, a number of studies [1,2] have shown that such paradigms are deeply vulnerable to adversarial influence either in the form of privacy violation [3] or utility degradation [4].&lt;/p&gt;
 &lt;p&gt;This project aims to unite the areas of interpretable deep learning and defenses against attacks on collaborative learning. A number of approaches identifying the so-called critical neurons and pathways have previously been proposed to aid the community in interpretation of the predictions made by deep learning models[5,6,7]. We want to determine if these neurons/pathways are also critical for the adversary when it comes to extraction of information or destruction of utility of a jointly trained model.&lt;/p&gt;
 &lt;br/&gt;
@@ -604,111 +699,10 @@ segmentation”. In: arXiv preprint arXiv:2107.02586 (2021).&lt;br/&gt;&lt;/p&gt
     </item>
     
     <item>
-      <title>MSc Thesis: Transformer based Graph Extraction</title>
-      <link>https://aim-lab.io/theses/masther_thesis_relationformer/</link>
-      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/masther_thesis_relationformer/</guid>
-      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Transformers [2][3]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation. 
-Traditionally, image-to-graph generation is addressed with a two-stage approach consisting of object detection followed by a separate relation prediction, which prevents simultaneous object-relation interaction. In our recent ECCV paper, we proposed a unified one-stage transformer-based framework, namely &lt;em&gt;Relationformer&lt;/em&gt; that jointly predicts objects and their relations [1].&lt;/p&gt;
-&lt;p&gt;In a next step we aim to apply the &lt;em&gt;Relationformer&lt;/em&gt; to large scale biological applications for example the whole brain vasculature [4] or neurons. We plan to explore concepts of domain-adaptation and transfer learning. Please see exemplary images of the whole brain vasculature and the &lt;em&gt;Relationformer&lt;/em&gt; model below.&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;img src=&#34;./relationformer.png&#34; alt=&#34;image transformer&#34;&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase and apply it to novel datasets. You will be working together with Suprosanna and Johannes, two senior computater scientist at TU Munich and Imperial College London under the supervision of Prof. Daniel Rückert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
-&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:j.paetzold@ic.ac.uk&#34;&gt;j.paetzold@ic.ac.uk&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;img src=&#34;./vessels.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;[1] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A Unified Framework for Image-to-Graph Generation.&amp;rdquo; arXiv preprint arXiv:2203.10202 (2022).&lt;/p&gt;
-&lt;p&gt;[2] Dosovitskiy, Alexey, et al. &amp;ldquo;An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.&amp;rdquo; International Conference on Learning Representations. 2020.&lt;/p&gt;
-&lt;p&gt;[3] Carion, Nicolas, et al. &amp;ldquo;End-to-end object detection with transformers.&amp;rdquo; European conference on computer vision. Springer, Cham, 2020.&lt;/p&gt;
-&lt;p&gt;[4] Paetzold, Johannes C., et al. &amp;ldquo;Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience.&amp;rdquo; Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). 2021.
-&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Transformer-based Mesh Analysis for Brain Aneurysm Detection</title>
-      <link>https://aim-lab.io/theses/masther_thesis_aneyrism/</link>
-      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/masther_thesis_aneyrism/</guid>
-      <description>&lt;p&gt;Detecting aneurysm in 3D volumetric TOF MRA is difficult because a) the variation in shape information of aneurysms is hard to capture in patch-based 3D approach using just intensity information b) processing full 3D volumetric image is computationally demanding. In this Master thesis we aim to address this with shape analysis of blood vessels. Vessel surface lies in a non-Euclidean manifold which can be described by its i) vertices i.e. point-cloud ii) mesh i.e. vertices, edges and faces.  Thus we reformulate aneurysm detection as into two sub tasks on segmented vessel: i) aneurysm recognition: classification of vessel mesh ii) aneurysm segmentation: part segmentation of vessel surface.  We aim to translate recent progress of the transformer based model [1,2] for this geometric deep learning task on multiple vessel mesh  datasets [3,4].&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;img src=&#34;./vessels.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master&amp;rsquo;s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to apply recent transformer-based part segmentation to three vessel mesh datasets. You will be working together with Suprosanna and Johannes, two senior computater scientist at TU Munich and Imperial College London under the supervision of Prof. Daniel Rückert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
-&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:j.paetzold@ic.ac.uk&#34;&gt;j.paetzold@ic.ac.uk&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;[1] He, Chenhang, et al. &amp;ldquo;Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
-[2] Lai, Xin, et al. &amp;ldquo;Stratified Transformer for 3D Point Cloud Segmentation.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
-[3] Pozo Soler, Jose; Frangi, Alejandro F; Consortium, The @neurIST (2017): Database of Cerebral Artery Geometries including Aneurysms at the Middle Cerebral Artery Bifurcation. The University of Sheffield. Dataset. &lt;a href=&#34;https://doi.org/10.15131/shef.data.4806910.v1&#34;&gt;https://doi.org/10.15131/shef.data.4806910.v1&lt;/a&gt;.
-[4] Yang, Xi, et al. &amp;ldquo;Intra: 3d intracranial aneurysm dataset for deep learning.&amp;rdquo; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.&lt;/p&gt;
-&lt;br/&gt;</description>
-    </item>
-    
-    <item>
-      <title>B.Sc. Thesis: Collection of a German Biomedical Text Corpus from Public Sources</title>
-      <link>https://aim-lab.io/theses/data_collection/</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/data_collection/</guid>
-      <description>&lt;p&gt;Recent successes in Natural Language Processing (NLP) are based on pre-training language models on large datasets of unlabelled text.
-In the medical domain however, such large datasets are hard to acquire. Especially in the German Medical domain, very few public text datasets are available which limits the availability of pre-trained language models and therefore the success of NLP in this domain.
-Instead fo relying on clinical texts that are typically hard to acquire due to privacy issues, we will therefore create a large German Medical corpus based on public sources.
-These public sources include academic publications and book, dissertations (e.g. from the university library), and online sources like Wikipedia.
-Additionally, we will create a smaller paired German-English corpus from bilingual thesauri and ontologies like the Unified Medical Language System (UMLS).&lt;/p&gt;
-&lt;h2 id=&#34;your-tasks-include&#34;&gt;Your tasks include&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Selection of sources for the corpus&lt;/li&gt;
-&lt;li&gt;Automatic extraction from the sources (e.g. web crawling, text/section extraction from pdf-files, extraction from structured files like csv or xml) and data cleaning (if required)&lt;/li&gt;
-&lt;li&gt;Definition of the target structure for the corpus and integrating of all selected sources into this structure&lt;/li&gt;
-&lt;li&gt;Explorative data analysis, i.e. computing dataset statistics and visualising properties of the dataset&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced programming skills in Python&lt;/li&gt;
-&lt;li&gt;Experience in web crawling or data collection is preferable but not required&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Note: Experience with machine learning is NOT required.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MSc Thesis: AI against SARS-CoV-2</title>
-      <link>https://aim-lab.io/theses/ai-virus/</link>
+      <link>https://aim-lab.io/theses/danielrueckert/ai-virus/</link>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/ai-virus/</guid>
+      <guid>https://aim-lab.io/theses/danielrueckert/ai-virus/</guid>
       <description>&lt;p&gt;Viruses interact with cellular proteins to replicate and spread. We aim to gain functional insights into the mode of action of cellular proteins, enabling us to better understand how different viruses like SARS-CoV-2 cause disease.&lt;/p&gt;
 &lt;p&gt;We are using genetic ablation of cellular proteins and viruses that express a green fluorescent protein (GFP), allowing us to continuously follow the infection by live-cell fluorescent microscopy in a time-resolved manner.  The resulting, very rich dataset (consisting of ~60.000 images per virus tested), will be used to search for patterns allowing to classify the function of the perturbed gene in relation to the infecting virus.  For instance, the GFP intensity/area, the localization, and spatial proximity of a GFP signal over time contains information on virus replication and spread.  This work aims to establish and apply unbiased machine learning algorithms to understand these functional links between the cell and the viruses and to identify the proteins and perturbations that contribute to virus growth and virus restriction. This algorithm will further be used to study the influence of inflammatory events and treatment with drug libraries.
 &lt;br/&gt;&lt;/p&gt;
@@ -731,36 +725,42 @@ Additionally, we will create a smaller paired German-English corpus from bilingu
     </item>
     
     <item>
-      <title>MSc Thesis: Contrastive Pre-Training for Radiology Reports</title>
-      <link>https://aim-lab.io/theses/report_pretraining/</link>
-      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/report_pretraining/</guid>
-      <description>&lt;p&gt;In recent years transformer-based language models have proven quite successful in the field of natural language processing (NLP).
-These models require huge amounts of training data and are therefore typically pre-trained on unlabelled datasets using self-supervised objectives
-like masked language modelling (MLM) as proposed in BERT [1].
-While models like BioBERT [2] are pre-trained on the medical domain, the used pre-training objectives like MLM treat text as independent sentences and do not utilise the structure of medical documents.
-In this project we instead make use of the semi-structured nature of radiology reports and apply contrastive methods on the sections of these reports.
-Your task is the adaptation of such contrastive methods (e.g. SimCLR [3], BYOL [4], DINO [5], …) to be used effectively on language models.&lt;/p&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+      <title>Master-Seminar: Unsupervised Anomaly Detection in Medical Imaging</title>
+      <link>https://aim-lab.io/theses/felixmeissen/seminar/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/felixmeissen/seminar/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./cover.jpg&#34; alt=&#34;cover image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Anomaly detection aims to identify patterns that do not conform to the expected normal distribution.
+Despite its importance for clinical applications, the detection of outliers is still a very challenging task due to the
+rarity, unknownness, diversity and heterogeneity of abnormalities.
+Basic problem formulations to recent advances in the field will be discussed.
+This includes, but is not limited to: reconstruction-based
+auto-encoders (AE) adversarial methods, diffusion models, and others.
+In short this course offers students to:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware&lt;/li&gt;
-&lt;li&gt;A strong research group with lots of practical experience&lt;/li&gt;
-&lt;li&gt;Cutting-edge research in Medical NLP with the opportunity to publish your work&lt;/li&gt;
+&lt;li&gt;Learn how to critically read and understand scientific papers&lt;/li&gt;
+&lt;li&gt;Get hands-on practice in implementing anomaly detection methods on medical data&lt;/li&gt;
+&lt;li&gt;Practice the presentation and discussion of experimental results&lt;/li&gt;
+&lt;li&gt;Get a multi-facetted view in multiple guest lecturers by reknown researchers in the field of anomaly detection&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Advanced programming skills in Python and deep learning frameworks like PyTorch, JAX, or Tensorflow&lt;/li&gt;
-&lt;li&gt;Strong background in deep learning, preferable (but not required) with experience in NLP&lt;/li&gt;
-&lt;li&gt;Basic familiarity with self-supervised methods like SimCLR is preferable but not required&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;[1] J. Devlin et al. “Bert: Pre-training of deep bidirectional transformers for language understanding.”  arXiv preprint &lt;a href=&#34;https://arxiv.org/abs/1810.04805&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:1810.04805]&lt;/a&gt; (2018).&lt;/li&gt;
-&lt;li&gt;[2] J. Lee et al. “BioBERT: a pre-trained biomedical language representation model for biomedical text mining.” Bioinformatics 4.36 &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/36/4/1234/5566506&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2020)&lt;/li&gt;
-&lt;li&gt;[3] T. Chen et al. “Big Self-Supervised Models are Strong Semi-Supervised Learners.” NeurIPS &lt;a href=&#34;https://arxiv.org/abs/2006.10029&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:2006.10029]&lt;/a&gt; (2020)&lt;/li&gt;
-&lt;li&gt;[4] J. Grill et al. “Bootstrap Your Own Latent A New Approach to Self-Supervised Learning.” NIPS &lt;a href=&#34;https://papers.nips.cc/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt; (2020)&lt;/li&gt;
-&lt;li&gt;[5] M. Caron et al. &amp;ldquo;Emerging Properties in Self-Supervised Vision Transformers.&amp;rdquo; ICCV &lt;a href=&#34;https://arxiv.org/abs/2104.14294&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arXiv:2104.14294]&lt;/a&gt; (2021)&lt;/li&gt;
+&lt;li&gt;Understanding of Deep Learning and Neural Networks, demonstrated through the completion of at least one learning or deep learning course (e.g. Intro to Deep Learning, Advanced Deep Learning, Machine Learning, or equivalent).&lt;/li&gt;
+&lt;li&gt;Good coding skills in Python&lt;/li&gt;
+&lt;li&gt;Coding experience in PyTorch&lt;/li&gt;
+&lt;li&gt;Interest in medical imaging&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Students will select a relevant paper and present it critically&lt;/li&gt;
+&lt;li&gt;They will then implement the method in the paper given our framework and data&lt;/li&gt;
+&lt;li&gt;Experimental results will be presented to the lecturers and fellow students in a poster session&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- ## Preliminary meeting
+A preliminary meeting will take place on 31st of January, 2023 at 11:30 on zoom with the following details: https://tum-conf.zoom.us/j/69075883519 
+
+Meeting ID: 690 7588 3519 \
+Passcode: 850155  --&gt;
 </description>
     </item>
     
@@ -798,26 +798,6 @@ Your task is the adaptation of such contrastive methods (e.g. SimCLR [3], BYOL [
     </item>
     
     <item>
-      <title>MSc Thesis: Prediction of long-term cognitive outcome in Stroke patients using machine learning</title>
-      <link>https://aim-lab.io/theses/stroke/</link>
-      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/stroke/</guid>
-      <description>&lt;p&gt;Machine learning, in particular deep learning, has reformed the research in the field of medical imaging, and the focus of this project will be on its use for the prediction of disease progression/ neurological outcome in stroke patients. Stroke patients have a high risk of developing dementia (incidence around 20%) within a few months after the event, but so far the reasons and mechanisms are poorly understood [1]. Clinical parameters, such as age, smoking habit and previous health conditions have an influence, but are not sufficient to reliably predict the cognitive outcome. Imaging, for example magnetic resonance imaging (MRI), becomes increasingly important.
-The objective of this thesis is to develop a learning-based pipeline, and investigate and identify imaging biomarkers from structural and diffusion MRI to predict poststroke dementia.&lt;/p&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Prior experience and good understanding in machine learning and statistics.&lt;/li&gt;
-&lt;li&gt;Very good programming skills in python (and pytorch).&lt;/li&gt;
-&lt;li&gt;Interest in medical imaging&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;F. A. Wollenweber et al.: The Determinants of Dementia After Stroke (DEDEMAS) Study: protocol and pilot data. International Journal of Stroke 9(3) (2014): 387-392.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MSc Thesis: Machine Learning for Analysis of Sarcoma</title>
       <link>https://aim-lab.io/theses/old/sarcoma/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
@@ -850,22 +830,6 @@ The objective of this thesis is to develop a learning-based pipeline, and invest
 &lt;p&gt;[1] Rechl H, Kirchhoff C, Wörtler K, Lenze U, Töpfer A, von Eisenhart-Rothe R. Diagnostik von malignen Knochen- und Weichteiltumoren [Diagnosis of malignant bone and soft tissue tumors]. Orthopade. 2011 Oct;40(10):931-41; quiz 942-3. German. doi: 10.1007/s00132-011-1821-7. PMID: 21874363&lt;/p&gt;
 &lt;p&gt;[2] He, Y. et al. Deep learning-based classification of primary bone tumors on radiographs: A preliminary study. EBioMedicine 62, 103121 (2020)&lt;/p&gt;
 &lt;p&gt;[3] Hussain Z, Gimenez F, Yi D, Rubin D. Differential Data Augmentation Techniques for Medical Imaging Classification Tasks. AMIA Annu Symp Proc. 2018;2017:979-984. Published 2018 Apr 16.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seminar on Federated Learning (SoSe2021)</title>
-      <link>https://aim-lab.io/theses/federated/</link>
-      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/federated/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1248712&amp;amp;pOrgNr=14189&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master Seminar (IN2107, IN4410)&lt;/a&gt; (2 SWS, 5 ECTS) offered for BioMedical Computing (BMC) program at the Chair for Computer Aided Medical Procedures and Augmented Reality, TU Munich&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Organizers:&lt;/strong&gt; Dr. Shadi Albarqouni, Helmholtz AI and TU Munich, Prof. Nassir Navab, Chair for Computer Aided Medical Procedures, and Prof. Daniel Rueckert, Chair for AI in Medicine, TU Munich&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tutors&lt;/strong&gt;: Cosmin Bercea&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: Fridays, 10:00 - 12:00&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Following the great success of our on-going seminar on Deep Learning for Medical Applications, we would like to discuss advanced topics that are quite relevant to Federated Learning which becomes an interesting and hot research direction in the community. In simple words, Federated Learning enables training models at the client-side while preserving their privacy, and aggregates the knowledge from the nodes to learn a global model. The interesting part here that the data are kept private and not transmitted to any other nodes. Instead, the characteristics (e.g. parameters) of the global model are shared with the clients, and once the training is done locally, the characteristics are sent back to the global one for aggregation. This learning paradigm has been received quite nicely in the community, in particular, for sensitive domains, e.g. Healthcare. To push this momentum, we proposed, together with our academia and industry partners, a workshop on Federated, Collaborative, and Distributed Learning in the International Conference on Medical Image Computing and Computer-Aided Intervention (MICCAI) to attract significant contributions attacking the challenges in Medical Imaging and Healthcare. In this seminar, we will be discussing the relevant papers on Federated Learning with an emphasis on the papers tackling the common challenges in Medical Imaging, e.g. data heterogeneity, domain shift, and non-iid distributed data.&lt;/p&gt;
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-&lt;p&gt;For full details on the course please follow &lt;a href=&#34;https://albarqouni.github.io/courses/flhsose2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -911,9 +875,9 @@ The aim of this project is to explore OoD detection in deep learning in general,
     
     <item>
       <title>MSc Thesis: Privacy-preserving Deep Learning in Medical Imaging</title>
-      <link>https://aim-lab.io/theses/ppml/</link>
+      <link>https://aim-lab.io/theses/georgioskaissis/ppml/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/ppml/</guid>
+      <guid>https://aim-lab.io/theses/georgioskaissis/ppml/</guid>
       <description>&lt;p&gt;Privacy-preserving artificial intelligence techniques such as differential privacy, encryption and multi-party computation can reconcile the needs for data utilisation and data protection in the medical domain, as mandated by legal and ethical requirements. Their widespread utilisation requires innovations in the fields of distributed machine learning (federated learning) as well as answering open questions in privacy research and cryptography.&lt;/p&gt;
 &lt;p&gt;We are seeking an MSc candidate with a strong background in machine learning, preferrably with previous exposure to medical imaging topics to complete their thesis at our institute. Experience with distributed systems, privacy and security issues or cryptology is desirable.
 We are offering an engaging work environment, a large, diverse team, close personal supervision and collaboration with AI, medical and privacy-preserving ML experts.&lt;/p&gt;
