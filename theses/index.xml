@@ -18,7 +18,7 @@
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/ivanezhov/hsi_transfer_md/</guid>
       <description>&lt;p&gt;Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object&amp;rsquo;s reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors [1].&lt;/p&gt;
-&lt;p&gt;Within the &lt;a href=&#34;https://hyperprobe.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HyperProbe&lt;/a&gt; project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery.
+&lt;p&gt;Within the &lt;a href=&#34;https://hyperprobe.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HyperProbe&lt;/a&gt; project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery. 
 Your goal would be to develop a methodology at the intersection between physics and machine-learning to identify biomarkers of healthy and tumor brain tissue.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://hyperprobe.eu/wp-content/uploads/2022/12/shutterstock_1152709331-2048x1152.jpg&#34; alt=&#34;Surgery&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
@@ -38,6 +38,38 @@ Your goal would be to develop a methodology at the intersection between physics 
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;p&gt;[1] Luca Giannoni, Frédéric Lange and Ilias Tachtsidis. Hyperspectral imaging solutions for brain tissue
 metabolic and hemodynamic monitoring: past, current and future developments, J. Opt. 20 (2018)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Multi-Organ Self-Supervised Learning for Efficient Exploitation of Large-Scale (1 million&#43;) Real World Clinical Radiograph Dataset</title>
+      <link>https://aim-lab.io/theses/paulhager/multi_organ_self_supervised/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/paulhager/multi_organ_self_supervised/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;As the availability of large clinical datasets continues to grow, the cost and effort associated with manual labeling of medical images become a significant bottleneck in leveraging the full potential of these data. In this research thesis, we aim to investigate the importance of self-supervised learning techniques in harnessing large clinical datasets, where labels are expensive and scarce. Specifically, we explore two prominent self-supervised deep learning approaches: contrastive learning and masked autoencoders.&lt;/p&gt;
+&lt;p&gt;Contrastive learning [1] has gained considerable attention due to its ability to learn useful representations without requiring labeled data. However, in the context of large clinical datasets comprising radiography images of multiple anatomical regions, several challenges arise. The need for downsampling to achieve viable batch sizes, coupled with the focus on global features, might limit the effectiveness of contrastive learning, particularly for capturing fine-grained features and retaining the high-resolution information of the images.&lt;/p&gt;
+&lt;p&gt;To overcome these limitations, we propose the utilization of masked autoencoders [2], an alternative self-supervised learning technique, for generating strong embeddings from our extensive in-house clinical dataset consisting of over 1 million radiography images across multiple anatomical regions. Masked autoencoders excel at capturing intricate details and preserving fine-grained features due to their ability to reconstruct input data by reconstructing masked portions. This characteristic makes them well-suited for large image sizes and enables them to emphasize local, region-specific information.&lt;/p&gt;
+&lt;p&gt;We will evaluate the strength of our embeddings through multiple downstream tasks such as foreign object identification, bone fracture classification, and fracture detection (bounding boxes). We will use a combination of NLP and expert annotations to develop a large enough training dataset for efficient finetuning using minimal labeled data.&lt;/p&gt;
+&lt;h2 id=&#34;to-accomplish-this-work-successfully-we-expect-you-to-have&#34;&gt;To accomplish this work successfully, we expect you to have:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong coding skills and familiarity with Pytorch&lt;/li&gt;
+&lt;li&gt;Basic knowledge of self-supervised methods such as contrastive learning or MAEs&lt;/li&gt;
+&lt;li&gt;A strong spirit of independent work and desire to solve interesting, realworld research questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Access to a massive inhouse dataset of over 1 million medical images&lt;/li&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine.&lt;/li&gt;
+&lt;li&gt;Support in bringing your finished project to publication&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://arxiv.org/pdf/2002.05709.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Simple Framework for Contrastive Learning of Visual Representations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&#34;https://arxiv.org/abs/2111.06377&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Masked Autoencoders Are Scalable Vision Learners&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:paul.hager@tum.de&#34;&gt;paul.hager@tum.de&lt;/a&gt; with your CV and transcript. We promise to get back to you within a couple of days.&lt;/p&gt;
 </description>
     </item>
     
@@ -301,7 +333,7 @@ Given the importance of fair and equitable healthcare, it is crucial to incorpor
       <link>https://aim-lab.io/theses/johannespaetzold/masther_thesis_relationformer/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/johannespaetzold/masther_thesis_relationformer/</guid>
-      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Diffusion [2]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation.
+      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Diffusion [2]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation. 
 Traditionally, image-to-graph generation is addressed with a two-stage approach consisting of object detection followed by a separate relation prediction, which prevents simultaneous object-relation interaction. In our recent ECCV paper, we proposed a unified one-stage transformer-based framework, namely &lt;em&gt;Relationformer&lt;/em&gt; that jointly predicts objects and their relations [1].&lt;/p&gt;
 &lt;p&gt;Our applications will be large scale biological applications for example the whole brain vasculature [3] or neurons as well as satellite imagery.&lt;/p&gt;
 &lt;br/&gt;
@@ -431,6 +463,36 @@ The objective of this thesis is to compare different methods for automatic recog
     </item>
     
     <item>
+      <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
+      <link>https://aim-lab.io/theses/florianhoelzl/efficient_training/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/florianhoelzl/efficient_training/</guid>
+      <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
+&lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
+&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
+[2] Louizos et al. (2018). Learning sparse neural networks through L0 regularization. ICLR 2018. &lt;/br&gt;
+[3] Sander et al. (2022). TAN without a burn: Scaling Laws of DP-SGD. ArXiv, abs/2210.03403.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MSc Thesis: Scaling Laws of Equivariant Convolutions</title>
       <link>https://aim-lab.io/theses/florianhoelzl/scaling_laws/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
@@ -458,36 +520,6 @@ The objective of this thesis is to compare different methods for automatic recog
 [2] Tan and Le (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ICML 2019. &lt;/br&gt;
 [3] Hoffmann et al. (2022). Training Compute-Optimal Large Language Models. ArXiv, abs/2203.15556. &lt;/br&gt;
 [4] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
-      <link>https://aim-lab.io/theses/florianhoelzl/efficient_training/</link>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/florianhoelzl/efficient_training/</guid>
-      <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
-&lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
-&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
-&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
-[2] Louizos et al. (2018). Learning sparse neural networks through L0 regularization. ICLR 2018. &lt;/br&gt;
-[3] Sander et al. (2022). TAN without a burn: Scaling Laws of DP-SGD. ArXiv, abs/2210.03403.&lt;/p&gt;
 </description>
     </item>
     
