@@ -15,7 +15,7 @@ role: PhD student
 # Organizations/Affiliations
 organizations:
 - name: Technical University of Munich
-  url: "https://www.translatum.tum.de/forschungsgruppen/ki-in-der-medizin/"
+  url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include privacy-preserving machine learning and distributed system

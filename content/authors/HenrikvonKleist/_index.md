@@ -15,7 +15,7 @@ role: Affliated Researcher
 # Organizations/Affiliations
 organizations:
 - name: Technical University of Munich
-  url: "https://www.translatum.tum.de/forschungsgruppen/ki-in-der-medizin/"
+  url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 - name: Helmholtz Munich, Institute of Computational Biology
   url: "https://www.helmholtz-muenchen.de/icb/research/groups/optimization-of-patient-treatment/team/index.html"
 

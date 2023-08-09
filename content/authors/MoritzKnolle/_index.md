@@ -15,7 +15,7 @@ role: Researcher
 # Organizations/Affiliations
 organizations:
 - name: Technical University of Munich
-  url: "https://www.translatum.tum.de/forschungsgruppen/ki-in-der-medizin/"
+  url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: A frown is just a smile upside-down.

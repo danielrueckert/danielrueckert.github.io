@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Paul Hager
+title: Jonas Kuntzer
 
 # Username (this should match the folder name)
 authors:
-- PaulHager
+- JonasKuntzer
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,22 +18,20 @@ organizations:
   url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interest is how to effectively integrate biological, genetic and lifestyle information into medical imaging deep learning models.
+bio: I am mainly interested in trying to understand how neural networks learn and differential privacy.
 
 interests:
-- Medical Imaging Computing
-- Multi-modal Deep Learning
-- Genetics
-
+- Mechanistic interpretability
+- Differential privacy
 
 education:
   courses:
-  - course: Bioinformatics (M.Sc.)
-    institution: Technical University of Munich / Ludwig Maximilians University
-    year: 2021
-  - course: Bioinformatics (B.Sc.)
-    institution: Technical University of Munich / Ludwig Maximilians University
-    year: 2018
+  - course: Electrical Engineering and Information Technology (M.Sc.)
+    institution: RWTH Aachen
+    year: 2020
+  - course: Electrical Engineering and Information Technology (B.Sc.)
+    institution: RWTH Aachen
+    year: 2017
  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,10 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:paul.hager@tum.de
+  link: mailto:jonas.kuntzer@tum.de
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/paul-hager-b0b73280/
+  link: https://www.linkedin.com/in/jonas-kuntzer/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,9 +60,6 @@ user_groups:
 - "Researchers"
 ---
 
-I am a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). I completed both my bachelors and masters jointly at the TUM and LMU in Munich in the area of Bioinformatics. My previous projects and publications concern Multimodal Self-Supervised models with tabular and imaging data, GANs and volumetric brain data for Alzheimer's research and Next Generation Sequencing pipelines. Currently, I am developing multi-modal deep learning models that utilize the full breadth of information available in the medical domain, including patient lifestyle, genetic profile, and imaging data.
-
-
-
+I am currently pursuing my Ph.D. at the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM). Before starting my doctoral studies, I worked as an applied scientist at HITeC e.V., where I focused on bridging the gap between research and industry by implementing AI technologies, particularly in computer vision and NLP. Both my master's and bachelor's degrees were earned at the RWTH Aachen. For my master's thesis, I specialized in enhancing audio signals by recovering them from noisy and filtered input. Currently, my research is centered around mechanistic interpretability, a field within interpretability that aims to uncover human-understandable features in machine learning models and how they evolve and propagate through the network.
 
 

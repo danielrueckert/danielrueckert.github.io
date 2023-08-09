@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: Institute of AI in Healthcare and Medicine, Technical University of Munich
-  url: "https://www.translatum.tum.de/en/research-groups/ai-in-healthcare-and-medicine/"
+  url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 - name: Institute of Diagnostic and Interventional Radiology, Klinikum rechts der Isar
   url: "https://www.rad.mri.tum.de/ag/braren" 
 
