@@ -2,6 +2,8 @@
 title: "BSc / Guided Research: Multi-object and multi-modal image segmentation of periodontal lesions in MRI"
 date: 2023-05-22
 authors: ["VeronikaZimmer"]
+draft: true
+
 ---
 
 Periodontitis (chronic or acute alterations of the periodontium) is among the globally widest spread diseases, and interacts with cardiovascular and metabolic disorders. The diagnosis and monitoring of periodontitis is mainly based on imaging modalities exhibiting ionizing radiation: X-ray (panoramic radiography) and cone-beam computed tomography (CBCT). Recent studies report the successful use of magnetic resonance imaging (MRI) in the application of periodontitis diagnosis [1]. Two MRI sequences were developed: a T1-weighted sequence to visualise osseous tissue, and a T2-weighted sequence to visualise the periodontal lesion. To enable automatic diagnosis and monitoring of the disease, accurate segmentations of several anatomical structures, such as the mandibular bone, the alveolar nerve and the periodontal lesion are of utmost importance.
