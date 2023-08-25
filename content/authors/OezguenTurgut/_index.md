@@ -22,8 +22,8 @@ bio: My research interests focus on signal processing using deep learning method
 
 interests:
 - Signal processing
-- Transfer learning
-- Human brain analysis
+- Self-supervised learning
+- Human brain and heart analysis
 
 education:
   courses:
@@ -66,4 +66,4 @@ user_groups:
 - "Researchers"
 ---
 
-I am a Ph.D. student at the Department of Neurology and the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM). I completed my masters in Electrical Engineering and Information Technology at TUM and the University of Technology Sydney, Australia, during which I worked on machine learning projects to detect white blood cells in whole blood or to track the movement profile of Multiple Sclerosis (MS) patients. Currently, I am developing models to analyse pain in electroencephalography (EEG) signals collected from the human scalp. If you are interested in working on signal processing with deep learning for your thesis or study project, feel free to contact me.
+I am a Ph.D. student at the Department of Neurology and the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM). I completed my masters in Electrical Engineering and Information Technology at TUM and the University of Technology Sydney, Australia. During my studies, I worked on machine learning projects to detect white blood cells in whole blood or to track the movement profile of Multiple Sclerosis (MS) patients. Currently, I am developing deep learning models to analyse medical time series data, including electroencephalography (EEG) and electrocardiography (ECG) signals. If you are interested in working on signal processing with deep learning for your thesis or study project, feel free to contact me.
