@@ -23,7 +23,7 @@ bio: My research interests focus on signal processing using deep learning method
 interests:
 - Signal processing
 - Self-supervised learning
-- Human brain and heart analysis
+- Human brain & heart analysis
 
 education:
   courses:
