@@ -5,12 +5,45 @@
     <link>https://aim-lab.io/</link>
       <atom:link href="https://aim-lab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI in Medicine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>AI in Medicine</title>
       <link>https://aim-lab.io/</link>
     </image>
+    
+    <item>
+      <title>HiWi: Diving into the Spinal Cord - Insights into Multiple Sclerosis (MS)</title>
+      <link>https://aim-lab.io/theses/julianmcginnis/mcginnis_hiwi/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/julianmcginnis/mcginnis_hiwi/</guid>
+      <description>&lt;p&gt;Multiple Sclerosis is an inflammatory disorder of the central nervous system affecting the spinal cord and brain. In clinical practice, the progression of the disease is periodically monitored by employing imaging techniques, primarily magnetic resonance imaging. To estimate the patient&amp;rsquo;s condition, predict the course of the disease, and drive the current understanding, new multiple sclerosis guidelines have shifted the focus and now recommend analyzing spinal lesions in addition to brain lesions. For a long time, however, spine studies required completely manual workflows as software tools were not readily available for dealing with the intricate structures of the spine or were too tailored to the application in the brain.&lt;/p&gt;
+&lt;p&gt;With the introduction of the Spinal Cord Toolbox (SCT)[2], the prerequisites for analyzing and evaluating spine scans have been provided to the community for the first time, thus enabling researchers to conduct combined brain and spine studies. With our Canadian collaboration partners at the Polytechnique Montreal, we are developing tools and methods for enhancing SCT and adapting the methods to new data. This requires us to automate data processing for multi-centric datasets and the integration and development of new methods that facilitate our research - which you will ultimately assist and drive with us together. This comprises various tasks, from data cleaning to implementing machine learning models.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal would be to extend existing codebases, by incorporating novel algorithms and methods, and work on spinal cord data processing. If leading to results that are worthy of publication, you will be involved as well.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An interest or prior exposure to machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python and/or Bash.&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;An opportunity to engage with spinal cord data and its relevance to MS.&lt;/li&gt;
+&lt;li&gt;Collaboration with a multidisciplinary team, with impactful contributions.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of qualified experts in neuroscience, machine learning and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Please send us a short e-mail with your CV and grade report to &lt;a href=&#34;mailto:julian.mcginnis@tum.de&#34;&gt;julian.mcginnis@tum.de&lt;/a&gt;. Please also indicate your programming experience with either study projects or github projects.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Wattjes, Mike P., et al. &amp;ldquo;2021 MAGNIMS–CMSC–NAIMS consensus recommendations on the use of MRI in patients with multiple sclerosis.&amp;rdquo; &lt;em&gt;The Lancet Neurology&lt;/em&gt; 20.8 (2021): 653-670.
+[2] De Leener, Benjamin, et al. &amp;ldquo;SCT: Spinal Cord Toolbox, an open-source software for processing spinal cord MRI data.&amp;rdquo; &lt;em&gt;Neuroimage&lt;/em&gt; 145 (2017): 24-43.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Learning High-Resolution ECG Representations for Cardiac Health Analysis</title>
@@ -182,73 +215,6 @@ Passcode: 850155&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingSoSe23.pdf&#34;&gt;(Outdated) Slides - SoSe 2023&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWS22.pdf&#34;&gt;(Outdated) Slides - WS 2022/23&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeeting.pdf&#34;&gt;(Outdated) Slides - SoSe 2022&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Disentangled Implicit Neural Representations</title>
-      <link>https://aim-lab.io/theses/julianmcginnis/mcginnis_disentangled/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/julianmcginnis/mcginnis_disentangled/</guid>
-      <description>&lt;p&gt;Implicit Neural Representations (INR) have emerged as powerful and compact representations for audio, shapes and images, and have recently been translated into medical applications for super-resolution, reconstruction or shape completion [1]. While INRs have been traditionally trained on a single scene or image in the past, novel approaches such as [2] allow to capture a dataset of similar entities with the help of latent representations. Based upon this, INRs are emerging in generative settings and other areas of deep learning, making them a novel and pioneering field [3].&lt;/p&gt;
-&lt;p&gt;Built-up on these concepts, our current research focuses on efficient and interpretable implicit representations that may be generalized to diverse datasets and settings. Our aim is to find alternative methods and algorithms to [2], allowing to disentangle image features from spatial occurrences.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase by incorporating novel algorithms and methods, and work on signal processing methodology. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
-&lt;li&gt;Strong interest in teamwork and interdisciplinary research.
-&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Please send us a short e-mail with your CV and grade report to &lt;a href=&#34;mailto:julian.mcginnis@tum.de&#34;&gt;julian.mcginnis@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt;.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] McGinnis J, Shit S, Li HB, Sideri-Lampretsa V, Graf R, Dannecker M, Pan J, Ansó NS, Mühlau M, Kirschke JS, Rueckert D. Multi-contrast MRI Super-resolution via Implicit Neural Representations. &lt;a href=&#34;https://arxiv.org/pdf/2303.15065.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2303.15065.pdf&lt;/a&gt; &lt;/br&gt;
-[2] Mehta, Ishit, Michaël Gharbi, Connelly Barnes, Eli Shechtman, Ravi Ramamoorthi, and Manmohan Chandraker. &amp;ldquo;Modulated periodic activations for generalizable local functional representations.&amp;rdquo; In &lt;em&gt;Proceedings of the IEEE/CVF International Conference on Computer Vision&lt;/em&gt;, pp. 14214-14223. 2021. &lt;a href=&#34;https://openaccess.thecvf.com/content/ICCV2021/papers/Mehta_Modulated_Periodic_Activations_for_Generalizable_Local_Functional_Representations_ICCV_2021_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openaccess.thecvf.com/content/ICCV2021/papers/Mehta_Modulated_Periodic_Activations_for_Generalizable_Local_Functional_Representations_ICCV_2021_paper.pdf&lt;/a&gt; &lt;/br&gt;
-[3] Dupont, Emilien, Hyunjik Kim, S. M. Eslami, Danilo Rezende, and Dan Rosenbaum. &amp;ldquo;From data to functa: Your data point is a function and you can treat it like one.&amp;rdquo; &lt;em&gt;arXiv preprint arXiv:2201.12204&lt;/em&gt; (2022). &lt;a href=&#34;https://proceedings.mlr.press/v162/dupont22a/dupont22a.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://proceedings.mlr.press/v162/dupont22a/dupont22a.pdf&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Implicit Neural Representations for Medical Applications</title>
-      <link>https://aim-lab.io/theses/julianmcginnis/mcginnis_medical_inrs/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/julianmcginnis/mcginnis_medical_inrs/</guid>
-      <description>&lt;p&gt;Implicit Neural Representations (INR) have emerged as powerful and compact representations for audio, shapes and images, and have recently been translated into medical applications [1].
-Our recent work has shown that INRs can be used in multi-contrast MRI super-resolution, reconstructing high-resolution images from low-resolution scans, while preserving anatomical details and pathological findings, such as lesions and tumors. Notably, these methods require only training data of a single patient, allowing to use these models in the context of patient-specific super-resolution, making them attractive for clinical settings.&lt;/p&gt;
-&lt;p&gt;Built upon our recent findings, we are interested in incorporating novel concepts such as modulated periodic activation functions [2] and meta-learning [3], to scale INRs to cohorts of patients by incorporating priors learned over a dataset. Once incorporated, we aim to solve various medical downstream tasks in brain and spinal cord imaging, enabling our clinical partners to work on exciting scientific questions.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase by incorporating novel algorithms and methods. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
-&lt;li&gt;Strong interest in teamwork and interdisciplinary research.
-&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.
-&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Please send us a short e-mail with your CV and grade report to &lt;a href=&#34;mailto:julian.mcginnis@tum.de&#34;&gt;julian.mcginnis@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt;.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] McGinnis J, Shit S, Li HB, Sideri-Lampretsa V, Graf R, Dannecker M, Pan J, Ansó NS, Mühlau M, Kirschke JS, Rueckert D. Multi-contrast MRI Super-resolution via Implicit Neural Representations. &lt;a href=&#34;https://arxiv.org/pdf/2303.15065.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2303.15065.pdf&lt;/a&gt; &lt;/br&gt;
-[2] Mehta, Ishit, Michaël Gharbi, Connelly Barnes, Eli Shechtman, Ravi Ramamoorthi, and Manmohan Chandraker. &amp;ldquo;Modulated periodic activations for generalizable local functional representations.&amp;rdquo; In &lt;em&gt;Proceedings of the IEEE/CVF International Conference on Computer Vision&lt;/em&gt;, pp. 14214-14223. 2021. &lt;a href=&#34;https://openaccess.thecvf.com/content/ICCV2021/papers/Mehta_Modulated_Periodic_Activations_for_Generalizable_Local_Functional_Representations_ICCV_2021_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openaccess.thecvf.com/content/ICCV2021/papers/Mehta_Modulated_Periodic_Activations_for_Generalizable_Local_Functional_Representations_ICCV_2021_paper.pdf&lt;/a&gt; &lt;/br&gt;
-[3]  Sitzmann, Vincent, Eric Chan, Richard Tucker, Noah Snavely, and Gordon Wetzstein. &amp;ldquo;Metasdf: Meta-learning signed distance functions.&amp;rdquo; Advances in Neural Information Processing Systems 33 (2020): 10136-10147.21. &lt;a href=&#34;https://papers.nips.cc/paper/2020/file/731c83db8d2ff01bdc000083fd3c3740-Paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://papers.nips.cc/paper/2020/file/731c83db8d2ff01bdc000083fd3c3740-Paper.pdf&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     
