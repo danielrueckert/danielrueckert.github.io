@@ -1,6 +1,7 @@
 ---
 title: "MSc Thesis: Implicit Neural Representations for Medical Applications"
 date: 2023-06-16
+draft: true
 authors: ["JulianMcGinnis"]
 ---
  

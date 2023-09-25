@@ -1,6 +1,7 @@
 ---
 title: "MSc Thesis: Disentangled Implicit Neural Representations"
 date: 2023-06-16
+draft: true
 authors: ["JulianMcGinnis"]
 ---
  
