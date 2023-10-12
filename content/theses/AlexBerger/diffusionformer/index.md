@@ -1,6 +1,6 @@
 ---
 title: "MSc Thesis: Contrastive Learning and Generative Models for Cross-Domain Transfer Learning"
-date: 2023-10-10
+date: 2023-10-02
 authors: ["JohannesPaetzold", "AlexBerger"]
 ---
 
@@ -15,7 +15,7 @@ To address these challenges, we propose two innovative strategies where one or i
 Both of these approaches will be applied to the Relationformer architecture, a unified one-stage transformer-based framework introduced in our recent ECCV paper [2]. Our experimentation will involve working with extensive biological datasets, such as whole brain vasculature [5], neurons, and satellite imagery.
 <br/>
 
-![image transformer](./tl_datasets.png)
+![image datasets](./tl_datasets.png)
 
 <br/>
 
@@ -43,7 +43,7 @@ Just send an email to j.paetzold@ic.ac.uk and a.berger@tum.de, with a short CV a
 
 <br/>
 
-![image vessel](./i2g.png)
+![image image-to-graph](./i2g.png)
 
 <br/>
 
