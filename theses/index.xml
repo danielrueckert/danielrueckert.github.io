@@ -5,7 +5,7 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Current Vacancies</title>
@@ -13,45 +13,10 @@
     </image>
     
     <item>
-      <title>MSc Thesis/Guided Research/IDP: Privacy-Preserving Synthetic Data Generation of Medical Tabular Records</title>
-      <link>https://aim-lab.io/theses/florianhoelzl/privacy_synthetic_data/</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/florianhoelzl/privacy_synthetic_data/</guid>
-      <description>&lt;p&gt;Anonymizing data means removing or replacing any identifying information from a dataset, such as names or addresses. The aim of anonymization is to protect the privacy of individuals whose data is being collected and processed. However, anonymizing data is not sufficient to guarantee privacy protection. Research has shown that data samples can easily re-identified through a variety of approaches as simply as combining a dataset with other data sources, e.g. publicly available information [1]. This poses a problem for data sharing, especially in highly sensitive domains such as medicine.&lt;/p&gt;
-&lt;p&gt;Synthetic data allows to generate new examples that preserve the statistical properties of the original data [2]. In a medical use case, synthetic data could be used to generate realistic but entirely artificial medical records. These synthetic medical records can be used for a variety of different purposes, such as augmenting existing datasets or sharing data without revealing any patient information [3].&lt;/p&gt;
-&lt;p&gt;For the later, however, synthetic data doesn&amp;rsquo;t per se protect the privacy of individual patients. To achieve privacy preservation, we have to apply additional techniques such as differential privacy [4]. The aim of this project is to evaluate synthetic data generation with differential privacy for tabular medical records. You will first evaluate current literature of synthetic data generation for tabular data with regards to medical records [5, 6]. In the following, a data generation pipeline will be implemented and analysed to evaluate the performance of existing synthetisation approaches on a real-world multiple sclerosis dataset. The data will be used to predict disease activity and help treatment decision making for disease-modifying therapies [7]. To measure the prediction capabilities of the synthetically generated private data, its prediction performance is compared against existing baselines from the original data curated during different time intervals. Furthermore, the addition of synthetic data into the existing training process for increased model robustness will be assessed. This project will help to evaluate the ability of synthetic data to enable data sharing in a privacy preserving manner and additionally its potential benefits for increasing model robustness due to data augmentation.
-&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master&amp;rsquo;s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to generate and evaluate synthetic data from a real world medical dataset under differential privacy. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in deep learning and generative neural networks.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
-&lt;li&gt;Independent working style with strong interest in teamwork.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in machine and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Narayanan and Shmatikov (2006). How to Break Anonymity of the Netflix Prize Dataset. ArXiv, cs/0610105. &lt;/br&gt;
-[2] Jordon et al. (2022). Synthetic Data - what, why and how? ArXiv, abs/2205.03257. &lt;/br&gt;
-[3] Chen et al. (2021). Synthetic Data in Machine Learning for Medicine and Healthcare. Nature Biomedical Engineering 2021. &lt;/br&gt;
-[4] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
-[5] Jordon et al. (2018). PATE-GAN. ICLR 2018. &lt;/br&gt;
-[6] Lee et al. (2022). Differentially Private Normalization Flows for Synthetic Tabular Data Generation. AAAI 2022. &lt;/br&gt;
-[7] Braune et al. (2022). PHREND®—A Real-World Data-Driven Tool Supporting Clinical Decisions to Optimize Treatment in Relapsing-Remitting Multiple Sclerosis. Frontiers in Digital Health 03.2022.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MSc Thesis: Contrastive Learning and Generative Models for Cross-Domain Transfer Learning</title>
-      <link>https://aim-lab.io/theses/alexberger/diffusionformer/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/alexberger/diffusionformer/</guid>
+      <link>https://aim-lab.io/theses/johannespaetzold/diffusionformer/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/johannespaetzold/diffusionformer/</guid>
       <description>&lt;p&gt;In this Master thesis we aim to approach the cross-domain transfer learning problem with two powerful methods that help us to bridge the domain gap between source and target domain: contrastive learning [1] and generative models. Specifically, we want to solve the transfer learning problem for the computer vision task of graph extraction from images (e.g. road network extraction, blood-vessel network extraction, scene graph generation, or pose estimation) [2].&lt;/p&gt;
 &lt;p&gt;To address these challenges, we propose two innovative strategies where one or ideally both can be explored during the course of the thesis:&lt;/p&gt;
 &lt;ol&gt;
@@ -93,6 +58,41 @@
 &lt;p&gt;[4] Liu, Ming-Yu, Thomas Breuel, and Jan Kautz. &amp;ldquo;Unsupervised image-to-image translation networks.&amp;rdquo; Advances in neural information processing systems 30 (2017).&lt;/p&gt;
 &lt;p&gt;[5] Paetzold, Johannes C., et al. &amp;ldquo;Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience.&amp;rdquo; Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). 2021.
 &lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis/Guided Research/IDP: Privacy-Preserving Synthetic Data Generation of Medical Tabular Records</title>
+      <link>https://aim-lab.io/theses/florianhoelzl/privacy_synthetic_data/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/florianhoelzl/privacy_synthetic_data/</guid>
+      <description>&lt;p&gt;Anonymizing data means removing or replacing any identifying information from a dataset, such as names or addresses. The aim of anonymization is to protect the privacy of individuals whose data is being collected and processed. However, anonymizing data is not sufficient to guarantee privacy protection. Research has shown that data samples can easily re-identified through a variety of approaches as simply as combining a dataset with other data sources, e.g. publicly available information [1]. This poses a problem for data sharing, especially in highly sensitive domains such as medicine.&lt;/p&gt;
+&lt;p&gt;Synthetic data allows to generate new examples that preserve the statistical properties of the original data [2]. In a medical use case, synthetic data could be used to generate realistic but entirely artificial medical records. These synthetic medical records can be used for a variety of different purposes, such as augmenting existing datasets or sharing data without revealing any patient information [3].&lt;/p&gt;
+&lt;p&gt;For the later, however, synthetic data doesn&amp;rsquo;t per se protect the privacy of individual patients. To achieve privacy preservation, we have to apply additional techniques such as differential privacy [4]. The aim of this project is to evaluate synthetic data generation with differential privacy for tabular medical records. You will first evaluate current literature of synthetic data generation for tabular data with regards to medical records [5, 6]. In the following, a data generation pipeline will be implemented and analysed to evaluate the performance of existing synthetisation approaches on a real-world multiple sclerosis dataset. The data will be used to predict disease activity and help treatment decision making for disease-modifying therapies [7]. To measure the prediction capabilities of the synthetically generated private data, its prediction performance is compared against existing baselines from the original data curated during different time intervals. Furthermore, the addition of synthetic data into the existing training process for increased model robustness will be assessed. This project will help to evaluate the ability of synthetic data to enable data sharing in a privacy preserving manner and additionally its potential benefits for increasing model robustness due to data augmentation.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master&amp;rsquo;s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to generate and evaluate synthetic data from a real world medical dataset under differential privacy. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in deep learning and generative neural networks.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
+&lt;li&gt;Independent working style with strong interest in teamwork.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in machine and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Narayanan and Shmatikov (2006). How to Break Anonymity of the Netflix Prize Dataset. ArXiv, cs/0610105. &lt;/br&gt;
+[2] Jordon et al. (2022). Synthetic Data - what, why and how? ArXiv, abs/2205.03257. &lt;/br&gt;
+[3] Chen et al. (2021). Synthetic Data in Machine Learning for Medicine and Healthcare. Nature Biomedical Engineering 2021. &lt;/br&gt;
+[4] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
+[5] Jordon et al. (2018). PATE-GAN. ICLR 2018. &lt;/br&gt;
+[6] Lee et al. (2022). Differentially Private Normalization Flows for Synthetic Tabular Data Generation. AAAI 2022. &lt;/br&gt;
+[7] Braune et al. (2022). PHREND®—A Real-World Data-Driven Tool Supporting Clinical Decisions to Optimize Treatment in Relapsing-Remitting Multiple Sclerosis. Frontiers in Digital Health 03.2022.&lt;/p&gt;
 </description>
     </item>
     

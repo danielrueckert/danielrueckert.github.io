@@ -5,7 +5,7 @@
     <link>https://aim-lab.io/author/alexander-berger/</link>
       <atom:link href="https://aim-lab.io/author/alexander-berger/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Berger</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Alexander Berger</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>MSc Thesis: Contrastive Learning and Generative Models for Cross-Domain Transfer Learning</title>
-      <link>https://aim-lab.io/theses/alexberger/diffusionformer/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/alexberger/diffusionformer/</guid>
+      <link>https://aim-lab.io/theses/johannespaetzold/diffusionformer/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/johannespaetzold/diffusionformer/</guid>
       <description>&lt;p&gt;In this Master thesis we aim to approach the cross-domain transfer learning problem with two powerful methods that help us to bridge the domain gap between source and target domain: contrastive learning [1] and generative models. Specifically, we want to solve the transfer learning problem for the computer vision task of graph extraction from images (e.g. road network extraction, blood-vessel network extraction, scene graph generation, or pose estimation) [2].&lt;/p&gt;
 &lt;p&gt;To address these challenges, we propose two innovative strategies where one or ideally both can be explored during the course of the thesis:&lt;/p&gt;
 &lt;ol&gt;
