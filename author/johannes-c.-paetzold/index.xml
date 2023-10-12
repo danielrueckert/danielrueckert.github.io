@@ -5,7 +5,7 @@
     <link>https://aim-lab.io/author/johannes-c.-paetzold/</link>
       <atom:link href="https://aim-lab.io/author/johannes-c.-paetzold/index.xml" rel="self" type="application/rss+xml" />
     <description>Johannes C. Paetzold</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Johannes C. Paetzold</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>MSc Thesis: Contrastive Learning and Generative Models for Cross-Domain Transfer Learning</title>
-      <link>https://aim-lab.io/theses/alexberger/masther_thesis_diffusionformer/</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/alexberger/masther_thesis_diffusionformer/</guid>
+      <link>https://aim-lab.io/theses/alexberger/diffusionformer/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/alexberger/diffusionformer/</guid>
       <description>&lt;p&gt;In this Master thesis we aim to approach the cross-domain transfer learning problem with two powerful methods that help us to bridge the domain gap between source and target domain: contrastive learning [1] and generative models. Specifically, we want to solve the transfer learning problem for the computer vision task of graph extraction from images (e.g. road network extraction, blood-vessel network extraction, scene graph generation, or pose estimation) [2].&lt;/p&gt;
 &lt;p&gt;To address these challenges, we propose two innovative strategies where one or ideally both can be explored during the course of the thesis:&lt;/p&gt;
 &lt;ol&gt;
@@ -29,7 +29,7 @@
 &lt;/ol&gt;
 &lt;p&gt;Both of these approaches will be applied to the Relationformer architecture, a unified one-stage transformer-based framework introduced in our recent ECCV paper [2]. Our experimentation will involve working with extensive biological datasets, such as whole brain vasculature [5], neurons, and satellite imagery.
 &lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./tl_datasets.png&#34; alt=&#34;image transformer&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./tl_datasets.png&#34; alt=&#34;image datasets&#34;&gt;&lt;/p&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
 &lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase and apply it to novel datasets. You will be working together with Johannes and Alex, two PostDocs scientist at TU Munich and Imperial College London under the supervision of Prof. Daniel Rückert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
@@ -49,7 +49,7 @@
 &lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
 &lt;p&gt;Just send an email to &lt;a href=&#34;mailto:j.paetzold@ic.ac.uk&#34;&gt;j.paetzold@ic.ac.uk&lt;/a&gt; and &lt;a href=&#34;mailto:a.berger@tum.de&#34;&gt;a.berger@tum.de&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
 &lt;br/&gt;
-&lt;p&gt;&lt;img src=&#34;./i2g.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./i2g.png&#34; alt=&#34;image image-to-graph&#34;&gt;&lt;/p&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
 &lt;p&gt;[1] Motiian, Saeid, et al. &amp;ldquo;Few-shot adversarial domain adaptation.&amp;rdquo; Advances in neural information processing systems 30 (2017).&lt;/p&gt;
