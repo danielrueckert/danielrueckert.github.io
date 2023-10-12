@@ -1,6 +1,6 @@
 ---
 title: "MSc Thesis: Contrastive Learning and Generative Models for Cross-Domain Transfer Learning"
-date: 2023-10-02
+date: 2023-10-10
 authors: ["JohannesPaetzold", "AlexBerger"]
 ---
 
