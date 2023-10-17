@@ -5,12 +5,58 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>IDP: iOS app for wearable health data management</title>
+      <link>https://aim-lab.io/theses/florianhinterwimmer/idp_wearables/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/florianhinterwimmer/idp_wearables/</guid>
+      <description>&lt;p&gt;​&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;In an era where technology has seamlessly integrated with our day-to-day lives, health and fitness tracking has seen a revolutionary change. Gone are the days when we passively absorbed health information. Today, we&amp;rsquo;re in the age of data-driven insights, where personalized health data is not just recorded but actively analyzed to provide actionable insights.
+​
+In MeDecode we want to embody this evolution, we are a pre-registered startup founded six months ago by an active team of three co-founders, and we are currently seeking a student to contribute to the software development efforts to create a Minimal Viable Product. Offering users an intuitive platform to monitor, compare and understand various health metrics, this project truly stands apart with its emphasis on comparative insights against other users. In the vast sea of health data, understanding one&amp;rsquo;s metrics in isolation offers limited insight. Is a heart rate of 80 bpm at rest good or bad? How does a person&amp;rsquo;s sleep pattern compare with someone of their age and lifestyle? By allowing users to compare their data against that of others, we offer a clearer, contextualized view of their health. This not only bridges the gap between mere data collection and genuine understanding but also creates a more engaging and motivating user experience.
+​
+However, with the power of comparative insights comes a significant responsibility: ensuring user privacy and data anonymization. Firstly, it serves to protect user identity, ensuring that while data can be compared, individual identities remain concealed. Secondly, when users are aware that their data is anonymized, they are more inclined to report honestly, leading to more accurate and reliable comparative insights. Lastly, in the unfortunate event of a data breach, the anonymization of data drastically reduces its value to malicious actors, as it can&amp;rsquo;t be linked back to specific individuals, thereby minimizing potential harm.
+&lt;br/&gt;
+​&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications&lt;/h2&gt;
+&lt;p&gt;​
+We are actively seeking an enthusiastic Master&amp;rsquo;s student, preferably majoring in Computer Science, Information Systems, or Health Informatics. Your core responsibility will be to develop a simple iOS app that reads, saves and plots the HealthKit data. Your base of operations will be at the Institute for AI in Medicine, working closely with Doctors and Wearables Artificial Intelligence experts. It is our collective ambition to bring this project to the market, and we envision you playing a pivotal role.
+​&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in wearable technology, healthcare and/or artificial intelligence.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Swift (or preferred iOS programming language).&lt;/li&gt;
+&lt;li&gt;Independent working style with strong interest in teamwork.
+​
+&lt;br/&gt;
+​&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting  project in scope of a highly dynamic startup environment with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to the necessary hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified computer scientists and medical experts.&lt;/li&gt;
+&lt;li&gt;experiencing the development of an early stage tech/health startup&lt;/li&gt;
+&lt;li&gt;potential for long-term engagment
+​
+&lt;br/&gt;
+​&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply?&lt;/h2&gt;
+&lt;p&gt;​
+Send an email to &lt;a href=&#34;mailto:Contact@medecode.app&#34;&gt;Contact@medecode.app&lt;/a&gt; with your CV.
+​
+&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Contrastive Learning and Generative Models for Cross-Domain Transfer Learning</title>
@@ -200,7 +246,7 @@
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/ivanezhov/hsi_transfer_md/</guid>
       <description>&lt;p&gt;Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object&amp;rsquo;s reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors [1].&lt;/p&gt;
-&lt;p&gt;Within the &lt;a href=&#34;https://hyperprobe.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HyperProbe&lt;/a&gt; project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery. 
+&lt;p&gt;Within the &lt;a href=&#34;https://hyperprobe.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HyperProbe&lt;/a&gt; project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery.
 Your goal would be to develop a methodology at the intersection between physics and machine-learning to identify biomarkers of healthy and tumor brain tissue.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://hyperprobe.eu/wp-content/uploads/2022/12/shutterstock_1152709331-2048x1152.jpg&#34; alt=&#34;Surgery&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
@@ -291,9 +337,9 @@ In short this course offers students to:&lt;/p&gt;
 &lt;li&gt;Final presentation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
-&lt;p&gt;A preliminary meeting will take place on 12th of July, 2023 at 10:00 on zoom with the following details:&lt;br&gt;
-&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meeting ID: 690 7588 3519&lt;br&gt;
+&lt;p&gt;A preliminary meeting will take place on 12th of July, 2023 at 10:00 on zoom with the following details: &lt;br&gt;
+&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 690 7588 3519 &lt;br&gt;
 Passcode: 850155&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWiSe2324.pdf&#34;&gt;Slides - WS 2023/24&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingSoSe23.pdf&#34;&gt;(Outdated) Slides - SoSe 2023&lt;/a&gt;&lt;/p&gt;
@@ -308,7 +354,7 @@ Passcode: 850155&lt;/p&gt;
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/hendrikmoeller/poi_prediction/</guid>
       <description>&lt;p&gt;The position of attachment points of ligaments and muscles on vertebral bodies are crucial for biomechanical simulations.&lt;/p&gt;
-&lt;p&gt;Your task would be to compare existing methods and develop a model to accurately predict these points onto given vertebrae. The task is similar to Landmark prediction (&lt;a href=&#34;https://paperswithcode.com/task/facial-landmark-detection/latest),&#34;&gt;https://paperswithcode.com/task/facial-landmark-detection/latest),&lt;/a&gt; which is used in deep-fake, for example.&lt;/p&gt;
+&lt;p&gt;Your task would be to compare existing methods and develop a model to accurately predict these points onto given vertebrae. The task is similar to Landmark prediction (&lt;a href=&#34;https://paperswithcode.com/task/facial-landmark-detection/latest%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://paperswithcode.com/task/facial-landmark-detection/latest)&lt;/a&gt;, which is used in deep-fake, for example.&lt;/p&gt;
 &lt;p&gt;You will be working with 3D CT images and segmentations. You are given a hand-made Ground-Truth for the points as well as a prediction of points using registration with some selected &amp;ldquo;known-goods&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;The tasks are:&lt;/p&gt;
 &lt;ul&gt;
@@ -395,7 +441,7 @@ Given the importance of fair and equitable healthcare, it is crucial to incorpor
       <link>https://aim-lab.io/theses/johannespaetzold/masther_thesis_relationformer/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/johannespaetzold/masther_thesis_relationformer/</guid>
-      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Diffusion [2]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation. 
+      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Diffusion [2]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation.
 Traditionally, image-to-graph generation is addressed with a two-stage approach consisting of object detection followed by a separate relation prediction, which prevents simultaneous object-relation interaction. In our recent ECCV paper, we proposed a unified one-stage transformer-based framework, namely &lt;em&gt;Relationformer&lt;/em&gt; that jointly predicts objects and their relations [1].&lt;/p&gt;
 &lt;p&gt;Our applications will be large scale biological applications for example the whole brain vasculature [3] or neurons as well as satellite imagery.&lt;/p&gt;
 &lt;br/&gt;
@@ -422,8 +468,8 @@ Traditionally, image-to-graph generation is addressed with a two-stage approach 
 &lt;p&gt;&lt;img src=&#34;./vessels.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;[1] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A Unified Framework for Image-to-Graph Generation.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/abs/2203.10202&#34;&gt;https://arxiv.org/abs/2203.10202&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2] Chen et al. &amp;ldquo;DiffusionDet: Diffusion Model for Object Detection.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/pdf/2211.09788.pdf&#34;&gt;https://arxiv.org/pdf/2211.09788.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A Unified Framework for Image-to-Graph Generation.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/abs/2203.10202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2203.10202&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] Chen et al. &amp;ldquo;DiffusionDet: Diffusion Model for Object Detection.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/pdf/2211.09788.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2211.09788.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[3] Paetzold, Johannes C., et al. &amp;ldquo;Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience.&amp;rdquo; Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). 2021.
 &lt;br/&gt;&lt;/p&gt;
 </description>
@@ -488,36 +534,6 @@ The objective of this thesis is to compare different methods for automatic recog
     </item>
     
     <item>
-      <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
-      <link>https://aim-lab.io/theses/florianhoelzl/efficient_training/</link>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/florianhoelzl/efficient_training/</guid>
-      <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
-&lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
-&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
-&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
-[2] Louizos et al. (2018). Learning sparse neural networks through L0 regularization. ICLR 2018. &lt;/br&gt;
-[3] Sander et al. (2022). TAN without a burn: Scaling Laws of DP-SGD. ArXiv, abs/2210.03403.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MSc Thesis: Scaling Laws of Equivariant Convolutions</title>
       <link>https://aim-lab.io/theses/florianhoelzl/scaling_laws/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
@@ -545,6 +561,36 @@ The objective of this thesis is to compare different methods for automatic recog
 [2] Tan and Le (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ICML 2019. &lt;/br&gt;
 [3] Hoffmann et al. (2022). Training Compute-Optimal Large Language Models. ArXiv, abs/2203.15556. &lt;/br&gt;
 [4] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis/Guided Research/IDP: Efficient Training under Differential Privacy</title>
+      <link>https://aim-lab.io/theses/florianhoelzl/efficient_training/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/florianhoelzl/efficient_training/</guid>
+      <description>&lt;p&gt;Differential privacy (DP) is the gold standard of privacy-preserving deep learning and has seen increasing interest in the last few years, especially in the medical domain, where the protection of sensitive data is of highest interest [1]. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches in clinical application.&lt;/p&gt;
+&lt;p&gt;Two properties that affect all differentially private networks are model size and the chosen privacy parameters during training. In this work, we plan to analyze these two areas and introduce changes to the training regime, that improve not only the performance of the models but also reduce their computational overhead. The goal is to 1) build on top of research done on learning sparse neural networks and correspondingly adapt the model parameters during training [2]. And 2), we look at the amount of total noise added during training with DP and evaluate, how to adapt the corresponding privacy parameters without any knowledge about the model or dataset [3]. If successful, this research can be applied to any differential private model in a plug-and-play fashion during training to further reduce the privacy-utility trade-off.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
+&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016. &lt;/br&gt;
+[2] Louizos et al. (2018). Learning sparse neural networks through L0 regularization. ICLR 2018. &lt;/br&gt;
+[3] Sander et al. (2022). TAN without a burn: Scaling Laws of DP-SGD. ArXiv, abs/2210.03403.&lt;/p&gt;
 </description>
     </item>
     
