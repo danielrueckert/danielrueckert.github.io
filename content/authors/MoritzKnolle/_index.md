@@ -71,7 +71,7 @@ user_groups:
 - "Researchers"
 ---
 
-I'm a a PhD Candidate at the Chair for Artificial Intelligence in Medicine (TUM) and member of the Konrad Zuse School for Excellence in Reliable AI. Before starting my PhD, I graduated from Imperial College London with an MSc. in Advanced Computing and a BSc. from the University of Sussex.
+I'm a PhD Candidate at the Chair for Artificial Intelligence in Medicine (TUM) and member of the Konrad Zuse School for Excellence in Reliable AI. Before starting my PhD, I graduated from Imperial College London with an MSc. in Advanced Computing and a BSc. from the University of Sussex.
 
 My research is broadly focused around theoretical and practical aspects of trust and reliability in machine learning (ML) for medicine. I'm particularily interested in:
 
