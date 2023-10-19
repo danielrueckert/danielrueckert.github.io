@@ -45,37 +45,5 @@
 </description>
     </item>
     
-    <item>
-      <title>MSc Thesis: Self-Supervised Transfer Learning for Clinical Low-Data Analysis</title>
-      <link>https://aim-lab.io/theses/oezguenturgut/low_data_transfer_learning/</link>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/oezguenturgut/low_data_transfer_learning/</guid>
-      <description>&lt;p&gt;The scarcity of large, diverse clinical datasets poses a significant challenge for deep learning approaches in clinical practice. In this project, we aim to address this limitation by investigating self-supervised learning techniques along with transfer learning strategies. The objective is to extract general insights from external datasets that transfer to the clinical dataset, while accommodating potential population shifts and disparities among the datasets.&lt;/p&gt;
-&lt;p&gt;We propose the utilisation of masked data modeling [1, 2] to extract general features from publicly available datasets, reducing the dependency on expensive annotated data from the hospital. However, strategies to guarantee the generalisability of the learned features to the specifics of the clinical data have to be investigated within the context of this project, taking into account potential variations in age, sex, health conditions, and data acquisition.&lt;/p&gt;
-&lt;p&gt;We will evaluate the strength of our approach on multiple downstream tasks, including the classification of various diseases and regression of brain age from electroencephalogram (EEG) data. The clincial dataset for this project is provided by the University Hospital rechts der Isar and contains data from chronic pain patients (backpain, widespread pain, joint pain, and neuropathic pain) as well as an age-matching healthy control group.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced programming skills in Python and PyTorch.&lt;/li&gt;
-&lt;li&gt;Strong analytical and problem-solving skills, particularly in working with complex and diverse datasets.&lt;/li&gt;
-&lt;li&gt;Excellent communication skills to document and present research findings effectively.
-&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;The chance to work with an experienced team of data scientists and medical experts.&lt;/li&gt;
-&lt;li&gt;Close supervision with regular meetings to provide guidance and feedback.&lt;/li&gt;
-&lt;li&gt;An opportunity to collaborate on challenging aspects of a clinical research project.
-&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Please send an e-mail with your CV and grade report to &lt;a href=&#34;mailto:oezguen.turgut@tum.de&#34;&gt;oezguen.turgut@tum.de&lt;/a&gt;.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] &lt;a href=&#34;https://arxiv.org/abs/2111.06377&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Masked Autoencoders Are Scalable Vision Learners&lt;/a&gt; &lt;br/&gt;
-[2] &lt;a href=&#34;https://arxiv.org/abs/2301.08243&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

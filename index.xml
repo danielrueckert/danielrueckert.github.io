@@ -209,44 +209,12 @@ Send an email to &lt;a href=&#34;mailto:Contact@medecode.app&#34;&gt;Contact@med
     </item>
     
     <item>
-      <title>MSc Thesis: Self-Supervised Transfer Learning for Clinical Low-Data Analysis</title>
-      <link>https://aim-lab.io/theses/oezguenturgut/low_data_transfer_learning/</link>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/oezguenturgut/low_data_transfer_learning/</guid>
-      <description>&lt;p&gt;The scarcity of large, diverse clinical datasets poses a significant challenge for deep learning approaches in clinical practice. In this project, we aim to address this limitation by investigating self-supervised learning techniques along with transfer learning strategies. The objective is to extract general insights from external datasets that transfer to the clinical dataset, while accommodating potential population shifts and disparities among the datasets.&lt;/p&gt;
-&lt;p&gt;We propose the utilisation of masked data modeling [1, 2] to extract general features from publicly available datasets, reducing the dependency on expensive annotated data from the hospital. However, strategies to guarantee the generalisability of the learned features to the specifics of the clinical data have to be investigated within the context of this project, taking into account potential variations in age, sex, health conditions, and data acquisition.&lt;/p&gt;
-&lt;p&gt;We will evaluate the strength of our approach on multiple downstream tasks, including the classification of various diseases and regression of brain age from electroencephalogram (EEG) data. The clincial dataset for this project is provided by the University Hospital rechts der Isar and contains data from chronic pain patients (backpain, widespread pain, joint pain, and neuropathic pain) as well as an age-matching healthy control group.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced programming skills in Python and PyTorch.&lt;/li&gt;
-&lt;li&gt;Strong analytical and problem-solving skills, particularly in working with complex and diverse datasets.&lt;/li&gt;
-&lt;li&gt;Excellent communication skills to document and present research findings effectively.
-&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;The chance to work with an experienced team of data scientists and medical experts.&lt;/li&gt;
-&lt;li&gt;Close supervision with regular meetings to provide guidance and feedback.&lt;/li&gt;
-&lt;li&gt;An opportunity to collaborate on challenging aspects of a clinical research project.
-&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Please send an e-mail with your CV and grade report to &lt;a href=&#34;mailto:oezguen.turgut@tum.de&#34;&gt;oezguen.turgut@tum.de&lt;/a&gt;.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] &lt;a href=&#34;https://arxiv.org/abs/2111.06377&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Masked Autoencoders Are Scalable Vision Learners&lt;/a&gt; &lt;br/&gt;
-[2] &lt;a href=&#34;https://arxiv.org/abs/2301.08243&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>IDP/Thesis: Physics-based deep learning for hyperspectral brain surgery imaging</title>
       <link>https://aim-lab.io/theses/ivanezhov/hsi_transfer_md/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/ivanezhov/hsi_transfer_md/</guid>
       <description>&lt;p&gt;Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object&amp;rsquo;s reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors [1].&lt;/p&gt;
-&lt;p&gt;Within the &lt;a href=&#34;https://hyperprobe.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HyperProbe&lt;/a&gt; project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery.
+&lt;p&gt;Within the &lt;a href=&#34;https://hyperprobe.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HyperProbe&lt;/a&gt; project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery. 
 Your goal would be to develop a methodology at the intersection between physics and machine-learning to identify biomarkers of healthy and tumor brain tissue.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://hyperprobe.eu/wp-content/uploads/2022/12/shutterstock_1152709331-2048x1152.jpg&#34; alt=&#34;Surgery&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
@@ -441,7 +409,7 @@ Given the importance of fair and equitable healthcare, it is crucial to incorpor
       <link>https://aim-lab.io/theses/johannespaetzold/masther_thesis_relationformer/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/johannespaetzold/masther_thesis_relationformer/</guid>
-      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Diffusion [2]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation.
+      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Diffusion [2]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation. 
 Traditionally, image-to-graph generation is addressed with a two-stage approach consisting of object detection followed by a separate relation prediction, which prevents simultaneous object-relation interaction. In our recent ECCV paper, we proposed a unified one-stage transformer-based framework, namely &lt;em&gt;Relationformer&lt;/em&gt; that jointly predicts objects and their relations [1].&lt;/p&gt;
 &lt;p&gt;Our applications will be large scale biological applications for example the whole brain vasculature [3] or neurons as well as satellite imagery.&lt;/p&gt;
 &lt;br/&gt;
@@ -1088,7 +1056,7 @@ E-Mail: daniel(dot)rueckert(at)tum(dot)de&lt;br&gt;
     <item>
       <title>A population-based phenome-wide association study of cardiac and aortic structure and function</title>
       <link>https://aim-lab.io/publication/nat-med-2020a/</link>
-      <pubDate>Thu, 01 Jan 1970 00:33:40 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
       <guid>https://aim-lab.io/publication/nat-med-2020a/</guid>
       <description></description>
     </item>
@@ -1096,7 +1064,7 @@ E-Mail: daniel(dot)rueckert(at)tum(dot)de&lt;br&gt;
     <item>
       <title>Genetic and functional insights into the fractal structure of the heart</title>
       <link>https://aim-lab.io/publication/nat-2020a/</link>
-      <pubDate>Thu, 01 Jan 1970 00:33:40 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate>
       <guid>https://aim-lab.io/publication/nat-2020a/</guid>
       <description></description>
     </item>
