@@ -143,39 +143,6 @@ Send an email to &lt;a href=&#34;mailto:Contact@medecode.app&#34;&gt;Contact@med
     </item>
     
     <item>
-      <title>HiWi: Diving into the Spinal Cord - Insights into Multiple Sclerosis (MS)</title>
-      <link>https://aim-lab.io/theses/julianmcginnis/mcginnis_hiwi/</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/julianmcginnis/mcginnis_hiwi/</guid>
-      <description>&lt;p&gt;Multiple Sclerosis is an inflammatory disorder of the central nervous system affecting the spinal cord and brain. In clinical practice, the progression of the disease is periodically monitored by employing imaging techniques, primarily magnetic resonance imaging. To estimate the patient&amp;rsquo;s condition, predict the course of the disease, and drive the current understanding, new multiple sclerosis guidelines have shifted the focus and now recommend analyzing spinal lesions in addition to brain lesions. For a long time, however, spine studies required completely manual workflows as software tools were not readily available for dealing with the intricate structures of the spine or were too tailored to the application in the brain.&lt;/p&gt;
-&lt;p&gt;With the introduction of the Spinal Cord Toolbox (SCT)[2], the prerequisites for analyzing and evaluating spine scans have been provided to the community for the first time, thus enabling researchers to conduct combined brain and spine studies. With our Canadian collaboration partners at the Polytechnique Montreal, we are developing tools and methods for enhancing SCT and adapting the methods to new data. This requires us to automate data processing for multi-centric datasets and the integration and development of new methods that facilitate our research - which you will ultimately assist and drive with us together. This comprises various tasks, from data cleaning to implementing machine learning models.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal would be to extend existing codebases, by incorporating novel algorithms and methods, and work on spinal cord data processing. If leading to results that are worthy of publication, you will be involved as well.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;An interest or prior exposure to machine learning.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and/or Bash.&lt;/li&gt;
-&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;An opportunity to engage with spinal cord data and its relevance to MS.&lt;/li&gt;
-&lt;li&gt;Collaboration with a multidisciplinary team, with impactful contributions.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of qualified experts in neuroscience, machine learning and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Please send us a short e-mail with your CV and grade report to &lt;a href=&#34;mailto:julian.mcginnis@tum.de&#34;&gt;julian.mcginnis@tum.de&lt;/a&gt;. Please also indicate your programming experience with either study projects or github projects.
-&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Wattjes, Mike P., et al. &amp;ldquo;2021 MAGNIMS–CMSC–NAIMS consensus recommendations on the use of MRI in patients with multiple sclerosis.&amp;rdquo; &lt;em&gt;The Lancet Neurology&lt;/em&gt; 20.8 (2021): 653-670.
-[2] De Leener, Benjamin, et al. &amp;ldquo;SCT: Spinal Cord Toolbox, an open-source software for processing spinal cord MRI data.&amp;rdquo; &lt;em&gt;Neuroimage&lt;/em&gt; 145 (2017): 24-43.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MSc Thesis: Learning High-Resolution ECG Representations for Cardiac Health Analysis</title>
       <link>https://aim-lab.io/theses/oezguenturgut/highres_ecg_representations/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
