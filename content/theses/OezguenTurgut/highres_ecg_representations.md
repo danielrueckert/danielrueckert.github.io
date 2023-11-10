@@ -1,6 +1,6 @@
 ---
 title: "MSc Thesis: Learning High-Resolution ECG Representations for Cardiac Health Analysis"
-date: 2023-08-28
+date: 2023-11-08
 authors: ["OezguenTurgut"]
 ---
 Examinations with expensive cardiac magnetic resonance (CMR) imaging provide detailed structural information of the heart as it cycles at least one heartbeat. Since the dynamics of the heart are important for analysing cardiac health, CMR imaging is the gold-standard for evidence-based diagnosis of cardiovascular diseases (leading causes of death globvally [1]). However, long scan times and high costs limit its use in clinical practice. In this project, we aim to adress this issue by enabling cardiac health analysis using cost-effective and widely available electrocardiograms (ECG) only. The objective is to learn cardiac representations with high temporal resolution from ECG, with a focus on capturing the dynamics of a single heartbeat. 
