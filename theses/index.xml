@@ -5,12 +5,45 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Learning High-Resolution ECG Representations for Cardiac Health Analysis</title>
+      <link>https://aim-lab.io/theses/oezguenturgut/highres_ecg_representations/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/oezguenturgut/highres_ecg_representations/</guid>
+      <description>&lt;p&gt;Examinations with expensive cardiac magnetic resonance (CMR) imaging provide detailed structural information of the heart as it cycles at least one heartbeat. Since the dynamics of the heart are important for analysing cardiac health, CMR imaging is the gold-standard for evidence-based diagnosis of cardiovascular diseases (leading causes of death globvally [1]). However, long scan times and high costs limit its use in clinical practice. In this project, we aim to adress this issue by enabling cardiac health analysis using cost-effective and widely available electrocardiograms (ECG) only. The objective is to learn cardiac representations with high temporal resolution from ECG, with a focus on capturing the dynamics of a single heartbeat.&lt;/p&gt;
+&lt;p&gt;Similar to previous works [2], we propose the integration of spatiotemporal information from CMR imaging into the representation learning process, enhancing the interpretation of ECG data. Contrastive learning techniques [3] should be leveraged to transfer information from CMR imaging to high-resolution ECG representations of a single heartbeat. To this end, strategies to extract a representative heartbeat from ECG recordings have to be investigated, considering the variation in heartbeat length within a recording. Furthermore, techniques to synchronise cardiac cycles between ECG and CMR imaging data have to be developed, accounting for the temporal offset in data acquisition.&lt;/p&gt;
+&lt;p&gt;We will evaluate the strength of our approach on multiple downstream tasks, including the classification of various cardiovascular diseases and regression of cardiac phenotypes solely from ECG data. Experiments on paired ECG and CMR imaging data of 40k subjects provided by the UK Biobank population study are conducted within this work.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced programming skills in Python and PyTorch.&lt;/li&gt;
+&lt;li&gt;Strong analytical and problem-solving skills, particularly in working with complex and multimodal datasets.&lt;/li&gt;
+&lt;li&gt;Excellent communication skills to document and present research findings effectively.
+&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The chance to work with an experienced team of data scientists and medical experts.&lt;/li&gt;
+&lt;li&gt;Close supervision with regular meetings to provide guidance and feedback.&lt;/li&gt;
+&lt;li&gt;An opportunity to collaborate on challenging aspects of a clinical research project.
+&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Please send an e-mail with your CV and grade report to &lt;a href=&#34;mailto:oezguen.turgut@tum.de&#34;&gt;oezguen.turgut@tum.de&lt;/a&gt;.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] &lt;a href=&#34;https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The top 10 causes of death (World Health Organization)&lt;/a&gt; &lt;br/&gt;
+[2] &lt;a href=&#34;https://arxiv.org/abs/2308.05764&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unlocking the Diagnostic Potential of ECG through Knowledge Transfer from Cardiac MRI&lt;/a&gt; &lt;br/&gt;
+[3] &lt;a href=&#34;https://arxiv.org/abs/2002.05709&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Simple Framework for Contrastive Learning of Visual Representations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IDP: iOS app for wearable health data management</title>
@@ -142,38 +175,36 @@ Send an email to &lt;a href=&#34;mailto:Contact@medecode.app&#34;&gt;Contact@med
 </description>
     </item>
     
-
-    
     <item>
-      <title>MSc Thesis: Learning High-Resolution ECG Representations for Cardiac Health Analysis</title>
-      <link>https://aim-lab.io/theses/oezguenturgut/highres_ecg_representations/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/oezguenturgut/highres_ecg_representations/</guid>
-      <description>&lt;p&gt;Examinations with expensive cardiac magnetic resonance (CMR) imaging provide detailed structural information of the heart as it cycles at least one heartbeat. Since the dynamics of the heart are important for analysing cardiac health, CMR imaging is the gold-standard for evidence-based diagnosis of cardiovascular diseases (leading causes of death globvally [1]). However, long scan times and high costs limit its use in clinical practice. In this project, we aim to adress this issue by enabling cardiac health analysis using cost-effective and widely available electrocardiograms (ECG) only. The objective is to learn cardiac representations with high temporal resolution from ECG, with a focus on capturing the dynamics of a single heartbeat.&lt;/p&gt;
-&lt;p&gt;Similar to previous works [2], we propose the integration of spatiotemporal information from CMR imaging into the representation learning process, enhancing the interpretation of ECG data. Contrastive learning techniques [3] should be leveraged to transfer information from CMR imaging to high-resolution ECG representations of a single heartbeat. To this end, strategies to extract a representative heartbeat from ECG recordings have to be investigated, considering the variation in heartbeat length within a recording. Furthermore, techniques to synchronise cardiac cycles between ECG and CMR imaging data have to be developed, accounting for the temporal offset in data acquisition.&lt;/p&gt;
-&lt;p&gt;We will evaluate the strength of our approach on multiple downstream tasks, including the classification of various cardiovascular diseases and regression of cardiac phenotypes solely from ECG data. Experiments on paired ECG and CMR imaging data of 40k subjects provided by the UK Biobank population study are conducted within this work.
+      <title>HiWi: Diving into the Spinal Cord - Insights into Multiple Sclerosis (MS)</title>
+      <link>https://aim-lab.io/theses/julianmcginnis/mcginnis_hiwi/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/julianmcginnis/mcginnis_hiwi/</guid>
+      <description>&lt;p&gt;Multiple Sclerosis is an inflammatory disorder of the central nervous system affecting the spinal cord and brain. In clinical practice, the progression of the disease is periodically monitored by employing imaging techniques, primarily magnetic resonance imaging. To estimate the patient&amp;rsquo;s condition, predict the course of the disease, and drive the current understanding, new multiple sclerosis guidelines have shifted the focus and now recommend analyzing spinal lesions in addition to brain lesions. For a long time, however, spine studies required completely manual workflows as software tools were not readily available for dealing with the intricate structures of the spine or were too tailored to the application in the brain.&lt;/p&gt;
+&lt;p&gt;With the introduction of the Spinal Cord Toolbox (SCT)[2], the prerequisites for analyzing and evaluating spine scans have been provided to the community for the first time, thus enabling researchers to conduct combined brain and spine studies. With our Canadian collaboration partners at the Polytechnique Montreal, we are developing tools and methods for enhancing SCT and adapting the methods to new data. This requires us to automate data processing for multi-centric datasets and the integration and development of new methods that facilitate our research - which you will ultimately assist and drive with us together. This comprises various tasks, from data cleaning to implementing machine learning models.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced programming skills in Python and PyTorch.&lt;/li&gt;
-&lt;li&gt;Strong analytical and problem-solving skills, particularly in working with complex and multimodal datasets.&lt;/li&gt;
-&lt;li&gt;Excellent communication skills to document and present research findings effectively.
-&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal would be to extend existing codebases, by incorporating novel algorithms and methods, and work on spinal cord data processing. If leading to results that are worthy of publication, you will be involved as well.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An interest or prior exposure to machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python and/or Bash.&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;The chance to work with an experienced team of data scientists and medical experts.&lt;/li&gt;
-&lt;li&gt;Close supervision with regular meetings to provide guidance and feedback.&lt;/li&gt;
-&lt;li&gt;An opportunity to collaborate on challenging aspects of a clinical research project.
-&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;An opportunity to engage with spinal cord data and its relevance to MS.&lt;/li&gt;
+&lt;li&gt;Collaboration with a multidisciplinary team, with impactful contributions.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of qualified experts in neuroscience, machine learning and deep learning.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Please send an e-mail with your CV and grade report to &lt;a href=&#34;mailto:oezguen.turgut@tum.de&#34;&gt;oezguen.turgut@tum.de&lt;/a&gt;.
+&lt;p&gt;Please send us a short e-mail with your CV and grade report to &lt;a href=&#34;mailto:julian.mcginnis@tum.de&#34;&gt;julian.mcginnis@tum.de&lt;/a&gt;. Please also indicate your programming experience with either study projects or github projects.
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] &lt;a href=&#34;https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The top 10 causes of death (World Health Organization)&lt;/a&gt; &lt;br/&gt;
-[2] &lt;a href=&#34;https://arxiv.org/abs/2308.05764&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unlocking the Diagnostic Potential of ECG through Knowledge Transfer from Cardiac MRI&lt;/a&gt; &lt;br/&gt;
-[3] &lt;a href=&#34;https://arxiv.org/abs/2002.05709&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Simple Framework for Contrastive Learning of Visual Representations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[1] Wattjes, Mike P., et al. &amp;ldquo;2021 MAGNIMS–CMSC–NAIMS consensus recommendations on the use of MRI in patients with multiple sclerosis.&amp;rdquo; &lt;em&gt;The Lancet Neurology&lt;/em&gt; 20.8 (2021): 653-670.
+[2] De Leener, Benjamin, et al. &amp;ldquo;SCT: Spinal Cord Toolbox, an open-source software for processing spinal cord MRI data.&amp;rdquo; &lt;em&gt;Neuroimage&lt;/em&gt; 145 (2017): 24-43.&lt;/p&gt;
 </description>
     </item>
     
