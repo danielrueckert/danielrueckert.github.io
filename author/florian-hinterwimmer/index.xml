@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Florian Hinterwimmer | AI in Medicine</title>
+    <link>https://aim-lab.io/author/florian-hinterwimmer/</link>
+      <atom:link href="https://aim-lab.io/author/florian-hinterwimmer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Florian Hinterwimmer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <title>Florian Hinterwimmer</title>
+      <link>https://aim-lab.io/author/florian-hinterwimmer/</link>
+    </image>
+    
+    <item>
+      <title>IDP: iOS app for wearable health data management</title>
+      <link>https://aim-lab.io/theses/florianhinterwimmer/idp_wearables/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/florianhinterwimmer/idp_wearables/</guid>
+      <description>&lt;p&gt;​&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;In an era where technology has seamlessly integrated with our day-to-day lives, health and fitness tracking has seen a revolutionary change. Gone are the days when we passively absorbed health information. Today, we&amp;rsquo;re in the age of data-driven insights, where personalized health data is not just recorded but actively analyzed to provide actionable insights.
+​
+In MeDecode we want to embody this evolution, we are a pre-registered startup founded six months ago by an active team of three co-founders, and we are currently seeking a student to contribute to the software development efforts to create a Minimal Viable Product. Offering users an intuitive platform to monitor, compare and understand various health metrics, this project truly stands apart with its emphasis on comparative insights against other users. In the vast sea of health data, understanding one&amp;rsquo;s metrics in isolation offers limited insight. Is a heart rate of 80 bpm at rest good or bad? How does a person&amp;rsquo;s sleep pattern compare with someone of their age and lifestyle? By allowing users to compare their data against that of others, we offer a clearer, contextualized view of their health. This not only bridges the gap between mere data collection and genuine understanding but also creates a more engaging and motivating user experience.
+​
+However, with the power of comparative insights comes a significant responsibility: ensuring user privacy and data anonymization. Firstly, it serves to protect user identity, ensuring that while data can be compared, individual identities remain concealed. Secondly, when users are aware that their data is anonymized, they are more inclined to report honestly, leading to more accurate and reliable comparative insights. Lastly, in the unfortunate event of a data breach, the anonymization of data drastically reduces its value to malicious actors, as it can&amp;rsquo;t be linked back to specific individuals, thereby minimizing potential harm.
+&lt;br/&gt;
+​&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications&lt;/h2&gt;
+&lt;p&gt;​
+We are actively seeking an enthusiastic Master&amp;rsquo;s student, preferably majoring in Computer Science, Information Systems, or Health Informatics. Your core responsibility will be to develop a simple iOS app that reads, saves and plots the HealthKit data. Your base of operations will be at the Institute for AI in Medicine, working closely with Doctors and Wearables Artificial Intelligence experts. It is our collective ambition to bring this project to the market, and we envision you playing a pivotal role.
+​&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in wearable technology, healthcare and/or artificial intelligence.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Swift (or preferred iOS programming language).&lt;/li&gt;
+&lt;li&gt;Independent working style with strong interest in teamwork.
+​
+&lt;br/&gt;
+​&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;p&gt;​&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting  project in scope of a highly dynamic startup environment with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to the necessary hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified computer scientists and medical experts.&lt;/li&gt;
+&lt;li&gt;experiencing the development of an early stage tech/health startup&lt;/li&gt;
+&lt;li&gt;potential for long-term engagment
+​
+&lt;br/&gt;
+​&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply?&lt;/h2&gt;
+&lt;p&gt;​
+Send an email to &lt;a href=&#34;mailto:Contact@medecode.app&#34;&gt;Contact@medecode.app&lt;/a&gt; with your CV.
+​
+&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Machine Learning for Analysis of Sarcoma</title>
+      <link>https://aim-lab.io/theses/old/sarcoma/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/old/sarcoma/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Early diagnosis of musculoskeletal tumours is crucial for successful therapy and treatment. The sooner a potential malignant growth is detected, the more effective the next steps in therapy and the better a prognosis usually becomes. The rarity of musculoskeletal tumours, potentially inexperienced clinicians with this certain entity, as well as unspecific anamnesis and clinical manifestations may delay the final diagnosis. Whereas currently available imaging modalities yield considerable insights into tumour staging and grading, biopsy remains the gold standard for final diagnosis. Yet, the planning of a successful biopsy yielding sufficient material might require time aside from a high level of experience and may delay the final diagnosis even further.&lt;/p&gt;
+&lt;p&gt;The complexity in conjunction with multimodal approaches in fully grasping this disease provide a very suitable foundation for modern artificial intelligence algorithms. Not only for diagnostic purposes, but also for treatment planning or prognosis prediction, machine learning and deep learning algorithms are popular techniques in many disciplines at this time.&lt;/p&gt;
+&lt;h2 id=&#34;tasks&#34;&gt;Tasks&lt;/h2&gt;
+&lt;p&gt;Various topics in the domain of musculoskeletal tumor analysis are available for a master thesis in computer science and can be discussed during an interview.&lt;/p&gt;
+&lt;p&gt;The main tasks will involve:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analysis of sarcoma with machine/deep learning&lt;/li&gt;
+&lt;li&gt;Coping with very limited and unbalanced datasets&lt;/li&gt;
+&lt;li&gt;Adaption to medicine specific issues with AI&lt;/li&gt;
+&lt;li&gt;Presenting and discussing results&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Access to very rare medical data&lt;/li&gt;
+&lt;li&gt;Highly educated &amp;amp; interdisciplinary environment&lt;/li&gt;
+&lt;li&gt;Top level hardware for scientific computing&lt;/li&gt;
+&lt;li&gt;Constant feedback from medical and computer science experts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced knowledge of deep learning with imaging data&lt;/li&gt;
+&lt;li&gt;Beneficial but not necessary: experience in medicine / oncology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Rechl H, Kirchhoff C, Wörtler K, Lenze U, Töpfer A, von Eisenhart-Rothe R. Diagnostik von malignen Knochen- und Weichteiltumoren [Diagnosis of malignant bone and soft tissue tumors]. Orthopade. 2011 Oct;40(10):931-41; quiz 942-3. German. doi: 10.1007/s00132-011-1821-7. PMID: 21874363&lt;/p&gt;
+&lt;p&gt;[2] He, Y. et al. Deep learning-based classification of primary bone tumors on radiographs: A preliminary study. EBioMedicine 62, 103121 (2020)&lt;/p&gt;
+&lt;p&gt;[3] Hussain Z, Gimenez F, Yi D, Rubin D. Differential Data Augmentation Techniques for Medical Imaging Classification Tasks. AMIA Annu Symp Proc. 2018;2017:979-984. Published 2018 Apr 16.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
