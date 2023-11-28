@@ -61,44 +61,5 @@
 </description>
     </item>
     
-    <item>
-      <title>MSc Thesis: Diffusion model for Graph Generation</title>
-      <link>https://aim-lab.io/theses/johannespaetzold/masther_thesis_relationformer/</link>
-      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/johannespaetzold/masther_thesis_relationformer/</guid>
-      <description>&lt;p&gt;In this Master thesis we aim to address the graph extraction problem using a new powerful class of neural networks - Diffusion [2]. A comprehensive representation of an image requires understanding objects and their mutual relationship, especially in image-to-graph generation, e.g., road network extraction, blood-vessel network extraction, or scene graph generation. 
-Traditionally, image-to-graph generation is addressed with a two-stage approach consisting of object detection followed by a separate relation prediction, which prevents simultaneous object-relation interaction. In our recent ECCV paper, we proposed a unified one-stage transformer-based framework, namely &lt;em&gt;Relationformer&lt;/em&gt; that jointly predicts objects and their relations [1].&lt;/p&gt;
-&lt;p&gt;Our applications will be large scale biological applications for example the whole brain vasculature [3] or neurons as well as satellite imagery.&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;img src=&#34;./relationformer.png&#34; alt=&#34;image transformer&#34;&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase and apply it to novel datasets. You will be working together with Suprosanna and Johannes, two PostDocs scientist at TU Munich and Imperial College London under the supervision of Prof. Daniel Rückert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
-&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:suprosanna.shit@tum.de&#34;&gt;suprosanna.shit@tum.de&lt;/a&gt; and &lt;a href=&#34;mailto:j.paetzold@ic.ac.uk&#34;&gt;j.paetzold@ic.ac.uk&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;img src=&#34;./vessels.png&#34; alt=&#34;image vessel&#34;&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;[1] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A Unified Framework for Image-to-Graph Generation.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/abs/2203.10202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2203.10202&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2] Chen et al. &amp;ldquo;DiffusionDet: Diffusion Model for Object Detection.&amp;rdquo;, &lt;a href=&#34;https://arxiv.org/pdf/2211.09788.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2211.09788.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[3] Paetzold, Johannes C., et al. &amp;ldquo;Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience.&amp;rdquo; Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). 2021.
-&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

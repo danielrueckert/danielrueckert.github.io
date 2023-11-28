@@ -5,67 +5,12 @@
     <link>https://aim-lab.io/author/daniel-ruckert/</link>
       <atom:link href="https://aim-lab.io/author/daniel-ruckert/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Rückert</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Daniel Rückert</title>
       <link>https://aim-lab.io/author/daniel-ruckert/</link>
     </image>
-    
-    <item>
-      <title>MSc Thesis: Automatic recognition of billing codes based on dental documentation using Artificial Intelligence</title>
-      <link>https://aim-lab.io/theses/danielrueckert/boryschibisov/</link>
-      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/danielrueckert/boryschibisov/</guid>
-      <description>&lt;p&gt;We are an international team of experts in the field of NLP and AI looking for a highly motivated Master&amp;rsquo;s student to join us for a master thesis project. Our main focus is the development of Doctos, an app that generates dental documentation through speech-to-text and converts the documentation into relevant billing codes using Named Entity Recognition. The documentation and the generated billing codes are automatically imported into the relevant PVS.
-The objective of this thesis is to compare different methods for automatic recognition of billing codes from dental documentation. In particular, the focus will be on Named Entity Recognition techniques and their implementation in Doctos.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Computer Science, Mathematics or similar background&lt;/li&gt;
-&lt;li&gt;Strong background in NLP and machine learning&lt;/li&gt;
-&lt;li&gt;Interest in medical documentation and healthcare technology&lt;/li&gt;
-&lt;li&gt;Proficient in Python&lt;/li&gt;
-&lt;li&gt;Experience with Huggingface and NLP frameworks such as PyTorch, Tensorflow, or Keras (optional)&lt;/li&gt;
-&lt;li&gt;Fluent in German&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;A close, personal supervision&lt;/li&gt;
-&lt;li&gt;A unique opportunity to work in an interdisciplinary team and contribute to the development of Doctos&lt;/li&gt;
-&lt;li&gt;Access to cutting-edge technologies and techniques in NLP and AI&lt;/li&gt;
-&lt;li&gt;A unique opportunity to contribute to the development of a game-changing app in the healthcare industry.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you are interested in this opportunity, please get in touch with us to discuss further details and to find an individual topic! This project is in collaboration with Doctos and under supervision of Bory Chibisov (&lt;a href=&#34;mailto:bc@doctos.de&#34;&gt;bc@doctos.de&lt;/a&gt;) and Prof. Pförringer.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: AI against SARS-CoV-2</title>
-      <link>https://aim-lab.io/theses/danielrueckert/ai-virus/</link>
-      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/danielrueckert/ai-virus/</guid>
-      <description>&lt;p&gt;Viruses interact with cellular proteins to replicate and spread. We aim to gain functional insights into the mode of action of cellular proteins, enabling us to better understand how different viruses like SARS-CoV-2 cause disease.&lt;/p&gt;
-&lt;p&gt;We are using genetic ablation of cellular proteins and viruses that express a green fluorescent protein (GFP), allowing us to continuously follow the infection by live-cell fluorescent microscopy in a time-resolved manner.  The resulting, very rich dataset (consisting of ~60.000 images per virus tested), will be used to search for patterns allowing to classify the function of the perturbed gene in relation to the infecting virus.  For instance, the GFP intensity/area, the localization, and spatial proximity of a GFP signal over time contains information on virus replication and spread.  This work aims to establish and apply unbiased machine learning algorithms to understand these functional links between the cell and the viruses and to identify the proteins and perturbations that contribute to virus growth and virus restriction. This algorithm will further be used to study the influence of inflammatory events and treatment with drug libraries.
-&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student who will establish a comprehensive bioinformatics pipeline to extract information from these images. You will be working together with computational scientists at the AI in Medicine Lab and wet-lab scientists (Prof. Andreas Pichlmair group, Virology). Importantly, your results will be functionally tested iteratively and used to further improve the predictive power of your model.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Advanced programming skills in Python&lt;/li&gt;
-&lt;li&gt;Strong background in deep learning and image analysis&lt;/li&gt;
-&lt;li&gt;Strong interest in working in an interdisciplinary team&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biology and medicine.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

@@ -5,52 +5,12 @@
     <link>https://aim-lab.io/author/maik-dannecker/</link>
       <atom:link href="https://aim-lab.io/author/maik-dannecker/index.xml" rel="self" type="application/rss+xml" />
     <description>Maik Dannecker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright><lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2023</copyright>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Maik Dannecker</title>
       <link>https://aim-lab.io/author/maik-dannecker/</link>
     </image>
-    
-    <item>
-      <title>MSc Thesis: Federated, privacy preserving deep learning for fetal MRI brain segmentation</title>
-      <link>https://aim-lab.io/theses/maikdannecker/maik/</link>
-      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/maikdannecker/maik/</guid>
-      <description>&lt;p&gt;In medical domain data protection and privacy preservation is highly relevant. Therefore, clinical data of patients is usually securely stored on clinic servers without access from outside.
-Publication of clinical data is difficult and cumbersome as strict privacy and data protection laws must be obeyed.
-These involve anonymization of patient data, drafting of data sharing agreements, and the approval of the corresponding ethics commission.
-This complex publication process is one of the key reasons for data shortage in medical domain and is often preventing machine learning approaches to reach their full potential.
-Federated learning [1] paired with differential privacy [2,3] can circumvent the problem of data publication.
-Rather than gathering the data from clinical sites to centrally train a machine learning model, the model is distributed to the different sites, locally trained on the (partial) data, and finally, globally aggregated [2].
-Thus, patient data is never seen by third parties.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;We want to construct a proof of concept for a federated learning approach in the domain of fetal MRI segmentation. An existing baseline segmentation model must be modified and embedded in a federated learning environment. The model must then be trained on fetal MRI scans located on several international clinic servers. Furthermore, sufficient privacy standards (e.g. differential privacy [2]) must be discussed and ensured.&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;advanced knowledge in machine learning and computer vision (experience in federated learning or differential privacy is helpful but not mandatory)&lt;/li&gt;
-&lt;li&gt;good programming skills in Python and a deep learning framework (previous work is based on
-PyTorch).&lt;/li&gt;
-&lt;li&gt;good communication skills. The project will require you to cooperate with different clinics of various countries.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;insight to an international research project with real world medical data&lt;/li&gt;
-&lt;li&gt;freedom to come up with-, and to pursue your own ideas&lt;/li&gt;
-&lt;li&gt;hardware (sufficient GPU resources)&lt;/li&gt;
-&lt;li&gt;an interdisciplinary team of high qualified experts in image processing, deep
-learning, federated learning, and differential privacy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Jakub Konečný et al. “Federated learning: Strategies for improving communication efficiency”.
-In: arXiv preprint arXiv:1610.05492 (2016).&lt;br/&gt;
-[2] Georgios Kaissis et al. “End-to-end privacy preserving deep learning on multi-institutional medical
-imaging”. In: Nature Machine Intelligence 3.6 (2021), pp. 473–484.&lt;br/&gt;
-[3] Alexander Ziller et al. “Differentially private federated deep learning for multi-site medical image
-segmentation”. In: arXiv preprint arXiv:2107.02586 (2021).&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
