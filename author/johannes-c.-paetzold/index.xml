@@ -5,12 +5,65 @@
     <link>https://aim-lab.io/author/johannes-c.-paetzold/</link>
       <atom:link href="https://aim-lab.io/author/johannes-c.-paetzold/index.xml" rel="self" type="application/rss+xml" />
     <description>Johannes C. Paetzold</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Johannes C. Paetzold</title>
       <link>https://aim-lab.io/author/johannes-c.-paetzold/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Machine Learning-Based Automated Analysis of Murine Brain Corrosion Casts</title>
+      <link>https://aim-lab.io/theses/johannespaetzold/braincorrosion/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/johannespaetzold/braincorrosion/</guid>
+      <description>&lt;p&gt;This project is hosted at the &lt;a href=&#34;https://www.dqbm.uzh.ch/en/research/menze.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biomedical Image Analysis and Machine Learning Lab&lt;/a&gt; of the University of Zurich.
+More/additional information can be found &lt;a href=&#34;https://sirop.org/app/0b221f43-5aab-45f9-bb4b-356bc02f1741?_k=57ZsvsWXAtEilbQA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The project can also be carried out remotely.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+    &lt;img src=&#34;./header.png&#34; width=&#34;800&#34;&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background:&lt;/h3&gt;
+&lt;p&gt;The brain is one of the most complex organs in the human body. Its proper functioning relies heavily on a vast network of blood vessels
+known as the brain vasculature. The brain vasculature is not only responsible for delivering oxygen and nutrients to the brain&amp;rsquo;s neurons
+and removing waste products but also plays a critical role in regulating cerebral blood flow and maintaining the blood-brain barrier.
+Therefore, obtaining a deeper understanding of the brain vasculature&amp;rsquo;s structure and function is essential to study human intelligence
+and to gain insights into various neurological disorders, such as stroke, dementia, and brain tumors. Recent advances in imaging
+technologies [1, 3, 4, 5] have enabled researchers to study the whole brain vasculature in unprecedented detail. In this context, a
+promising approach is represented by transforming brain vasculature into graph-structured data [2] consisting of blood vessels (edges)
+and their bifurcation points (vertices).&lt;/p&gt;
+&lt;h3 id=&#34;aim&#34;&gt;Aim:&lt;/h3&gt;
+&lt;p&gt;The aim of this project is to use and develop novel (potentially ML-based) algorithms to obtain a deeper understanding of the graph-structured vasculature preserved in corrosion casts [1].
+To this end, potential projects include whole-brain quantitative analysis, graph neural networks, label propagation, and/or novel graph-based clustering approaches [2, 3].
+A nice starting point would be to explore weakly supervised label propagation approaches (see following &lt;a href=&#34;https://arxiv.org/abs/2210.03594&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLR paper&lt;/a&gt;).
+The aim should also be to contribute to a scientific publication.&lt;/p&gt;
+&lt;h3 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Knowledge of common machine learning and network analysis practices&lt;/li&gt;
+&lt;li&gt;Excellent programming skills in Python as well as familiarity with PyTorch and NetworkX (or similar libraries)&lt;/li&gt;
+&lt;li&gt;Full time commitment towards the completion of your project&lt;/li&gt;
+&lt;li&gt;Ability to work independently on challenging projects&lt;/li&gt;
+&lt;li&gt;Prior knowledge in neuroscience and computer science is advantageous&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The opportunity to join an ongoing project [1] with real-world medical impact&lt;/li&gt;
+&lt;li&gt;Potential transition into a PhD project&lt;/li&gt;
+&lt;li&gt;The possibility to bring in your own ideas and combine them with state-of-the-art algorithms&lt;/li&gt;
+&lt;li&gt;Close supervision by an interdisciplinary team of experts&lt;/li&gt;
+&lt;li&gt;The opportunity to visit our lab in Zurich&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h3&gt;
+&lt;p&gt;​Please send your CV and transcript to Johannes Paetzold (&lt;a href=&#34;mailto:johannes.paetzold@tum.de&#34;&gt;johannes.paetzold@tum.de&lt;/a&gt;) and Bastian Wittmann (&lt;a href=&#34;mailto:bastian.wittmann@uzh.ch&#34;&gt;bastian.wittmann@uzh.ch&lt;/a&gt;).
+Links to previous work (e.g., your GitHub profile) are highly appreciated.
+​&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References:&lt;/h3&gt;
+&lt;p&gt;​[1] Wälchli et al. &amp;ldquo;Hierarchical imaging and computational analysis of 3D vascular network architecture in the entire postnatal and adult mouse brain,&amp;rdquo; Nature Protocols, 2021&lt;/p&gt;
+&lt;p&gt;[2] Paetzold et al. &amp;ldquo;Whole brain vessel graphs: A dataset and benchmark for graph learning and neuroscience,&amp;rdquo; Conference on Neural Information Processing Systems, 2021&lt;/p&gt;
+&lt;p&gt;[3] Todorov et al. &amp;ldquo;Machine learning analysis of whole mouse brain vasculature,&amp;rdquo; Nature Methods, 2020&lt;/p&gt;
+&lt;p&gt;[4] Wälchli et al. &amp;ldquo;Nogo-A regulates vascular network architecture in the postnatal brain,&amp;rdquo; Journal of Cerebral Blood Flow &amp;amp; Metabolism, 2017&lt;/p&gt;
+&lt;p&gt;[5] Wälchli et al. &amp;ldquo;Shaping the brain vasculature in development and disease in the single-cell era,&amp;rdquo; Nature Reviews Neuroscience, 2023&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Contrastive Learning and Generative Models for Cross-Domain Transfer Learning</title>

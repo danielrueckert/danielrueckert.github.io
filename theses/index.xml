@@ -5,12 +5,65 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Machine Learning-Based Automated Analysis of Murine Brain Corrosion Casts</title>
+      <link>https://aim-lab.io/theses/johannespaetzold/braincorrosion/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/johannespaetzold/braincorrosion/</guid>
+      <description>&lt;p&gt;This project is hosted at the &lt;a href=&#34;https://www.dqbm.uzh.ch/en/research/menze.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biomedical Image Analysis and Machine Learning Lab&lt;/a&gt; of the University of Zurich.
+More/additional information can be found &lt;a href=&#34;https://sirop.org/app/0b221f43-5aab-45f9-bb4b-356bc02f1741?_k=57ZsvsWXAtEilbQA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The project can also be carried out remotely.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+    &lt;img src=&#34;./header.png&#34; width=&#34;800&#34;&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background:&lt;/h3&gt;
+&lt;p&gt;The brain is one of the most complex organs in the human body. Its proper functioning relies heavily on a vast network of blood vessels
+known as the brain vasculature. The brain vasculature is not only responsible for delivering oxygen and nutrients to the brain&amp;rsquo;s neurons
+and removing waste products but also plays a critical role in regulating cerebral blood flow and maintaining the blood-brain barrier.
+Therefore, obtaining a deeper understanding of the brain vasculature&amp;rsquo;s structure and function is essential to study human intelligence
+and to gain insights into various neurological disorders, such as stroke, dementia, and brain tumors. Recent advances in imaging
+technologies [1, 3, 4, 5] have enabled researchers to study the whole brain vasculature in unprecedented detail. In this context, a
+promising approach is represented by transforming brain vasculature into graph-structured data [2] consisting of blood vessels (edges)
+and their bifurcation points (vertices).&lt;/p&gt;
+&lt;h3 id=&#34;aim&#34;&gt;Aim:&lt;/h3&gt;
+&lt;p&gt;The aim of this project is to use and develop novel (potentially ML-based) algorithms to obtain a deeper understanding of the graph-structured vasculature preserved in corrosion casts [1].
+To this end, potential projects include whole-brain quantitative analysis, graph neural networks, label propagation, and/or novel graph-based clustering approaches [2, 3].
+A nice starting point would be to explore weakly supervised label propagation approaches (see following &lt;a href=&#34;https://arxiv.org/abs/2210.03594&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLR paper&lt;/a&gt;).
+The aim should also be to contribute to a scientific publication.&lt;/p&gt;
+&lt;h3 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Knowledge of common machine learning and network analysis practices&lt;/li&gt;
+&lt;li&gt;Excellent programming skills in Python as well as familiarity with PyTorch and NetworkX (or similar libraries)&lt;/li&gt;
+&lt;li&gt;Full time commitment towards the completion of your project&lt;/li&gt;
+&lt;li&gt;Ability to work independently on challenging projects&lt;/li&gt;
+&lt;li&gt;Prior knowledge in neuroscience and computer science is advantageous&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The opportunity to join an ongoing project [1] with real-world medical impact&lt;/li&gt;
+&lt;li&gt;Potential transition into a PhD project&lt;/li&gt;
+&lt;li&gt;The possibility to bring in your own ideas and combine them with state-of-the-art algorithms&lt;/li&gt;
+&lt;li&gt;Close supervision by an interdisciplinary team of experts&lt;/li&gt;
+&lt;li&gt;The opportunity to visit our lab in Zurich&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h3&gt;
+&lt;p&gt;​Please send your CV and transcript to Johannes Paetzold (&lt;a href=&#34;mailto:johannes.paetzold@tum.de&#34;&gt;johannes.paetzold@tum.de&lt;/a&gt;) and Bastian Wittmann (&lt;a href=&#34;mailto:bastian.wittmann@uzh.ch&#34;&gt;bastian.wittmann@uzh.ch&lt;/a&gt;).
+Links to previous work (e.g., your GitHub profile) are highly appreciated.
+​&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References:&lt;/h3&gt;
+&lt;p&gt;​[1] Wälchli et al. &amp;ldquo;Hierarchical imaging and computational analysis of 3D vascular network architecture in the entire postnatal and adult mouse brain,&amp;rdquo; Nature Protocols, 2021&lt;/p&gt;
+&lt;p&gt;[2] Paetzold et al. &amp;ldquo;Whole brain vessel graphs: A dataset and benchmark for graph learning and neuroscience,&amp;rdquo; Conference on Neural Information Processing Systems, 2021&lt;/p&gt;
+&lt;p&gt;[3] Todorov et al. &amp;ldquo;Machine learning analysis of whole mouse brain vasculature,&amp;rdquo; Nature Methods, 2020&lt;/p&gt;
+&lt;p&gt;[4] Wälchli et al. &amp;ldquo;Nogo-A regulates vascular network architecture in the postnatal brain,&amp;rdquo; Journal of Cerebral Blood Flow &amp;amp; Metabolism, 2017&lt;/p&gt;
+&lt;p&gt;[5] Wälchli et al. &amp;ldquo;Shaping the brain vasculature in development and disease in the single-cell era,&amp;rdquo; Nature Reviews Neuroscience, 2023&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Practical Course: Applied Deep Learning in Medicine</title>
@@ -56,6 +109,85 @@ Passcode: 850155&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingSoSe23.pdf&#34;&gt;(Outdated) Slides - SoSe 2023&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWS22.pdf&#34;&gt;(Outdated) Slides - WS 2022/23&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeeting.pdf&#34;&gt;(Outdated) Slides - SoSe 2022&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc Thesis: Semi-offline Reinforcement Learning for Active Feature Acquisition</title>
+      <link>https://aim-lab.io/theses/henrikvonkleist/master_thesis_afa/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/henrikvonkleist/master_thesis_afa/</guid>
+      <description>&lt;p&gt;In this Master thesis, we aim to develop novel &lt;em&gt;semi-offline reinforcement learning (RL)&lt;/em&gt; methods for the task of &lt;em&gt;active feature acquisition (AFA)&lt;/em&gt; and apply these methods to the medical problem of &lt;em&gt;sepsis diagnosis&lt;/em&gt;.&lt;/p&gt;
+&lt;h6 id=&#34;what-is-active-feature-acquisition-afa&#34;&gt;What is active feature acquisition (AFA)?&lt;/h6&gt;
+&lt;p&gt;Classification methods often assume input features are available at no cost. However, in domains like healthcare, where acquiring features could be expensive or harmful, it is necessary to balance a feature’s acquisition cost against its predictive value. AFA addresses this problem by training two AI systems: i) the &amp;ldquo;AFA agent&amp;rdquo;, a reinforcement learning agent tasked with determining which features should be acquired, and ii) a classification model that performs a diagnosis based on the acquired feature set.&lt;/p&gt;
+&lt;h6 id=&#34;what-is-semi-offline-reinforcement-learning-rl&#34;&gt;What is semi-offline reinforcement learning (RL)?&lt;/h6&gt;
+&lt;p&gt;We only have access to historical datasets where a doctor decided on the feature acquisitions. We would like to, however, answer questions about what would have happened if the AFA agent had decided on the feature acquisitions. This requires counterfactual reasoning and thus methods from causal inference/dynamic treatment regimes/offline RL. In recent work [1,2], we showed that one can achieve significant data efficiency benefits in AFA settings compared to regular offline RL settings by simulating additional data points within a novel semi-offline RL framework.  We now want to extend this semi-offline RL framework which is currently only used for agent evaluation to also handle optimization of agents.&lt;/p&gt;
+&lt;h6 id=&#34;how-can-this-be-used-for-sepsis-prediction&#34;&gt;How can this be used for sepsis prediction?&lt;/h6&gt;
+&lt;p&gt;Sepsis is caused by an infection and can cause up to 35% of in-hospital deaths [3]. Early detection is thus crucial and can increase the chance of survival significantly. Prediction models for the task of sepsis prediction have already been successfully included in hospital settings and have shown to reduce the mortality due to sepsis [4]. We aim to augment this prediction process, by additionally recommending how to schedule blood tests, needed for accurate sepsis prediction using AFA. Additionally, we plan to extend this research to applications in hematology and Alzheimer&amp;rsquo;s research.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Bioinformatics, Computer Science, Physics, Engineering or Mathematics. Your task is to extend the existing AFA codebase to include the optimization of RL agent and to apply it to novel datasets. You will be working together with Henrik, a PhD student supervised by Prof. Daniel Rückert at TUM and Carsten Marr at Helmholtz Munich. Importantly, we aim to publish the results of this work, with you, at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
+&lt;p&gt;Required Features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Strong motivation and interest in machine learning, causal inference, and reinforcement learning.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Advanced programming skills in Python.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strong interest in teamwork and interdisciplinary research.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project in the field of causal inference and reinforcement learning&lt;/li&gt;
+&lt;li&gt;The chance to bring in your own ideas for methods development or application.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in AI and healthcare/ biology applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;milestones&#34;&gt;Milestones&lt;/h2&gt;
+&lt;p&gt;We plan to implement the following milestones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Week 0: Choosing the optimization approach: Model-based RL, Actor-critic methods or policy-gradient methods&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Week 0-2: Getting familiar with AFA, semi-offline RL and the existing AFA library&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Week 2-3: Getting familiar with state-of-the-art AFA literature that applies the chosen optimization approach&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Week 3-4: Mathematical adaptation of the chosen optimization approach to semi-offline RL&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Week 4-12: Implementation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Week 12: Mid-term evaluation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Week 12-18: Testing on sepsis data&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Week 20: Submission of research manuscript to conference&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Week 22: First thesis draft ready&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Week 24: Final thesis submission&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:henrik.vonkleist@helmholtz-munich.de&#34;&gt;henrik.vonkleist@helmholtz-munich.de&lt;/a&gt; with a short CV and your grade report.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] von Kleist, H., Zamanian, A., Shpitser, I., &amp;amp; Ahmidi, N. (2023). Evaluation of Active Feature Acquisition Methods for Time-varying Feature Settings. &lt;em&gt;arXiv preprint arXiv:2312.01530&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;[2] von Kleist, H., Zamanian, A., Shpitser, I., &amp;amp; Ahmidi, N. (2023). Evaluation of Active Feature Acquisition Methods for Static Feature Settings. &lt;em&gt;arXiv preprint arXiv:2312.03619&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;[3] Rhee, C., Jones, T. M., Hamad, Y., Pande, A., Varon, J., O’Brien, C., &amp;hellip; &amp;amp; Klompas, M. (2019). Prevalence, underlying causes, and preventability of sepsis-associated mortality in US acute care hospitals. &lt;em&gt;JAMA network open&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(2), e187571-e187571.&lt;/p&gt;
+&lt;p&gt;[4] Adams, R., Henry, K. E., Sridharan, A., Soleimani, H., Zhan, A., Rawat, N., &amp;hellip; &amp;amp; Saria, S. (2022). Prospective, multi-site study of patient outcomes after implementation of the TREWS machine learning-based early warning system for sepsis. &lt;em&gt;Nature medicine&lt;/em&gt;, &lt;em&gt;28&lt;/em&gt;(7), 1455-1460.&lt;/p&gt;
 </description>
     </item>
     
