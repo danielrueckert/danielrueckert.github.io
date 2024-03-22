@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/author/bastianwittmann/</loc>
-    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/ivanezhov/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/ivan-ezhov/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/bastianwittmann/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
@@ -324,8 +330,6 @@
     <loc>https://aim-lab.io/author/haifa-beji/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/hendrik-moller/</loc>
-  </url><url>
-    <loc>https://aim-lab.io/author/ivan-ezhov/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/jiazhen-pan/</loc>
   </url><url>
