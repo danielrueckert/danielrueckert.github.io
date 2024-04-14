@@ -17,18 +17,6 @@
     <loc>https://aim-lab.io/author/ivan-ezhov/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/author/bastianwittmann/</loc>
-    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
-    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/johannespaetzold/braincorrosion/</loc>
-    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/author/thomaswaelchli/</loc>
-    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aim-lab.io/author/alexander-ziller/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,12 +32,6 @@
     <loc>https://aim-lab.io/tags/</loc>
     <lastmod>2024-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/author/henrik-von-kleist/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/henrikvonkleist/master_thesis_afa/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aim-lab.io/author/florian-hinterwimmer/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,6 +39,9 @@
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/alexander-berger/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
     <lastmod>2023-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/johannespaetzold/diffusionformer/</loc>
@@ -330,6 +315,8 @@
     <loc>https://aim-lab.io/author/haifa-beji/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/hendrik-moller/</loc>
+  </url><url>
+    <loc>https://aim-lab.io/author/henrik-von-kleist/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/jiazhen-pan/</loc>
   </url><url>
