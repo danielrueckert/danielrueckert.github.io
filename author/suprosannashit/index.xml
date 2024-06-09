@@ -14,14 +14,12 @@
     
     <item>
       <title>MSc Thesis: Diffusion-based Topology-preserving Medical Image Segmentation</title>
-      <link>https://aim-lab.io/theses/johannespaetzold/diffusion-topo/text/</link>
+      <link>https://aim-lab.io/theses/johannespaetzold/master_thesis_topo/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/johannespaetzold/diffusion-topo/text/</guid>
+      <guid>https://aim-lab.io/theses/johannespaetzold/master_thesis_topo/</guid>
       <description>&lt;p&gt;This project can be hosted in Munich and/or Zurich @Biomedical Image Analysis &amp;amp; Machine Learning Group,
 University of Zurich.&lt;/p&gt;
-&lt;p align=&#34;center&#34;&gt;
-    &lt;img src=&#34;./header.png&#34; width=&#34;800&#34;&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Images/diffImg.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;background&#34;&gt;Background:&lt;/h3&gt;
 &lt;p&gt;Topology is vital in medical image segmentation, emphasizing anatomically correct structures &amp;amp; removing incorrect ones. Previous works [1-3] explored how to enforce topological constraints, however, are applied only at training. Recent diffusion-based models [4, 5] offer a novel way to enforce topological constraints during inference.&lt;/p&gt;
 &lt;h3 id=&#34;your-tasks&#34;&gt;Your tasks:&lt;/h3&gt;
