@@ -5,12 +5,55 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Fri, 22 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Diffusion-based Topology-preserving Medical Image Segmentation</title>
+      <link>https://aim-lab.io/theses/johannespaetzold/diffusion-topo/text/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/johannespaetzold/diffusion-topo/text/</guid>
+      <description>&lt;p&gt;This project can be hosted in Munich and/or Zurich @Biomedical Image Analysis &amp;amp; Machine Learning Group,
+University of Zurich.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+    &lt;img src=&#34;./header.png&#34; width=&#34;800&#34;&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background:&lt;/h3&gt;
+&lt;p&gt;Topology is vital in medical image segmentation, emphasizing anatomically correct structures &amp;amp; removing incorrect ones. Previous works [1-3] explored how to enforce topological constraints, however, are applied only at training. Recent diffusion-based models [4, 5] offer a novel way to enforce topological constraints during inference.&lt;/p&gt;
+&lt;h3 id=&#34;your-tasks&#34;&gt;Your tasks:&lt;/h3&gt;
+&lt;p&gt;First, you will develop a diffusion model for segmentation. Next, you will be devising a novel way to integrate topological constraints in the diffusion model. Importantly, we aim to publish the results of this work with you at a high-impact conference or journal.&lt;/p&gt;
+&lt;h3 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h3&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in CS, Physics, Engineering or Mathematics with&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Good understanding and strong interest in SOTA generative models.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python and common DL framework, i.e., PyTorch.&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and inter-disciplinary research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The opportunity to join an ongoing project with the aim of publishing a top tier conference paper.&lt;/li&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Potential transition into a PhD project.&lt;/li&gt;
+&lt;li&gt;The possibility to bring in your own ideas and combine them with state-of-the-art algorithms.&lt;/li&gt;
+&lt;li&gt;Close supervision by an interdisciplinary team of experts in computer vision, and deep learning.&lt;/li&gt;
+&lt;li&gt;Access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h3&gt;
+&lt;p&gt;​Please send your CV and transcript to Johannes Paetzold (&lt;a href=&#34;mailto:johannes.paetzold@tum.de&#34;&gt;johannes.paetzold@tum.de&lt;/a&gt;) and Bastian Wittmann (&lt;a href=&#34;mailto:bastian.wittmann@uzh.ch&#34;&gt;bastian.wittmann@uzh.ch&lt;/a&gt;).
+Links to previous work (e.g., your GitHub profile) are highly appreciated.
+​&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References:&lt;/h3&gt;
+&lt;p&gt;​[1] Stucki et al. Betti-matching, ICML 2023
+[2] Gupta et al. Topology Interactions, ECCV 2022
+[3] Berger et al. Multi-class Betti Matching, arxiv, 2024
+[4] Wu et al. MedSegDiff-V2, AAAI 2024
+[5] Song et al. Loss-guided Diffusion, ICML 2023&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>IDP/Thesis: Physics-based deep learning for hyperspectral brain surgery imaging</title>
@@ -77,9 +120,9 @@ In short this course offers students to:&lt;/p&gt;
 &lt;li&gt;Final presentation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
-&lt;p&gt;A preliminary meeting will take place on 5th of Febuary, 2024 at 11:00 on zoom with the following details:&lt;br&gt;
-&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meeting ID: 690 7588 3519&lt;br&gt;
+&lt;p&gt;A preliminary meeting will take place on 5th of Febuary, 2024 at 11:00 on zoom with the following details: &lt;br&gt;
+&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 690 7588 3519 &lt;br&gt;
 Passcode: 850155&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeeting-SoSe24.pdf&#34;&gt;Slides - SoSe 2024&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWiSe2324.pdf&#34;&gt;(Outdated)Slides - WS 2023/24&lt;/a&gt;&lt;/p&gt;
