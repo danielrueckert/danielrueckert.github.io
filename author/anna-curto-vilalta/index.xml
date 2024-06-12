@@ -5,12 +5,55 @@
     <link>https://aim-lab.io/author/anna-curto-vilalta/</link>
       <atom:link href="https://aim-lab.io/author/anna-curto-vilalta/index.xml" rel="self" type="application/rss+xml" />
     <description>Anna Curto Vilalta</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Anna Curto Vilalta</title>
       <link>https://aim-lab.io/author/anna-curto-vilalta/</link>
     </image>
+    
+    <item>
+      <title>Master Thesis: Deep Learning for Bone Tumor Detection and Segmentation: 2D vs 3D</title>
+      <link>https://aim-lab.io/theses/annacurtovilalta/index_bonetumor/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/annacurtovilalta/index_bonetumor/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;The detection and segmentation of bone tumors using magnetic resonance imaging (MRI) have crucial implications for clinical diagnosis and treatment planning. With the advent of deep learning techniques, there&amp;rsquo;s a growing interest in leveraging these methods to analyze MRI bone tumor images. However, a fundamental question arises: Is 3D volumetric processing superior to traditional 2D slice-by-slice processing in deep learning tasks for MRI bone tumor analysis? This research addresses this question by evaluating the effectiveness of 2D versus 3D deep learning methodologies.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology:&lt;/h2&gt;
+&lt;p&gt;The methodology involves implementing several deep-learning models to compare the efficacy of 2D and 3D techniques for MRI bone tumor analysis:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Literature review on the current state-of-the-art techniques in 2D and 3D MRI-based detection and segmentation tasks using deep learning.&lt;/li&gt;
+&lt;li&gt;Implement tumor detection and segmentation models in both 2D and 3D.&lt;/li&gt;
+&lt;li&gt;Explore and implement a hybrid approach that combines the strengths of both 2D and 3D processing methods to achieve superior results.&lt;/li&gt;
+&lt;li&gt;Presenting and discussing results.
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Advanced knowledge of deep learning with imaging data;&lt;/li&gt;
+&lt;li&gt;Beneficial but not necessary: experience in medicine/oncology;&lt;/li&gt;
+&lt;li&gt;Preferred starting date: September 2024 (with flexibility);
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Very rare medical data with high potential for publication.&lt;/li&gt;
+&lt;li&gt;Highly educated &amp;amp; interdisciplinary environment.&lt;/li&gt;
+&lt;li&gt;Top-level hardware for scientific computing.&lt;/li&gt;
+&lt;li&gt;Constant feedback from medical and computer science experts
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:anna.curto-vilalta@tum.de&#34;&gt;anna.curto-vilalta@tum.de&lt;/a&gt;, with your CV and small introduction about you and your motivation.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;He, Avesta, et al. &amp;ldquo;Comparing 3D, 2.5D, and 2D Approaches to Brain Image Auto-Segmentation.&amp;rdquo; Bioengineering 10 (2023): 181.&lt;/p&gt;
+&lt;p&gt;Ushinsky, A., et al. &amp;ldquo;A 3D-2D Hybrid U-Net Convolutional Neural Network Approach to Prostate Organ Segmentation of Multiparametric MRI.&amp;rdquo; American Journal of Roentgenology 216, no. 1 (2021): 111-116.&lt;/p&gt;
+&lt;p&gt;Wang, H., et al. &amp;ldquo;Mixed 2D and 3D Convolutional Network with Multi-Scale Context for Lesion Segmentation in Breast DCE-MRI.&amp;rdquo; Biomedical Signal Processing and Control 68 (2021): Article no. 102607.
+&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
