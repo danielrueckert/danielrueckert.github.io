@@ -5,12 +5,65 @@
     <link>https://aim-lab.io/author/marton-szep/</link>
       <atom:link href="https://aim-lab.io/author/marton-szep/index.xml" rel="self" type="application/rss+xml" />
     <description>Márton Szép</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Márton Szép</title>
       <link>https://aim-lab.io/author/marton-szep/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Large Language Models in Medicine</title>
+      <link>https://aim-lab.io/theses/martonszep/index_llm-med/</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/martonszep/index_llm-med/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
+&lt;p&gt;Large Language Models (LLMs) have shown exceptional capabilities in understanding and generating human-like text. In the medical field, these models hold the potential to revolutionize patient care, medical research, and healthcare administration. By leveraging LLMs, we can enhance diagnostic accuracy, streamline administrative tasks, and provide personalized patient care. However, the integration of these models into medical practice poses unique challenges and opportunities that warrant thorough investigation.
+Objective&lt;/p&gt;
+&lt;p&gt;The primary objective of this thesis is to develop and evaluate AI systems powered by Large Language Models that aid medical professionals in their work. Specific research topics and applications will be agreed upon with the student, allowing for a tailored approach that aligns with the student&amp;rsquo;s interests and expertise. Potential areas of focus include (but are not limited to):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LLMs and Knowledge Graphs: Integrating LLMs with medical knowledge graphs to improve information retrieval and decision support.&lt;/li&gt;
+&lt;li&gt;Retrieval-Augmented Generation: Enhancing the generation capabilities of LLMs by incorporating external data sources.&lt;/li&gt;
+&lt;li&gt;Explainability: Developing methods to interpret and explain the outputs of LLMs to ensure transparency and trustworthiness in medical applications.&lt;/li&gt;
+&lt;li&gt;Uncertainty Quantification: Quantifying and communicating the uncertainty in LLM predictions to assist medical professionals in making informed decisions.
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Literature review: A comprehensive literature review will be conducted to understand the current state of LLMs in medicine from the chosen perspective.&lt;/li&gt;
+&lt;li&gt;Data collection and preprocessing: Utilizing real clinical data in German, provided by the institution. The data will be preprocessed and anonymized to ensure compliance with privacy regulations. If needed, this will be extended with public data.&lt;/li&gt;
+&lt;li&gt;Explore, implement and compare different approaches: Train and fine-tune LLMs.&lt;/li&gt;
+&lt;li&gt;Evaluation: Assessing the performance of the developed systems through quantitative metrics and qualitative feedback from medical experts.&lt;/li&gt;
+&lt;li&gt;Discussion and presentation of results
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Language skills: Good English and at least intermediate German language skills are necessary for working with clinical data.&lt;/li&gt;
+&lt;li&gt;Technical skills: Advanced knowledge of deep learning, proficiency in Python and experience with PyTorch is essential. Familiarity with the HuggingFace ecosystem is a plus.&lt;/li&gt;
+&lt;li&gt;Medical data experience: Previous experience with medical data is a beneficial.
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Access to real clinical data: The thesis will provide access to unique clinical data with high potential for publication and impactful research.&lt;/li&gt;
+&lt;li&gt;Interdisciplinary environment: Students will work in a highly educated and interdisciplinary team, fostering collaboration between computer science and medical experts.&lt;/li&gt;
+&lt;li&gt;Advanced computing resources: The institution offers top-level hardware for scientific computing, ensuring efficient and effective model training and experimentation.&lt;/li&gt;
+&lt;li&gt;Expert feedback: Continuous feedback from both medical professionals and computer science experts will guide the research process, ensuring the development of relevant and high-quality solutions.
+&lt;br/&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Preferred start date: September 2024, with flexibility&lt;/p&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:marton.szep@tum.de&#34;&gt;marton.szep@tum.de&lt;/a&gt;, with your CV, transcript of records, and a small introduction about you and your motivation.
+&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;Pan, S., Luo, L., Wang, Y., Chen, C., Wang, J., &amp;amp; Wu, X. (2024). Unifying large language models and knowledge graphs: A roadmap. IEEE Transactions on Knowledge and Data Engineering.&lt;/p&gt;
+&lt;p&gt;Zhang, B., &amp;amp; Soh, H. (2024). Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction. arXiv preprint arXiv:2404.03868.&lt;/p&gt;
+&lt;p&gt;Cao, L., Sun, J., &amp;amp; Cross, A. (2024). AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models. arXiv preprint arXiv:2403.00953.&lt;/p&gt;
+&lt;p&gt;Kommineni, V. K., König-Ries, B., &amp;amp; Samuel, S. (2024). From human experts to machines: An LLM supported approach to ontology and knowledge graph construction. arXiv preprint arXiv:2403.08345.
+&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
