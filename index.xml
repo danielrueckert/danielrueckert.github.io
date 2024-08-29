@@ -5,12 +5,58 @@
     <link>https://aim-lab.io/</link>
       <atom:link href="https://aim-lab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI in Medicine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>AI in Medicine</title>
       <link>https://aim-lab.io/</link>
     </image>
+    
+    <item>
+      <title>A Privacy-Preserving Framework for Multi-Entry Medical Datasets</title>
+      <link>https://aim-lab.io/theses/johanneskaiser/ma_jk_idp_multiple_samples/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/johanneskaiser/ma_jk_idp_multiple_samples/</guid>
+      <description>&lt;p&gt;In this master&amp;rsquo;s thesis, we aim to explore the potential of leveraging multiple data entries per contributor across various medical datasets (ex. Chexpert) while maintaining differential privacy guarantees at the per-contributor level.&lt;/p&gt;
+&lt;p&gt;In sensitive domains like medicine, protecting the privacy of individuals contributing their data to research (e.g., for training neural networks) is of utmost importance.&lt;/p&gt;
+&lt;p&gt;Differential privacy [1] (the gold standard for privacy protection in deep learning) ensures that only a quantifiable and limited amount of a contributor&amp;rsquo;s data is exposed as a result of their participation in a study. Commonly, differential privacy with contributor-level guarantees assumes that a database contains only a single entry per contributor. In cases where multiple entries exist for a contributor, the typical approach is to impose a limit on the number of entries and treat each individual as if they had contributed the maximum allowed number.&lt;/p&gt;
+&lt;p&gt;However, this approach presents two key problems:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Limiting the number of entries results in the loss of valuable data, reducing the expressiveness and utility of the remaining dataset.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Treating all individuals as if they provided the maximum allowed number of entries imposes unnecessarily strict privacy constraints on those who have contributed fewer entries.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This creates a trade-off between the amount of data discarded and the number of individuals whose data is processed under overly restrictive privacy guarantees.&lt;/p&gt;
+&lt;p&gt;In this thesis we want to explore a novel approach in employing individual-level differential privacy [2] to (1) use all the available data while (2) providing fitting privacy guarantees for any individual.
+By leveraging this approach, we aim to achieve higher performance on medical datasets, improving the diagnostic accuracy while protecting the privacy of the contributors.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase and apply it to novel datasets. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python.&lt;/li&gt;
+&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision, and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:johannes.kaiser@tum.de&#34;&gt;johannes.kaiser@tum.de&lt;/a&gt;, with a short CV and your grade report. I promise to get back to you within days.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] Abadi, Martin, et al. &amp;ldquo;Deep learning with differential privacy.&amp;rdquo; Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. (2016).&lt;/p&gt;
+&lt;p&gt;[2] Boenisch, Franziska, et al. &amp;ldquo;Have it your way: Individualized Privacy Assignment for DP-SGD.&amp;rdquo; Advances in Neural Information Processing Systems 36 (2024).&lt;/p&gt;
+&lt;br/&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Large Language Models in Medicine</title>

@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="Research Scientist">
+  <meta name="description" content="In this master&rsquo;s thesis, we aim to explore the potential of leveraging multiple data entries per contributor across various medical datasets (ex. Chexpert) while maintaining differential privacy guarantees at the per-contributor level.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/authors/">
+  <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/theses/johanneskaiser/ma_jk_idp_multiple_samples/">
 
   
 
@@ -244,14 +244,12 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="AI in Medicine">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://aim-lab.io/authors/">
+  <link rel="canonical" href="https://aim-lab.io/theses/johanneskaiser/ma_jk_idp_multiple_samples/">
 
   
   
@@ -270,29 +268,34 @@
   <meta property="twitter:creator" content="@DanielRueckert">
   
   <meta property="og:site_name" content="AI in Medicine">
-  <meta property="og:url" content="https://aim-lab.io/authors/">
-  <meta property="og:title" content="Authors | AI in Medicine">
-  <meta property="og:description" content="Research Scientist"><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://aim-lab.io/theses/johanneskaiser/ma_jk_idp_multiple_samples/">
+  <meta property="og:title" content="A Privacy-Preserving Framework for Multi-Entry Medical Datasets | AI in Medicine">
+  <meta property="og:description" content="In this master&rsquo;s thesis, we aim to explore the potential of leveraging multiple data entries per contributor across various medical datasets (ex. Chexpert) while maintaining differential privacy guarantees at the per-contributor level."><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2024-08-29T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2024-08-29T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2024-08-29T00:00:00&#43;00:00">
   
 
   
 
 
 
-
   
 
 
   
 
 
+  
 
 
 
-  <title>Authors | AI in Medicine</title>
+
+
+  <title>A Privacy-Preserving Framework for Multi-Entry Medical Datasets | AI in Medicine</title>
 
 </head>
 
@@ -727,6 +730,75 @@
   </div>
 
   <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>A Privacy-Preserving Framework for Multi-Entry Medical Datasets</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/author/johannes-kaiser/">Johannes Kaiser</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Aug 29, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
     
 
 
@@ -741,76 +813,187 @@
 
 
 
-
-  
-
-  
-  
-  
-    
-  
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
-
-  
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  <ul>
+    <div class="article-style">
+      <p>In this master&rsquo;s thesis, we aim to explore the potential of leveraging multiple data entries per contributor across various medical datasets (ex. Chexpert) while maintaining differential privacy guarantees at the per-contributor level.</p>
+<p>In sensitive domains like medicine, protecting the privacy of individuals contributing their data to research (e.g., for training neural networks) is of utmost importance.</p>
+<p>Differential privacy [1] (the gold standard for privacy protection in deep learning) ensures that only a quantifiable and limited amount of a contributor&rsquo;s data is exposed as a result of their participation in a study. Commonly, differential privacy with contributor-level guarantees assumes that a database contains only a single entry per contributor. In cases where multiple entries exist for a contributor, the typical approach is to impose a limit on the number of entries and treat each individual as if they had contributed the maximum allowed number.</p>
+<p>However, this approach presents two key problems:</p>
+<ol>
+<li>
+<p>Limiting the number of entries results in the loss of valuable data, reducing the expressiveness and utility of the remaining dataset.</p>
+</li>
+<li>
+<p>Treating all individuals as if they provided the maximum allowed number of entries imposes unnecessarily strict privacy constraints on those who have contributed fewer entries.</p>
+</li>
+</ol>
+<p>This creates a trade-off between the amount of data discarded and the number of individuals whose data is processed under overly restrictive privacy guarantees.</p>
+<p>In this thesis we want to explore a novel approach in employing individual-level differential privacy [2] to (1) use all the available data while (2) providing fitting privacy guarantees for any individual.
+By leveraging this approach, we aim to achieve higher performance on medical datasets, improving the diagnostic accuracy while protecting the privacy of the contributors.</p>
+<br/>
+<h2 id="your-qualifications">Your qualifications:</h2>
+<p>We are looking for a highly motivated Master’s student in Computer Science, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase and apply it to novel datasets. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.</p>
+<ol>
+<li>Strong motivation and interest in machine learning.</li>
+<li>Advanced programming skills in Python.</li>
+<li>Strong interest in teamwork and interdisciplinary research.</li>
+</ol>
+<br/>
+<h2 id="what-we-offer">What we offer:</h2>
+<ul>
+<li>An exciting research project with many possibilities to bring in your own ideas.</li>
+<li>Close supervision and access to state-of-the-art computer hardware.</li>
+<li>The chance to work in a team of highly qualified experts in machine learning, computer vision, and deep learning.</li>
+</ul>
+<br/>
+<h2 id="how-to-apply">How to apply:</h2>
+<p>Just send an email to <a href="mailto:johannes.kaiser@tum.de">johannes.kaiser@tum.de</a>, with a short CV and your grade report. I promise to get back to you within days.</p>
+<br/>
+<h2 id="references">References:</h2>
+<p>[1] Abadi, Martin, et al. &ldquo;Deep learning with differential privacy.&rdquo; Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. (2016).</p>
+<p>[2] Boenisch, Franziska, et al. &ldquo;Have it your way: Individualized Privacy Assignment for DP-SGD.&rdquo; Advances in Neural Information Processing Systems 36 (2024).</p>
+<br/>
+
+    </div>
+
     
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
       
-      <li><a href="https://aim-lab.io/author/h.-suzuki/">H. Suzuki</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/theses/johanneskaiser/ma_jk_idp_multiple_samples/&amp;text=A%20Privacy-Preserving%20Framework%20for%20Multi-Entry%20Medical%20Datasets" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://aim-lab.io/author/h.-v.-meyer/">H. V. Meyer</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/theses/johanneskaiser/ma_jk_idp_multiple_samples/&amp;t=A%20Privacy-Preserving%20Framework%20for%20Multi-Entry%20Medical%20Datasets" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://aim-lab.io/author/j-214.-w.-bai/">J 214.	W. Bai</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=A%20Privacy-Preserving%20Framework%20for%20Multi-Entry%20Medical%20Datasets&amp;body=https://aim-lab.io/theses/johanneskaiser/ma_jk_idp_multiple_samples/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://aim-lab.io/author/j.-cai/">J. Cai</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/theses/johanneskaiser/ma_jk_idp_multiple_samples/&amp;title=A%20Privacy-Preserving%20Framework%20for%20Multi-Entry%20Medical%20Datasets" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://aim-lab.io/author/j.-gierten/">J. Gierten</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=A%20Privacy-Preserving%20Framework%20for%20Multi-Entry%20Medical%20Datasets%20https://aim-lab.io/theses/johanneskaiser/ma_jk_idp_multiple_samples/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://aim-lab.io/author/j.-huang/">J. Huang</a></li>
-    
       
-      <li><a href="https://aim-lab.io/author/j.-s.-ware/">J. S. Ware</a></li>
-    
       
-      <li><a href="https://aim-lab.io/author/j.-wittbrodt/">J. Wittbrodt</a></li>
-    
+        
       
-      <li><a href="https://aim-lab.io/author/k.-fung/">K. Fung</a></li>
-    
       
-      <li><a href="https://aim-lab.io/author/m.-l.-costantino/">M. L. Costantino</a></li>
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/theses/johanneskaiser/ma_jk_idp_multiple_samples/&amp;title=A%20Privacy-Preserving%20Framework%20for%20Multi-Entry%20Medical%20Datasets" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
-
-  
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/5/">&laquo;</a></li>
-    
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/7/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
-
 </div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
   </div>
 
   <div class="page-footer">
