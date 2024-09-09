@@ -5,12 +5,52 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Laplace Approximation based Evaluation of Model Multiplicity on Medical Imaging Data</title>
+      <link>https://aim-lab.io/theses/johanneskaiser/index_ma/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/johanneskaiser/index_ma/</guid>
+      <description>&lt;p&gt;In this master thesis we aim to explore the presence of predictive multiplicity in neural networks trained to predict pathologies in medical imaging datasets.
+In short, predictive multiplicity describes a phenomenon in which models trained for the same objective and achieving similar measures of predictive performances, such as loss or accuracy, may behave very differently for individual samples [1].
+While it is rather difficult and computationally expensive to acquire large sets of trained neural networks (as it requires retraining of the whole model), Laplace approximations allow to train a single model, construct a distribution of weights and sample from this distribution of weights.
+A recently proposed Riemannian Laplace Approximation allows to sample weights not only in the vicinity of the initial weights, but also with similar loss.
+This allows to generate large sets of model weights with hardly any computational effort [2].
+The variance in terms of non-target metrices of these models is strongly underexplored.
+This thesis should explore the variance in serveral desiderate metrices (such as fairness, robustness etc.) across the models contained in these sets.
+There is evidence, that a large enough set of neural networks is likey to contain models that perform well in the desiderate metrices.
+The results of this thesis may lead to the possibility of having fairer machine learning models performing medical diagnosis (for example in chest x-ray evaluation) without any fairness constraints or additional computational effort.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase and apply it to medical imaging datasets. You will be working together with Johannes and Sarah, two Doctoral students at TU Munich under the supervision of Prof. Daniel Rückert. Importantly, this is cutting edge research such that with good results there is the chance to publish the findings at a machine learning conference.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in Python.&lt;/li&gt;
+&lt;li&gt;Familiarity with deep learning libraries such as pytorch&lt;/li&gt;
+&lt;li&gt;Strong communication skills.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:johannes.kaiser@tum.de&#34;&gt;johannes.kaiser@tum.de&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] Black, Emily, et al. &amp;ldquo;Model Multiplicity: Opportunities, Concerns, and Solutions&amp;rdquo; ACM Conference on Fairness, Accountability, and Transparency. (2022)&lt;/p&gt;
+&lt;p&gt;[2] Bergamin, Federico, et al. &amp;ldquo;Riemannian Laplace approximations for Bayesian neural networks.&amp;rdquo; Advances in Neural Information Processing Systems 36 (2024).
+&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Privacy-Preserving Framework for Multi-Entry Medical Datasets</title>

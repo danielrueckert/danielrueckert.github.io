@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="Research Scientist">
+  <meta name="description" content="In this master thesis we aim to explore the presence of predictive multiplicity in neural networks trained to predict pathologies in medical imaging datasets. In short, predictive multiplicity describes a phenomenon in which models trained for the same objective and achieving similar measures of predictive performances, such as loss or accuracy, may behave very differently for individual samples [1].">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/authors/">
+  <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/theses/johanneskaiser/index_ma/">
 
   
 
@@ -244,14 +244,12 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="AI in Medicine">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://aim-lab.io/authors/">
+  <link rel="canonical" href="https://aim-lab.io/theses/johanneskaiser/index_ma/">
 
   
   
@@ -270,29 +268,34 @@
   <meta property="twitter:creator" content="@DanielRueckert">
   
   <meta property="og:site_name" content="AI in Medicine">
-  <meta property="og:url" content="https://aim-lab.io/authors/">
-  <meta property="og:title" content="Authors | AI in Medicine">
-  <meta property="og:description" content="Research Scientist"><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://aim-lab.io/theses/johanneskaiser/index_ma/">
+  <meta property="og:title" content="MSc Thesis: Laplace Approximation based Evaluation of Model Multiplicity on Medical Imaging Data | AI in Medicine">
+  <meta property="og:description" content="In this master thesis we aim to explore the presence of predictive multiplicity in neural networks trained to predict pathologies in medical imaging datasets. In short, predictive multiplicity describes a phenomenon in which models trained for the same objective and achieving similar measures of predictive performances, such as loss or accuracy, may behave very differently for individual samples [1]."><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2024-09-09T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2024-09-09T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2024-09-09T00:00:00&#43;00:00">
   
 
   
 
 
 
-
   
 
 
   
 
 
+  
 
 
 
-  <title>Authors | AI in Medicine</title>
+
+
+  <title>MSc Thesis: Laplace Approximation based Evaluation of Model Multiplicity on Medical Imaging Data | AI in Medicine</title>
 
 </head>
 
@@ -727,6 +730,75 @@
   </div>
 
   <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>MSc Thesis: Laplace Approximation based Evaluation of Model Multiplicity on Medical Imaging Data</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/author/johannes-kaiser/">Johannes Kaiser</a></span>, <span ><a href="/author/sarah-lockfisch/">Sarah Lockfisch</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 9, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
     
 
 
@@ -741,74 +813,187 @@
 
 
 
-
-  
-
-  
-  
-  
-    
-  
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
-
-  
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  <ul>
+    <div class="article-style">
+      <p>In this master thesis we aim to explore the presence of predictive multiplicity in neural networks trained to predict pathologies in medical imaging datasets.
+In short, predictive multiplicity describes a phenomenon in which models trained for the same objective and achieving similar measures of predictive performances, such as loss or accuracy, may behave very differently for individual samples [1].
+While it is rather difficult and computationally expensive to acquire large sets of trained neural networks (as it requires retraining of the whole model), Laplace approximations allow to train a single model, construct a distribution of weights and sample from this distribution of weights.
+A recently proposed Riemannian Laplace Approximation allows to sample weights not only in the vicinity of the initial weights, but also with similar loss.
+This allows to generate large sets of model weights with hardly any computational effort [2].
+The variance in terms of non-target metrices of these models is strongly underexplored.
+This thesis should explore the variance in serveral desiderate metrices (such as fairness, robustness etc.) across the models contained in these sets.
+There is evidence, that a large enough set of neural networks is likey to contain models that perform well in the desiderate metrices.
+The results of this thesis may lead to the possibility of having fairer machine learning models performing medical diagnosis (for example in chest x-ray evaluation) without any fairness constraints or additional computational effort.</p>
+<br/>
+<h2 id="your-qualifications">Your qualifications:</h2>
+<p>We are looking for a highly motivated Master’s student in Computer Science, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase and apply it to medical imaging datasets. You will be working together with Johannes and Sarah, two Doctoral students at TU Munich under the supervision of Prof. Daniel Rückert. Importantly, this is cutting edge research such that with good results there is the chance to publish the findings at a machine learning conference.</p>
+<ol>
+<li>Strong motivation and interest in machine learning.</li>
+<li>Advanced programming skills in Python.</li>
+<li>Familiarity with deep learning libraries such as pytorch</li>
+<li>Strong communication skills.</li>
+</ol>
+<br/>
+<h2 id="what-we-offer">What we offer:</h2>
+<ul>
+<li>An exciting research project with many possibilities to bring in your own ideas.</li>
+<li>Close supervision and access to state-of-the-art computer hardware.</li>
+</ul>
+<br/>
+<h2 id="how-to-apply">How to apply:</h2>
+<p>Just send an email to <a href="mailto:johannes.kaiser@tum.de">johannes.kaiser@tum.de</a>, with a short CV and your grade report. We promise to get back to you within days.</p>
+<br/>
+<h2 id="references">References:</h2>
+<p>[1] Black, Emily, et al. &ldquo;Model Multiplicity: Opportunities, Concerns, and Solutions&rdquo; ACM Conference on Fairness, Accountability, and Transparency. (2022)</p>
+<p>[2] Bergamin, Federico, et al. &ldquo;Riemannian Laplace approximations for Bayesian neural networks.&rdquo; Advances in Neural Information Processing Systems 36 (2024).
+<br/></p>
+
+    </div>
+
     
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
       
-      <li><a href="https://aim-lab.io/author/johannes-kaiser/">Johannes Kaiser</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/theses/johanneskaiser/index_ma/&amp;text=MSc%20Thesis:%20Laplace%20Approximation%20based%20Evaluation%20of%20Model%20Multiplicity%20on%20Medical%20Imaging%20Data" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://aim-lab.io/author/sarah-lockfisch/">Sarah Lockfisch</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/theses/johanneskaiser/index_ma/&amp;t=MSc%20Thesis:%20Laplace%20Approximation%20based%20Evaluation%20of%20Model%20Multiplicity%20on%20Medical%20Imaging%20Data" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://aim-lab.io/author/marton-szep/">Márton Szép</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=MSc%20Thesis:%20Laplace%20Approximation%20based%20Evaluation%20of%20Model%20Multiplicity%20on%20Medical%20Imaging%20Data&amp;body=https://aim-lab.io/theses/johanneskaiser/index_ma/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://aim-lab.io/author/florian-a.-holzl/">Florian A. Hölzl</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/theses/johanneskaiser/index_ma/&amp;title=MSc%20Thesis:%20Laplace%20Approximation%20based%20Evaluation%20of%20Model%20Multiplicity%20on%20Medical%20Imaging%20Data" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://aim-lab.io/author/huaqi-qiu/">Huaqi Qiu</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=MSc%20Thesis:%20Laplace%20Approximation%20based%20Evaluation%20of%20Model%20Multiplicity%20on%20Medical%20Imaging%20Data%20https://aim-lab.io/theses/johanneskaiser/index_ma/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://aim-lab.io/author/alexander-ziller/">Alexander Ziller</a></li>
-    
       
-      <li><a href="https://aim-lab.io/author/anna-curto-vilalta/">Anna Curto Vilalta</a></li>
-    
       
-      <li><a href="https://aim-lab.io/author/johannes-c.-paetzold/">Johannes C. Paetzold</a></li>
-    
+        
       
-      <li><a href="https://aim-lab.io/author/suprosanna-shit/">Suprosanna Shit</a></li>
-    
       
-      <li><a href="https://aim-lab.io/author/ivan-ezhov/">Ivan Ezhov</a></li>
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/theses/johanneskaiser/index_ma/&amp;title=MSc%20Thesis:%20Laplace%20Approximation%20based%20Evaluation%20of%20Model%20Multiplicity%20on%20Medical%20Imaging%20Data" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
-
-  
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/2/">&raquo;</a></li>
-    
-  </ul>
-</nav>
-
-
 </div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
   </div>
 
   <div class="page-footer">
