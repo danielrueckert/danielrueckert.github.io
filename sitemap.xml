@@ -3,58 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aim-lab.io/publication-type/2/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/c.-chen/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/c.-qin/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/d.-rueckert/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/publication/mia-2023/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/publication_types/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/publication/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/s.-wang/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/w.-bai/</loc>
-    <lastmod>2024-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -98,7 +53,17 @@
   </url>
   
   <url>
+    <loc>https://aim-lab.io/publication-type/2/</loc>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/author/a.-j.-lotery/</loc>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/d.-rueckert/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,6 +94,16 @@
   
   <url>
     <loc>https://aim-lab.io/author/o.-leingang/</loc>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/publication_types/</loc>
+    <lastmod>2024-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/publication/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -333,7 +308,17 @@
   </url>
   
   <url>
+    <loc>https://aim-lab.io/author/c.-chen/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/author/c.-ouyang/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/c.-qin/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -359,6 +344,11 @@
   
   <url>
     <loc>https://aim-lab.io/publication/tmi-2024b/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/w.-bai/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -580,6 +570,16 @@
   <url>
     <loc>https://aim-lab.io/author/l.-chen/</loc>
     <lastmod>2022-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/s.-wang/</loc>
+    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/publication/mia-2023/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
