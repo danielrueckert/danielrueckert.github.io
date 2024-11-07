@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Hammernik | AI in Medicine</title>
+    <link>https://aim-lab.io/author/k.-hammernik/</link>
+      <atom:link href="https://aim-lab.io/author/k.-hammernik/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Hammernik</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <title>K. Hammernik</title>
+      <link>https://aim-lab.io/author/k.-hammernik/</link>
+    </image>
+    
+    <item>
+      <title>Neural Implicit k-Space for Binning-Free Non-Cartesian Cardiac MR Imaging.</title>
+      <link>https://aim-lab.io/publication/ipmi-2023/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/publication/ipmi-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
