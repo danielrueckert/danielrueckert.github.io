@@ -4,17 +4,27 @@
   
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2024-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/phillipmuller/master_locllm_index/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/philip-muller/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -672,10 +682,6 @@
   
   <url>
     <loc>https://aim-lab.io/author/paul-hager/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/philip-muller/</loc>
   </url>
   
   <url>
