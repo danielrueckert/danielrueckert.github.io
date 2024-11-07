@@ -5,40 +5,12 @@
     <link>https://aim-lab.io/author/daniel-rueckert/</link>
       <atom:link href="https://aim-lab.io/author/daniel-rueckert/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Rueckert</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Thu, 10 Oct 2024 13:45:38 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Sat, 10 Feb 2024 13:45:38 +0200</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Daniel Rueckert</title>
       <link>https://aim-lab.io/author/daniel-rueckert/</link>
     </image>
-    
-    <item>
-      <title>AIM Lab @ MICCAI 2024</title>
-      <link>https://aim-lab.io/post/miccai_2024/</link>
-      <pubDate>Thu, 10 Oct 2024 13:45:38 +0200</pubDate>
-      <guid>https://aim-lab.io/post/miccai_2024/</guid>
-      <description>&lt;p&gt;Members of the AIM lab had a a fantastic time discussing science and enjoying Marrakech at MICCAI 2024. We presented over 20 scientific papers at the main MICCAI conference and the workshops in the area of image reconstruction, image analysis and multi-modal machine learning.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MIDL Best Paper Award</title>
-      <link>https://aim-lab.io/post/best_paper_award_vasiliki/</link>
-      <pubDate>Fri, 05 Jul 2024 13:45:38 +0200</pubDate>
-      <guid>https://aim-lab.io/post/best_paper_award_vasiliki/</guid>
-      <description>&lt;p&gt;We are very excited that our paper “SINR: Spline-enhanced implicit neural representation for multi-modal registration” won got the best oral award in MIDL 2024! Congratulations to Vasiliki Sideri-Lampretsa and all the co-authors.&lt;/p&gt;
-&lt;p&gt;Check out the work here: &lt;a href=&#34;https://openreview.net/forum?id=V5XDYSRcQP!&#34;&gt;https://openreview.net/forum?id=V5XDYSRcQP!&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Alphabet and Google visit AIM Lab</title>
-      <link>https://aim-lab.io/post/google_visit/</link>
-      <pubDate>Fri, 16 Feb 2024 13:45:38 +0200</pubDate>
-      <guid>https://aim-lab.io/post/google_visit/</guid>
-      <description>&lt;p&gt;Yesterday, we welcomed the CEO of Alphabet and Google, Sundar Pichai, to TUM and our Lab for AI in Medicine located at the University Hospital rechts der Isar. We were happy to showcase some of the exciting work on AI, cloud computing and genomics at TUM, followed by a fruitful discussion on how we can work together to accelerate the translation of these developments for the benefit of patients. Thank you for taking the time to visit us!&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>AIM Lab Mountain Retreat</title>
