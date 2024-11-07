@@ -67,6 +67,25 @@ approaches to handle both images and text in a single model. Typical tasks inclu
     </item>
     
     <item>
+      <title>AIM Lab @ MICCAI 2024</title>
+      <link>https://aim-lab.io/post/miccai_2024/</link>
+      <pubDate>Thu, 10 Oct 2024 13:45:38 +0200</pubDate>
+      <guid>https://aim-lab.io/post/miccai_2024/</guid>
+      <description>&lt;p&gt;Members of the AIM lab had a a fantastic time discussing science and enjoying Marrakech at MICCAI 2024. We presented over 20 scientific papers at the main MICCAI conference and the workshops in the area of image reconstruction, image analysis and multi-modal machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MICCAI Enduring Impact Award</title>
+      <link>https://aim-lab.io/post/enduring_impact_award/</link>
+      <pubDate>Thu, 10 Oct 2024 12:45:38 +0200</pubDate>
+      <guid>https://aim-lab.io/post/enduring_impact_award/</guid>
+      <description>&lt;p&gt;The Medical Image Computing and Computer Assisted Intervention Society (The MICCAI Society) presents Professor Daniel Rückert with the Enduring Impact Award 2024. He received the award at the MICCAI conference, which took place from October 6 to 10, 2024, in Marrakech, Morocco.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cit.tum.de/en/cit/news/article/miccai-enduring-impact-award-daniel-rueckert/&#34;&gt;https://www.cit.tum.de/en/cit/news/article/miccai-enduring-impact-award-daniel-rueckert/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MSc Thesis: Large Language Models in Medicine</title>
       <link>https://aim-lab.io/theses/martonszep/index_llm-med/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
@@ -286,6 +305,16 @@ Objective&lt;/p&gt;
     </item>
     
     <item>
+      <title>MIDL Best Paper Award</title>
+      <link>https://aim-lab.io/post/best_paper_award_vasiliki/</link>
+      <pubDate>Fri, 05 Jul 2024 13:45:38 +0200</pubDate>
+      <guid>https://aim-lab.io/post/best_paper_award_vasiliki/</guid>
+      <description>&lt;p&gt;We are very excited that our paper “SINR: Spline-enhanced implicit neural representation for multi-modal registration” won got the best oral award in MIDL 2024! Congratulations to Vasiliki Sideri-Lampretsa and all the co-authors.&lt;/p&gt;
+&lt;p&gt;Check out the work here: &lt;a href=&#34;https://openreview.net/forum?id=V5XDYSRcQP!&#34;&gt;https://openreview.net/forum?id=V5XDYSRcQP!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Practical Course: Applied Deep Learning in Medicine</title>
       <link>https://aim-lab.io/theses/alexziller/practical/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
@@ -375,204 +404,20 @@ Passcode: 850155&lt;/p&gt;
     </item>
     
     <item>
-      <title>MSc Thesis: Diffusion-based Topology-preserving Medical Image Segmentation</title>
-      <link>https://aim-lab.io/theses/johannespaetzold/master_thesis_topo/</link>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/johannespaetzold/master_thesis_topo/</guid>
-      <description>&lt;p&gt;This project can be hosted in Munich and/or Zurich @Biomedical Image Analysis &amp;amp; Machine Learning Group,
-University of Zurich.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Images/diffImg.png&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;background&#34;&gt;Background:&lt;/h3&gt;
-&lt;p&gt;Topology is vital in medical image segmentation, emphasizing anatomically correct structures &amp;amp; removing incorrect ones. Previous works [1-3] explored how to enforce topological constraints, however, are applied only at training. Recent diffusion-based models [4, 5] offer a novel way to enforce topological constraints during inference.&lt;/p&gt;
-&lt;h3 id=&#34;your-tasks&#34;&gt;Your tasks:&lt;/h3&gt;
-&lt;p&gt;First, you will develop a diffusion model for segmentation. Next, you will be devising a novel way to integrate topological constraints in the diffusion model. Importantly, we aim to publish the results of this work with you at a high-impact conference or journal.&lt;/p&gt;
-&lt;h3 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h3&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in CS, Physics, Engineering or Mathematics with&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Good understanding and strong interest in SOTA generative models.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and common DL framework, i.e., PyTorch.&lt;/li&gt;
-&lt;li&gt;Strong interest in teamwork and inter-disciplinary research.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;The opportunity to join an ongoing project with the aim of publishing a top tier conference paper.&lt;/li&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Potential transition into a PhD project.&lt;/li&gt;
-&lt;li&gt;The possibility to bring in your own ideas and combine them with state-of-the-art algorithms.&lt;/li&gt;
-&lt;li&gt;Close supervision by an interdisciplinary team of experts in computer vision, and deep learning.&lt;/li&gt;
-&lt;li&gt;Access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h3&gt;
-&lt;p&gt;​Please send your CV and transcript to Johannes Paetzold (&lt;a href=&#34;mailto:johannes.paetzold@tum.de&#34;&gt;johannes.paetzold@tum.de&lt;/a&gt;) and Suprosanna Shit (&lt;a href=&#34;mailto:suprosanna.shit@uzh.ch&#34;&gt;suprosanna.shit@uzh.ch&lt;/a&gt;).
-Links to previous work (e.g., your GitHub profile) are highly appreciated.
-​&lt;/p&gt;
-&lt;h3 id=&#34;references&#34;&gt;References:&lt;/h3&gt;
-&lt;p&gt;​[1] Stucki et al. Betti-matching, ICML 2023
-[2] Gupta et al. Topology Interactions, ECCV 2022
-[3] Berger et al. Multi-class Betti Matching, arxiv, 2024
-[4] Wu et al. MedSegDiff-V2, AAAI 2024
-[5] Song et al. Loss-guided Diffusion, ICML 2023&lt;/p&gt;
+      <title>Alphabet and Google visit AIM Lab</title>
+      <link>https://aim-lab.io/post/google_visit/</link>
+      <pubDate>Fri, 16 Feb 2024 13:45:38 +0200</pubDate>
+      <guid>https://aim-lab.io/post/google_visit/</guid>
+      <description>&lt;p&gt;Yesterday, we welcomed the CEO of Alphabet and Google, Sundar Pichai, to TUM and our Lab for AI in Medicine located at the University Hospital rechts der Isar. We were happy to showcase some of the exciting work on AI, cloud computing and genomics at TUM, followed by a fruitful discussion on how we can work together to accelerate the translation of these developments for the benefit of patients. Thank you for taking the time to visit us!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>IDP/Thesis: Physics-based deep learning for hyperspectral brain surgery imaging</title>
-      <link>https://aim-lab.io/theses/ivanezhov/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/ivanezhov/</guid>
-      <description>&lt;p&gt;Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object&amp;rsquo;s reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors [1].&lt;/p&gt;
-&lt;p&gt;Within the &lt;a href=&#34;https://hyperprobe.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HyperProbe&lt;/a&gt; project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery.
-Your goal would be to develop a methodology at the intersection between physics and machine-learning to identify biomarkers of healthy and tumor brain tissue.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://hyperprobe.eu/wp-content/uploads/2022/12/shutterstock_1152709331-2048x1152.jpg&#34; alt=&#34;Surgery&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Enthusiasm for merging physics with AI for developing new biomedical imaging modality&lt;/li&gt;
-&lt;li&gt;Ideally, prior work experience using deep learning for image processing&lt;/li&gt;
-&lt;li&gt;Decent programming skills in Python as well as PyTorch or Tensorflow&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project aimed to build a new imaging modality that has a potential to change the neurosurgery monitoring in the near future&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:ivan.ezhov@tum.de&#34;&gt;ivan.ezhov@tum.de&lt;/a&gt; with your CV and transcript.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Luca Giannoni, Frédéric Lange and Ilias Tachtsidis. Hyperspectral imaging solutions for brain tissue
-metabolic and hemodynamic monitoring: past, current and future developments, J. Opt. 20 (2018)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IDP: iOS app for wearable health data management</title>
-      <link>https://aim-lab.io/theses/florianhinterwimmer/idp_wearables/</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/florianhinterwimmer/idp_wearables/</guid>
-      <description>&lt;p&gt;​&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;In an era where technology has seamlessly integrated with our day-to-day lives, health and fitness tracking has seen a revolutionary change. Gone are the days when we passively absorbed health information. Today, we&amp;rsquo;re in the age of data-driven insights, where personalized health data is not just recorded but actively analyzed to provide actionable insights.
-​
-In MeDecode we want to embody this evolution, we are a pre-registered startup founded six months ago by an active team of three co-founders, and we are currently seeking a student to contribute to the software development efforts to create a Minimal Viable Product. Offering users an intuitive platform to monitor, compare and understand various health metrics, this project truly stands apart with its emphasis on comparative insights against other users. In the vast sea of health data, understanding one&amp;rsquo;s metrics in isolation offers limited insight. Is a heart rate of 80 bpm at rest good or bad? How does a person&amp;rsquo;s sleep pattern compare with someone of their age and lifestyle? By allowing users to compare their data against that of others, we offer a clearer, contextualized view of their health. This not only bridges the gap between mere data collection and genuine understanding but also creates a more engaging and motivating user experience.
-​
-However, with the power of comparative insights comes a significant responsibility: ensuring user privacy and data anonymization. Firstly, it serves to protect user identity, ensuring that while data can be compared, individual identities remain concealed. Secondly, when users are aware that their data is anonymized, they are more inclined to report honestly, leading to more accurate and reliable comparative insights. Lastly, in the unfortunate event of a data breach, the anonymization of data drastically reduces its value to malicious actors, as it can&amp;rsquo;t be linked back to specific individuals, thereby minimizing potential harm.
-&lt;br/&gt;
-​&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications&lt;/h2&gt;
-&lt;p&gt;​
-We are actively seeking an enthusiastic Master&amp;rsquo;s student, preferably majoring in Computer Science, Information Systems, or Health Informatics. Your core responsibility will be to develop a simple iOS app that reads, saves and plots the HealthKit data. Your base of operations will be at the Institute for AI in Medicine, working closely with Doctors and Wearables Artificial Intelligence experts. It is our collective ambition to bring this project to the market, and we envision you playing a pivotal role.
-​&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in wearable technology, healthcare and/or artificial intelligence.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Swift (or preferred iOS programming language).&lt;/li&gt;
-&lt;li&gt;Independent working style with strong interest in teamwork.
-​
-&lt;br/&gt;
-​&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;p&gt;​&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting  project in scope of a highly dynamic startup environment with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified computer scientists and medical experts.&lt;/li&gt;
-&lt;li&gt;experiencing the development of an early stage tech/health startup&lt;/li&gt;
-&lt;li&gt;potential for long-term engagment
-​
-&lt;br/&gt;
-​&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply?&lt;/h2&gt;
-&lt;p&gt;​
-Send an email to &lt;a href=&#34;mailto:Contact@medecode.app&#34;&gt;Contact@medecode.app&lt;/a&gt; with your CV.
-​
-&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Contrastive Learning and Generative Models for Cross-Domain Transfer Learning</title>
-      <link>https://aim-lab.io/theses/johannespaetzold/diffusionformer/</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/johannespaetzold/diffusionformer/</guid>
-      <description>&lt;p&gt;In this Master thesis we aim to approach the cross-domain transfer learning problem with two powerful methods that help us to bridge the domain gap between source and target domain: contrastive learning [1] and generative models. Specifically, we want to solve the transfer learning problem for the computer vision task of graph extraction from images (e.g. road network extraction, blood-vessel network extraction, scene graph generation, or pose estimation) [2].&lt;/p&gt;
-&lt;p&gt;To address these challenges, we propose two innovative strategies where one or ideally both can be explored during the course of the thesis:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Contrastive Learning for Domain Alignment [1]: Leveraging the power of contrastive learning, we seek to achieve domain alignment while harnessing label information from both domains.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Image-to-Image Translation with Generative Models: By exploring the capabilities of diffusion models [3] or GANs [4], we aim to generate target domain samples from source domain data.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Both of these approaches will be applied to the Relationformer architecture, a unified one-stage transformer-based framework introduced in our recent ECCV paper [2]. Our experimentation will involve working with extensive biological datasets, such as whole brain vasculature [5], neurons, and satellite imagery.
-&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./tl_datasets.png&#34; alt=&#34;image datasets&#34;&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to extend the existing Pytorch codebase and apply it to novel datasets. You will be working together with Johannes and Alex, two PostDocs scientist at TU Munich and Imperial College London under the supervision of Prof. Daniel Rückert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
-&lt;li&gt;Strong interest in teamwork and interdisciplinary research.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision, and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:j.paetzold@ic.ac.uk&#34;&gt;j.paetzold@ic.ac.uk&lt;/a&gt; and &lt;a href=&#34;mailto:a.berger@tum.de&#34;&gt;a.berger@tum.de&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;img src=&#34;./i2g.png&#34; alt=&#34;image image-to-graph&#34;&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;[1] Motiian, Saeid, et al. &amp;ldquo;Few-shot adversarial domain adaptation.&amp;rdquo; Advances in neural information processing systems 30 (2017).&lt;/p&gt;
-&lt;p&gt;[2] Shit, Suprosanna, et al. &amp;ldquo;Relationformer: A unified framework for image-to-graph generation.&amp;rdquo; European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.&lt;/p&gt;
-&lt;p&gt;[3] Saharia, Chitwan, et al. &amp;ldquo;Palette: Image-to-image diffusion models.&amp;rdquo; ACM SIGGRAPH 2022 Conference Proceedings. 2022.&lt;/p&gt;
-&lt;p&gt;[4] Liu, Ming-Yu, Thomas Breuel, and Jan Kautz. &amp;ldquo;Unsupervised image-to-image translation networks.&amp;rdquo; Advances in neural information processing systems 30 (2017).&lt;/p&gt;
-&lt;p&gt;[5] Paetzold, Johannes C., et al. &amp;ldquo;Whole Brain Vessel Graphs: A Dataset and Benchmark for Graph Learning and Neuroscience.&amp;rdquo; Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). 2021.
-&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Module IN2409: Inverse Problems in Medical Imaging</title>
-      <link>https://aim-lab.io/post/inverse-problems/</link>
-      <pubDate>Tue, 12 Apr 2022 13:45:38 +0200</pubDate>
-      <guid>https://aim-lab.io/post/inverse-problems/</guid>
-      <description>&lt;p&gt;This module will be held as a &lt;em&gt;joint online course&lt;/em&gt; between Technical University of Munich (TUM) and  Graz University of Technology (TUG). We offer an interactive lecture, theoretical and practical exercises, as well as international networking opportunities to our students.&lt;/p&gt;
-&lt;h1 id=&#34;lecture-content&#34;&gt;Lecture Content&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Introduction, Basics and Applications, Definition Inverse Problem&lt;/li&gt;
-&lt;li&gt;The Eigenvalue Problem, solving Quadratic Inverse Problems&lt;/li&gt;
-&lt;li&gt;Singular Value Decomposition&lt;/li&gt;
-&lt;li&gt;Inverse Methods Based on Length&lt;/li&gt;
-&lt;li&gt;The Generalized Inverse&lt;/li&gt;
-&lt;li&gt;Nonlinear Inverse Problems&lt;/li&gt;
-&lt;li&gt;Regularization&lt;/li&gt;
-&lt;li&gt;Inverse Problems in Imaging&lt;/li&gt;
-&lt;li&gt;Application: Computed Tomography&lt;/li&gt;
-&lt;li&gt;Application: Magnetic Resonance Imaging&lt;/li&gt;
-&lt;li&gt;Connections to Machine Learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;target-group&#34;&gt;Target Group&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Master&amp;rsquo;s students and PhD students&lt;/li&gt;
-&lt;li&gt;Interest in Mathematics, Biomedical Imaging, Magnetic Resonance Imaging&lt;/li&gt;
-&lt;li&gt;Students of Informatics, Mathematics, Biomedical Engineering, Physics and related studies&lt;/li&gt;
-&lt;li&gt;Required: Basic knowledge of Mathematics (Bachelor&amp;rsquo;s courses)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;registration&#34;&gt;Registration&lt;/h1&gt;
-&lt;p&gt;Registration has to be conducted in TUMonline. Registration is open for students of Informatics, students from other fields can be manually enrolled to the courses. The module IN2409 consists of a lecture class and an exercise class.&lt;/p&gt;
-&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:k.hammernik@tum.de&#34;&gt;Kerstin Hammernik&lt;/a&gt;, Technical University of Munich&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:c.graf@tugraz.at&#34;&gt;Christina Graf&lt;/a&gt;, Graz University of Technology&lt;/li&gt;
-&lt;/ul&gt;
+      <title>AIM Lab Mountain Retreat</title>
+      <link>https://aim-lab.io/post/aimlab_retreat/</link>
+      <pubDate>Sat, 10 Feb 2024 13:45:38 +0200</pubDate>
+      <guid>https://aim-lab.io/post/aimlab_retreat/</guid>
+      <description>&lt;p&gt;We just returned from our lab retreat at the Kitzsteinhorn in Austria. We had a great time discussing science and enjoying the sun and snow!&lt;/p&gt;
 </description>
     </item>
     

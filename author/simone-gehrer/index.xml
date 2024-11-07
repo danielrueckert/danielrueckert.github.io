@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simone Gehrer | AI in Medicine</title>
+    <link>https://aim-lab.io/author/simone-gehrer/</link>
+      <atom:link href="https://aim-lab.io/author/simone-gehrer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simone Gehrer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Thu, 10 Oct 2024 12:45:38 +0200</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <title>Simone Gehrer</title>
+      <link>https://aim-lab.io/author/simone-gehrer/</link>
+    </image>
+    
+    <item>
+      <title>MICCAI Enduring Impact Award</title>
+      <link>https://aim-lab.io/post/enduring_impact_award/</link>
+      <pubDate>Thu, 10 Oct 2024 12:45:38 +0200</pubDate>
+      <guid>https://aim-lab.io/post/enduring_impact_award/</guid>
+      <description>&lt;p&gt;The Medical Image Computing and Computer Assisted Intervention Society (The MICCAI Society) presents Professor Daniel Rückert with the Enduring Impact Award 2024. He received the award at the MICCAI conference, which took place from October 6 to 10, 2024, in Marrakech, Morocco.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cit.tum.de/en/cit/news/article/miccai-enduring-impact-award-daniel-rueckert/&#34;&gt;https://www.cit.tum.de/en/cit/news/article/miccai-enduring-impact-award-daniel-rueckert/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
