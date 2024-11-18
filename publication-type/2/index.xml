@@ -37,14 +37,6 @@
     </item>
     
     <item>
-      <title>Causality-inspired Single-source Domain Generalization for Medical Image Segmentation.</title>
-      <link>https://aim-lab.io/publication/tmi-2024c/</link>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/publication/tmi-2024c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Unsupervised Pathology Detection: A Deep Dive Into the State of the Art.</title>
       <link>https://aim-lab.io/publication/tmi-2024b/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
@@ -89,6 +81,14 @@
       <link>https://aim-lab.io/publication/tmi-2024a/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/publication/tmi-2024a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causality-inspired Single-source Domain Generalization for Medical Image Segmentation.</title>
+      <link>https://aim-lab.io/publication/tmi-2024c/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/publication/tmi-2024c/</guid>
       <description></description>
     </item>
     

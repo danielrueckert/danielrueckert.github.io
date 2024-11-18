@@ -5,12 +5,41 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>IDP/Thesis: Physics-based deep learning for hyperspectral neuronavigation</title>
+      <link>https://aim-lab.io/theses/ivanezhov/thesis_hyperprobe/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/ivanezhov/thesis_hyperprobe/</guid>
+      <description>&lt;p&gt;Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object&amp;rsquo;s reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors [1]. 
+Within the &lt;a href=&#34;https://hyperprobe.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HyperProbe&lt;/a&gt; project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery. 
+Your goal would be to develop a methodology at the intersection between physics and machine-learning to identify biomarkers of healthy and tumor brain tissue.
+&lt;img src=&#34;https://hyperprobe.eu/wp-content/uploads/2022/12/shutterstock_1152709331-2048x1152.jpg&#34; alt=&#34;Surgery&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enthusiasm for merging physics with AI for developing new biomedical imaging modality&lt;/li&gt;
+&lt;li&gt;Ideally, prior work experience using deep learning for image processing&lt;/li&gt;
+&lt;li&gt;Decent programming skills in Python as well as PyTorch or Tensorflow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project aimed to build a new imaging modality that has a potential to change the neurosurgery monitoring in the near future&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:ivan.ezhov@tum.de&#34;&gt;ivan.ezhov@tum.de&lt;/a&gt; with your CV and transcript.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Luca Giannoni, Frédéric Lange and Ilias Tachtsidis. Hyperspectral imaging solutions for brain tissue
+metabolic and hemodynamic monitoring: past, current and future developments, J. Opt. 20 (2018)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MSc Thesis: Making LLMs Localize Objects</title>

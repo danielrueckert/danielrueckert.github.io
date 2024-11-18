@@ -4,17 +4,27 @@
   
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/ivanezhov/thesis_hyperprobe/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/ivan-ezhov/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -313,26 +323,6 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/author/c.-chen/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/c.-ouyang/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/c.-qin/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/publication/tmi-2024c/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/author/f.-meissen/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url>
@@ -343,22 +333,7 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/author/s.-li/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/publication/tmi-2024b/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/w.-bai/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/z.-li/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -518,6 +493,11 @@
   </url>
   
   <url>
+    <loc>https://aim-lab.io/author/w.-bai/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/author/g.-cruz/</loc>
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
   </url>
@@ -550,6 +530,36 @@
   <url>
     <loc>https://aim-lab.io/publication/cvpr-2023/</loc>
     <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/c.-chen/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/c.-ouyang/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/c.-qin/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/publication/tmi-2024c/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/s.-li/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/z.-li/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -855,10 +865,6 @@
   
   <url>
     <loc>https://aim-lab.io/author/henrik-von-kleist/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/ivan-ezhov/</loc>
   </url>
   
   <url>
