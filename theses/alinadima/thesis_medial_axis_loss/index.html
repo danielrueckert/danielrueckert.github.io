@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="Professor of Artificial Intelligence in Healthcare and Medicine">
+  <meta name="description" content="Description Image segmentation seeks to classify individual pixels in an image into semantic classes, such as e.g. the organs in a CT scan. State-of-the-art approaches to image segmentation [5], while very accurate, have limitations in terms of topological correctness.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/author/huaqi-harvey-qiu/">
+  <link rel="alternate" hreflang="en-us" href="https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/">
 
   
 
@@ -244,14 +244,12 @@
   
 
   
-  <link rel="alternate" href="/author/huaqi-harvey-qiu/index.xml" type="application/rss+xml" title="AI in Medicine">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://aim-lab.io/author/huaqi-harvey-qiu/">
+  <link rel="canonical" href="https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/">
 
   
   
@@ -270,29 +268,34 @@
   <meta property="twitter:creator" content="@DanielRueckert">
   
   <meta property="og:site_name" content="AI in Medicine">
-  <meta property="og:url" content="https://aim-lab.io/author/huaqi-harvey-qiu/">
-  <meta property="og:title" content="Huaqi (Harvey) Qiu | AI in Medicine">
-  <meta property="og:description" content="Professor of Artificial Intelligence in Healthcare and Medicine"><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/">
+  <meta property="og:title" content="MSc Thesis: Medial axis-based segmentation loss | AI in Medicine">
+  <meta property="og:description" content="Description Image segmentation seeks to classify individual pixels in an image into semantic classes, such as e.g. the organs in a CT scan. State-of-the-art approaches to image segmentation [5], while very accurate, have limitations in terms of topological correctness."><meta property="og:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
+      <meta property="article:published_time" content="2024-11-18T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2024-11-18T00:00:00&#43;00:00">
   
 
   
 
 
 
-
   
 
 
   
 
 
+  
 
 
 
-  <title>Huaqi (Harvey) Qiu | AI in Medicine</title>
+
+
+  <title>MSc Thesis: Medial axis-based segmentation loss | AI in Medicine</title>
 
 </head>
 
@@ -690,21 +693,261 @@
   </div>
 
   <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>MSc Thesis: Medial axis-based segmentation loss</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/author/alina-dima/">Alina Dima</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov 18, 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
     
 
 
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
-    
-    
-      
-      
-      
-      
 
 
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h3 id="description">Description</h3>
+<p><strong>Image segmentation</strong> seeks to classify individual pixels in an image into semantic classes, such as e.g. the organs in a CT scan. State-of-the-art approaches to image segmentation [5], while very accurate, have limitations in terms of topological correctness. Topological losses are being investigated to overcome these challenges; for example, CL-Dice [4] introduced a loss based on a differentiable soft skeleton for vessel segmentation. In this work we seek to extend this approach to more complex objects, using the medial axis.</p>
+<p>The <strong>medial axis</strong> refers to the set of points inside a shape that are equidistant from at least two boundary points of the shape. It can be thought of as a skeletal representation of the shape, which simplifies its structure while preserving essential geometric and topological properties. Approximating the medial axis efficiently and robustly is an active topic of research [1, 2, 3].</p>
+<p>In this project you will implement in Python / adapt from other frameworks the medial axis computation and evaluate its feasibility as a loss in a segmentation problem. You will be working in a state-of-the-art research project with opportunities to bring in you own research ideas. We are looking for a highly motivated student with a <strong>solid background in computer graphics</strong> and experience in <strong>C++</strong>, in addition to experience in <strong>PyTorch</strong>. We will provide access to necessary hardware.</p>
+<br/>
+<h3 id="how-to-apply"><strong>How to apply</strong></h3>
+<p>Please send your CV and transcript to Alina Dima (<a href="mailto:alina.dima@tum.de">alina.dima@tum.de</a>) and Suprosanna Shit (<a href="mailto:suprosanna.shit@uzh.ch">suprosanna.shit@uzh.ch</a>) using the subject “<strong>MSc Thesis: Medial axis-based segmentation loss”</strong>.</p>
+<p>Please also include brief summaries of your prior deep learning projects (including your contributions to the project and the used framework) and, if available, provide links to the codebases (e.g., your GitHub profile).</p>
+<br/>
+<h3 id="references">References</h3>
+<p>[1] Yan, Y., Letscher, D., &amp; Ju, T. (2018). Voxel cores: Efficient, robust, and provably good approximation of 3d medial axes. <em>ACM Transactions on Graphics (TOG)</em>, <em>37</em>(4), 1-13.</p>
+<p>[2] Pepe, A., Schussnig, R., Li, J., Gsaxner, C., Schmalstieg, D., &amp; Egger, J. (2024). Deep Medial Voxels: Learned Medial Axis Approximations for Anatomical Shape Modeling. <em>arXiv preprint arXiv:2403.11790</em>.</p>
+<p>[3] Wang, N., Huang, H., Song, S., Wang, B., Wang, W., &amp; Guo, X. (2024). MATTopo: Topology-preserving Medial Axis Transform with Restricted Power Diagram. <em>arXiv preprint arXiv:2403.18761</em>.</p>
+<p>[4] Shit, S., Paetzold, J. C., Sekuboyina, A., Ezhov, I., Unger, A., Zhylka, A., &hellip; &amp; Menze, B. H. (2021). clDice-a novel topology-preserving  loss function for tubular structure segmentation. In <em>Proceedings of the IEEE/CVF conference on computer vision and pattern recognition</em> (pp. 16560-16569).</p>
+<p>[5] Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., &amp; Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. <em>Nature methods</em>, <em>18</em>(2), 203-211.</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/&amp;text=MSc%20Thesis:%20Medial%20axis-based%20segmentation%20loss" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/&amp;t=MSc%20Thesis:%20Medial%20axis-based%20segmentation%20loss" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=MSc%20Thesis:%20Medial%20axis-based%20segmentation%20loss&amp;body=https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/&amp;title=MSc%20Thesis:%20Medial%20axis-based%20segmentation%20loss" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=MSc%20Thesis:%20Medial%20axis-based%20segmentation%20loss%20https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/&amp;title=MSc%20Thesis:%20Medial%20axis-based%20segmentation%20loss" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/alina-dima/"><img class="avatar mr-3 avatar-circle" src="/author/alina-dima/avatar_hued4476da19fbe00777af9dbded3f6611_496084_270x270_fill_q90_lanczos_center.jpg" alt="Alina Dima"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/alina-dima/">Alina Dima</a></h5>
+      <h6 class="card-subtitle">PhD Student</h6>
+      <p class="card-text">I am interested in the medical applications of deep learning.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:alina.dima@tum.de" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
 
 
   
@@ -718,152 +961,16 @@
 
 
 
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
 
-      
-      
-      <img class="avatar avatar-circle" src="/author/huaqi-harvey-qiu/avatar_hu52f7451f72aa758c842f73132df7a1f5_424512_270x270_fill_q90_lanczos_center.jpeg" alt="Huaqi (Harvey) Qiu">
-      
 
-      <div class="portrait-title">
-        <h2>Huaqi (Harvey) Qiu</h2>
-        <h3>Research Scientist</h3>
 
-        
-        <h3>
-          <a href="https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/" target="_blank" rel="noopener">
-          <span>Technical University of Munich</span>
-          </a>
-        </h3>
-        
-      </div>
 
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-        <li>
-          <a href="mailto:harvey.qiu@tum.de" >
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://www.linkedin.com/in/huaqi-qiu" target="_blank" rel="noopener">
-            <i class="fab fa-linkedin big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://scholar.google.com/citations?user=tTAdtzYAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">
-            <i class="ai ai-google-scholar big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
 
-    </div>
+
+
+
   </div>
-  <div class="col-12 col-lg-8">
-
-    
-    
-
-    <p>Huaqi (Harvey) Qiu, PhD is a researcher at the Chair of Artificial Intelligence in Healthcare and Medicine in Technical University of Munich. His research explores the use of modern multi-modal Machine Learning algorithms for preventive sports medicine and sports cardiology using real clinical data. Prior to joining the lab, Harvey received his PhD in Computing Research from Imperial College London where he focused on Deformable Image Registration using Deep Learning, with application in cardiac imaging. In his current position, he is also continuing work on medical image registration, with a new focus on building accessible registration tools for modern medical imaging research using deep learning frameworks.</p>
-
-
-    <div class="row">
-
-      
-      <div class="col-md-5">
-        <h3>Interests</h3>
-        <ul class="ul-interests">
-          
-          <li>Multi-modal machine learning in medicine</li>
-          
-          <li>Sports Medicine</li>
-          
-          <li>Clinical-driven evaluation</li>
-          
-          <li>Medical image registration</li>
-          
-        </ul>
-      </div>
-      
-
-      
-      <div class="col-md-7">
-        <h3>Education</h3>
-        <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">PhD in Computing</p>
-              <p class="institution">Imperial College London</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">MSc in Communication Engineering</p>
-              <p class="institution">Imperial College London</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BEng in Electronics and Communication Engineering</p>
-              <p class="institution">University of Liverpool</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
-      
-
-    </div>
-  </div>
-</div>
-
-    
-
-    
-    
-    
-  </div>
-</section>
+</article>
   </div>
 
   <div class="page-footer">

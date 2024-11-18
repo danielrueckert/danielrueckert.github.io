@@ -5,12 +5,35 @@
     <link>https://aim-lab.io/author/alina-dima/</link>
       <atom:link href="https://aim-lab.io/author/alina-dima/index.xml" rel="self" type="application/rss+xml" />
     <description>Alina Dima</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Alina Dima</title>
       <link>https://aim-lab.io/author/alina-dima/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Medial axis-based segmentation loss</title>
+      <link>https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/</guid>
+      <description>&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Image segmentation&lt;/strong&gt; seeks to classify individual pixels in an image into semantic classes, such as e.g. the organs in a CT scan. State-of-the-art approaches to image segmentation [5], while very accurate, have limitations in terms of topological correctness. Topological losses are being investigated to overcome these challenges; for example, CL-Dice [4] introduced a loss based on a differentiable soft skeleton for vessel segmentation. In this work we seek to extend this approach to more complex objects, using the medial axis.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;medial axis&lt;/strong&gt; refers to the set of points inside a shape that are equidistant from at least two boundary points of the shape. It can be thought of as a skeletal representation of the shape, which simplifies its structure while preserving essential geometric and topological properties. Approximating the medial axis efficiently and robustly is an active topic of research [1, 2, 3].&lt;/p&gt;
+&lt;p&gt;In this project you will implement in Python / adapt from other frameworks the medial axis computation and evaluate its feasibility as a loss in a segmentation problem. You will be working in a state-of-the-art research project with opportunities to bring in you own research ideas. We are looking for a highly motivated student with a &lt;strong&gt;solid background in computer graphics&lt;/strong&gt; and experience in &lt;strong&gt;C++&lt;/strong&gt;, in addition to experience in &lt;strong&gt;PyTorch&lt;/strong&gt;. We will provide access to necessary hardware.&lt;/p&gt;
+&lt;br/&gt;
+&lt;h3 id=&#34;how-to-apply&#34;&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Please send your CV and transcript to Alina Dima (&lt;a href=&#34;mailto:alina.dima@tum.de&#34;&gt;alina.dima@tum.de&lt;/a&gt;) and Suprosanna Shit (&lt;a href=&#34;mailto:suprosanna.shit@uzh.ch&#34;&gt;suprosanna.shit@uzh.ch&lt;/a&gt;) using the subject “&lt;strong&gt;MSc Thesis: Medial axis-based segmentation loss”&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Please also include brief summaries of your prior deep learning projects (including your contributions to the project and the used framework) and, if available, provide links to the codebases (e.g., your GitHub profile).&lt;/p&gt;
+&lt;br/&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;[1] Yan, Y., Letscher, D., &amp;amp; Ju, T. (2018). Voxel cores: Efficient, robust, and provably good approximation of 3d medial axes. &lt;em&gt;ACM Transactions on Graphics (TOG)&lt;/em&gt;, &lt;em&gt;37&lt;/em&gt;(4), 1-13.&lt;/p&gt;
+&lt;p&gt;[2] Pepe, A., Schussnig, R., Li, J., Gsaxner, C., Schmalstieg, D., &amp;amp; Egger, J. (2024). Deep Medial Voxels: Learned Medial Axis Approximations for Anatomical Shape Modeling. &lt;em&gt;arXiv preprint arXiv:2403.11790&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;[3] Wang, N., Huang, H., Song, S., Wang, B., Wang, W., &amp;amp; Guo, X. (2024). MATTopo: Topology-preserving Medial Axis Transform with Restricted Power Diagram. &lt;em&gt;arXiv preprint arXiv:2403.18761&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;[4] Shit, S., Paetzold, J. C., Sekuboyina, A., Ezhov, I., Unger, A., Zhylka, A., &amp;hellip; &amp;amp; Menze, B. H. (2021). clDice-a novel topology-preserving  loss function for tubular structure segmentation. In &lt;em&gt;Proceedings of the IEEE/CVF conference on computer vision and pattern recognition&lt;/em&gt; (pp. 16560-16569).&lt;/p&gt;
+&lt;p&gt;[5] Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., &amp;amp; Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. &lt;em&gt;Nature methods&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(2), 203-211.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
