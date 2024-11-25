@@ -38,16 +38,6 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/phillipmuller/master_locllm_index/</loc>
-    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/philip-muller/</loc>
-    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/post/miccai_2024/</loc>
     <lastmod>2024-10-10T13:45:38+02:00</lastmod>
   </url>
@@ -963,6 +953,10 @@
   
   <url>
     <loc>https://aim-lab.io/author/paul-hager/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/philip-muller/</loc>
   </url>
   
   <url>

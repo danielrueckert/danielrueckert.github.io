@@ -5,66 +5,12 @@
     <link>https://aim-lab.io/author/philip-muller/</link>
       <atom:link href="https://aim-lab.io/author/philip-muller/index.xml" rel="self" type="application/rss+xml" />
     <description>Philip Müller</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Philip Müller</title>
       <link>https://aim-lab.io/author/philip-muller/</link>
     </image>
-    
-    <item>
-      <title>MSc Thesis: Making LLMs Localize Objects</title>
-      <link>https://aim-lab.io/theses/phillipmuller/master_locllm_index/</link>
-      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/phillipmuller/master_locllm_index/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: We want to integrate specialized localization components into LLM-based VLMs to improve their localization capabilities and overall performance on localized tasks such as object detection, referring expression generation.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Vision-Language Models (VLMs)&lt;/strong&gt; integrate computer vision and natural language processing
-approaches to handle both images and text in a single model. Typical tasks include image captioning (i.e., predicting textual descriptions for images) and visual question answering (i.e., answering questions related to images).&lt;/p&gt;
-&lt;p&gt;State-of-the-art VLMs like Llama 3.2 &lt;strong&gt;[1]&lt;/strong&gt; or LLaVa &lt;strong&gt;[2,3]&lt;/strong&gt; integrate pre-trained image encoders into &lt;strong&gt;LLMs&lt;/strong&gt; using adapter layers that project image features into the LLM token space. Utilizing the concepts learned by LLMs, these models showcase strong results on vision-language tasks.&lt;/p&gt;
-&lt;p&gt;However, these models are quite limited in their &lt;strong&gt;localization&lt;/strong&gt; capabilities. While some works &lt;strong&gt;[4-7]&lt;/strong&gt; use coordinate tokens to predict bounding boxes, the LLMs are not specialized for localization tasks, thus typically underperforming specialized models on localization tasks such as &lt;strong&gt;object detection and referring expression generation&lt;/strong&gt;. Recently, some works have tried integrating localization into VLMs &lt;strong&gt;[8-11]&lt;/strong&gt;. We want to build on these works and integrate specialized localization components into LLM-based VLMs.&lt;/p&gt;
-&lt;p&gt;We will be adapting LLaVa &lt;strong&gt;[2]&lt;/strong&gt;-style VLMs with state-of-the-art LLMs and integrating DETR &lt;strong&gt;[12]&lt;/strong&gt;-style object detectors. Note that this work focuses on natural images but may be evaluated later on medical tasks.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h3 id=&#34;your-qualifications&#34;&gt;Your qualifications&lt;/h3&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering, Mathematics, or a related field.&lt;/p&gt;
-&lt;p&gt;You will establish a new model and training pipeline in PyTorch and evaluate the model on several benchmarks.&lt;/p&gt;
-&lt;p&gt;You will work at the Institute for AI in Medicine at TU Munich. Importantly, we aim to publish the results of this work with you in a follow-up study at a high-impact computer vision conference or in an academic journal (e.g., CVPR, ICCV, &amp;hellip;) .&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in machine learning and computer vision.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX), preferably PyTorch.&lt;/li&gt;
-&lt;li&gt;Independent working style with a strong interest in teamwork and methodic research.&lt;/li&gt;
-&lt;li&gt;(Optional) Prior experience with LLMs or object detection is a plus but not required.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br/&gt;
-&lt;h3 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision, and deep learning.&lt;/li&gt;
-&lt;li&gt;The chance to publish the work in high-impact venues or journals.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br/&gt;
-&lt;h3 id=&#34;how-to-apply&#34;&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Please send your CV and transcript to Philip Müller (&lt;a href=&#34;mailto:philip.j.mueller@tum.de&#34;&gt;philip.j.mueller@tum.de&lt;/a&gt;) using the subject “&lt;strong&gt;MSc Thesis: Making LLMs Localize Objects”&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Please also include brief summaries of your prior deep learning projects (including your contributions to the project and the used framework) and, if available, provide links to the codebases (e.g., your GitHub profile).&lt;/p&gt;
-&lt;br/&gt;
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-&lt;p&gt;[1] Meta. Llama 3.2: Revolutionizing edge AI and vision with open, customizable models. 2024 (&lt;a href=&#34;https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/&#34;&gt;https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;[2] Liu et al. Visual Instruction Tuning. NeurIPS 2023 (&lt;a href=&#34;https://arxiv.org/abs/2304.08485&#34;&gt;https://arxiv.org/abs/2304.08485&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;[3] Liu et al. Improved Baselines with Visual Instruction Tuning. CVPR 2024 (&lt;a href=&#34;https://arxiv.org/abs/2310.03744&#34;&gt;https://arxiv.org/abs/2310.03744&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;[4] Chen et al. Pix2seq: A Language Modeling Framework for Object Detection. ICLR 2022 (&lt;a href=&#34;https://arxiv.org/abs/2109.10852&#34;&gt;https://arxiv.org/abs/2109.10852&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;[5] Yang et al. UniTAB: Unifying Text and Box Outputs for Grounded Vision-Language Modeling. ECCV 2022 (&lt;a href=&#34;https://arxiv.org/abs/2111.12085&#34;&gt;https://arxiv.org/abs/2111.12085&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;[6] Peng et al. Kosmos-2: Grounding Multimodal Large Language Models to the World. ICLR 2023 (&lt;a href=&#34;https://arxiv.org/abs/2306.14824&#34;&gt;https://arxiv.org/abs/2306.14824&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;[7] Bannur et al. MAIRA-2: Grounded Radiology Report Generation. 2024 (&lt;a href=&#34;https://arxiv.org/abs/2406.04449&#34;&gt;https://arxiv.org/abs/2406.04449&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;[8] Lai et al. LISA: Reasoning Segmentation via Large Language Model. CVPR 2024 (&lt;a href=&#34;https://arxiv.org/abs/2308.00692&#34;&gt;https://arxiv.org/abs/2308.00692&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;[9] Rasheed et al. GLaMM: Pixel Grounding Large Multimodal Model. CVPR 2024 (&lt;a href=&#34;https://arxiv.org/abs/2311.03356&#34;&gt;https://arxiv.org/abs/2311.03356&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;[10] Zhang et al. PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model. 2024 (&lt;a href=&#34;https://arxiv.org/abs/2403.14598&#34;&gt;https://arxiv.org/abs/2403.14598&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;[11] Müller et al. ChEX: Interactive Localization and Region Description in Chest X-rays. ECCV 2024 (&lt;a href=&#34;https://arxiv.org/abs/2404.15770&#34;&gt;https://arxiv.org/abs/2404.15770&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;[12] Carion et al. End-to-End Object Detection with Transformers. ECCV 2020 (&lt;a href=&#34;https://arxiv.org/abs/2005.12872&#34;&gt;https://arxiv.org/abs/2005.12872&lt;/a&gt;)&lt;/p&gt;
-&lt;br/&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
