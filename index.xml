@@ -5,12 +5,52 @@
     <link>https://aim-lab.io/</link>
       <atom:link href="https://aim-lab.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI in Medicine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>AI in Medicine</title>
       <link>https://aim-lab.io/</link>
     </image>
+    
+    <item>
+      <title>MSc Thesis: Self-Supervised Pretraining for Topologically Accurate Medical Imaging</title>
+      <link>https://aim-lab.io/theses/alexberger/topo_mae_thesis/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/alexberger/topo_mae_thesis/</guid>
+      <description>&lt;p&gt;Deep-learning models achieve high performance on various biomedical prediction tasks but often rely on extensive annotated datasets. Especially in biomedicine, such datasets are frequently unavailable due to the difficulty and cost of annotation. Self-supervised pre-training methods, such as the masked autoencoder (MAE) [1], have emerged as a promising way to leverage unlabeled data, reducing the need for large annotated datasets. However, these methods often struggle to preserve fine-grained structures, such as alveoli or pulmonary vessels in lung CT scans, which are critical for downstream applications such as disease classification.&lt;/p&gt;
+&lt;p&gt;This Master&amp;rsquo;s thesis focuses on developing novel pre-training strategies to preserve these fine-grained structures in medical images. Specifically, we aim to incorporate methods from digital topology to capture and maintain topological information during image reconstruction. Our approach builds on recent advances in topological loss functions for training segmentation networks [2,3,4].&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;img src=&#34;betti_matching.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to explore how existing topological loss functions can be used for pre-training and compare them to alternative approaches. You will be working together with Alex and Laurin, two research scientist at TU Munich, as well as Johannes, an appointed assistant professor at Cornell University. Supervision will be provided by Prof. Daniel Rueckert.  Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
+&lt;h3 id=&#34;requirements&#34;&gt;Requirements:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
+&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
+&lt;li&gt;Enthusiasm for teamwork and interdisciplinary research.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision, and deep learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:a.berger@tum.de&#34;&gt;a.berger@tum.de&lt;/a&gt;, &lt;a href=&#34;mailto:laurin.lux@tum.de&#34;&gt;laurin.lux@tum.de&lt;/a&gt;, and &lt;a href=&#34;mailto:jpaetzold@med.cornell.edu&#34;&gt;jpaetzold@med.cornell.edu&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.melbourneradiology.com.au/wp-content/uploads/2021/06/CT-CHEST-0002-1024x1012.jpg&#34; alt=&#34;Chest CT scan&#34;&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;[1] He, K., Chen, X., Xie, S., Li, Y., Dollár, P., &amp;amp; Girshick, R. (2022). Masked autoencoders are scalable vision learners. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 16000-16009).&lt;/p&gt;
+&lt;p&gt;[2] Lux, L., Berger, A. H., Weers, A., Stucki, N., Rueckert, D., Bauer, U., &amp;amp; Paetzold, J. C. (2024). Topograph: An efficient Graph-Based Framework for Strictly Topology Preserving Image Segmentation. arXiv preprint arXiv:2411.03228.&lt;/p&gt;
+&lt;p&gt;[3] Stucki, N., Paetzold, J. C., Shit, S., Menze, B., &amp;amp; Bauer, U. (2023, July). Topologically faithful image segmentation via induced matching of persistence barcodes. In International Conference on Machine Learning (pp. 32698-32727). PMLR.&lt;/p&gt;
+&lt;p&gt;[4] Stucki, N., Bürgin, V., Paetzold, J. C., &amp;amp; Bauer, U. (2024). Efficient Betti Matching Enables Topology-Aware 3D Segmentation via Persistent Homology. arXiv preprint arXiv:2407.04683.&lt;/p&gt;
+&lt;br/&gt;
+</description>
+    </item>
     
     <item>
       <title>IDP/Thesis: Physics-based deep learning for hyperspectral neuronavigation</title>
@@ -145,45 +185,6 @@ Objective&lt;/p&gt;
     </item>
     
     <item>
-      <title>MSc Thesis: Leveraging Differential Privacy to Learn General and Robust Deep Learning Models</title>
-      <link>https://aim-lab.io/theses/florianhoelzl/thesis-improving-dp/</link>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/florianhoelzl/thesis-improving-dp/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Deep learning aims at learning general representations of data allowing for downstream tasks such as classification, regression or generation of new data. In practice, however, there are no formal guarantees to what a model learns, resulting in unwanted memorisation of input data and leaking of private information. Differential privacy (DP) is the gold standard of privacy-preserving deep learning, offering a formal guarantee for protecting sensitive information and thus as a consequence learning general representations. Privacy in deep learning, however, still comes at a high privacy-utility trade-off that restricts the practical usability of models trained under DP [1]. We, as researchers, try to solve this issue by looking into learning theory and by developing novel approaches that allow DP networks to challenge non-private approaches.&lt;/p&gt;
-&lt;p&gt;The privacy-utility trade-off of DP at tight privacy bounds is a main reason that keeps DP from being used in practical application. The work aims at improving the substantially worse prediction performance when training with DP-SGD. There has been an increasing focus in recent research on mitigating the bias introduced by gradient clipping and the destructive impact of noise during convergence [2, 3]. The first work package focuses on reimplementing a baseline approach from literature in order to find a suitable quantitative set of metrics [4, 5] to analyse the impact of adaptive approaches on optimisation in comparison to standard SGD and DP-SGD  [6, 7, 8, 9, 10, 11]. In the second work package, we will further include more approaches from current literature and use the previously identified metrics to evaluate and compare them based on their impact on learning general and private representations. In a third work package, this will ideally allow for identifying key factors for improving optimisation under DP, correspondingly improving current training regimes and reaching performance similar to non-private approaches.&lt;/p&gt;
-&lt;p&gt;If successful, this work will give a new perspective on the deep learning optimisation and allow for establishing DP as a go to approach in practice to learn general and accurate deep learning models.&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the model sparsity and changing privacy-parameters on different benchmark datasets for models trained under DP. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
-&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Monir et al. (2024). A Review of Adaptive Techniques and Data Management Issues in DP-SGD. IEEE 2024.&lt;/li&gt;
-&lt;li&gt;Xiao et al. (2023). A Theory to Instruct Differentially-Private Learning via Clipping Bias Reduction. IEEE 2023.&lt;/li&gt;
-&lt;li&gt;Watson et al. (2023). Inference and Interference: The Role of Clipping, Pruning and Loss Landscapes in Differentially Private Stochastic Gradient Descent. ArXiv, abs/2311.06839.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Total_variation_denoising&#34;&gt;https://en.wikipedia.org/wiki/Total_variation_denoising&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Watson et al. (2023). Inference and Interference: The Role of Clipping, Pruning and Loss Landscapes in Differentially Private Stochastic Gradient Descent. ArXiv, abs/2311.06839.&lt;/li&gt;
-&lt;li&gt;Andrew et al. (2019). Differentially Private Learning with Adaptive Clipping. NeurIPS 2021.&lt;/li&gt;
-&lt;li&gt;Esipova et al. (2023). Disparate Impact in Differential Privacy from Gradient Misalignment. ICLR 2023.&lt;/li&gt;
-&lt;li&gt;Knolle et al. (2023). Bias-Aware Minimisation: Understanding and Mitigating Estimator Bias in Private SGD. TPDP 2023.&lt;/li&gt;
-&lt;li&gt;Tang et al. (2023). DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction). AAAI 2024.&lt;/li&gt;
-&lt;li&gt;Chilukoti et al. (2023). Auto DP-SGD: Dual Improvements of Privacy and Accuracy via Automatic Clipping Threshold and Noise Multiplier Estimation. ArXiv, abs/2312.02400.&lt;/li&gt;
-&lt;li&gt;Xiao et al. (2023). Geometry of Sensitivity: Twice Sampling and Hybrid Clipping in Differential Privacy with Optimal Gaussian Noise and Application to Deep Learning. ACM CCS 2023.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
       <title>MSc Thesis: Outperforming CNNs and Transformers on Medical Imaging Tasks with Equivariant Networks</title>
       <link>https://aim-lab.io/theses/florianhoelzl/thesis-outperforming-w-equivariance/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
@@ -210,40 +211,6 @@ Objective&lt;/p&gt;
 &lt;li&gt;Tan and Le (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ICML 2019.&lt;/li&gt;
 &lt;li&gt;Hoffmann et al. (2022). Training Compute-Optimal Large Language Models. ArXiv, abs/2203.15556.&lt;/li&gt;
 &lt;li&gt;Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Privacy-Preserving Synthetic Time Series Data of Electronic Health Records</title>
-      <link>https://aim-lab.io/theses/florianhoelzl/thesis-synthetic-time-series-data/</link>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/florianhoelzl/thesis-synthetic-time-series-data/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Anonymizing data means removing or replacing any identifying information from a dataset, such as names or addresses. The aim of anonymization is to protect the privacy of individuals whose data is being collected and processed. However, anonymizing data is not sufficient to guarantee privacy protection. Research has shown that data samples can easily re-identified through a variety of approaches as simply as combining a dataset with other data sources, e.g. publicly available information [1]. This poses a problem for data sharing, especially in highly sensitive domains such as medicine.&lt;/p&gt;
-&lt;p&gt;Synthetic data allows to generate new examples that preserve the statistical properties of the original data [2]. In a medical use case, synthetic data could be used to generate realistic but entirely artificial medical records. These synthetic medical records can be used for a variety of different purposes, such as augmenting existing datasets or sharing data without revealing any patient information [3].&lt;/p&gt;
-&lt;p&gt;For the later, however, synthetic data doesn’t per se protect the privacy of individual patients. To achieve privacy preservation, we have to apply additional techniques such as differential privacy [4]. The aim of this project is to evaluate synthetic data generation with differential privacy for medical records of multi-variate time series. You will first evaluate current literature of synthetic data generation for multi-variate time series with varying sequence lengths and irregular time differences [5]. In the second work package, an existing data generation pipeline will be re-evaluated and compared to existing synthetisation approaches on a real-world multiple sclerosis dataset. The data will be used to predict disease activity and help treatment decision making for disease-modifying therapies [6]. To measure the prediction capabilities of the synthetically generated private data, its prediction performance is compared against existing baselines from the original data curated during different time intervals. Furthermore, the addition of synthetic data into the existing training process for increased model robustness will be assessed. The third work package consists of improving the pipeline, especially with regard to conditional sampling, and evaluating it on other publicly available datasets.&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to generate and evaluate synthetic data from a real world medical dataset under differential privacy. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
-&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Narayanan and Shmatikov (2006). How to Break Anonymity of the Netflix Prize Dataset. ArXiv, cs/0610105&lt;/li&gt;
-&lt;li&gt;Jordon et al. (2022). Synthetic Data - what, why and how? ArXiv, abs/2205.03257.&lt;/li&gt;
-&lt;li&gt;Chen et al. (2021). Synthetic Data in Machine Learning for Medicine and Healthcare. Nature Biomedical Engineering 2021.&lt;/li&gt;
-&lt;li&gt;Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016.&lt;/li&gt;
-&lt;li&gt;Zhang et al. (2022). Sequential models in the synthetic data vault. ArXiv, abs/2207.14406.&lt;/li&gt;
-&lt;li&gt;Braune et al. (2022). PHREND®—A Real-World Data-Driven Tool Supporting Clinical Decisions to Optimize Treatment in Relapsing-Remitting Multiple Sclerosis. Frontiers in Digital Health 03.2022.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>

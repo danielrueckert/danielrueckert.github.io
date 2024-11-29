@@ -4,21 +4,41 @@
   
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aim-lab.io/author/alina-dima/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <loc>https://aim-lab.io/author/alexander-berger/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/theses/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/laurin-lux/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/alexberger/topo_mae_thesis/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/alina-dima/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,17 +178,7 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/theses/florianhoelzl/thesis-improving-dp/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/theses/florianhoelzl/thesis-outperforming-w-equivariance/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/florianhoelzl/thesis-synthetic-time-series-data/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -788,10 +798,6 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/author/alexander-berger/</loc>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/author/alexander-selivanov/</loc>
   </url>
   
@@ -880,10 +886,6 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
-  </url>
-  
-  <url>
     <loc>https://aim-lab.io/author/johannes-kaiser/</loc>
   </url>
   
@@ -905,10 +907,6 @@
   
   <url>
     <loc>https://aim-lab.io/author/kristian-schwethelm/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/laurin-lux/</loc>
   </url>
   
   <url>
