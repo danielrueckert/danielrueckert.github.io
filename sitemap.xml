@@ -4,41 +4,21 @@
   
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/alexander-berger/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/author/laurin-lux/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aim-lab.io/theses/alexberger/topothesis/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aim-lab.io/author/alina-dima/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/authors/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/theses/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -798,8 +778,7 @@
   </url>
   
   <url>
-    <loc>https://aim-lab.io/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://aim-lab.io/author/alexander-berger/</loc>
   </url>
   
   <url>
@@ -891,6 +870,10 @@
   </url>
   
   <url>
+    <loc>https://aim-lab.io/author/johannes-c.-paetzold/</loc>
+  </url>
+  
+  <url>
     <loc>https://aim-lab.io/author/johannes-kaiser/</loc>
   </url>
   
@@ -912,6 +895,10 @@
   
   <url>
     <loc>https://aim-lab.io/author/kristian-schwethelm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aim-lab.io/author/laurin-lux/</loc>
   </url>
   
   <url>

@@ -5,45 +5,12 @@
     <link>https://aim-lab.io/author/johannes-c.-paetzold/</link>
       <atom:link href="https://aim-lab.io/author/johannes-c.-paetzold/index.xml" rel="self" type="application/rss+xml" />
     <description>Johannes C. Paetzold</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Johannes C. Paetzold</title>
       <link>https://aim-lab.io/author/johannes-c.-paetzold/</link>
     </image>
-    
-    <item>
-      <title>MSc Thesis: Self-Supervised Pretraining for Topologically Accurate Medical Imaging</title>
-      <link>https://aim-lab.io/theses/alexberger/topothesis/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/alexberger/topothesis/</guid>
-      <description>&lt;p&gt;Deep-learning models achieve high performance on various biomedical prediction tasks but often rely on extensive annotated datasets. Especially in biomedicine, such datasets are frequently unavailable due to the difficulty and cost of annotation. Self-supervised pre-training methods, such as the masked autoencoder (MAE) [1], have emerged as a promising way to leverage unlabeled data, reducing the need for large annotated datasets. However, these methods often struggle to preserve fine-grained structures, such as alveoli or pulmonary vessels in lung CT scans, which are critical for downstream applications such as disease classification.&lt;/p&gt;
-&lt;p&gt;This Master&amp;rsquo;s thesis focuses on developing novel pre-training strategies to preserve these fine-grained structures in medical images. Specifically, we aim to incorporate methods from digital topology to capture and maintain topological information during image reconstruction. Our approach builds on recent advances in topological loss functions for training segmentation networks [2,3,4].&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.melbourneradiology.com.au/wp-content/uploads/2021/06/CT-CHEST-0002-1024x1012.jpg&#34; alt=&#34;Chest CT scan&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to explore how existing topological loss functions can be used for pre-training and compare them to alternative approaches. You will be working together with Alex and Laurin, two research scientist at TU Munich, as well as Johannes, an appointed assistant professor at Cornell University. Supervision will be provided by Prof. Daniel Rueckert. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
-&lt;h3 id=&#34;requirements&#34;&gt;Requirements:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Strong motivation and interest in machine learning.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in C++, Python or C.&lt;/li&gt;
-&lt;li&gt;Enthusiasm for teamwork and interdisciplinary research.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in machine learning, computer vision, and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Just send an email to &lt;a href=&#34;mailto:a.berger@tum.de&#34;&gt;a.berger@tum.de&lt;/a&gt;, &lt;a href=&#34;mailto:laurin.lux@tum.de&#34;&gt;laurin.lux@tum.de&lt;/a&gt;, and &lt;a href=&#34;mailto:jpaetzold@med.cornell.edu&#34;&gt;jpaetzold@med.cornell.edu&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;[1] He, K., Chen, X., Xie, S., Li, Y., Dollar, P., &amp;amp; Girshick, R. (2022). Masked autoencoders are scalable vision learners. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 16000-16009).&lt;/p&gt;
-&lt;p&gt;[2] Lux, L., Berger, A. H., Weers, A., Stucki, N., Rueckert, D., Bauer, U., &amp;amp; Paetzold, J. C. (2024). Topograph: An efficient Graph-Based Framework for Strictly Topology Preserving Image Segmentation. arXiv preprint arXiv:2411.03228.&lt;/p&gt;
-&lt;p&gt;[3] Stucki, N., Paetzold, J. C., Shit, S., Menze, B., &amp;amp; Bauer, U. (2023, July). Topologically faithful image segmentation via induced matching of persistence barcodes. In International Conference on Machine Learning (pp. 32698-32727). PMLR.&lt;/p&gt;
-&lt;p&gt;[4] Stucki, N., Bürgin, V., Paetzold, J. C., &amp;amp; Bauer, U. (2024). Efficient Betti Matching Enables Topology-Aware 3D Segmentation via Persistent Homology. arXiv preprint arXiv:2407.04683.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
