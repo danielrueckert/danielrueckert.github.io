@@ -14,9 +14,9 @@
     
     <item>
       <title>MSc Thesis: Self-Supervised Pretraining for Topologically Accurate Medical Imaging</title>
-      <link>https://aim-lab.io/theses/johannespaetzold/topothesis/</link>
+      <link>https://aim-lab.io/theses/alexberger/topothesis/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/johannespaetzold/topothesis/</guid>
+      <guid>https://aim-lab.io/theses/alexberger/topothesis/</guid>
       <description>&lt;p&gt;Deep-learning models achieve high performance on various biomedical prediction tasks but often rely on extensive annotated datasets. Especially in biomedicine, such datasets are frequently unavailable due to the difficulty and cost of annotation. Self-supervised pre-training methods, such as the masked autoencoder (MAE) [1], have emerged as a promising way to leverage unlabeled data, reducing the need for large annotated datasets. However, these methods often struggle to preserve fine-grained structures, such as alveoli or pulmonary vessels in lung CT scans, which are critical for downstream applications such as disease classification.&lt;/p&gt;
 &lt;p&gt;This Master&amp;rsquo;s thesis focuses on developing novel pre-training strategies to preserve these fine-grained structures in medical images. Specifically, we aim to incorporate methods from digital topology to capture and maintain topological information during image reconstruction. Our approach builds on recent advances in topological loss functions for training segmentation networks [2,3,4].&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://www.melbourneradiology.com.au/wp-content/uploads/2021/06/CT-CHEST-0002-1024x1012.jpg&#34; alt=&#34;Chest CT scan&#34;&gt;&lt;/p&gt;
@@ -578,6 +578,15 @@ Einsteinstraße 25&lt;br&gt;
 E-Mail: daniel(dot)rueckert(at)tum(dot)de&lt;br&gt;
 &lt;h3&gt;Haftungshinweis&lt;/h3&gt;
 &lt;p&gt;Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. Namentlich gekennzeichnete Beiträge in den Diskussionsbereichen geben die Meinung des Autors wieder. Für die Inhalte der Beiträge sind ausschließlich die Autoren zuständig.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://aim-lab.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://aim-lab.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
