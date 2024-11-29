@@ -14,9 +14,9 @@
     
     <item>
       <title>MSc Thesis: Self-Supervised Pretraining for Topologically Accurate Medical Imaging</title>
-      <link>https://aim-lab.io/theses/alexberger/</link>
+      <link>https://aim-lab.io/theses/aberger/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/alexberger/</guid>
+      <guid>https://aim-lab.io/theses/aberger/</guid>
       <description>&lt;p&gt;Deep-learning models achieve high performance on various biomedical prediction tasks but often rely on extensive annotated datasets. Especially in biomedicine, such datasets are frequently unavailable due to the difficulty and cost of annotation. Self-supervised pre-training methods, such as the masked autoencoder (MAE) [1], have emerged as a promising way to leverage unlabeled data, reducing the need for large annotated datasets. However, these methods often struggle to preserve fine-grained structures, such as alveoli or pulmonary vessels in lung CT scans, which are critical for downstream applications such as disease classification.&lt;/p&gt;
 &lt;p&gt;This Master&amp;rsquo;s thesis focuses on developing novel pre-training strategies to preserve these fine-grained structures in medical images. Specifically, we aim to incorporate methods from digital topology to capture and maintain topological information during image reconstruction. Our approach builds on recent advances in topological loss functions for training segmentation networks [2,3,4].&lt;/p&gt;
 &lt;br/&gt;
