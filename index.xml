@@ -586,5 +586,14 @@ E-Mail: daniel(dot)rueckert(at)tum(dot)de&lt;br&gt;
 </description>
     </item>
     
+    <item>
+      <title>Terms</title>
+      <link>https://aim-lab.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://aim-lab.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
