@@ -20,7 +20,7 @@
       <description>&lt;p&gt;Deep-learning models achieve high performance on various biomedical prediction tasks but often rely on extensive annotated datasets. Especially in biomedicine, such datasets are frequently unavailable due to the difficulty and cost of annotation. Self-supervised pre-training methods, such as the masked autoencoder (MAE) [1], have emerged as a promising way to leverage unlabeled data, reducing the need for large annotated datasets. However, these methods often struggle to preserve fine-grained structures, such as alveoli or pulmonary vessels in lung CT scans, which are critical for downstream applications such as disease classification.&lt;/p&gt;
 &lt;p&gt;This Master&amp;rsquo;s thesis focuses on developing novel pre-training strategies to preserve these fine-grained structures in medical images. Specifically, we aim to incorporate methods from digital topology to capture and maintain topological information during image reconstruction. Our approach builds on recent advances in topological loss functions for training segmentation networks [2,3,4].&lt;/p&gt;
 &lt;br/&gt;
-&lt;p&gt;&lt;img src=&#34;betti_matching.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.melbourneradiology.com.au/wp-content/uploads/2021/06/CT-CHEST-0002-1024x1012.jpg&#34; alt=&#34;Chest CT scan&#34;&gt;&lt;/p&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
 &lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. Your goal is to explore how existing topological loss functions can be used for pre-training and compare them to alternative approaches. You will be working together with Alex and Laurin, two research scientist at TU Munich, as well as Johannes, an appointed assistant professor at Cornell University. Supervision will be provided by Prof. Daniel Rueckert.  Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact machine learning conference or in an academic journal.&lt;/p&gt;
@@ -40,8 +40,6 @@
 &lt;br/&gt;
 &lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
 &lt;p&gt;Just send an email to &lt;a href=&#34;mailto:a.berger@tum.de&#34;&gt;a.berger@tum.de&lt;/a&gt;, &lt;a href=&#34;mailto:laurin.lux@tum.de&#34;&gt;laurin.lux@tum.de&lt;/a&gt;, and &lt;a href=&#34;mailto:jpaetzold@med.cornell.edu&#34;&gt;jpaetzold@med.cornell.edu&lt;/a&gt;, with a short CV and your grade report. We promise to get back to you within days.&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.melbourneradiology.com.au/wp-content/uploads/2021/06/CT-CHEST-0002-1024x1012.jpg&#34; alt=&#34;Chest CT scan&#34;&gt;&lt;/p&gt;
 &lt;br/&gt;
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
 &lt;p&gt;[1] He, K., Chen, X., Xie, S., Li, Y., Dollár, P., &amp;amp; Girshick, R. (2022). Masked autoencoders are scalable vision learners. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 16000-16009).&lt;/p&gt;
