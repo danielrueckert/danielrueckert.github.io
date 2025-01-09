@@ -5,9 +5,9 @@
     <link>https://aim-lab.io/author/anna-curto-vilalta/</link>
       <atom:link href="https://aim-lab.io/author/anna-curto-vilalta/index.xml" rel="self" type="application/rss+xml" />
     <description>Anna Curto Vilalta</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2024</copyright><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2025</copyright><lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>Anna Curto Vilalta</title>
       <link>https://aim-lab.io/author/anna-curto-vilalta/</link>
     </image>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/annacurtovilalta/index_vision-language_bonetumor/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
-&lt;p&gt;Bone tumor classification presents significant challenges due to the subtle visual differences among tumor entities, even for expert radiologists. This thesis aims to enhance diagnostic capabilities using vision-language pretraining to classify bone tumors from X-ray images. By pretraining on large datasets and incorporating anatomical context through captions, this thesis seeks to address key limitations posed by data scarcity and anatomical heterogeneity in the field of bone tumors. 
+&lt;p&gt;Bone tumor classification presents significant challenges due to the subtle visual differences among tumor entities, even for expert radiologists. This thesis aims to enhance diagnostic capabilities using vision-language pretraining to classify bone tumors from X-ray images. By pretraining on large datasets and incorporating anatomical context through captions, this thesis seeks to address key limitations posed by data scarcity and anatomical heterogeneity in the field of bone tumors.
 &lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;methodology&#34;&gt;Methodology:&lt;/h2&gt;
 &lt;ul&gt;
@@ -47,7 +47,7 @@
 &lt;p&gt;Send an email to &lt;a href=&#34;mailto:anna.curto-vilalta@tum.de&#34;&gt;anna.curto-vilalta@tum.de&lt;/a&gt;, with your CV and small introduction about you and your motivation.
 &lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;A. Radford et al., “Learning Transferable Visual Models From Natural Language Supervision,” Feb. 26, 2021, arXiv: arXiv:2103.00020. doi: &lt;a href=&#34;https://doi.org/10.48550/arXiv.2103.00020&#34;&gt;https://doi.org/10.48550/arXiv.2103.00020&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A. Radford et al., “Learning Transferable Visual Models From Natural Language Supervision,” Feb. 26, 2021, arXiv: arXiv:2103.00020. doi: &lt;a href=&#34;https://doi.org/10.48550/arXiv.2103.00020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.48550/arXiv.2103.00020&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;H. Q. Vo et al., &amp;ldquo;Frozen Large-scale Pretrained Vision-Language Models are the Effective Foundational Backbone for Multimodal Breast Cancer Prediction,&amp;rdquo; in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2024.3507638.&lt;/p&gt;
 &lt;br/&gt;
 </description>
