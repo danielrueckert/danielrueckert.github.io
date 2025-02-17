@@ -3,13 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/tag/computer-graphics/</loc>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/tag/computer-vision/</loc>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/</loc>
-    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/huaqi-qiu/</loc>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/tag/machine-learning/</loc>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/huaqiqiu/inr/inr_seminar_2025s/</loc>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/tag/seminar-course/</loc>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/tags/</loc>
+    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/theses/sevgigokcekafali/practical/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
@@ -24,9 +45,6 @@
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/tag/ss25/</loc>
-    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/tags/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/anna-curto-vilalta/</loc>
@@ -125,10 +143,7 @@
     <loc>https://aim-lab.io/tag/deep-learning/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aim-lab.io/author/huaqi-qiu/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/huaqiqiu/</loc>
+    <loc>https://aim-lab.io/theses/huaqiqiu/practical/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/tag/medical-imaging/</loc>

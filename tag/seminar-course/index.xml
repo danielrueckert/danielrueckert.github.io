@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminar Course | AI in Medicine</title>
+    <link>https://aim-lab.io/tag/seminar-course/</link>
+      <atom:link href="https://aim-lab.io/tag/seminar-course/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seminar Course</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2025</copyright><lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <title>Seminar Course</title>
+      <link>https://aim-lab.io/tag/seminar-course/</link>
+    </image>
+    
+    <item>
+      <title>Master-Seminar: Implicit Neural Representation and Neural Fields (IN2107)</title>
+      <link>https://aim-lab.io/theses/huaqiqiu/inr/inr_seminar_2025s/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/huaqiqiu/inr/inr_seminar_2025s/</guid>
+      <description>&lt;p&gt;In this summer semester (2025S), we are offering a master&amp;rsquo;s seminar course on the topic of &amp;ldquo;Implicit Neural Representation and Neural Fields&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;This seminar course will explore implicit neural representations (INR) and Neural Fields, an area of deep learning that uses neural networks to model complex functional mappings from coordinates to various field quantities such as radiance, image intensity, or density. These methods have exciting applications in scene representation, image enhancement, novel view and temporal frame synthesis, shape modelling, physics simulations, data compression, and many more.&lt;/p&gt;
+&lt;p&gt;Implicit neural representations offer powerful alternatives to traditional data structure and representation, enabling compact and flexible modeling of the underlying entities with resolution limit. Neural Fields is a broader class of techniques that extends these capabilities to represent complex structures such as surfaces, volumes, and dynamic phenomena, making them highly relevant for modern data-driven methods. At their core, research on these methods aim to look beyond the structures in which data representing an entity is commonly sampled and presented (e.g. images, meshes, point clouds) by building modeling tasks around the underlying geometry.&lt;/p&gt;
+&lt;p&gt;In this seminar, we will overview different aspects of INRs and Neural Fields through the discussion of a serious of papers from research literature. We look at the theoretical fundamental of implicit representations and neural fields, by looking at seminal works in compression and interpolation, as well as their connections to general topics in signal processing and geometric deep learning. We will also explore recent advancements, such as the integration of prior knowledge through physics-informed neural networks, using data cohorts to condition the modeling process, and multimodal data fusion. In-depth discussions of the research papers will allow students to understand and critically analyze these methods.&lt;/p&gt;
+&lt;p&gt;For more information, please see the &lt;a href=&#34;https://campus.tum.de/tumonline/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=950833292&amp;amp;pSpracheNr=2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TUMOnline page&lt;/a&gt; and the information slides below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1tm0l4FAqv-0_yQ8JmNNy8kQZBRCipyfZ7OPsyFcceBo/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Information Slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Please sign-up at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to: &lt;a href=&#34;mailto:harvey.qiu@tum.de&#34;&gt;harvey.qiu@tum.de&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
