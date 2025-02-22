@@ -3,18 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aim-lab.io/</loc>
-    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/authors/</loc>
-    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/jonas-kuntzer/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/theses/-sarahlockfisch/differential_privacy/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aim-lab.io/author/sarah-lockfisch/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/tag/computer-graphics/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/tag/computer-vision/</loc>
-    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aim-lab.io/theses/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aim-lab.io/author/huaqi-qiu/</loc>
@@ -547,8 +556,6 @@
   </url><url>
     <loc>https://aim-lab.io/author/johannes-kaiser/</loc>
   </url><url>
-    <loc>https://aim-lab.io/author/jonas-kuntzer/</loc>
-  </url><url>
     <loc>https://aim-lab.io/author/jonas-weidner/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/julian-mcginnis/</loc>
@@ -594,8 +601,6 @@
     <loc>https://aim-lab.io/author/robert-graf/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/sabine-franke/</loc>
-  </url><url>
-    <loc>https://aim-lab.io/author/sarah-lockfisch/</loc>
   </url><url>
     <loc>https://aim-lab.io/author/sevgi-gokce-kafali/</loc>
   </url><url>
