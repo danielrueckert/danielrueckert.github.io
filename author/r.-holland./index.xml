@@ -7,10 +7,18 @@
     <description>R. Holland.</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2025</copyright><lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>R. Holland.</title>
       <link>https://aim-lab.io/author/r.-holland./</link>
     </image>
+    
+    <item>
+      <title>Evaluating and mitigating limitations of large language models in clinical decision making.</title>
+      <link>https://aim-lab.io/publication/nat-med-2024/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/publication/nat-med-2024/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

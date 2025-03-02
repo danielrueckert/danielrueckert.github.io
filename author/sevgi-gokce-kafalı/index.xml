@@ -7,7 +7,7 @@
     <description>Sevgi Gökçe Kafalı</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2025</copyright><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Sevgi Gökçe Kafalı</title>
       <link>https://aim-lab.io/author/sevgi-gokce-kafal%C4%B1/</link>
     </image>
@@ -20,7 +20,7 @@
       <description>&lt;p&gt;&lt;img src=&#34;InvPr_seminar.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;More information will be provided during an introduction meeting scheduled at 10/02/2025 at 10am via Zoom:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&lt;/a&gt;, Meeting ID: 633 0597 1488 Passcode: 684506&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1,&#34;&gt;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1,&lt;/a&gt; Meeting ID: 633 0597 1488 Passcode: 684506&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In medical imaging, the reconstruction of high-quality images from incomplete or corrupted data often involves solving inverse problems. Deep learning has emerged as a powerful tool for addressing these challenges, offering approaches to improve image reconstruction quality, enhance computational efficiency, and tackle complex non-linearities.
 This seminar explores the concepts of deep learning for inverse problems, focusing on their applications in medical imaging. Selected materials from recent methodological advances will be covered as well as key challenges and opportunities in leveraging deep learning for clinical applications.&lt;/p&gt;
@@ -32,7 +32,7 @@ This seminar explores the concepts of deep learning for inverse problems, focusi
 &lt;li&gt;Comparison of traditional and deep learning-based methods&lt;/li&gt;
 &lt;li&gt;Emerging trends and clinical implications&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Please register at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:hannah.eichhorn@tum.de&#34;&gt;hannah.eichhorn@tum.de&lt;/a&gt;, &lt;a href=&#34;mailto:lina.felsner@tum.de&#34;&gt;lina.felsner@tum.de&lt;/a&gt; or &lt;a href=&#34;mailto:s.kafali@tum.de&#34;&gt;s.kafali@tum.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please register at: &lt;a href=&#34;https://matching.in.tum.de/&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:hannah.eichhorn@tum.de&#34;&gt;hannah.eichhorn@tum.de&lt;/a&gt;, &lt;a href=&#34;mailto:lina.felsner@tum.de&#34;&gt;lina.felsner@tum.de&lt;/a&gt; or &lt;a href=&#34;mailto:s.kafali@tum.de&#34;&gt;s.kafali@tum.de&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Check the intro slides here:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;InvPr_seminar.pdf&#34;&gt;Seminar slides&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -5,12 +5,41 @@
     <link>https://aim-lab.io/theses/</link>
       <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
     <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2025</copyright><lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2025</copyright><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_2.png</url>
       <title>Current Vacancies</title>
       <link>https://aim-lab.io/theses/</link>
     </image>
+    
+    <item>
+      <title>IDP/Thesis: Physics-based deep learning for hyperspectral neuronavigation</title>
+      <link>https://aim-lab.io/theses/ivanezhov/thesis_hyperprobe/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/ivanezhov/thesis_hyperprobe/</guid>
+      <description>&lt;p&gt;Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object&amp;rsquo;s reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors [1]. 
+Within the &lt;a href=&#34;https://hyperprobe.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HyperProbe&lt;/a&gt; project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery. 
+Your goal would be to develop a methodology at the intersection between physics and machine-learning to identify biomarkers of healthy and tumor brain tissue.
+&lt;img src=&#34;https://hyperprobe.eu/wp-content/uploads/2022/12/shutterstock_1152709331-2048x1152.jpg&#34; alt=&#34;Surgery&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Enthusiasm for merging physics with AI for developing new biomedical imaging modality&lt;/li&gt;
+&lt;li&gt;Ideally, prior work experience using deep learning for image processing&lt;/li&gt;
+&lt;li&gt;Decent programming skills in Python as well as PyTorch or Tensorflow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;An exciting research project aimed to build a new imaging modality that has a potential to change the neurosurgery monitoring in the near future&lt;/li&gt;
+&lt;li&gt;Close supervision and access to state-of-the-art computer hardware&lt;/li&gt;
+&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
+&lt;p&gt;Send an email to &lt;a href=&#34;mailto:ivan.ezhov@tum.de&#34;&gt;ivan.ezhov@tum.de&lt;/a&gt; with your CV and transcript.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;[1] Luca Giannoni, Frédéric Lange and Ilias Tachtsidis. Hyperspectral imaging solutions for brain tissue
+metabolic and hemodynamic monitoring: past, current and future developments, J. Opt. 20 (2018)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Master’s Thesis Opportunity: Differential Privacy for Interpretability</title>
@@ -81,7 +110,7 @@ Required:&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1tm0l4FAqv-0_yQ8JmNNy8kQZBRCipyfZ7OPsyFcceBo/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Information Slides&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;Please sign-up at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to: &lt;a href=&#34;mailto:harvey.qiu@tum.de&#34;&gt;harvey.qiu@tum.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please sign-up at: &lt;a href=&#34;https://matching.in.tum.de/&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to: &lt;a href=&#34;mailto:harvey.qiu@tum.de&#34;&gt;harvey.qiu@tum.de&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -93,7 +122,7 @@ Required:&lt;/p&gt;
       <description>&lt;p&gt;&lt;img src=&#34;InvPr_seminar.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;More information will be provided during an introduction meeting scheduled at 10/02/2025 at 10am via Zoom:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&lt;/a&gt;, Meeting ID: 633 0597 1488 Passcode: 684506&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1,&#34;&gt;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1,&lt;/a&gt; Meeting ID: 633 0597 1488 Passcode: 684506&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In medical imaging, the reconstruction of high-quality images from incomplete or corrupted data often involves solving inverse problems. Deep learning has emerged as a powerful tool for addressing these challenges, offering approaches to improve image reconstruction quality, enhance computational efficiency, and tackle complex non-linearities.
 This seminar explores the concepts of deep learning for inverse problems, focusing on their applications in medical imaging. Selected materials from recent methodological advances will be covered as well as key challenges and opportunities in leveraging deep learning for clinical applications.&lt;/p&gt;
@@ -105,7 +134,7 @@ This seminar explores the concepts of deep learning for inverse problems, focusi
 &lt;li&gt;Comparison of traditional and deep learning-based methods&lt;/li&gt;
 &lt;li&gt;Emerging trends and clinical implications&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Please register at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:hannah.eichhorn@tum.de&#34;&gt;hannah.eichhorn@tum.de&lt;/a&gt;, &lt;a href=&#34;mailto:lina.felsner@tum.de&#34;&gt;lina.felsner@tum.de&lt;/a&gt; or &lt;a href=&#34;mailto:s.kafali@tum.de&#34;&gt;s.kafali@tum.de&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please register at: &lt;a href=&#34;https://matching.in.tum.de/&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:hannah.eichhorn@tum.de&#34;&gt;hannah.eichhorn@tum.de&lt;/a&gt;, &lt;a href=&#34;mailto:lina.felsner@tum.de&#34;&gt;lina.felsner@tum.de&lt;/a&gt; or &lt;a href=&#34;mailto:s.kafali@tum.de&#34;&gt;s.kafali@tum.de&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Check the intro slides here:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;InvPr_seminar.pdf&#34;&gt;Seminar slides&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -117,7 +146,7 @@ This seminar explores the concepts of deep learning for inverse problems, focusi
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://aim-lab.io/theses/annacurtovilalta/index_vision-language_bonetumor/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
-&lt;p&gt;Bone tumor classification presents significant challenges due to the subtle visual differences among tumor entities, even for expert radiologists. This thesis aims to enhance diagnostic capabilities using vision-language pretraining to classify bone tumors from X-ray images. By pretraining on large datasets and incorporating anatomical context through captions, this thesis seeks to address key limitations posed by data scarcity and anatomical heterogeneity in the field of bone tumors.
+&lt;p&gt;Bone tumor classification presents significant challenges due to the subtle visual differences among tumor entities, even for expert radiologists. This thesis aims to enhance diagnostic capabilities using vision-language pretraining to classify bone tumors from X-ray images. By pretraining on large datasets and incorporating anatomical context through captions, this thesis seeks to address key limitations posed by data scarcity and anatomical heterogeneity in the field of bone tumors. 
 &lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;methodology&#34;&gt;Methodology:&lt;/h2&gt;
 &lt;ul&gt;
@@ -146,38 +175,9 @@ This seminar explores the concepts of deep learning for inverse problems, focusi
 &lt;p&gt;Send an email to &lt;a href=&#34;mailto:anna.curto-vilalta@tum.de&#34;&gt;anna.curto-vilalta@tum.de&lt;/a&gt;, with your CV and small introduction about you and your motivation.
 &lt;br/&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;A. Radford et al., “Learning Transferable Visual Models From Natural Language Supervision,” Feb. 26, 2021, arXiv: arXiv:2103.00020. doi: &lt;a href=&#34;https://doi.org/10.48550/arXiv.2103.00020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.48550/arXiv.2103.00020&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A. Radford et al., “Learning Transferable Visual Models From Natural Language Supervision,” Feb. 26, 2021, arXiv: arXiv:2103.00020. doi: &lt;a href=&#34;https://doi.org/10.48550/arXiv.2103.00020&#34;&gt;https://doi.org/10.48550/arXiv.2103.00020&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;H. Q. Vo et al., &amp;ldquo;Frozen Large-scale Pretrained Vision-Language Models are the Effective Foundational Backbone for Multimodal Breast Cancer Prediction,&amp;rdquo; in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2024.3507638.&lt;/p&gt;
 &lt;br/&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IDP/Thesis: Physics-based deep learning for hyperspectral neuronavigation</title>
-      <link>https://aim-lab.io/theses/ivanezhov/thesis_hyperprobe/</link>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/ivanezhov/thesis_hyperprobe/</guid>
-      <description>&lt;p&gt;Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object&amp;rsquo;s reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors [1].
-Within the &lt;a href=&#34;https://hyperprobe.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HyperProbe&lt;/a&gt; project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery.
-Your goal would be to develop a methodology at the intersection between physics and machine-learning to identify biomarkers of healthy and tumor brain tissue.
-&lt;img src=&#34;https://hyperprobe.eu/wp-content/uploads/2022/12/shutterstock_1152709331-2048x1152.jpg&#34; alt=&#34;Surgery&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Enthusiasm for merging physics with AI for developing new biomedical imaging modality&lt;/li&gt;
-&lt;li&gt;Ideally, prior work experience using deep learning for image processing&lt;/li&gt;
-&lt;li&gt;Decent programming skills in Python as well as PyTorch or Tensorflow&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project aimed to build a new imaging modality that has a potential to change the neurosurgery monitoring in the near future&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:ivan.ezhov@tum.de&#34;&gt;ivan.ezhov@tum.de&lt;/a&gt; with your CV and transcript.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Luca Giannoni, Frédéric Lange and Ilias Tachtsidis. Hyperspectral imaging solutions for brain tissue
-metabolic and hemodynamic monitoring: past, current and future developments, J. Opt. 20 (2018)&lt;/p&gt;
 </description>
     </item>
     
@@ -342,9 +342,9 @@ Objective&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;information-session-and-sign-up&#34;&gt;Information session and sign-up&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;An online information meeting will take place on &lt;strong&gt;15 July, 16:00&lt;/strong&gt; via Zoom (&lt;a href=&#34;https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;You can sign up for the course in the matching system (&lt;a href=&#34;https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Please fill in the following form in addition to voting in the matching system. The information you provided will help us to evaluate our votes: &lt;a href=&#34;https://forms.gle/xTbgwcFf1ZeaDeXT7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://forms.gle/xTbgwcFf1ZeaDeXT7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;An online information meeting will take place on &lt;strong&gt;15 July, 16:00&lt;/strong&gt; via Zoom (&lt;a href=&#34;https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1&#34;&gt;https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;You can sign up for the course in the matching system (&lt;a href=&#34;https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x&#34;&gt;https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Please fill in the following form in addition to voting in the matching system. The information you provided will help us to evaluate our votes: &lt;a href=&#34;https://forms.gle/xTbgwcFf1ZeaDeXT7&#34;&gt;https://forms.gle/xTbgwcFf1ZeaDeXT7&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;MultimodalSeminar2024W.pdf&#34;&gt;Information Slides - 2024/25 Winter Semester&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -386,9 +386,9 @@ In short this course offers students to:&lt;/p&gt;
 &lt;li&gt;Final presentation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
-&lt;p&gt;A preliminary meeting will take place on 04.07.2024 at 14:00 on zoom with the following details: &lt;br&gt;
-&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meeting ID: 690 7588 3519 &lt;br&gt;
+&lt;p&gt;A preliminary meeting will take place on 04.07.2024 at 14:00 on zoom with the following details:&lt;br&gt;
+&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 690 7588 3519&lt;br&gt;
 Passcode: 850155&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeeting-SoSe25.pdf&#34;&gt;Slides - SoSe 2025&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;PracticalPreMeeting-WiSe2425.pdf&#34;&gt;Slides - WS 2024/25&lt;/a&gt;&lt;/p&gt;
