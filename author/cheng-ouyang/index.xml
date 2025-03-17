@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng Ouyang | AI in Medicine</title>
+    <link>https://aim-lab.io/author/cheng-ouyang/</link>
+      <atom:link href="https://aim-lab.io/author/cheng-ouyang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheng Ouyang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2025</copyright><lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
+      <title>Cheng Ouyang</title>
+      <link>https://aim-lab.io/author/cheng-ouyang/</link>
+    </image>
+    
+    <item>
+      <title>MSc Thesis: LLM/VLM-based AI Agents Workflow for Simplifying Medical Image Analysis</title>
+      <link>https://aim-lab.io/theses/jiazhenpan/jz_msc_proposal/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://aim-lab.io/theses/jiazhenpan/jz_msc_proposal/</guid>
+      <description>&lt;p&gt;This project is collaborated with University of Oxford.&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background:&lt;/h3&gt;
+&lt;p&gt;Building deep learning based medical image analysis pipelines can be a challenge for clinicians and medical science researchers due to the reliance on expertise with deep learning development, coupled with significant heterogeneity in real-world medical data and dynamic tasks centered at diverse research questions. Previous works on low-coding deep learning for medical image analysis approaches [1, 2] cannot effectively mitigate the knowledge and experience gaps for inexperienced users. Recent large language model (LLM) or vision-language model (VLM)-based agent systems [3, 4] offer a novel way to provide a higher level of autonomy and less reliance on expertise for the development medical image analysis pipelines [5, 6].&lt;/p&gt;
+&lt;h3 id=&#34;your-tasks&#34;&gt;Your tasks:&lt;/h3&gt;
+&lt;p&gt;First, you will familiar yourself with the basic deployment and development with LLM-agent frameworks (e.g., LangChain [3]). You will then familiar yourself with a few key considerations in a specific medical imaging analysis application (e.g., those for analyzing cardiac MRI), for which proper handling currently relies on data scientists&amp;rsquo; experience (technical details will be briefed by the project advisors). You will then build an LLM/VLM-based agent system for automized building and self-refining for a toy medical image analysis pipeline. You will evaluate the performance of a few mainstream LLM/VLMs as agent backends on the success rate, cost-effectiveness, and reliance on the clarity of human prompts defining the task.&lt;/p&gt;
+&lt;h3 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h3&gt;
+&lt;p&gt;We are looking for a highly motivated Master&amp;rsquo;s student in CS, Physics, Engineering, or Mathematics with&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Good understanding/experience with LLM/VLM-backed agent systems (development and/or deployment). Experience with frameworks such as Langchain [3], Textgrad [4], etc. is highly desirable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Advanced programming skills in Python and common DL frameworks. Experience with working with multi-GPU developments and dockers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Experience with DL for computer vision tasks; experience working with data preprocessing, model development, and validation for real-world medical images is a plus.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strong interest in teamwork and inter-disciplinary research.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The opportunity to join an ongoing project with the aim of publishing a top tier conference paper.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Potential transition into a PhD project at TUM / University of Oxford.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The possibility to bring in your own ideas and combine them with state-of-the-art algorithms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Close supervision by an interdisciplinary network of computer vision / medical imaging experts from top-tier university.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;start-date-1st-mayjune-2025&#34;&gt;Start date: 1st May/June, 2025&lt;/h3&gt;
+&lt;h3 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h3&gt;
+&lt;p&gt;Please send your CV and transcript to Jiazhen Pan &lt;a href=&#34;mailto:jiazhen.pan@tum.de&#34;&gt;jiazhen.pan@tum.de&lt;/a&gt;. Links to previous work (e.g., your GitHub profile, papers) are highly appreciated.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References:&lt;/h3&gt;
+&lt;p&gt;[1] Isensee et at. nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation, Nature Methods 2021&lt;/p&gt;
+&lt;p&gt;[2] Ma et al. Segment anything in medical images, Nature Communication 2023&lt;/p&gt;
+&lt;p&gt;[3] LongChain Consortium &lt;a href=&#34;https://github.com/langchain-ai/langchain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/langchain-ai/langchain&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[4] Yuksekgonul et al. TextGrad: Automatic &amp;ldquo;Differentiation&amp;rdquo; via Text, Arxiv 2024&lt;/p&gt;
+&lt;p&gt;[5] Hoops et al. VoxelPrompt: A Vision-Language Agent for Grounded Medical Image Analysis, Arxiv 2024&lt;/p&gt;
+&lt;p&gt;[6] Feng et al. M^ 3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging, Arxiv 2025&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
