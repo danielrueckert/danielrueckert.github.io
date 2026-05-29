@@ -5,12 +5,35 @@
     <link>https://aim-lab.io/post/</link>
       <atom:link href="https://aim-lab.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2026</copyright><lastBuildDate>Thu, 10 Oct 2024 13:45:38 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2026</copyright><lastBuildDate>Mon, 06 Oct 2025 09:00:00 +0200</lastBuildDate>
     <image>
       <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://aim-lab.io/post/</link>
     </image>
+    
+    <item>
+      <title>Dr. Sevgi Gokce Kafali receives the Alexander von Humboldt Postdoctoral Fellowship</title>
+      <link>https://aim-lab.io/post/humboldt_sevgi/</link>
+      <pubDate>Mon, 06 Oct 2025 09:00:00 +0200</pubDate>
+      <guid>https://aim-lab.io/post/humboldt_sevgi/</guid>
+      <description>&lt;p&gt;Dr. Sevgi Gokce Kafali has been awarded the prestigious Alexander von Humboldt Postdoctoral Fellowship. During her fellowship, Sevgi will focus on &amp;ldquo;Assessment of Cardiac Health through Opportunistic Screening using MRI&amp;rdquo; at our lab.&lt;/p&gt;
+&lt;p&gt;More info &lt;a href=&#34;https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview/1249636/dr-sevgi-gokce-kafali-tekat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daniel Rückert receives Leibniz Prize</title>
+      <link>https://aim-lab.io/post/leibniz_rueckert/</link>
+      <pubDate>Wed, 19 Mar 2025 09:00:00 +0100</pubDate>
+      <guid>https://aim-lab.io/post/leibniz_rueckert/</guid>
+      <description>&lt;p&gt;Computer scientist and AI researcher Prof. Daniel Rückert receives the Gottfried Wilhelm Leibniz Prize 2025. The professor of Artificial Intelligence (AI) in Medicine and Healthcare at the Technical University of Munich (TUM) is being honored for his research on AI-assisted medical imaging. The most important German research prize is endowed with 2.5 million euros by the German Research Foundation (DFG).&lt;/p&gt;
+&lt;p&gt;Prof. Daniel Rückert has developed pioneering methods with which AI algorithms can generate particularly informative images from computer tomography or magnetic resonance imaging, analyze them and interpret them for improved medical diagnostics. Supported by the Alexander von Humboldt Foundation, TUM was able to bring the top scientist from Imperial College London to Munich in 2020.&lt;/p&gt;
+&lt;p&gt;Including Daniel Rückert, a total of 25 TUM researchers have been honored with Leibniz Prizes since 1986. TUM President Prof. Thomas F. Hofmann praised the prizewinner&amp;rsquo;s outstanding work: &amp;ldquo;The combination of artificial intelligence with medical applications is one of the most promising future topics of our time. And Prof. Rückert is one of the world&amp;rsquo;s most excellent experts in this field. I am sure that as the future head of the TUM Center for Digital Medicine and Health, which is currently under construction at the TUM Clinic, he will raise digitally supported medicine to a new level of performance.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Daniel Rückert studied computer science at the Technical University of Berlin and received his doctorate from Imperial College London in 1997. He was Professor of Visual Information Processing and Dean of the Department of Computing. He has published numerous highly cited scientific articles, leads several large research projects and is the founder of a start-up that uses his research results for faster and more precise clinical trials of drugs.&lt;/p&gt;
+&lt;p&gt;Read the full press release &lt;a href=&#34;https://kiinformatik.mri.tum.de/de/ueber-uns/pressemitteilungen/aihm/daniel-rueckert-receives-leibniz-prize&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AIM Lab @ MICCAI 2024</title>
