@@ -1,125 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Medical Imaging | AI in Medicine</title>
-    <link>https://aim-lab.io/tag/medical-imaging/</link>
-      <atom:link href="https://aim-lab.io/tag/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
-    <description>Medical Imaging</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2026</copyright><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
-      <title>Medical Imaging</title>
-      <link>https://aim-lab.io/tag/medical-imaging/</link>
-    </image>
-    
-    <item>
-      <title>Master-Seminar: Multi-modal AI for Medicine (IN2107)</title>
-      <link>https://aim-lab.io/theses/huaqiqiu/practical/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/huaqiqiu/practical/</guid>
-      <description>&lt;p&gt;This year&amp;rsquo;s seminar will look at aspects of multi-modal machine learning in medicine and healthcare, focusing on:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Vision language models (VLMs) for medical and healthcare applications&lt;/li&gt;
-&lt;li&gt;Generic multi-modal AI models utilising imaging data, clinical reports, lab test results, electronic health records, and genomics&lt;/li&gt;
-&lt;li&gt;Foundation models for multi-modal medicine&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;objectives&#34;&gt;Objectives:&lt;/h2&gt;
-&lt;p&gt;At the end of the module students should have:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;a thorough understanding of current research in multi-modal AI in medicine, in particular about foundation models and large vision-language models and their impact in medicine&lt;/li&gt;
-&lt;li&gt;After course completion students should be able to apply learned concepts, critically evaluate research works in the area, and be able to conceptualise strategies to tackle the issues discussed&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Each student will choose one paper from a provided list of papers, read it, and give a 15-minute presentation about the paper during the seminar sessions&lt;/li&gt;
-&lt;li&gt;All students are expected and highly encouraged to participate in discussions during the seminar sessions&lt;/li&gt;
-&lt;li&gt;Each student will then write a 2-page report after presenting and discussing the paper&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
-&lt;p&gt;Students are expected to be familiar with:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mathematics basics (graduate level):
-&lt;ul&gt;
-&lt;li&gt;probability theory&lt;/li&gt;
-&lt;li&gt;linear algebra&lt;/li&gt;
-&lt;li&gt;calculus&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Machine / deep learning basics, e.g. having completed:
-&lt;ul&gt;
-&lt;li&gt;Machine Learning (IN2064)&lt;/li&gt;
-&lt;li&gt;Introduction to Deep Learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt; 
-&lt;p&gt;Preference might be given to students with:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Knowledge in deep learning models in medicine, especially vision and/or language models&lt;/li&gt;
-&lt;li&gt;Completion of related courses from our chair, e.g.:
-&lt;ul&gt;
-&lt;li&gt;AI in Medicine I&lt;/li&gt;
-&lt;li&gt;AI in Medicine II&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Work experience in AI / Data Science for Medicine &amp;amp; Healthcare&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;information-session-and-sign-up&#34;&gt;Information session and sign-up&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An online information meeting will take place on &lt;strong&gt;15 July, 16:00&lt;/strong&gt; via Zoom (&lt;a href=&#34;https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;You can sign up for the course in the matching system (&lt;a href=&#34;https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Please fill in the following form in addition to voting in the matching system. The information you provided will help us to evaluate our votes: &lt;a href=&#34;https://forms.gle/xTbgwcFf1ZeaDeXT7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://forms.gle/xTbgwcFf1ZeaDeXT7&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;MultimodalSeminar2024W.pdf&#34;&gt;Information Slides - 2024/25 Winter Semester&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Practical Course: Applied Deep Learning in Medicine</title>
-      <link>https://aim-lab.io/theses/alexziller/practical/</link>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/alexziller/practical/</guid>
-      <description>&lt;p&gt;In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan. Deep Learning methods will be applied to solve tasks to achieve the goal that is agreed upon. Datasets will be explored and analysed in several directions and different approaches will be evaluated and compared.
-In short this course offers students to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Apply Deep Learning in the real world&lt;/li&gt;
-&lt;li&gt;Work on medical data and potentially help diagnose and analyse health related problems&lt;/li&gt;
-&lt;li&gt;Close supervision by PhD students with specialization in AI&lt;/li&gt;
-&lt;li&gt;Collaboration with medical experts&lt;/li&gt;
-&lt;li&gt;Work on the intersection between medicine and computer science&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Completed at least one or several machine learning or deep learning courses (e.g. Intro to Deep Learning, Advanced Deep Learning, Machine Learning etc) with good grades. Knowledge about augmentation, optimizer, common model architectures, etc.&lt;/li&gt;
-&lt;li&gt;Good coding skills in python&lt;/li&gt;
-&lt;li&gt;Coding experience in one or more deep learning frameworks (Tensorflow, PyTorch, etc)&lt;/li&gt;
-&lt;li&gt;Enthusiasm for the application in the medical field&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;objectives&#34;&gt;Objectives:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ability to tackle applied deep learning projects in a structured manner with a good overview of possibilities&lt;/li&gt;
-&lt;li&gt;Gained insight into the problems of medical data&lt;/li&gt;
-&lt;li&gt;Final outcome as a useful insight or tool for medical professionals&lt;/li&gt;
-&lt;li&gt;If possible outcome will be published in a peer-reviewed venue&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Students will work in teams of three&lt;/li&gt;
-&lt;li&gt;Each group will be assigned one medical dataset&lt;/li&gt;
-&lt;li&gt;(Bi)weekly meetings with progress reports&lt;/li&gt;
-&lt;li&gt;Final presentation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
-&lt;p&gt;A preliminary meeting will take place on 04.07.2024 at 14:00 on zoom with the following details: &lt;br&gt;
-&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meeting ID: 690 7588 3519 &lt;br&gt;
-Passcode: 850155&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting-SoSe25.pdf&#34;&gt;Slides - SoSe 2025&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting-WiSe2425.pdf&#34;&gt;Slides - WS 2024/25&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting-SoSe24.pdf&#34;&gt;(Outdated)Slides - SoSe 2024&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWiSe2324.pdf&#34;&gt;(Outdated)Slides - WS 2023/24&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Medical Imaging | AI in Medicine</title><link>https://aim-lab.io/tag/medical-imaging/</link><atom:link href="https://aim-lab.io/tag/medical-imaging/index.xml" rel="self" type="application/rss+xml"/><description>Medical Imaging</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2026</copyright><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url><title>Medical Imaging</title><link>https://aim-lab.io/tag/medical-imaging/</link></image><item><title>Master-Seminar: Multi-modal AI for Medicine (IN2107)</title><link>https://aim-lab.io/theses/huaqiqiu/practical/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/huaqiqiu/practical/</guid><description>&lt;p>This year&amp;rsquo;s seminar will look at aspects of multi-modal machine learning in medicine and healthcare, focusing on:&lt;/p>
+&lt;ul>
+&lt;li>Vision language models (VLMs) for medical and healthcare applications&lt;/li>
+&lt;li>Generic multi-modal AI models utilising imaging data, clinical reports, lab test results, electronic health records, and genomics&lt;/li>
+&lt;li>Foundation models for multi-modal medicine&lt;/li>
+&lt;/ul>
+&lt;h2 id="objectives">Objectives:&lt;/h2>
+&lt;p>At the end of the module students should have:&lt;/p>
+&lt;ul>
+&lt;li>a thorough understanding of current research in multi-modal AI in medicine, in particular about foundation models and large vision-language models and their impact in medicine&lt;/li>
+&lt;li>After course completion students should be able to apply learned concepts, critically evaluate research works in the area, and be able to conceptualise strategies to tackle the issues discussed&lt;/li>
+&lt;/ul>
+&lt;h2 id="methods">Methods:&lt;/h2>
+&lt;ul>
+&lt;li>Each student will choose one paper from a provided list of papers, read it, and give a 15-minute presentation about the paper during the seminar sessions&lt;/li>
+&lt;li>All students are expected and highly encouraged to participate in discussions during the seminar sessions&lt;/li>
+&lt;li>Each student will then write a 2-page report after presenting and discussing the paper&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites:&lt;/h2>
+&lt;p>Students are expected to be familiar with:&lt;/p>
+&lt;ul>
+&lt;li>Mathematics basics (graduate level):
+&lt;ul>
+&lt;li>probability theory&lt;/li>
+&lt;li>linear algebra&lt;/li>
+&lt;li>calculus&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Machine / deep learning basics, e.g. having completed:
+&lt;ul>
+&lt;li>Machine Learning (IN2064)&lt;/li>
+&lt;li>Introduction to Deep Learning&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;p>Preference might be given to students with:&lt;/p>
+&lt;ul>
+&lt;li>Knowledge in deep learning models in medicine, especially vision and/or language models&lt;/li>
+&lt;li>Completion of related courses from our chair, e.g.:
+&lt;ul>
+&lt;li>AI in Medicine I&lt;/li>
+&lt;li>AI in Medicine II&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Work experience in AI / Data Science for Medicine &amp;amp; Healthcare&lt;/li>
+&lt;/ul>
+&lt;h2 id="information-session-and-sign-up">Information session and sign-up&lt;/h2>
+&lt;ul>
+&lt;li>An online information meeting will take place on &lt;strong>15 July, 16:00&lt;/strong> via Zoom (&lt;a href="https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1" target="_blank" rel="noopener">https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1&lt;/a>)&lt;/li>
+&lt;li>You can sign up for the course in the matching system (&lt;a href="https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x" target="_blank" rel="noopener">https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x&lt;/a>)&lt;/li>
+&lt;li>Please fill in the following form in addition to voting in the matching system. The information you provided will help us to evaluate our votes: &lt;a href="https://forms.gle/xTbgwcFf1ZeaDeXT7" target="_blank" rel="noopener">https://forms.gle/xTbgwcFf1ZeaDeXT7&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="MultimodalSeminar2024W.pdf">Information Slides - 2024/25 Winter Semester&lt;/a>&lt;/p></description></item><item><title>Practical Course: Applied Deep Learning in Medicine</title><link>https://aim-lab.io/theses/alexziller/practical/</link><pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/alexziller/practical/</guid><description>&lt;p>In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan. Deep Learning methods will be applied to solve tasks to achieve the goal that is agreed upon. Datasets will be explored and analysed in several directions and different approaches will be evaluated and compared.
+In short this course offers students to:&lt;/p>
+&lt;ul>
+&lt;li>Apply Deep Learning in the real world&lt;/li>
+&lt;li>Work on medical data and potentially help diagnose and analyse health related problems&lt;/li>
+&lt;li>Close supervision by PhD students with specialization in AI&lt;/li>
+&lt;li>Collaboration with medical experts&lt;/li>
+&lt;li>Work on the intersection between medicine and computer science&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites:&lt;/h2>
+&lt;ul>
+&lt;li>Completed at least one or several machine learning or deep learning courses (e.g. Intro to Deep Learning, Advanced Deep Learning, Machine Learning etc) with good grades. Knowledge about augmentation, optimizer, common model architectures, etc.&lt;/li>
+&lt;li>Good coding skills in python&lt;/li>
+&lt;li>Coding experience in one or more deep learning frameworks (Tensorflow, PyTorch, etc)&lt;/li>
+&lt;li>Enthusiasm for the application in the medical field&lt;/li>
+&lt;/ul>
+&lt;h2 id="objectives">Objectives:&lt;/h2>
+&lt;ul>
+&lt;li>Ability to tackle applied deep learning projects in a structured manner with a good overview of possibilities&lt;/li>
+&lt;li>Gained insight into the problems of medical data&lt;/li>
+&lt;li>Final outcome as a useful insight or tool for medical professionals&lt;/li>
+&lt;li>If possible outcome will be published in a peer-reviewed venue&lt;/li>
+&lt;/ul>
+&lt;h2 id="methods">Methods:&lt;/h2>
+&lt;ul>
+&lt;li>Students will work in teams of three&lt;/li>
+&lt;li>Each group will be assigned one medical dataset&lt;/li>
+&lt;li>(Bi)weekly meetings with progress reports&lt;/li>
+&lt;li>Final presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="preliminary-meeting">Preliminary meeting&lt;/h2>
+&lt;p>A preliminary meeting will take place on 04.07.2024 at 14:00 on zoom with the following details: &lt;br>
+&lt;a href="https://tum-conf.zoom.us/j/69075883519" target="_blank" rel="noopener">https://tum-conf.zoom.us/j/69075883519&lt;/a>&lt;/p>
+&lt;p>Meeting ID: 690 7588 3519 &lt;br>
+Passcode: 850155&lt;/p>
+&lt;p>&lt;a href="PracticalPreMeeting-SoSe25.pdf">Slides - SoSe 2025&lt;/a>&lt;/p>
+&lt;p>&lt;a href="PracticalPreMeeting-WiSe2425.pdf">Slides - WS 2024/25&lt;/a>&lt;/p>
+&lt;p>&lt;a href="PracticalPreMeeting-SoSe24.pdf">(Outdated)Slides - SoSe 2024&lt;/a>&lt;/p>
+&lt;p>&lt;a href="PracticalPreMeetingWiSe2324.pdf">(Outdated)Slides - WS 2023/24&lt;/a>&lt;/p></description></item></channel></rss>

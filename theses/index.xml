@@ -1,458 +1,344 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Current Vacancies | AI in Medicine</title>
-    <link>https://aim-lab.io/theses/</link>
-      <atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml" />
-    <description>Current Vacancies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2026</copyright><lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
-      <title>Current Vacancies</title>
-      <link>https://aim-lab.io/theses/</link>
-    </image>
-    
-    <item>
-      <title>MSc Thesis: LLM/VLM-based AI Agents Workflow for Simplifying Medical Image Analysis</title>
-      <link>https://aim-lab.io/theses/jiazhenpan/jz_msc_proposal/</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/jiazhenpan/jz_msc_proposal/</guid>
-      <description>&lt;p&gt;This project is collaborated with University of Oxford.&lt;/p&gt;
-&lt;h3 id=&#34;background&#34;&gt;Background:&lt;/h3&gt;
-&lt;p&gt;Building deep learning based medical image analysis pipelines can be a challenge for clinicians and medical science researchers due to the reliance on expertise with deep learning development, coupled with significant heterogeneity in real-world medical data and dynamic tasks centered at diverse research questions. Previous works on low-coding deep learning for medical image analysis approaches [1, 2] cannot effectively mitigate the knowledge and experience gaps for inexperienced users. Recent large language model (LLM) or vision-language model (VLM)-based agent systems [3, 4] offer a novel way to provide a higher level of autonomy and less reliance on expertise for the development medical image analysis pipelines [5, 6].&lt;/p&gt;
-&lt;h3 id=&#34;your-tasks&#34;&gt;Your tasks:&lt;/h3&gt;
-&lt;p&gt;First, you will familiar yourself with the basic deployment and development with LLM-agent frameworks (e.g., LangChain [3]). You will then familiar yourself with a few key considerations in a specific medical imaging analysis application (e.g., those for analyzing cardiac MRI), for which proper handling currently relies on data scientists&amp;rsquo; experience (technical details will be briefed by the project advisors). You will then build an LLM/VLM-based agent system for automized building and self-refining for a toy medical image analysis pipeline. You will evaluate the performance of a few mainstream LLM/VLMs as agent backends on the success rate, cost-effectiveness, and reliance on the clarity of human prompts defining the task.&lt;/p&gt;
-&lt;h3 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h3&gt;
-&lt;p&gt;We are looking for a highly motivated Master&amp;rsquo;s student in CS, Physics, Engineering, or Mathematics with&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Good understanding/experience with LLM/VLM-backed agent systems (development and/or deployment). Experience with frameworks such as Langchain [3], Textgrad [4], etc. is highly desirable.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Advanced programming skills in Python and common DL frameworks. Experience with working with multi-GPU developments and dockers.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Experience with DL for computer vision tasks; experience working with data preprocessing, model development, and validation for real-world medical images is a plus.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Strong interest in teamwork and inter-disciplinary research.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;The opportunity to join an ongoing project with the aim of publishing a top tier conference paper.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;An exciting research project with many possibilities to bring in your own ideas.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Potential transition into a PhD project at TUM / University of Oxford.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The possibility to bring in your own ideas and combine them with state-of-the-art algorithms.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Close supervision by an interdisciplinary network of computer vision / medical imaging experts from top-tier university.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;start-date-1st-mayjune-2025&#34;&gt;Start date: 1st May/June, 2025&lt;/h3&gt;
-&lt;h3 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h3&gt;
-&lt;p&gt;Please send your CV and transcript to Jiazhen Pan &lt;a href=&#34;mailto:jiazhen.pan@tum.de&#34;&gt;jiazhen.pan@tum.de&lt;/a&gt;. Links to previous work (e.g., your GitHub profile, papers) are highly appreciated.&lt;/p&gt;
-&lt;h3 id=&#34;references&#34;&gt;References:&lt;/h3&gt;
-&lt;p&gt;[1] Isensee et at. nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation, Nature Methods 2021&lt;/p&gt;
-&lt;p&gt;[2] Ma et al. Segment anything in medical images, Nature Communication 2023&lt;/p&gt;
-&lt;p&gt;[3] LongChain Consortium &lt;a href=&#34;https://github.com/langchain-ai/langchain&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/langchain-ai/langchain&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[4] Yuksekgonul et al. TextGrad: Automatic &amp;ldquo;Differentiation&amp;rdquo; via Text, Arxiv 2024&lt;/p&gt;
-&lt;p&gt;[5] Hoops et al. VoxelPrompt: A Vision-Language Agent for Grounded Medical Image Analysis, Arxiv 2024&lt;/p&gt;
-&lt;p&gt;[6] Feng et al. M^ 3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging, Arxiv 2025&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IDP/Thesis: Physics-based deep learning for hyperspectral neuronavigation</title>
-      <link>https://aim-lab.io/theses/ivanezhov/thesis_hyperprobe/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/ivanezhov/thesis_hyperprobe/</guid>
-      <description>&lt;p&gt;Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object&amp;rsquo;s reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors [1]. 
-Within the &lt;a href=&#34;https://hyperprobe.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HyperProbe&lt;/a&gt; project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery. 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Current Vacancies | AI in Medicine</title><link>https://aim-lab.io/theses/</link><atom:link href="https://aim-lab.io/theses/index.xml" rel="self" type="application/rss+xml"/><description>Current Vacancies</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2026</copyright><lastBuildDate>Wed, 12 Mar 2025 00:00:00 +0000</lastBuildDate><image><url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url><title>Current Vacancies</title><link>https://aim-lab.io/theses/</link></image><item><title>MSc Thesis: LLM/VLM-based AI Agents Workflow for Simplifying Medical Image Analysis</title><link>https://aim-lab.io/theses/jiazhenpan/jz_msc_proposal/</link><pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/jiazhenpan/jz_msc_proposal/</guid><description>&lt;p>This project is collaborated with University of Oxford.&lt;/p>
+&lt;h3 id="background">Background:&lt;/h3>
+&lt;p>Building deep learning based medical image analysis pipelines can be a challenge for clinicians and medical science researchers due to the reliance on expertise with deep learning development, coupled with significant heterogeneity in real-world medical data and dynamic tasks centered at diverse research questions. Previous works on low-coding deep learning for medical image analysis approaches [1, 2] cannot effectively mitigate the knowledge and experience gaps for inexperienced users. Recent large language model (LLM) or vision-language model (VLM)-based agent systems [3, 4] offer a novel way to provide a higher level of autonomy and less reliance on expertise for the development medical image analysis pipelines [5, 6].&lt;/p>
+&lt;h3 id="your-tasks">Your tasks:&lt;/h3>
+&lt;p>First, you will familiar yourself with the basic deployment and development with LLM-agent frameworks (e.g., LangChain [3]). You will then familiar yourself with a few key considerations in a specific medical imaging analysis application (e.g., those for analyzing cardiac MRI), for which proper handling currently relies on data scientists&amp;rsquo; experience (technical details will be briefed by the project advisors). You will then build an LLM/VLM-based agent system for automized building and self-refining for a toy medical image analysis pipeline. You will evaluate the performance of a few mainstream LLM/VLMs as agent backends on the success rate, cost-effectiveness, and reliance on the clarity of human prompts defining the task.&lt;/p>
+&lt;h3 id="your-qualifications">Your qualifications:&lt;/h3>
+&lt;p>We are looking for a highly motivated Master&amp;rsquo;s student in CS, Physics, Engineering, or Mathematics with&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Good understanding/experience with LLM/VLM-backed agent systems (development and/or deployment). Experience with frameworks such as Langchain [3], Textgrad [4], etc. is highly desirable.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Advanced programming skills in Python and common DL frameworks. Experience with working with multi-GPU developments and dockers.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Experience with DL for computer vision tasks; experience working with data preprocessing, model development, and validation for real-world medical images is a plus.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Strong interest in teamwork and inter-disciplinary research.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="what-we-offer">What we offer:&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>The opportunity to join an ongoing project with the aim of publishing a top tier conference paper.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>An exciting research project with many possibilities to bring in your own ideas.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Potential transition into a PhD project at TUM / University of Oxford.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The possibility to bring in your own ideas and combine them with state-of-the-art algorithms.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Close supervision by an interdisciplinary network of computer vision / medical imaging experts from top-tier university.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="start-date-1st-mayjune-2025">Start date: 1st May/June, 2025&lt;/h3>
+&lt;h3 id="how-to-apply">How to apply:&lt;/h3>
+&lt;p>Please send your CV and transcript to Jiazhen Pan &lt;a href="mailto:jiazhen.pan@tum.de">jiazhen.pan@tum.de&lt;/a>. Links to previous work (e.g., your GitHub profile, papers) are highly appreciated.&lt;/p>
+&lt;h3 id="references">References:&lt;/h3>
+&lt;p>[1] Isensee et at. nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation, Nature Methods 2021&lt;/p>
+&lt;p>[2] Ma et al. Segment anything in medical images, Nature Communication 2023&lt;/p>
+&lt;p>[3] LongChain Consortium &lt;a href="https://github.com/langchain-ai/langchain" target="_blank" rel="noopener">https://github.com/langchain-ai/langchain&lt;/a>&lt;/p>
+&lt;p>[4] Yuksekgonul et al. TextGrad: Automatic &amp;ldquo;Differentiation&amp;rdquo; via Text, Arxiv 2024&lt;/p>
+&lt;p>[5] Hoops et al. VoxelPrompt: A Vision-Language Agent for Grounded Medical Image Analysis, Arxiv 2024&lt;/p>
+&lt;p>[6] Feng et al. M^ 3Builder: A Multi-Agent System for Automated Machine Learning in Medical Imaging, Arxiv 2025&lt;/p></description></item><item><title>IDP/Thesis: Physics-based deep learning for hyperspectral neuronavigation</title><link>https://aim-lab.io/theses/ivanezhov/thesis_hyperprobe/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/ivanezhov/thesis_hyperprobe/</guid><description>&lt;p>Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object&amp;rsquo;s reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors [1].
+Within the &lt;a href="https://hyperprobe.eu" target="_blank" rel="noopener">HyperProbe&lt;/a> project, we aim to develop a novel all-optical, AI-powered intraoperative imaging system to transform monitoring of brain tumour surgery.
 Your goal would be to develop a methodology at the intersection between physics and machine-learning to identify biomarkers of healthy and tumor brain tissue.
-&lt;img src=&#34;https://hyperprobe.eu/wp-content/uploads/2022/12/shutterstock_1152709331-2048x1152.jpg&#34; alt=&#34;Surgery&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Enthusiasm for merging physics with AI for developing new biomedical imaging modality&lt;/li&gt;
-&lt;li&gt;Ideally, prior work experience using deep learning for image processing&lt;/li&gt;
-&lt;li&gt;Decent programming skills in Python as well as PyTorch or Tensorflow&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting research project aimed to build a new imaging modality that has a potential to change the neurosurgery monitoring in the near future&lt;/li&gt;
-&lt;li&gt;Close supervision and access to state-of-the-art computer hardware&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:ivan.ezhov@tum.de&#34;&gt;ivan.ezhov@tum.de&lt;/a&gt; with your CV and transcript.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;[1] Luca Giannoni, Frédéric Lange and Ilias Tachtsidis. Hyperspectral imaging solutions for brain tissue
-metabolic and hemodynamic monitoring: past, current and future developments, J. Opt. 20 (2018)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Master’s Thesis Opportunity: Differential Privacy for Interpretability</title>
-      <link>https://aim-lab.io/theses/-sarahlockfisch/differential_privacy/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/-sarahlockfisch/differential_privacy/</guid>
-      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
-&lt;p&gt;Understanding how machine learning models learn and organize concepts is a key challenge in interpretability research. This thesis investigates the potential of Differential Privacy (DP) as a constraint to analyze the hierarchical nature of concept learning, with the goal of improving model interpretability. The research aims to explore how DP affects the learning of subpopulations and concepts.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Research Questions&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Primary Question: How can DP be leveraged as a constraint to understand the hierarchical nature of concept learning in machine learning models? Can DP be used to improve model interpretability?
-Secondary Questions:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;How can we effectively identify and analyze the learning of specific concepts under DP constraints?&lt;/li&gt;
-&lt;li&gt;What metrics can be used to quantify concept acquisition?&lt;/li&gt;
-&lt;li&gt;How does (the level of) privacy influence the order and granularity of learned concepts?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Methods &amp;amp; Tools&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The thesis will involve a combination of theoretical analysis and empirical evaluation. Possible methodologies include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Implementation in Python.&lt;/li&gt;
-&lt;li&gt;Qualitative analysis of learned concepts and identification of relevant subpopulations.&lt;/li&gt;
-&lt;li&gt;Development of quantitative metrics to evaluate concept acquisition under varying DP constraints.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
-&lt;p&gt;We are looking for students with an interest in privacy, interpretability, and machine learning. Required and preferred skills include:
-Required:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong motivation&lt;/li&gt;
-&lt;li&gt;Strong programming skills in Python&lt;/li&gt;
-&lt;li&gt;Background in machine learning and deep learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Preferred:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience with privacy-preserving ML frameworks&lt;/li&gt;
-&lt;li&gt;Familiarity with differential privacy fundamentals&lt;/li&gt;
-&lt;li&gt;Knowledge of interpretable AI techniques&lt;/li&gt;
-&lt;li&gt;Good mathematical foundations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What We Offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Access to computing resources and datasets for experimentation&lt;/li&gt;
-&lt;li&gt;Support from experienced researchers in DP and interpretability&lt;/li&gt;
-&lt;li&gt;Potential opportunities to publish findings in AI/ML conferences&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
-&lt;p&gt;Interested students should send the following to sarah.lockfisch@tum.de and jonas.kuntzer@tum.de:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A brief motivation letter (1 page max)&lt;/li&gt;
-&lt;li&gt;Your CV&lt;/li&gt;
-&lt;li&gt;Academic transcripts&lt;/li&gt;
-&lt;li&gt;Any relevant project samples or publications (if available)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For further questions, feel free to reach out to Sarah Lockfisch or Jonas Kuntzer.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Master-Seminar: Implicit Neural Representation and Neural Fields (IN2107)</title>
-      <link>https://aim-lab.io/theses/huaqiqiu/inr/inr_seminar_2025s/</link>
-      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/huaqiqiu/inr/inr_seminar_2025s/</guid>
-      <description>&lt;p&gt;In this summer semester (2025S), we are offering a master&amp;rsquo;s seminar course on the topic of &amp;ldquo;Implicit Neural Representation and Neural Fields&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;This seminar course will explore implicit neural representations (INR) and Neural Fields, an area of deep learning that uses neural networks to model complex functional mappings from coordinates to various field quantities such as radiance, image intensity, or density. These methods have exciting applications in scene representation, image enhancement, novel view and temporal frame synthesis, shape modelling, physics simulations, data compression, and many more.&lt;/p&gt;
-&lt;p&gt;Implicit neural representations offer powerful alternatives to traditional data structure and representation, enabling compact and flexible modeling of the underlying entities with resolution limit. Neural Fields is a broader class of techniques that extends these capabilities to represent complex structures such as surfaces, volumes, and dynamic phenomena, making them highly relevant for modern data-driven methods. At their core, research on these methods aim to look beyond the structures in which data representing an entity is commonly sampled and presented (e.g. images, meshes, point clouds) by building modeling tasks around the underlying geometry.&lt;/p&gt;
-&lt;p&gt;In this seminar, we will overview different aspects of INRs and Neural Fields through the discussion of a serious of papers from research literature. We look at the theoretical fundamental of implicit representations and neural fields, by looking at seminal works in compression and interpolation, as well as their connections to general topics in signal processing and geometric deep learning. We will also explore recent advancements, such as the integration of prior knowledge through physics-informed neural networks, using data cohorts to condition the modeling process, and multimodal data fusion. In-depth discussions of the research papers will allow students to understand and critically analyze these methods.&lt;/p&gt;
-&lt;p&gt;For more information, please see the &lt;a href=&#34;https://campus.tum.de/tumonline/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=950833292&amp;amp;pSpracheNr=2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TUMOnline page&lt;/a&gt; and the information slides below.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1tm0l4FAqv-0_yQ8JmNNy8kQZBRCipyfZ7OPsyFcceBo/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Information Slides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Please sign-up at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to: &lt;a href=&#34;mailto:harvey.qiu@tum.de&#34;&gt;harvey.qiu@tum.de&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning for Inverse Problems in Medical Imaging​ (IN2107)</title>
-      <link>https://aim-lab.io/theses/sevgigokcekafali/practical/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/sevgigokcekafali/practical/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;InvPr_seminar.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;More information will be provided during an introduction meeting scheduled at 10/02/2025 at 10am via Zoom:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&lt;/a&gt;, Meeting ID: 633 0597 1488 Passcode: 684506&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In medical imaging, the reconstruction of high-quality images from incomplete or corrupted data often involves solving inverse problems. Deep learning has emerged as a powerful tool for addressing these challenges, offering approaches to improve image reconstruction quality, enhance computational efficiency, and tackle complex non-linearities.
-This seminar explores the concepts of deep learning for inverse problems, focusing on their applications in medical imaging. Selected materials from recent methodological advances will be covered as well as key challenges and opportunities in leveraging deep learning for clinical applications.&lt;/p&gt;
-&lt;p&gt;Key topics to be covered include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Introduction to inverse problems in medical imaging&lt;/li&gt;
-&lt;li&gt;Deep learning approaches for solving inverse problems&lt;/li&gt;
-&lt;li&gt;Applications in various medical imaging modalities (e.g., MRI, CT, PET)&lt;/li&gt;
-&lt;li&gt;Comparison of traditional and deep learning-based methods&lt;/li&gt;
-&lt;li&gt;Emerging trends and clinical implications&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Please register at: &lt;a href=&#34;https://matching.in.tum.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/&lt;/a&gt; or write an e-mail to &lt;a href=&#34;mailto:hannah.eichhorn@tum.de&#34;&gt;hannah.eichhorn@tum.de&lt;/a&gt;, &lt;a href=&#34;mailto:lina.felsner@tum.de&#34;&gt;lina.felsner@tum.de&lt;/a&gt; or &lt;a href=&#34;mailto:s.kafali@tum.de&#34;&gt;s.kafali@tum.de&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Check the intro slides here:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;InvPr_seminar.pdf&#34;&gt;Seminar slides&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vision-Language Pretraining for Bone Tumor Classification</title>
-      <link>https://aim-lab.io/theses/annacurtovilalta/index_vision-language_bonetumor/</link>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/annacurtovilalta/index_vision-language_bonetumor/</guid>
-      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
-&lt;p&gt;Bone tumor classification presents significant challenges due to the subtle visual differences among tumor entities, even for expert radiologists. This thesis aims to enhance diagnostic capabilities using vision-language pretraining to classify bone tumors from X-ray images. By pretraining on large datasets and incorporating anatomical context through captions, this thesis seeks to address key limitations posed by data scarcity and anatomical heterogeneity in the field of bone tumors. 
-&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;methodology&#34;&gt;Methodology:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Literature review on the current state-of-the-art techniques for bone tumor classification and self-supervised vision-language pretraining.&lt;/li&gt;
-&lt;li&gt;Implement a supervised learning model for bone tumor classification using X-Rays which will serve as a baseline.&lt;/li&gt;
-&lt;li&gt;Pretrain a vision-language model in a self-supervised manner, which will serve as a general-purpose model for downstream task.&lt;/li&gt;
-&lt;li&gt;Test several fine-tuning strategies for bone tumor classification and test zero-shot capabilities.
-&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Advanced knowledge of deep learning with imaging data.&lt;/li&gt;
-&lt;li&gt;Beneficial but not necessary: experience in medicine/oncology.&lt;/li&gt;
-&lt;li&gt;Preferred starting date: January-February 2025 (with flexibility).
-&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Very rare medical data with high potential for publication.&lt;/li&gt;
-&lt;li&gt;Highly educated &amp;amp; interdisciplinary environment.&lt;/li&gt;
-&lt;li&gt;Top-level hardware for scientific computing.&lt;/li&gt;
-&lt;li&gt;Constant feedback from medical and computer science experts.
-&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:anna.curto-vilalta@tum.de&#34;&gt;anna.curto-vilalta@tum.de&lt;/a&gt;, with your CV and small introduction about you and your motivation.
-&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;A. Radford et al., “Learning Transferable Visual Models From Natural Language Supervision,” Feb. 26, 2021, arXiv: arXiv:2103.00020. doi: &lt;a href=&#34;https://doi.org/10.48550/arXiv.2103.00020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.48550/arXiv.2103.00020&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;H. Q. Vo et al., &amp;ldquo;Frozen Large-scale Pretrained Vision-Language Models are the Effective Foundational Backbone for Multimodal Breast Cancer Prediction,&amp;rdquo; in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2024.3507638.&lt;/p&gt;
-&lt;br/&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Medial axis-based segmentation loss</title>
-      <link>https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/</link>
-      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/</guid>
-      <description>&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Image segmentation&lt;/strong&gt; seeks to classify individual pixels in an image into semantic classes, such as e.g. the organs in a CT scan. State-of-the-art approaches to image segmentation [5], while very accurate, have limitations in terms of topological correctness. Topological losses are being investigated to overcome these challenges; for example, CL-Dice [4] introduced a loss based on a differentiable soft skeleton for vessel segmentation. In this work we seek to extend this approach to more complex objects, using the medial axis.&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;medial axis&lt;/strong&gt; refers to the set of points inside a shape that are equidistant from at least two boundary points of the shape. It can be thought of as a skeletal representation of the shape, which simplifies its structure while preserving essential geometric and topological properties. Approximating the medial axis efficiently and robustly is an active topic of research [1, 2, 3].&lt;/p&gt;
-&lt;p&gt;In this project you will implement in Python / adapt from other frameworks the medial axis computation and evaluate its feasibility as a loss in a segmentation problem. You will be working in a state-of-the-art research project with opportunities to bring in you own research ideas. We are looking for a highly motivated student with a &lt;strong&gt;solid background in computer graphics&lt;/strong&gt; and experience in &lt;strong&gt;C++&lt;/strong&gt;, in addition to experience in &lt;strong&gt;PyTorch&lt;/strong&gt;. We will provide access to necessary hardware.&lt;/p&gt;
-&lt;br/&gt;
-&lt;h3 id=&#34;how-to-apply&#34;&gt;&lt;strong&gt;How to apply&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Please send your CV and transcript to Alina Dima (&lt;a href=&#34;mailto:alina.dima@tum.de&#34;&gt;alina.dima@tum.de&lt;/a&gt;) and Suprosanna Shit (&lt;a href=&#34;mailto:suprosanna.shit@uzh.ch&#34;&gt;suprosanna.shit@uzh.ch&lt;/a&gt;) using the subject “&lt;strong&gt;MSc Thesis: Medial axis-based segmentation loss”&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Please also include brief summaries of your prior deep learning projects (including your contributions to the project and the used framework) and, if available, provide links to the codebases (e.g., your GitHub profile).&lt;/p&gt;
-&lt;br/&gt;
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-&lt;p&gt;[1] Yan, Y., Letscher, D., &amp;amp; Ju, T. (2018). Voxel cores: Efficient, robust, and provably good approximation of 3d medial axes. &lt;em&gt;ACM Transactions on Graphics (TOG)&lt;/em&gt;, &lt;em&gt;37&lt;/em&gt;(4), 1-13.&lt;/p&gt;
-&lt;p&gt;[2] Pepe, A., Schussnig, R., Li, J., Gsaxner, C., Schmalstieg, D., &amp;amp; Egger, J. (2024). Deep Medial Voxels: Learned Medial Axis Approximations for Anatomical Shape Modeling. &lt;em&gt;arXiv preprint arXiv:2403.11790&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;[3] Wang, N., Huang, H., Song, S., Wang, B., Wang, W., &amp;amp; Guo, X. (2024). MATTopo: Topology-preserving Medial Axis Transform with Restricted Power Diagram. &lt;em&gt;arXiv preprint arXiv:2403.18761&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;[4] Shit, S., Paetzold, J. C., Sekuboyina, A., Ezhov, I., Unger, A., Zhylka, A., &amp;hellip; &amp;amp; Menze, B. H. (2021). clDice-a novel topology-preserving  loss function for tubular structure segmentation. In &lt;em&gt;Proceedings of the IEEE/CVF conference on computer vision and pattern recognition&lt;/em&gt; (pp. 16560-16569).&lt;/p&gt;
-&lt;p&gt;[5] Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., &amp;amp; Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. &lt;em&gt;Nature methods&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(2), 203-211.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Large Language Models in Medicine</title>
-      <link>https://aim-lab.io/theses/martonszep/index_llm-med/</link>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/martonszep/index_llm-med/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description:&lt;/h2&gt;
-&lt;p&gt;Large Language Models (LLMs) have shown exceptional capabilities in understanding and generating human-like text. In the medical field, these models hold the potential to revolutionize patient care, medical research, and healthcare administration. By leveraging LLMs, we can enhance diagnostic accuracy, streamline administrative tasks, and provide personalized patient care. However, the integration of these models into medical practice poses unique challenges and opportunities that warrant thorough investigation.
-Objective&lt;/p&gt;
-&lt;p&gt;The primary objective of this thesis is to develop and evaluate AI systems powered by Large Language Models that aid medical professionals in their work. Specific research topics and applications will be agreed upon with the student, allowing for a tailored approach that aligns with the student&amp;rsquo;s interests and expertise. Potential areas of focus include (but are not limited to):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;LLMs and Knowledge Graphs: Integrating LLMs with medical knowledge graphs to improve information retrieval and decision support.&lt;/li&gt;
-&lt;li&gt;Retrieval-Augmented Generation: Enhancing the generation capabilities of LLMs by incorporating external data sources.&lt;/li&gt;
-&lt;li&gt;Explainability: Developing methods to interpret and explain the outputs of LLMs to ensure transparency and trustworthiness in medical applications.&lt;/li&gt;
-&lt;li&gt;Uncertainty Quantification: Quantifying and communicating the uncertainty in LLM predictions to assist medical professionals in making informed decisions.
-&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;methodology&#34;&gt;Methodology:&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Literature review: A comprehensive literature review will be conducted to understand the current state of LLMs in medicine from the chosen perspective.&lt;/li&gt;
-&lt;li&gt;Data collection and preprocessing: Utilizing real clinical data in German, provided by the institution. The data will be preprocessed and anonymized to ensure compliance with privacy regulations. If needed, this will be extended with public data.&lt;/li&gt;
-&lt;li&gt;Explore, implement and compare different approaches: Train and fine-tune LLMs.&lt;/li&gt;
-&lt;li&gt;Evaluation: Assessing the performance of the developed systems through quantitative metrics and qualitative feedback from medical experts.&lt;/li&gt;
-&lt;li&gt;Discussion and presentation of results
-&lt;br/&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Language skills: Good English and at least intermediate German language skills are necessary for working with clinical data.&lt;/li&gt;
-&lt;li&gt;Technical skills: Advanced knowledge of deep learning, proficiency in Python and experience with PyTorch is essential. Familiarity with the HuggingFace ecosystem is a plus.&lt;/li&gt;
-&lt;li&gt;Medical data experience: Previous experience with medical data is a beneficial.
-&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Access to real clinical data: The thesis will provide access to unique clinical data with high potential for publication and impactful research.&lt;/li&gt;
-&lt;li&gt;Interdisciplinary environment: Students will work in a highly educated and interdisciplinary team, fostering collaboration between computer science and medical experts.&lt;/li&gt;
-&lt;li&gt;Advanced computing resources: The institution offers top-level hardware for scientific computing, ensuring efficient and effective model training and experimentation.&lt;/li&gt;
-&lt;li&gt;Expert feedback: Continuous feedback from both medical professionals and computer science experts will guide the research process, ensuring the development of relevant and high-quality solutions.
-&lt;br/&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply:&lt;/h2&gt;
-&lt;p&gt;Preferred start date: September 2024, with flexibility&lt;/p&gt;
-&lt;p&gt;Send an email to &lt;a href=&#34;mailto:marton.szep@tum.de&#34;&gt;marton.szep@tum.de&lt;/a&gt;, with your CV, transcript of records, and a small introduction about you and your motivation.
-&lt;br/&gt;&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;Pan, S., Luo, L., Wang, Y., Chen, C., Wang, J., &amp;amp; Wu, X. (2024). Unifying large language models and knowledge graphs: A roadmap. IEEE Transactions on Knowledge and Data Engineering.&lt;/p&gt;
-&lt;p&gt;Zhang, B., &amp;amp; Soh, H. (2024). Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction. arXiv preprint arXiv:2404.03868.&lt;/p&gt;
-&lt;p&gt;Cao, L., Sun, J., &amp;amp; Cross, A. (2024). AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models. arXiv preprint arXiv:2403.00953.&lt;/p&gt;
-&lt;p&gt;Kommineni, V. K., König-Ries, B., &amp;amp; Samuel, S. (2024). From human experts to machines: An LLM supported approach to ontology and knowledge graph construction. arXiv preprint arXiv:2403.08345.
-&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MSc Thesis: Outperforming CNNs and Transformers on Medical Imaging Tasks with Equivariant Networks</title>
-      <link>https://aim-lab.io/theses/florianhoelzl/thesis-outperforming-w-equivariance/</link>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/florianhoelzl/thesis-outperforming-w-equivariance/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Equivariant convolutions are a novel approach that incorporate additional geometric properties of the input domain during the convolution process (i.e. symmetry properties such as rotations and reflections) [1]. This additional inductive bias allows the model to learn more robust and general features from less data, rendering them highly promising for application in the medical domain. So far, however, nobody has investigated how their beneficial characteristics impact the design and scaling of deep learning model architectures.&lt;/p&gt;
-&lt;p&gt;We have developed a framework for initial investigation of equivariant convolutions and now want to evaluate how their performance can be further increased with larger model sizes and under different training regimes. This work plans to build onto previous highly impactful research on model design, such as the establishment of the EfficientNet architecture and the Chinchilla language model, to create a sound basis for the further consolidation of equivariant convolutions in the broader research landscape [2, 3]. The focus will be to thoroughly analyse and expand a framework for equivariant models already developed at our lab. This includes getting familiar with model architectures in general, the properties of equivariant convolutions and the intersection of the two. Our goal is to develop a family of equivariant model architectures that can be easily adapted to the properties of the used dataset and are able to beat state-of-the-art non-equivariant alternatives [4].&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the properties of equivariant models on different benchmark datasets. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
-&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Cohen and Welling (2016). Group Equivariant Convolutions. ICML 2016.&lt;/li&gt;
-&lt;li&gt;Tan and Le (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ICML 2019.&lt;/li&gt;
-&lt;li&gt;Hoffmann et al. (2022). Training Compute-Optimal Large Language Models. ArXiv, abs/2203.15556.&lt;/li&gt;
-&lt;li&gt;Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Master-Seminar: Multi-modal AI for Medicine (IN2107)</title>
-      <link>https://aim-lab.io/theses/huaqiqiu/practical/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/huaqiqiu/practical/</guid>
-      <description>&lt;p&gt;This year&amp;rsquo;s seminar will look at aspects of multi-modal machine learning in medicine and healthcare, focusing on:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Vision language models (VLMs) for medical and healthcare applications&lt;/li&gt;
-&lt;li&gt;Generic multi-modal AI models utilising imaging data, clinical reports, lab test results, electronic health records, and genomics&lt;/li&gt;
-&lt;li&gt;Foundation models for multi-modal medicine&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;objectives&#34;&gt;Objectives:&lt;/h2&gt;
-&lt;p&gt;At the end of the module students should have:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;a thorough understanding of current research in multi-modal AI in medicine, in particular about foundation models and large vision-language models and their impact in medicine&lt;/li&gt;
-&lt;li&gt;After course completion students should be able to apply learned concepts, critically evaluate research works in the area, and be able to conceptualise strategies to tackle the issues discussed&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Each student will choose one paper from a provided list of papers, read it, and give a 15-minute presentation about the paper during the seminar sessions&lt;/li&gt;
-&lt;li&gt;All students are expected and highly encouraged to participate in discussions during the seminar sessions&lt;/li&gt;
-&lt;li&gt;Each student will then write a 2-page report after presenting and discussing the paper&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
-&lt;p&gt;Students are expected to be familiar with:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mathematics basics (graduate level):
-&lt;ul&gt;
-&lt;li&gt;probability theory&lt;/li&gt;
-&lt;li&gt;linear algebra&lt;/li&gt;
-&lt;li&gt;calculus&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Machine / deep learning basics, e.g. having completed:
-&lt;ul&gt;
-&lt;li&gt;Machine Learning (IN2064)&lt;/li&gt;
-&lt;li&gt;Introduction to Deep Learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt; 
-&lt;p&gt;Preference might be given to students with:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Knowledge in deep learning models in medicine, especially vision and/or language models&lt;/li&gt;
-&lt;li&gt;Completion of related courses from our chair, e.g.:
-&lt;ul&gt;
-&lt;li&gt;AI in Medicine I&lt;/li&gt;
-&lt;li&gt;AI in Medicine II&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Work experience in AI / Data Science for Medicine &amp;amp; Healthcare&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;information-session-and-sign-up&#34;&gt;Information session and sign-up&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An online information meeting will take place on &lt;strong&gt;15 July, 16:00&lt;/strong&gt; via Zoom (&lt;a href=&#34;https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;You can sign up for the course in the matching system (&lt;a href=&#34;https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Please fill in the following form in addition to voting in the matching system. The information you provided will help us to evaluate our votes: &lt;a href=&#34;https://forms.gle/xTbgwcFf1ZeaDeXT7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://forms.gle/xTbgwcFf1ZeaDeXT7&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;MultimodalSeminar2024W.pdf&#34;&gt;Information Slides - 2024/25 Winter Semester&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Practical Course: Applied Deep Learning in Medicine</title>
-      <link>https://aim-lab.io/theses/alexziller/practical/</link>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/alexziller/practical/</guid>
-      <description>&lt;p&gt;In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan. Deep Learning methods will be applied to solve tasks to achieve the goal that is agreed upon. Datasets will be explored and analysed in several directions and different approaches will be evaluated and compared.
-In short this course offers students to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Apply Deep Learning in the real world&lt;/li&gt;
-&lt;li&gt;Work on medical data and potentially help diagnose and analyse health related problems&lt;/li&gt;
-&lt;li&gt;Close supervision by PhD students with specialization in AI&lt;/li&gt;
-&lt;li&gt;Collaboration with medical experts&lt;/li&gt;
-&lt;li&gt;Work on the intersection between medicine and computer science&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Completed at least one or several machine learning or deep learning courses (e.g. Intro to Deep Learning, Advanced Deep Learning, Machine Learning etc) with good grades. Knowledge about augmentation, optimizer, common model architectures, etc.&lt;/li&gt;
-&lt;li&gt;Good coding skills in python&lt;/li&gt;
-&lt;li&gt;Coding experience in one or more deep learning frameworks (Tensorflow, PyTorch, etc)&lt;/li&gt;
-&lt;li&gt;Enthusiasm for the application in the medical field&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;objectives&#34;&gt;Objectives:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ability to tackle applied deep learning projects in a structured manner with a good overview of possibilities&lt;/li&gt;
-&lt;li&gt;Gained insight into the problems of medical data&lt;/li&gt;
-&lt;li&gt;Final outcome as a useful insight or tool for medical professionals&lt;/li&gt;
-&lt;li&gt;If possible outcome will be published in a peer-reviewed venue&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Students will work in teams of three&lt;/li&gt;
-&lt;li&gt;Each group will be assigned one medical dataset&lt;/li&gt;
-&lt;li&gt;(Bi)weekly meetings with progress reports&lt;/li&gt;
-&lt;li&gt;Final presentation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;preliminary-meeting&#34;&gt;Preliminary meeting&lt;/h2&gt;
-&lt;p&gt;A preliminary meeting will take place on 04.07.2024 at 14:00 on zoom with the following details: &lt;br&gt;
-&lt;a href=&#34;https://tum-conf.zoom.us/j/69075883519&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tum-conf.zoom.us/j/69075883519&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Meeting ID: 690 7588 3519 &lt;br&gt;
-Passcode: 850155&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting-SoSe25.pdf&#34;&gt;Slides - SoSe 2025&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting-WiSe2425.pdf&#34;&gt;Slides - WS 2024/25&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;PracticalPreMeeting-SoSe24.pdf&#34;&gt;(Outdated)Slides - SoSe 2024&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;PracticalPreMeetingWiSe2324.pdf&#34;&gt;(Outdated)Slides - WS 2023/24&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;img src="https://hyperprobe.eu/wp-content/uploads/2022/12/shutterstock_1152709331-2048x1152.jpg" alt="Surgery">&lt;/p>
+&lt;h2 id="your-qualifications">Your qualifications:&lt;/h2>
+&lt;ul>
+&lt;li>Enthusiasm for merging physics with AI for developing new biomedical imaging modality&lt;/li>
+&lt;li>Ideally, prior work experience using deep learning for image processing&lt;/li>
+&lt;li>Decent programming skills in Python as well as PyTorch or Tensorflow&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-we-offer">What we offer:&lt;/h2>
+&lt;ul>
+&lt;li>An exciting research project aimed to build a new imaging modality that has a potential to change the neurosurgery monitoring in the near future&lt;/li>
+&lt;li>Close supervision and access to state-of-the-art computer hardware&lt;/li>
+&lt;li>The chance to work in a team of experts in image processing, deep learning, biomedical engineering and medicine&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-to-apply">How to apply:&lt;/h2>
+&lt;p>Send an email to &lt;a href="mailto:ivan.ezhov@tum.de">ivan.ezhov@tum.de&lt;/a> with your CV and transcript.&lt;/p>
+&lt;h2 id="references">References&lt;/h2>
+&lt;p>[1] Luca Giannoni, Frédéric Lange and Ilias Tachtsidis. Hyperspectral imaging solutions for brain tissue
+metabolic and hemodynamic monitoring: past, current and future developments, J. Opt. 20 (2018)&lt;/p></description></item><item><title>Master’s Thesis Opportunity: Differential Privacy for Interpretability</title><link>https://aim-lab.io/theses/-sarahlockfisch/differential_privacy/</link><pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/-sarahlockfisch/differential_privacy/</guid><description>&lt;h3 id="introduction">Introduction&lt;/h3>
+&lt;p>Understanding how machine learning models learn and organize concepts is a key challenge in interpretability research. This thesis investigates the potential of Differential Privacy (DP) as a constraint to analyze the hierarchical nature of concept learning, with the goal of improving model interpretability. The research aims to explore how DP affects the learning of subpopulations and concepts.&lt;/p>
+&lt;p>&lt;strong>Research Questions&lt;/strong>&lt;/p>
+&lt;p>Primary Question: How can DP be leveraged as a constraint to understand the hierarchical nature of concept learning in machine learning models? Can DP be used to improve model interpretability?
+Secondary Questions:&lt;/p>
+&lt;ul>
+&lt;li>How can we effectively identify and analyze the learning of specific concepts under DP constraints?&lt;/li>
+&lt;li>What metrics can be used to quantify concept acquisition?&lt;/li>
+&lt;li>How does (the level of) privacy influence the order and granularity of learned concepts?&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Methods &amp;amp; Tools&lt;/strong>&lt;/p>
+&lt;p>The thesis will involve a combination of theoretical analysis and empirical evaluation. Possible methodologies include:&lt;/p>
+&lt;ul>
+&lt;li>Implementation in Python.&lt;/li>
+&lt;li>Qualitative analysis of learned concepts and identification of relevant subpopulations.&lt;/li>
+&lt;li>Development of quantitative metrics to evaluate concept acquisition under varying DP constraints.&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>We are looking for students with an interest in privacy, interpretability, and machine learning. Required and preferred skills include:
+Required:&lt;/p>
+&lt;ul>
+&lt;li>Strong motivation&lt;/li>
+&lt;li>Strong programming skills in Python&lt;/li>
+&lt;li>Background in machine learning and deep learning&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Preferred:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Experience with privacy-preserving ML frameworks&lt;/li>
+&lt;li>Familiarity with differential privacy fundamentals&lt;/li>
+&lt;li>Knowledge of interpretable AI techniques&lt;/li>
+&lt;li>Good mathematical foundations&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-we-offer">What We Offer&lt;/h2>
+&lt;ul>
+&lt;li>Access to computing resources and datasets for experimentation&lt;/li>
+&lt;li>Support from experienced researchers in DP and interpretability&lt;/li>
+&lt;li>Potential opportunities to publish findings in AI/ML conferences&lt;/li>
+&lt;/ul>
+&lt;h2 id="application-process">Application Process&lt;/h2>
+&lt;p>Interested students should send the following to sarah.lockfisch@tum.de and jonas.kuntzer@tum.de:&lt;/p>
+&lt;ul>
+&lt;li>A brief motivation letter (1 page max)&lt;/li>
+&lt;li>Your CV&lt;/li>
+&lt;li>Academic transcripts&lt;/li>
+&lt;li>Any relevant project samples or publications (if available)&lt;/li>
+&lt;/ul>
+&lt;p>For further questions, feel free to reach out to Sarah Lockfisch or Jonas Kuntzer.&lt;/p></description></item><item><title>Master-Seminar: Implicit Neural Representation and Neural Fields (IN2107)</title><link>https://aim-lab.io/theses/huaqiqiu/inr/inr_seminar_2025s/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/huaqiqiu/inr/inr_seminar_2025s/</guid><description>&lt;p>In this summer semester (2025S), we are offering a master&amp;rsquo;s seminar course on the topic of &amp;ldquo;Implicit Neural Representation and Neural Fields&amp;rdquo;.&lt;/p>
+&lt;p>This seminar course will explore implicit neural representations (INR) and Neural Fields, an area of deep learning that uses neural networks to model complex functional mappings from coordinates to various field quantities such as radiance, image intensity, or density. These methods have exciting applications in scene representation, image enhancement, novel view and temporal frame synthesis, shape modelling, physics simulations, data compression, and many more.&lt;/p>
+&lt;p>Implicit neural representations offer powerful alternatives to traditional data structure and representation, enabling compact and flexible modeling of the underlying entities with resolution limit. Neural Fields is a broader class of techniques that extends these capabilities to represent complex structures such as surfaces, volumes, and dynamic phenomena, making them highly relevant for modern data-driven methods. At their core, research on these methods aim to look beyond the structures in which data representing an entity is commonly sampled and presented (e.g. images, meshes, point clouds) by building modeling tasks around the underlying geometry.&lt;/p>
+&lt;p>In this seminar, we will overview different aspects of INRs and Neural Fields through the discussion of a serious of papers from research literature. We look at the theoretical fundamental of implicit representations and neural fields, by looking at seminal works in compression and interpolation, as well as their connections to general topics in signal processing and geometric deep learning. We will also explore recent advancements, such as the integration of prior knowledge through physics-informed neural networks, using data cohorts to condition the modeling process, and multimodal data fusion. In-depth discussions of the research papers will allow students to understand and critically analyze these methods.&lt;/p>
+&lt;p>For more information, please see the &lt;a href="https://campus.tum.de/tumonline/pl/ui/$ctx/wbLv.wbShowLVDetail?pStpSpNr=950833292&amp;amp;pSpracheNr=2" target="_blank" rel="noopener">TUMOnline page&lt;/a> and the information slides below.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.google.com/presentation/d/1tm0l4FAqv-0_yQ8JmNNy8kQZBRCipyfZ7OPsyFcceBo/edit?usp=sharing" target="_blank" rel="noopener">Information Slides&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>Please sign-up at: &lt;a href="https://matching.in.tum.de/" target="_blank" rel="noopener">https://matching.in.tum.de/&lt;/a> or write an e-mail to: &lt;a href="mailto:harvey.qiu@tum.de">harvey.qiu@tum.de&lt;/a>&lt;/p></description></item><item><title>Deep Learning for Inverse Problems in Medical Imaging​ (IN2107)</title><link>https://aim-lab.io/theses/sevgigokcekafali/practical/</link><pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/sevgigokcekafali/practical/</guid><description>&lt;p>&lt;img src="InvPr_seminar.jpg" alt="image">&lt;/p>
+&lt;p>More information will be provided during an introduction meeting scheduled at 10/02/2025 at 10am via Zoom:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1" target="_blank" rel="noopener">https://tum-conf.zoom-x.de/j/63305971488?pwd=VdbDeahxywbJSmpBuDlvNxjNW1BLbj.1&lt;/a>, Meeting ID: 633 0597 1488 Passcode: 684506&lt;/li>
+&lt;/ul>
+&lt;p>In medical imaging, the reconstruction of high-quality images from incomplete or corrupted data often involves solving inverse problems. Deep learning has emerged as a powerful tool for addressing these challenges, offering approaches to improve image reconstruction quality, enhance computational efficiency, and tackle complex non-linearities.
+This seminar explores the concepts of deep learning for inverse problems, focusing on their applications in medical imaging. Selected materials from recent methodological advances will be covered as well as key challenges and opportunities in leveraging deep learning for clinical applications.&lt;/p>
+&lt;p>Key topics to be covered include:&lt;/p>
+&lt;ul>
+&lt;li>Introduction to inverse problems in medical imaging&lt;/li>
+&lt;li>Deep learning approaches for solving inverse problems&lt;/li>
+&lt;li>Applications in various medical imaging modalities (e.g., MRI, CT, PET)&lt;/li>
+&lt;li>Comparison of traditional and deep learning-based methods&lt;/li>
+&lt;li>Emerging trends and clinical implications&lt;/li>
+&lt;/ul>
+&lt;p>Please register at: &lt;a href="https://matching.in.tum.de/" target="_blank" rel="noopener">https://matching.in.tum.de/&lt;/a> or write an e-mail to &lt;a href="mailto:hannah.eichhorn@tum.de">hannah.eichhorn@tum.de&lt;/a>, &lt;a href="mailto:lina.felsner@tum.de">lina.felsner@tum.de&lt;/a> or &lt;a href="mailto:s.kafali@tum.de">s.kafali@tum.de&lt;/a>.&lt;/p>
+&lt;p>Check the intro slides here:&lt;/p>
+&lt;p>&lt;a href="InvPr_seminar.pdf">Seminar slides&lt;/a>&lt;/p></description></item><item><title>Vision-Language Pretraining for Bone Tumor Classification</title><link>https://aim-lab.io/theses/annacurtovilalta/index_vision-language_bonetumor/</link><pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/annacurtovilalta/index_vision-language_bonetumor/</guid><description>&lt;h2 id="abstract">Abstract:&lt;/h2>
+&lt;p>Bone tumor classification presents significant challenges due to the subtle visual differences among tumor entities, even for expert radiologists. This thesis aims to enhance diagnostic capabilities using vision-language pretraining to classify bone tumors from X-ray images. By pretraining on large datasets and incorporating anatomical context through captions, this thesis seeks to address key limitations posed by data scarcity and anatomical heterogeneity in the field of bone tumors.
+&lt;br/>&lt;/p>
+&lt;h2 id="methodology">Methodology:&lt;/h2>
+&lt;ul>
+&lt;li>Literature review on the current state-of-the-art techniques for bone tumor classification and self-supervised vision-language pretraining.&lt;/li>
+&lt;li>Implement a supervised learning model for bone tumor classification using X-Rays which will serve as a baseline.&lt;/li>
+&lt;li>Pretrain a vision-language model in a self-supervised manner, which will serve as a general-purpose model for downstream task.&lt;/li>
+&lt;li>Test several fine-tuning strategies for bone tumor classification and test zero-shot capabilities.
+&lt;br/>&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites:&lt;/h2>
+&lt;ul>
+&lt;li>Advanced knowledge of deep learning with imaging data.&lt;/li>
+&lt;li>Beneficial but not necessary: experience in medicine/oncology.&lt;/li>
+&lt;li>Preferred starting date: January-February 2025 (with flexibility).
+&lt;br/>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-we-offer">What we offer:&lt;/h2>
+&lt;ul>
+&lt;li>Very rare medical data with high potential for publication.&lt;/li>
+&lt;li>Highly educated &amp;amp; interdisciplinary environment.&lt;/li>
+&lt;li>Top-level hardware for scientific computing.&lt;/li>
+&lt;li>Constant feedback from medical and computer science experts.
+&lt;br/>&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-to-apply">How to apply:&lt;/h2>
+&lt;p>Send an email to &lt;a href="mailto:anna.curto-vilalta@tum.de">anna.curto-vilalta@tum.de&lt;/a>, with your CV and small introduction about you and your motivation.
+&lt;br/>&lt;/p>
+&lt;h2 id="references">References:&lt;/h2>
+&lt;p>A. Radford et al., “Learning Transferable Visual Models From Natural Language Supervision,” Feb. 26, 2021, arXiv: arXiv:2103.00020. doi: &lt;a href="https://doi.org/10.48550/arXiv.2103.00020" target="_blank" rel="noopener">https://doi.org/10.48550/arXiv.2103.00020&lt;/a>.&lt;/p>
+&lt;p>H. Q. Vo et al., &amp;ldquo;Frozen Large-scale Pretrained Vision-Language Models are the Effective Foundational Backbone for Multimodal Breast Cancer Prediction,&amp;rdquo; in IEEE Journal of Biomedical and Health Informatics, doi: 10.1109/JBHI.2024.3507638.&lt;/p>
+&lt;br/></description></item><item><title>MSc Thesis: Medial axis-based segmentation loss</title><link>https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/</link><pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/alinadima/thesis_medial_axis_loss/</guid><description>&lt;h3 id="description">Description&lt;/h3>
+&lt;p>&lt;strong>Image segmentation&lt;/strong> seeks to classify individual pixels in an image into semantic classes, such as e.g. the organs in a CT scan. State-of-the-art approaches to image segmentation [5], while very accurate, have limitations in terms of topological correctness. Topological losses are being investigated to overcome these challenges; for example, CL-Dice [4] introduced a loss based on a differentiable soft skeleton for vessel segmentation. In this work we seek to extend this approach to more complex objects, using the medial axis.&lt;/p>
+&lt;p>The &lt;strong>medial axis&lt;/strong> refers to the set of points inside a shape that are equidistant from at least two boundary points of the shape. It can be thought of as a skeletal representation of the shape, which simplifies its structure while preserving essential geometric and topological properties. Approximating the medial axis efficiently and robustly is an active topic of research [1, 2, 3].&lt;/p>
+&lt;p>In this project you will implement in Python / adapt from other frameworks the medial axis computation and evaluate its feasibility as a loss in a segmentation problem. You will be working in a state-of-the-art research project with opportunities to bring in you own research ideas. We are looking for a highly motivated student with a &lt;strong>solid background in computer graphics&lt;/strong> and experience in &lt;strong>C++&lt;/strong>, in addition to experience in &lt;strong>PyTorch&lt;/strong>. We will provide access to necessary hardware.&lt;/p>
+&lt;br/>
+&lt;h3 id="how-to-apply">&lt;strong>How to apply&lt;/strong>&lt;/h3>
+&lt;p>Please send your CV and transcript to Alina Dima (&lt;a href="mailto:alina.dima@tum.de">alina.dima@tum.de&lt;/a>) and Suprosanna Shit (&lt;a href="mailto:suprosanna.shit@uzh.ch">suprosanna.shit@uzh.ch&lt;/a>) using the subject “&lt;strong>MSc Thesis: Medial axis-based segmentation loss”&lt;/strong>.&lt;/p>
+&lt;p>Please also include brief summaries of your prior deep learning projects (including your contributions to the project and the used framework) and, if available, provide links to the codebases (e.g., your GitHub profile).&lt;/p>
+&lt;br/>
+&lt;h3 id="references">References&lt;/h3>
+&lt;p>[1] Yan, Y., Letscher, D., &amp;amp; Ju, T. (2018). Voxel cores: Efficient, robust, and provably good approximation of 3d medial axes. &lt;em>ACM Transactions on Graphics (TOG)&lt;/em>, &lt;em>37&lt;/em>(4), 1-13.&lt;/p>
+&lt;p>[2] Pepe, A., Schussnig, R., Li, J., Gsaxner, C., Schmalstieg, D., &amp;amp; Egger, J. (2024). Deep Medial Voxels: Learned Medial Axis Approximations for Anatomical Shape Modeling. &lt;em>arXiv preprint arXiv:2403.11790&lt;/em>.&lt;/p>
+&lt;p>[3] Wang, N., Huang, H., Song, S., Wang, B., Wang, W., &amp;amp; Guo, X. (2024). MATTopo: Topology-preserving Medial Axis Transform with Restricted Power Diagram. &lt;em>arXiv preprint arXiv:2403.18761&lt;/em>.&lt;/p>
+&lt;p>[4] Shit, S., Paetzold, J. C., Sekuboyina, A., Ezhov, I., Unger, A., Zhylka, A., &amp;hellip; &amp;amp; Menze, B. H. (2021). clDice-a novel topology-preserving loss function for tubular structure segmentation. In &lt;em>Proceedings of the IEEE/CVF conference on computer vision and pattern recognition&lt;/em> (pp. 16560-16569).&lt;/p>
+&lt;p>[5] Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., &amp;amp; Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. &lt;em>Nature methods&lt;/em>, &lt;em>18&lt;/em>(2), 203-211.&lt;/p></description></item><item><title>MSc Thesis: Large Language Models in Medicine</title><link>https://aim-lab.io/theses/martonszep/index_llm-med/</link><pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/martonszep/index_llm-med/</guid><description>&lt;h2 id="description">Description:&lt;/h2>
+&lt;p>Large Language Models (LLMs) have shown exceptional capabilities in understanding and generating human-like text. In the medical field, these models hold the potential to revolutionize patient care, medical research, and healthcare administration. By leveraging LLMs, we can enhance diagnostic accuracy, streamline administrative tasks, and provide personalized patient care. However, the integration of these models into medical practice poses unique challenges and opportunities that warrant thorough investigation.
+Objective&lt;/p>
+&lt;p>The primary objective of this thesis is to develop and evaluate AI systems powered by Large Language Models that aid medical professionals in their work. Specific research topics and applications will be agreed upon with the student, allowing for a tailored approach that aligns with the student&amp;rsquo;s interests and expertise. Potential areas of focus include (but are not limited to):&lt;/p>
+&lt;ul>
+&lt;li>LLMs and Knowledge Graphs: Integrating LLMs with medical knowledge graphs to improve information retrieval and decision support.&lt;/li>
+&lt;li>Retrieval-Augmented Generation: Enhancing the generation capabilities of LLMs by incorporating external data sources.&lt;/li>
+&lt;li>Explainability: Developing methods to interpret and explain the outputs of LLMs to ensure transparency and trustworthiness in medical applications.&lt;/li>
+&lt;li>Uncertainty Quantification: Quantifying and communicating the uncertainty in LLM predictions to assist medical professionals in making informed decisions.
+&lt;br/>&lt;/li>
+&lt;/ul>
+&lt;h2 id="methodology">Methodology:&lt;/h2>
+&lt;ol>
+&lt;li>Literature review: A comprehensive literature review will be conducted to understand the current state of LLMs in medicine from the chosen perspective.&lt;/li>
+&lt;li>Data collection and preprocessing: Utilizing real clinical data in German, provided by the institution. The data will be preprocessed and anonymized to ensure compliance with privacy regulations. If needed, this will be extended with public data.&lt;/li>
+&lt;li>Explore, implement and compare different approaches: Train and fine-tune LLMs.&lt;/li>
+&lt;li>Evaluation: Assessing the performance of the developed systems through quantitative metrics and qualitative feedback from medical experts.&lt;/li>
+&lt;li>Discussion and presentation of results
+&lt;br/>&lt;/li>
+&lt;/ol>
+&lt;h2 id="prerequisites">Prerequisites:&lt;/h2>
+&lt;ul>
+&lt;li>Language skills: Good English and at least intermediate German language skills are necessary for working with clinical data.&lt;/li>
+&lt;li>Technical skills: Advanced knowledge of deep learning, proficiency in Python and experience with PyTorch is essential. Familiarity with the HuggingFace ecosystem is a plus.&lt;/li>
+&lt;li>Medical data experience: Previous experience with medical data is a beneficial.
+&lt;br/>&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-we-offer">What we offer:&lt;/h2>
+&lt;ul>
+&lt;li>Access to real clinical data: The thesis will provide access to unique clinical data with high potential for publication and impactful research.&lt;/li>
+&lt;li>Interdisciplinary environment: Students will work in a highly educated and interdisciplinary team, fostering collaboration between computer science and medical experts.&lt;/li>
+&lt;li>Advanced computing resources: The institution offers top-level hardware for scientific computing, ensuring efficient and effective model training and experimentation.&lt;/li>
+&lt;li>Expert feedback: Continuous feedback from both medical professionals and computer science experts will guide the research process, ensuring the development of relevant and high-quality solutions.
+&lt;br/>&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-to-apply">How to apply:&lt;/h2>
+&lt;p>Preferred start date: September 2024, with flexibility&lt;/p>
+&lt;p>Send an email to &lt;a href="mailto:marton.szep@tum.de">marton.szep@tum.de&lt;/a>, with your CV, transcript of records, and a small introduction about you and your motivation.
+&lt;br/>&lt;/p>
+&lt;h2 id="references">References:&lt;/h2>
+&lt;p>Pan, S., Luo, L., Wang, Y., Chen, C., Wang, J., &amp;amp; Wu, X. (2024). Unifying large language models and knowledge graphs: A roadmap. IEEE Transactions on Knowledge and Data Engineering.&lt;/p>
+&lt;p>Zhang, B., &amp;amp; Soh, H. (2024). Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction. arXiv preprint arXiv:2404.03868.&lt;/p>
+&lt;p>Cao, L., Sun, J., &amp;amp; Cross, A. (2024). AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models. arXiv preprint arXiv:2403.00953.&lt;/p>
+&lt;p>Kommineni, V. K., König-Ries, B., &amp;amp; Samuel, S. (2024). From human experts to machines: An LLM supported approach to ontology and knowledge graph construction. arXiv preprint arXiv:2403.08345.
+&lt;br/>&lt;/p></description></item><item><title>MSc Thesis: Outperforming CNNs and Transformers on Medical Imaging Tasks with Equivariant Networks</title><link>https://aim-lab.io/theses/florianhoelzl/thesis-outperforming-w-equivariance/</link><pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/florianhoelzl/thesis-outperforming-w-equivariance/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Equivariant convolutions are a novel approach that incorporate additional geometric properties of the input domain during the convolution process (i.e. symmetry properties such as rotations and reflections) [1]. This additional inductive bias allows the model to learn more robust and general features from less data, rendering them highly promising for application in the medical domain. So far, however, nobody has investigated how their beneficial characteristics impact the design and scaling of deep learning model architectures.&lt;/p>
+&lt;p>We have developed a framework for initial investigation of equivariant convolutions and now want to evaluate how their performance can be further increased with larger model sizes and under different training regimes. This work plans to build onto previous highly impactful research on model design, such as the establishment of the EfficientNet architecture and the Chinchilla language model, to create a sound basis for the further consolidation of equivariant convolutions in the broader research landscape [2, 3]. The focus will be to thoroughly analyse and expand a framework for equivariant models already developed at our lab. This includes getting familiar with model architectures in general, the properties of equivariant convolutions and the intersection of the two. Our goal is to develop a family of equivariant model architectures that can be easily adapted to the properties of the used dataset and are able to beat state-of-the-art non-equivariant alternatives [4].&lt;/p>
+&lt;h2 id="your-qualifications">Your qualifications&lt;/h2>
+&lt;p>We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the properties of equivariant models on different benchmark datasets. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p>
+&lt;ul>
+&lt;li>Strong motivation and interest in deep learning and learning theory.&lt;/li>
+&lt;li>Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li>
+&lt;li>Independent working style with strong interest in teamwork and methodic research.&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-we-offer">What we offer&lt;/h2>
+&lt;ul>
+&lt;li>An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li>
+&lt;li>Close supervision and access to the necessary computer hardware.&lt;/li>
+&lt;li>The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>Cohen and Welling (2016). Group Equivariant Convolutions. ICML 2016.&lt;/li>
+&lt;li>Tan and Le (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ICML 2019.&lt;/li>
+&lt;li>Hoffmann et al. (2022). Training Compute-Optimal Large Language Models. ArXiv, abs/2203.15556.&lt;/li>
+&lt;li>Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016.&lt;/li>
+&lt;/ol></description></item><item><title>Master-Seminar: Multi-modal AI for Medicine (IN2107)</title><link>https://aim-lab.io/theses/huaqiqiu/practical/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/huaqiqiu/practical/</guid><description>&lt;p>This year&amp;rsquo;s seminar will look at aspects of multi-modal machine learning in medicine and healthcare, focusing on:&lt;/p>
+&lt;ul>
+&lt;li>Vision language models (VLMs) for medical and healthcare applications&lt;/li>
+&lt;li>Generic multi-modal AI models utilising imaging data, clinical reports, lab test results, electronic health records, and genomics&lt;/li>
+&lt;li>Foundation models for multi-modal medicine&lt;/li>
+&lt;/ul>
+&lt;h2 id="objectives">Objectives:&lt;/h2>
+&lt;p>At the end of the module students should have:&lt;/p>
+&lt;ul>
+&lt;li>a thorough understanding of current research in multi-modal AI in medicine, in particular about foundation models and large vision-language models and their impact in medicine&lt;/li>
+&lt;li>After course completion students should be able to apply learned concepts, critically evaluate research works in the area, and be able to conceptualise strategies to tackle the issues discussed&lt;/li>
+&lt;/ul>
+&lt;h2 id="methods">Methods:&lt;/h2>
+&lt;ul>
+&lt;li>Each student will choose one paper from a provided list of papers, read it, and give a 15-minute presentation about the paper during the seminar sessions&lt;/li>
+&lt;li>All students are expected and highly encouraged to participate in discussions during the seminar sessions&lt;/li>
+&lt;li>Each student will then write a 2-page report after presenting and discussing the paper&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites:&lt;/h2>
+&lt;p>Students are expected to be familiar with:&lt;/p>
+&lt;ul>
+&lt;li>Mathematics basics (graduate level):
+&lt;ul>
+&lt;li>probability theory&lt;/li>
+&lt;li>linear algebra&lt;/li>
+&lt;li>calculus&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Machine / deep learning basics, e.g. having completed:
+&lt;ul>
+&lt;li>Machine Learning (IN2064)&lt;/li>
+&lt;li>Introduction to Deep Learning&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;br>
+&lt;p>Preference might be given to students with:&lt;/p>
+&lt;ul>
+&lt;li>Knowledge in deep learning models in medicine, especially vision and/or language models&lt;/li>
+&lt;li>Completion of related courses from our chair, e.g.:
+&lt;ul>
+&lt;li>AI in Medicine I&lt;/li>
+&lt;li>AI in Medicine II&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Work experience in AI / Data Science for Medicine &amp;amp; Healthcare&lt;/li>
+&lt;/ul>
+&lt;h2 id="information-session-and-sign-up">Information session and sign-up&lt;/h2>
+&lt;ul>
+&lt;li>An online information meeting will take place on &lt;strong>15 July, 16:00&lt;/strong> via Zoom (&lt;a href="https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1" target="_blank" rel="noopener">https://tum-conf.zoom-x.de/j/64109399034?pwd=zbcYd1t9e91fy3DqfHyG7NULPyMcsl.1&lt;/a>)&lt;/li>
+&lt;li>You can sign up for the course in the matching system (&lt;a href="https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x" target="_blank" rel="noopener">https://matching.in.tum.de/m/mwvrjkg/q/fd56hbnn2x&lt;/a>)&lt;/li>
+&lt;li>Please fill in the following form in addition to voting in the matching system. The information you provided will help us to evaluate our votes: &lt;a href="https://forms.gle/xTbgwcFf1ZeaDeXT7" target="_blank" rel="noopener">https://forms.gle/xTbgwcFf1ZeaDeXT7&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="MultimodalSeminar2024W.pdf">Information Slides - 2024/25 Winter Semester&lt;/a>&lt;/p></description></item><item><title>Practical Course: Applied Deep Learning in Medicine</title><link>https://aim-lab.io/theses/alexziller/practical/</link><pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/alexziller/practical/</guid><description>&lt;p>In this course students are given the chance to apply their abilities and knowledge in deep learning to real-world medical data. Students will be assigned a medical dataset and in close consultation with medical doctors create a project plan. Deep Learning methods will be applied to solve tasks to achieve the goal that is agreed upon. Datasets will be explored and analysed in several directions and different approaches will be evaluated and compared.
+In short this course offers students to:&lt;/p>
+&lt;ul>
+&lt;li>Apply Deep Learning in the real world&lt;/li>
+&lt;li>Work on medical data and potentially help diagnose and analyse health related problems&lt;/li>
+&lt;li>Close supervision by PhD students with specialization in AI&lt;/li>
+&lt;li>Collaboration with medical experts&lt;/li>
+&lt;li>Work on the intersection between medicine and computer science&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites:&lt;/h2>
+&lt;ul>
+&lt;li>Completed at least one or several machine learning or deep learning courses (e.g. Intro to Deep Learning, Advanced Deep Learning, Machine Learning etc) with good grades. Knowledge about augmentation, optimizer, common model architectures, etc.&lt;/li>
+&lt;li>Good coding skills in python&lt;/li>
+&lt;li>Coding experience in one or more deep learning frameworks (Tensorflow, PyTorch, etc)&lt;/li>
+&lt;li>Enthusiasm for the application in the medical field&lt;/li>
+&lt;/ul>
+&lt;h2 id="objectives">Objectives:&lt;/h2>
+&lt;ul>
+&lt;li>Ability to tackle applied deep learning projects in a structured manner with a good overview of possibilities&lt;/li>
+&lt;li>Gained insight into the problems of medical data&lt;/li>
+&lt;li>Final outcome as a useful insight or tool for medical professionals&lt;/li>
+&lt;li>If possible outcome will be published in a peer-reviewed venue&lt;/li>
+&lt;/ul>
+&lt;h2 id="methods">Methods:&lt;/h2>
+&lt;ul>
+&lt;li>Students will work in teams of three&lt;/li>
+&lt;li>Each group will be assigned one medical dataset&lt;/li>
+&lt;li>(Bi)weekly meetings with progress reports&lt;/li>
+&lt;li>Final presentation&lt;/li>
+&lt;/ul>
+&lt;h2 id="preliminary-meeting">Preliminary meeting&lt;/h2>
+&lt;p>A preliminary meeting will take place on 04.07.2024 at 14:00 on zoom with the following details: &lt;br>
+&lt;a href="https://tum-conf.zoom.us/j/69075883519" target="_blank" rel="noopener">https://tum-conf.zoom.us/j/69075883519&lt;/a>&lt;/p>
+&lt;p>Meeting ID: 690 7588 3519 &lt;br>
+Passcode: 850155&lt;/p>
+&lt;p>&lt;a href="PracticalPreMeeting-SoSe25.pdf">Slides - SoSe 2025&lt;/a>&lt;/p>
+&lt;p>&lt;a href="PracticalPreMeeting-WiSe2425.pdf">Slides - WS 2024/25&lt;/a>&lt;/p>
+&lt;p>&lt;a href="PracticalPreMeeting-SoSe24.pdf">(Outdated)Slides - SoSe 2024&lt;/a>&lt;/p>
+&lt;p>&lt;a href="PracticalPreMeetingWiSe2324.pdf">(Outdated)Slides - WS 2023/24&lt;/a>&lt;/p></description></item></channel></rss>

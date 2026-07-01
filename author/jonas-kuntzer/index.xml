@@ -1,71 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jonas Kuntzer | AI in Medicine</title>
-    <link>https://aim-lab.io/author/jonas-kuntzer/</link>
-      <atom:link href="https://aim-lab.io/author/jonas-kuntzer/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jonas Kuntzer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2026</copyright><lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
-      <title>Jonas Kuntzer</title>
-      <link>https://aim-lab.io/author/jonas-kuntzer/</link>
-    </image>
-    
-    <item>
-      <title>Master’s Thesis Opportunity: Differential Privacy for Interpretability</title>
-      <link>https://aim-lab.io/theses/-sarahlockfisch/differential_privacy/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/-sarahlockfisch/differential_privacy/</guid>
-      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
-&lt;p&gt;Understanding how machine learning models learn and organize concepts is a key challenge in interpretability research. This thesis investigates the potential of Differential Privacy (DP) as a constraint to analyze the hierarchical nature of concept learning, with the goal of improving model interpretability. The research aims to explore how DP affects the learning of subpopulations and concepts.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Research Questions&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Primary Question: How can DP be leveraged as a constraint to understand the hierarchical nature of concept learning in machine learning models? Can DP be used to improve model interpretability?
-Secondary Questions:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;How can we effectively identify and analyze the learning of specific concepts under DP constraints?&lt;/li&gt;
-&lt;li&gt;What metrics can be used to quantify concept acquisition?&lt;/li&gt;
-&lt;li&gt;How does (the level of) privacy influence the order and granularity of learned concepts?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Methods &amp;amp; Tools&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The thesis will involve a combination of theoretical analysis and empirical evaluation. Possible methodologies include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Implementation in Python.&lt;/li&gt;
-&lt;li&gt;Qualitative analysis of learned concepts and identification of relevant subpopulations.&lt;/li&gt;
-&lt;li&gt;Development of quantitative metrics to evaluate concept acquisition under varying DP constraints.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
-&lt;p&gt;We are looking for students with an interest in privacy, interpretability, and machine learning. Required and preferred skills include:
-Required:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong motivation&lt;/li&gt;
-&lt;li&gt;Strong programming skills in Python&lt;/li&gt;
-&lt;li&gt;Background in machine learning and deep learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Preferred:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Experience with privacy-preserving ML frameworks&lt;/li&gt;
-&lt;li&gt;Familiarity with differential privacy fundamentals&lt;/li&gt;
-&lt;li&gt;Knowledge of interpretable AI techniques&lt;/li&gt;
-&lt;li&gt;Good mathematical foundations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What We Offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Access to computing resources and datasets for experimentation&lt;/li&gt;
-&lt;li&gt;Support from experienced researchers in DP and interpretability&lt;/li&gt;
-&lt;li&gt;Potential opportunities to publish findings in AI/ML conferences&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
-&lt;p&gt;Interested students should send the following to sarah.lockfisch@tum.de and jonas.kuntzer@tum.de:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A brief motivation letter (1 page max)&lt;/li&gt;
-&lt;li&gt;Your CV&lt;/li&gt;
-&lt;li&gt;Academic transcripts&lt;/li&gt;
-&lt;li&gt;Any relevant project samples or publications (if available)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For further questions, feel free to reach out to Sarah Lockfisch or Jonas Kuntzer.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jonas Kuntzer | AI in Medicine</title><link>https://aim-lab.io/author/jonas-kuntzer/</link><atom:link href="https://aim-lab.io/author/jonas-kuntzer/index.xml" rel="self" type="application/rss+xml"/><description>Jonas Kuntzer</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2026</copyright><lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><image><url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url><title>Jonas Kuntzer</title><link>https://aim-lab.io/author/jonas-kuntzer/</link></image><item><title>Master’s Thesis Opportunity: Differential Privacy for Interpretability</title><link>https://aim-lab.io/theses/-sarahlockfisch/differential_privacy/</link><pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/-sarahlockfisch/differential_privacy/</guid><description>&lt;h3 id="introduction">Introduction&lt;/h3>
+&lt;p>Understanding how machine learning models learn and organize concepts is a key challenge in interpretability research. This thesis investigates the potential of Differential Privacy (DP) as a constraint to analyze the hierarchical nature of concept learning, with the goal of improving model interpretability. The research aims to explore how DP affects the learning of subpopulations and concepts.&lt;/p>
+&lt;p>&lt;strong>Research Questions&lt;/strong>&lt;/p>
+&lt;p>Primary Question: How can DP be leveraged as a constraint to understand the hierarchical nature of concept learning in machine learning models? Can DP be used to improve model interpretability?
+Secondary Questions:&lt;/p>
+&lt;ul>
+&lt;li>How can we effectively identify and analyze the learning of specific concepts under DP constraints?&lt;/li>
+&lt;li>What metrics can be used to quantify concept acquisition?&lt;/li>
+&lt;li>How does (the level of) privacy influence the order and granularity of learned concepts?&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Methods &amp;amp; Tools&lt;/strong>&lt;/p>
+&lt;p>The thesis will involve a combination of theoretical analysis and empirical evaluation. Possible methodologies include:&lt;/p>
+&lt;ul>
+&lt;li>Implementation in Python.&lt;/li>
+&lt;li>Qualitative analysis of learned concepts and identification of relevant subpopulations.&lt;/li>
+&lt;li>Development of quantitative metrics to evaluate concept acquisition under varying DP constraints.&lt;/li>
+&lt;/ul>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;p>We are looking for students with an interest in privacy, interpretability, and machine learning. Required and preferred skills include:
+Required:&lt;/p>
+&lt;ul>
+&lt;li>Strong motivation&lt;/li>
+&lt;li>Strong programming skills in Python&lt;/li>
+&lt;li>Background in machine learning and deep learning&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Preferred:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Experience with privacy-preserving ML frameworks&lt;/li>
+&lt;li>Familiarity with differential privacy fundamentals&lt;/li>
+&lt;li>Knowledge of interpretable AI techniques&lt;/li>
+&lt;li>Good mathematical foundations&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-we-offer">What We Offer&lt;/h2>
+&lt;ul>
+&lt;li>Access to computing resources and datasets for experimentation&lt;/li>
+&lt;li>Support from experienced researchers in DP and interpretability&lt;/li>
+&lt;li>Potential opportunities to publish findings in AI/ML conferences&lt;/li>
+&lt;/ul>
+&lt;h2 id="application-process">Application Process&lt;/h2>
+&lt;p>Interested students should send the following to sarah.lockfisch@tum.de and jonas.kuntzer@tum.de:&lt;/p>
+&lt;ul>
+&lt;li>A brief motivation letter (1 page max)&lt;/li>
+&lt;li>Your CV&lt;/li>
+&lt;li>Academic transcripts&lt;/li>
+&lt;li>Any relevant project samples or publications (if available)&lt;/li>
+&lt;/ul>
+&lt;p>For further questions, feel free to reach out to Sarah Lockfisch or Jonas Kuntzer.&lt;/p></description></item></channel></rss>

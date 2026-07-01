@@ -1,47 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Florian A. Hölzl | AI in Medicine</title>
-    <link>https://aim-lab.io/author/florian-a.-holzl/</link>
-      <atom:link href="https://aim-lab.io/author/florian-a.-holzl/index.xml" rel="self" type="application/rss+xml" />
-    <description>Florian A. Hölzl</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2026</copyright><lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url>
-      <title>Florian A. Hölzl</title>
-      <link>https://aim-lab.io/author/florian-a.-holzl/</link>
-    </image>
-    
-    <item>
-      <title>MSc Thesis: Outperforming CNNs and Transformers on Medical Imaging Tasks with Equivariant Networks</title>
-      <link>https://aim-lab.io/theses/florianhoelzl/thesis-outperforming-w-equivariance/</link>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://aim-lab.io/theses/florianhoelzl/thesis-outperforming-w-equivariance/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Equivariant convolutions are a novel approach that incorporate additional geometric properties of the input domain during the convolution process (i.e. symmetry properties such as rotations and reflections) [1]. This additional inductive bias allows the model to learn more robust and general features from less data, rendering them highly promising for application in the medical domain. So far, however, nobody has investigated how their beneficial characteristics impact the design and scaling of deep learning model architectures.&lt;/p&gt;
-&lt;p&gt;We have developed a framework for initial investigation of equivariant convolutions and now want to evaluate how their performance can be further increased with larger model sizes and under different training regimes. This work plans to build onto previous highly impactful research on model design, such as the establishment of the EfficientNet architecture and the Chinchilla language model, to create a sound basis for the further consolidation of equivariant convolutions in the broader research landscape [2, 3]. The focus will be to thoroughly analyse and expand a framework for equivariant models already developed at our lab. This includes getting familiar with model architectures in general, the properties of equivariant convolutions and the intersection of the two. Our goal is to develop a family of equivariant model architectures that can be easily adapted to the properties of the used dataset and are able to beat state-of-the-art non-equivariant alternatives [4].&lt;/p&gt;
-&lt;h2 id=&#34;your-qualifications&#34;&gt;Your qualifications&lt;/h2&gt;
-&lt;p&gt;We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the properties of equivariant models on different benchmark datasets. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Strong motivation and interest in deep learning and learning theory.&lt;/li&gt;
-&lt;li&gt;Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li&gt;
-&lt;li&gt;Independent working style with strong interest in teamwork and methodic research.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li&gt;
-&lt;li&gt;Close supervision and access to the necessary computer hardware.&lt;/li&gt;
-&lt;li&gt;The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Cohen and Welling (2016). Group Equivariant Convolutions. ICML 2016.&lt;/li&gt;
-&lt;li&gt;Tan and Le (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ICML 2019.&lt;/li&gt;
-&lt;li&gt;Hoffmann et al. (2022). Training Compute-Optimal Large Language Models. ArXiv, abs/2203.15556.&lt;/li&gt;
-&lt;li&gt;Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Florian A. Hölzl | AI in Medicine</title><link>https://aim-lab.io/author/florian-a.-holzl/</link><atom:link href="https://aim-lab.io/author/florian-a.-holzl/index.xml" rel="self" type="application/rss+xml"/><description>Florian A. Hölzl</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Technical University of Munich 2026</copyright><lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>https://aim-lab.io/images/icon_hu90763c276d9f69c3ad22e431a6bb6670_11797_512x512_fill_lanczos_center_3.png</url><title>Florian A. Hölzl</title><link>https://aim-lab.io/author/florian-a.-holzl/</link></image><item><title>MSc Thesis: Outperforming CNNs and Transformers on Medical Imaging Tasks with Equivariant Networks</title><link>https://aim-lab.io/theses/florianhoelzl/thesis-outperforming-w-equivariance/</link><pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate><guid>https://aim-lab.io/theses/florianhoelzl/thesis-outperforming-w-equivariance/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>Equivariant convolutions are a novel approach that incorporate additional geometric properties of the input domain during the convolution process (i.e. symmetry properties such as rotations and reflections) [1]. This additional inductive bias allows the model to learn more robust and general features from less data, rendering them highly promising for application in the medical domain. So far, however, nobody has investigated how their beneficial characteristics impact the design and scaling of deep learning model architectures.&lt;/p>
+&lt;p>We have developed a framework for initial investigation of equivariant convolutions and now want to evaluate how their performance can be further increased with larger model sizes and under different training regimes. This work plans to build onto previous highly impactful research on model design, such as the establishment of the EfficientNet architecture and the Chinchilla language model, to create a sound basis for the further consolidation of equivariant convolutions in the broader research landscape [2, 3]. The focus will be to thoroughly analyse and expand a framework for equivariant models already developed at our lab. This includes getting familiar with model architectures in general, the properties of equivariant convolutions and the intersection of the two. Our goal is to develop a family of equivariant model architectures that can be easily adapted to the properties of the used dataset and are able to beat state-of-the-art non-equivariant alternatives [4].&lt;/p>
+&lt;h2 id="your-qualifications">Your qualifications&lt;/h2>
+&lt;p>We are looking for a highly motivated Master’s student in Computer Science, Physics, Engineering or Mathematics. You will establish a comprehensive pipeline in PyTorch or JAX to evaluate the properties of equivariant models on different benchmark datasets. You will be working at the institute for AI in Medicine, at the Privacy-Preserving and Trustworthy Machine Learning Group. Importantly, we aim to publish the results of this work, with you, in a follow up study at a high-impact deep learning conference or in an academic journal.&lt;/p>
+&lt;ul>
+&lt;li>Strong motivation and interest in deep learning and learning theory.&lt;/li>
+&lt;li>Advanced programming skills in Python and a common DL framework (PyTorch, Tensorflow, JAX).&lt;/li>
+&lt;li>Independent working style with strong interest in teamwork and methodic research.&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-we-offer">What we offer&lt;/h2>
+&lt;ul>
+&lt;li>An exciting state-of-the-art research project with many possibilities to bring in your own ideas.&lt;/li>
+&lt;li>Close supervision and access to the necessary computer hardware.&lt;/li>
+&lt;li>The chance to work in a team of highly qualified experts in image processing, computer vision and deep learning.&lt;/li>
+&lt;/ul>
+&lt;h2 id="references">References&lt;/h2>
+&lt;ol>
+&lt;li>Cohen and Welling (2016). Group Equivariant Convolutions. ICML 2016.&lt;/li>
+&lt;li>Tan and Le (2019). EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. ICML 2019.&lt;/li>
+&lt;li>Hoffmann et al. (2022). Training Compute-Optimal Large Language Models. ArXiv, abs/2203.15556.&lt;/li>
+&lt;li>Abadi et al. (2016). Deep Learning with Differential Privacy. ACM SIGSAC 2016.&lt;/li>
+&lt;/ol></description></item></channel></rss>
